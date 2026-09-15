@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-09-15T02:03:13Z",
+ "generated": "2026-09-15T02:11:55Z",
  "events": [
   {
    "id": 21,
@@ -283,6 +283,34 @@
    "independent_source_count": 1
   },
   {
+   "id": 225,
+   "series_slug": "sportsman-s-night-out",
+   "title": "Sportsman's Night Out",
+   "start": "2026-09-17T18:30:00-05:00",
+   "end": "2026-09-17T21:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/sportsmans-night-out-pensacola-florida-09-17-2026/event/1B006482CFCCA204",
+   "info_url": "https://www.ticketmaster.com/sportsmans-night-out-pensacola-florida-09-17-2026/event/1B006482CFCCA204",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 26,
    "series_slug": "indoor-cycling",
    "title": "Indoor Cycling",
@@ -507,6 +535,34 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 230,
+   "series_slug": "white-tie-rock-ensemble-rock-the-80-s",
+   "title": "White Tie Rock Ensemble: Rock The 80's!",
+   "start": "2026-09-19T19:30:00-05:00",
+   "end": "2026-09-19T22:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/white-tie-rock-ensemble-rock-the-pensacola-florida-09-19-2026/event/1B0064D291DE6D3A",
+   "info_url": "https://www.ticketmaster.com/white-tie-rock-ensemble-rock-the-pensacola-florida-09-19-2026/event/1B0064D291DE6D3A",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1114,11 +1170,11 @@
     ]
    },
    "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/gabriel-iglesias/",
+   "ticket_url": "https://www.ticketmaster.com/gabriel-fluffy-iglesias-the-1976-tour-pensacola-florida-09-26-2026/event/1B006390CD61D0CB",
+   "info_url": "https://www.ticketmaster.com/gabriel-fluffy-iglesias-the-1976-tour-pensacola-florida-09-26-2026/event/1B006390CD61D0CB",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": {
@@ -1126,7 +1182,7 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
-   "independent_source_count": 1
+   "independent_source_count": 2
   },
   {
    "id": 83,
@@ -1369,11 +1425,11 @@
     ]
    },
    "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/weird-al-yankovic-bigger-weirder-tour/",
+   "ticket_url": "https://www.ticketmaster.com/weird-al-yankovic-bigger-weirder-2026-orange-beach-alabama-10-03-2026/event/1B00636687156DC7",
+   "info_url": "https://www.ticketmaster.com/weird-al-yankovic-bigger-weirder-2026-orange-beach-alabama-10-03-2026/event/1B00636687156DC7",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": {
@@ -1381,7 +1437,7 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
-   "independent_source_count": 1
+   "independent_source_count": 2
   },
   {
    "id": 90,
@@ -1409,6 +1465,62 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 237,
+   "series_slug": "southern-tip-off-florida-state-vs-mississippi-state",
+   "title": "Southern Tip-Off - Florida State vs. Mississippi State",
+   "start": "2026-10-10T17:00:00-05:00",
+   "end": "2026-10-10T20:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/southern-tipoff-florida-state-vs-mississippi-pensacola-florida-10-10-2026/event/1B006516F618F015",
+   "info_url": "https://www.ticketmaster.com/southern-tipoff-florida-state-vs-mississippi-pensacola-florida-10-10-2026/event/1B006516F618F015",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 242,
+   "series_slug": "pensacola-ice-flyers-vs-birmingham-bulls",
+   "title": "Pensacola Ice Flyers vs. Birmingham Bulls",
+   "start": "2026-10-17T19:05:00-05:00",
+   "end": "2026-10-17T22:05:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-10-17-2026/event/1B00650D855162C3",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-10-17-2026/event/1B00650D855162C3",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1440,6 +1552,146 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 246,
+   "series_slug": "cece-winans-come-worship-tour",
+   "title": "CeCe Winans - COME WORSHIP! Tour",
+   "start": "2026-10-22T19:00:00-05:00",
+   "end": "2026-10-22T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/cece-winans-come-worship-tour-pensacola-florida-10-22-2026/event/1B006453C6D3737C",
+   "info_url": "https://www.ticketmaster.com/cece-winans-come-worship-tour-pensacola-florida-10-22-2026/event/1B006453C6D3737C",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 247,
+   "series_slug": "island-fights-100",
+   "title": "Island Fights 100",
+   "start": "2026-10-23T18:30:00-05:00",
+   "end": "2026-10-23T21:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/island-fights-100-pensacola-florida-10-23-2026/event/1B00651CEEECAAA3",
+   "info_url": "https://www.ticketmaster.com/island-fights-100-pensacola-florida-10-23-2026/event/1B00651CEEECAAA3",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 248,
+   "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
+   "title": "Pensacola Ice Flyers vs. Huntsville Havoc",
+   "start": "2026-10-24T19:05:00-05:00",
+   "end": "2026-10-24T22:05:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-24-2026/event/1B00650D855562DB",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-24-2026/event/1B00650D855562DB",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 252,
+   "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
+   "title": "Pensacola Ice Flyers vs. Huntsville Havoc",
+   "start": "2026-10-30T19:05:00-05:00",
+   "end": "2026-10-30T22:05:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-30-2026/event/1B00650D855A62E2",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-30-2026/event/1B00650D855A62E2",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 254,
+   "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
+   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
+   "start": "2026-11-01T16:05:00-06:00",
+   "end": "2026-11-01T19:05:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-01-2026/event/1B00650D855F62FB",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-01-2026/event/1B00650D855F62FB",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1505,6 +1757,258 @@
    "independent_source_count": 1
   },
   {
+   "id": 259,
+   "series_slug": "coastal-classic-loyola-marymount-university-vs-south-alabama",
+   "title": "Coastal Classic - Loyola Marymount University vs. South Alabama",
+   "start": "2026-11-12T19:00:00-06:00",
+   "end": "2026-11-12T22:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/coastal-classic-loyola-marymount-university-vs-pensacola-florida-11-12-2026/event/1B006516F61DF029",
+   "info_url": "https://www.ticketmaster.com/coastal-classic-loyola-marymount-university-vs-pensacola-florida-11-12-2026/event/1B006516F61DF029",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 260,
+   "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
+   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
+   "start": "2026-11-13T19:05:00-06:00",
+   "end": "2026-11-13T22:05:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-13-2026/event/1B00650D85646303",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-13-2026/event/1B00650D85646303",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 262,
+   "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
+   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
+   "start": "2026-11-14T19:05:00-06:00",
+   "end": "2026-11-14T22:05:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-14-2026/event/1B00650D85696307",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-14-2026/event/1B00650D85696307",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 269,
+   "series_slug": "pensacola-invitational-saturday-only",
+   "title": "Pensacola Invitational Saturday Only",
+   "start": "2026-11-21T16:00:00-06:00",
+   "end": "2026-11-21T19:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-invitational-saturday-only-pensacola-florida-11-21-2026/event/1B00651CDF20421E",
+   "info_url": "https://www.ticketmaster.com/pensacola-invitational-saturday-only-pensacola-florida-11-21-2026/event/1B00651CDF20421E",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 272,
+   "series_slug": "pensacola-invitational-saturday-only",
+   "title": "Pensacola Invitational Sunday Only",
+   "start": "2026-11-22T14:00:00-06:00",
+   "end": "2026-11-22T17:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-invitational-sunday-only-pensacola-florida-11-22-2026/event/1B00651CDF264245",
+   "info_url": "https://www.ticketmaster.com/pensacola-invitational-sunday-only-pensacola-florida-11-22-2026/event/1B00651CDF264245",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 273,
+   "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
+   "title": "Pensacola Ice Flyers vs. Huntsville Havoc",
+   "start": "2026-11-25T19:05:00-06:00",
+   "end": "2026-11-25T22:05:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-11-25-2026/event/1B00650D856E630C",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-11-25-2026/event/1B00650D856E630C",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 274,
+   "series_slug": "pensacola-ice-flyers-vs-birmingham-bulls",
+   "title": "Pensacola Ice Flyers vs. Birmingham Bulls",
+   "start": "2026-11-28T19:05:00-06:00",
+   "end": "2026-11-28T22:05:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-11-28-2026/event/1B00650D85736317",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-11-28-2026/event/1B00650D85736317",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 275,
+   "series_slug": "battle-at-the-bay-florida-state-vs-university-of-west-florida",
+   "title": "Battle at the Bay - Florida State vs. University of West Florida",
+   "start": "2026-11-29T14:00:00-06:00",
+   "end": "2026-11-29T17:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/battle-at-the-bay-florida-state-pensacola-florida-11-29-2026/event/1B006516F622F04F",
+   "info_url": "https://www.ticketmaster.com/battle-at-the-bay-florida-state-pensacola-florida-11-29-2026/event/1B006516F622F04F",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 278,
+   "series_slug": "pensacola-ice-flyers-vs-birmingham-bulls",
+   "title": "Pensacola Ice Flyers vs. Birmingham Bulls",
+   "start": "2026-12-05T19:05:00-06:00",
+   "end": "2026-12-05T22:05:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-12-05-2026/event/1B00650D8578631B",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-12-05-2026/event/1B00650D8578631B",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 143,
    "series_slug": "jeff-dunham-inappropriate-contact",
    "title": "Jeff Dunham: Inappropriate Contact",
@@ -1521,11 +2025,11 @@
     ]
    },
    "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/jeff-dunham-inappropriate-contact/",
+   "ticket_url": "https://www.ticketmaster.com/jeff-dunham-inappropriate-contact-pensacola-florida-12-11-2026/event/1B0064E9B4B2B803",
+   "info_url": "https://www.ticketmaster.com/jeff-dunham-inappropriate-contact-pensacola-florida-12-11-2026/event/1B0064E9B4B2B803",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": {
@@ -1533,7 +2037,7 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
-   "independent_source_count": 1
+   "independent_source_count": 2
   }
  ]
 }

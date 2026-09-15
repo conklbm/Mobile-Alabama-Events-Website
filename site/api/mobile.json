@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-09-15T02:03:13Z",
+ "generated": "2026-09-15T02:11:55Z",
  "events": [
   {
    "id": 92,
@@ -61,6 +61,34 @@
     "url": "https://www.innovation-portal.com/wp-content/uploads/2024/12/enrg-2025-horizontal.png",
     "credit": "Innovation Portal"
    },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 144,
+   "series_slug": "crescent-comedy-workshop",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-09-16T17:30:00-05:00",
+   "end": "2026-09-16T20:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$8.76",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237434",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237434",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -242,6 +270,62 @@
    "independent_source_count": 1
   },
   {
+   "id": 145,
+   "series_slug": "tina-friml",
+   "title": "Tina Friml",
+   "start": "2026-09-17T19:00:00-05:00",
+   "end": "2026-09-17T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$33.36-84.21",
+   "ticket_url": "https://www.ticketweb.com/event/tina-friml-crescent-theater-tickets/14901933",
+   "info_url": "https://www.ticketweb.com/event/tina-friml-crescent-theater-tickets/14901933",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 226,
+   "series_slug": "josh-turner-this-country-music-thing-tour",
+   "title": "Josh Turner: This Country Music Thing Tour",
+   "start": "2026-09-17T19:30:00-05:00",
+   "end": "2026-09-17T22:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/josh-turner-this-country-music-thing-pensacola-florida-09-17-2026/event/1B0064A7A3DAE93D",
+   "info_url": "https://www.ticketmaster.com/josh-turner-this-country-music-thing-pensacola-florida-09-17-2026/event/1B0064A7A3DAE93D",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 50,
    "series_slug": "blooms-apple-orchard-themed-play-session-mommy-me-apple-pie-baking",
    "title": "BLOOM’s Apple Orchard Themed Play Session + Mommy & Me Apple Pie Baking Workshop with BLOOM Play Studio",
@@ -270,6 +354,62 @@
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 146,
+   "series_slug": "bingo-loco",
+   "title": "Bingo Loco",
+   "start": "2026-09-18T20:00:00-05:00",
+   "end": "2026-09-18T23:00:00-05:00",
+   "all_day": false,
+   "category": "nightlife",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$42.31",
+   "ticket_url": "https://www.ticketweb.com/event/bingo-loco-soul-kitchen-tickets/14235254",
+   "info_url": "https://www.ticketweb.com/event/bingo-loco-soul-kitchen-tickets/14235254",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 147,
+   "series_slug": "the-midnight-matinee-the-temple-of-boom",
+   "title": "The Midnight Matinee & The Temple of Boom",
+   "start": "2026-09-18T21:00:00-05:00",
+   "end": "2026-09-19T00:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$22.15",
+   "ticket_url": "https://www.ticketweb.com/event/the-midnight-matinee-the-crescent-theater-tickets/14288234",
+   "info_url": "https://www.ticketweb.com/event/the-midnight-matinee-the-crescent-theater-tickets/14288234",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -428,6 +568,90 @@
    "independent_source_count": 1
   },
   {
+   "id": 148,
+   "series_slug": "austin-meade",
+   "title": "Austin Meade",
+   "start": "2026-09-19T20:00:00-05:00",
+   "end": "2026-09-19T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$23.76",
+   "ticket_url": "https://www.ticketweb.com/event/austin-meade-the-merry-widow-tickets/15020423",
+   "info_url": "https://www.ticketweb.com/event/austin-meade-the-merry-widow-tickets/15020423",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 149,
+   "series_slug": "lyfe-jennings",
+   "title": "Lyfe Jennings",
+   "start": "2026-09-19T21:00:00-05:00",
+   "end": "2026-09-20T00:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$49.55",
+   "ticket_url": "https://www.ticketweb.com/event/lyfe-jennings-soul-kitchen-tickets/15020073",
+   "info_url": "https://www.ticketweb.com/event/lyfe-jennings-soul-kitchen-tickets/15020073",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 150,
+   "series_slug": "black-and-gold-on-the-movie-screen",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-09-20T12:00:00-05:00",
+   "end": "2026-09-20T15:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035623",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035623",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 60,
    "series_slug": "sunday-sunset-concert-series",
    "title": "Sunday Sunset Concert Series",
@@ -453,6 +677,34 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 152,
+   "series_slug": "morgan-wade-loves-insane-tour",
+   "title": "Morgan Wade Love’s Insane Tour",
+   "start": "2026-09-20T20:00:00-05:00",
+   "end": "2026-09-20T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$36.1-129.88",
+   "ticket_url": "https://www.ticketweb.com/event/morgan-wade-loves-insane-tour-soul-kitchen-tickets/14912353",
+   "info_url": "https://www.ticketweb.com/event/morgan-wade-loves-insane-tour-soul-kitchen-tickets/14912353",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -484,6 +736,34 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 153,
+   "series_slug": "crescent-comedy-workshop",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-09-23T17:30:00-05:00",
+   "end": "2026-09-23T20:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15039983",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15039983",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -633,6 +913,62 @@
    "independent_source_count": 1
   },
   {
+   "id": 154,
+   "series_slug": "downtown-get-down",
+   "title": "DOWNTOWN GET DOWN",
+   "start": "2026-09-24T17:00:00-05:00",
+   "end": "2026-09-24T20:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketweb.com/event/downtown-get-down-soul-kitchen-tickets/14275684",
+   "info_url": "https://www.ticketweb.com/event/downtown-get-down-soul-kitchen-tickets/14275684",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 155,
+   "series_slug": "jason-isbell-the-400-unit-halstead-amphitheater",
+   "title": "Jason Isbell & the 400 Unit",
+   "start": "2026-09-24T17:00:00-05:00",
+   "end": "2026-09-24T20:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "halstead-amphitheater",
+    "name": "Halstead Amphitheater",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PkFO",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PkFO",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 97,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -661,6 +997,34 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 156,
+   "series_slug": "yes-daddy-plus-marla-the-singers-plus-roman-gabriel-todd-and-27-reeves",
+   "title": "Yes Daddy plus Marla & The Singers plus Roman Gabriel Todd and 27 Reeves",
+   "start": "2026-09-24T19:00:00-05:00",
+   "end": "2026-09-24T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$11.02",
+   "ticket_url": "https://www.ticketweb.com/event/yes-daddy-marla-the-crescent-theater-tickets/14310144",
+   "info_url": "https://www.ticketweb.com/event/yes-daddy-marla-the-crescent-theater-tickets/14310144",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -757,6 +1121,34 @@
    "independent_source_count": 1
   },
   {
+   "id": 157,
+   "series_slug": "johnny-mullenax",
+   "title": "Johnny Mullenax",
+   "start": "2026-09-25T20:00:00-05:00",
+   "end": "2026-09-25T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$21.19",
+   "ticket_url": "https://www.ticketweb.com/event/johnny-mullenax-the-merry-widow-tickets/14923573",
+   "info_url": "https://www.ticketweb.com/event/johnny-mullenax-the-merry-widow-tickets/14923573",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 98,
    "series_slug": "jar-of-sap-alice-in-chains-tribute",
    "title": "Jar of Sap: Alice In Chains Tribute",
@@ -772,12 +1164,12 @@
      "mobile"
     ]
    },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/jar-of-sap-alice-in-chains-tribute/",
+   "price": "$20.56-26.96",
+   "ticket_url": "https://www.ticketweb.com/event/jar-of-sap-alice-in-crescent-theater-tickets/14215074",
+   "info_url": "https://www.ticketweb.com/event/jar-of-sap-alice-in-crescent-theater-tickets/14215074",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": {
@@ -785,7 +1177,7 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
-   "independent_source_count": 1
+   "independent_source_count": 2
   },
   {
    "id": 78,
@@ -878,6 +1270,174 @@
    "independent_source_count": 1
   },
   {
+   "id": 158,
+   "series_slug": "mobile-comedy-battle-royale-presented-by-high-5-printing",
+   "title": "Mobile Comedy Battle Royale presented by High 5 Printing",
+   "start": "2026-09-26T19:00:00-05:00",
+   "end": "2026-09-26T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$20.56-61.61",
+   "ticket_url": "https://www.ticketweb.com/event/mobile-comedy-battle-royale-presented-crescent-theater-tickets/14295514",
+   "info_url": "https://www.ticketweb.com/event/mobile-comedy-battle-royale-presented-crescent-theater-tickets/14295514",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 159,
+   "series_slug": "the-black-jacket-symphony-presents-def-leppard-s-hysteria",
+   "title": "The Black Jacket Symphony Presents Def Leppard's 'Hysteria'",
+   "start": "2026-09-26T19:30:00-05:00",
+   "end": "2026-09-26T22:30:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/the-black-jacket-symphony-presents-def-mobile-alabama-09-26-2026/event/1B00648D87DF6B33",
+   "info_url": "https://www.ticketmaster.com/the-black-jacket-symphony-presents-def-mobile-alabama-09-26-2026/event/1B00648D87DF6B33",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 160,
+   "series_slug": "r-b-only-live-mobile-al",
+   "title": "R&B ONLY LIVE - Mobile, AL",
+   "start": "2026-09-26T20:00:00-05:00",
+   "end": "2026-09-26T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$64.84",
+   "ticket_url": "https://www.universe.com/events/r-b-only-live-mobile-al-tickets-YHG3TL?ref=ticketmaster",
+   "info_url": "https://www.universe.com/events/r-b-only-live-mobile-al-tickets-YHG3TL?ref=ticketmaster",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 161,
+   "series_slug": "jason-carter-band",
+   "title": "Jason Carter Band",
+   "start": "2026-09-26T20:00:00-05:00",
+   "end": "2026-09-26T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$23.76",
+   "ticket_url": "https://www.ticketweb.com/event/jason-carter-band-the-merry-widow-tickets/14240734",
+   "info_url": "https://www.ticketweb.com/event/jason-carter-band-the-merry-widow-tickets/14240734",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 162,
+   "series_slug": "mobile-roast-league-comedians-fight-with-words",
+   "title": "Mobile Roast League: Comedians Fight With Words!",
+   "start": "2026-09-26T21:30:00-05:00",
+   "end": "2026-09-27T00:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$14.41",
+   "ticket_url": "https://www.ticketweb.com/event/mobile-roast-league-comedians-fight-crescent-theater-tickets/14285924",
+   "info_url": "https://www.ticketweb.com/event/mobile-roast-league-comedians-fight-crescent-theater-tickets/14285924",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 163,
+   "series_slug": "black-and-gold-on-the-movie-screen",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-09-27T15:25:00-05:00",
+   "end": "2026-09-27T18:25:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035553",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035553",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 3,
    "series_slug": "prototyping-lab-3d-modeling-workshop",
    "title": "Prototyping Lab 3D Modeling Workshop",
@@ -940,6 +1500,90 @@
    "independent_source_count": 1
   },
   {
+   "id": 164,
+   "series_slug": "brit-floyd",
+   "title": "Brit Floyd",
+   "start": "2026-09-29T19:00:00-05:00",
+   "end": "2026-09-29T22:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/brit-floyd-mobile-alabama-09-29-2026/event/1B0064AFDFB358D9",
+   "info_url": "https://www.ticketmaster.com/brit-floyd-mobile-alabama-09-29-2026/event/1B0064AFDFB358D9",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 165,
+   "series_slug": "crescent-comedy-workshop",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-09-30T17:30:00-05:00",
+   "end": "2026-09-30T20:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15039953",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15039953",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 166,
+   "series_slug": "struggle-jennings",
+   "title": "Struggle Jennings",
+   "start": "2026-09-30T20:00:00-05:00",
+   "end": "2026-09-30T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$33.34-67.57",
+   "ticket_url": "https://www.ticketweb.com/event/struggle-jennings-soul-kitchen-tickets/14836023",
+   "info_url": "https://www.ticketweb.com/event/struggle-jennings-soul-kitchen-tickets/14836023",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 101,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -986,12 +1630,12 @@
      "mobile"
     ]
    },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/jj-grey-mofro/",
+   "price": "$54.44",
+   "ticket_url": "https://www.ticketweb.com/event/jj-grey-mofro-soul-kitchen-tickets/14921063",
+   "info_url": "https://www.ticketweb.com/event/jj-grey-mofro-soul-kitchen-tickets/14921063",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": {
@@ -999,6 +1643,34 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
+   "id": 167,
+   "series_slug": "corey-o-brien",
+   "title": "Corey O'Brien",
+   "start": "2026-10-02T19:00:00-05:00",
+   "end": "2026-10-02T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$29.22-77.43",
+   "ticket_url": "https://www.ticketweb.com/event/corey-obrien-crescent-theater-tickets/14260114",
+   "info_url": "https://www.ticketweb.com/event/corey-obrien-crescent-theater-tickets/14260114",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1017,8 +1689,8 @@
      "mobile"
     ]
    },
-   "price": "",
-   "ticket_url": "",
+   "price": "$23.76",
+   "ticket_url": "https://www.ticketweb.com/event/lamont-landers-the-merry-widow-tickets/14258084",
    "info_url": "https://themerrywidow.net/events/lamont-landers/",
    "source": {
     "name": "92ZEW",
@@ -1030,6 +1702,118 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
+   "id": 168,
+   "series_slug": "it-s-a-2000s-party-mobile",
+   "title": "It's A 2000s Party: Mobile",
+   "start": "2026-10-02T20:00:00-05:00",
+   "end": "2026-10-02T23:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$19.77-26.68",
+   "ticket_url": "https://www.ticketweb.com/event/its-a-2000s-party-mobile-soul-kitchen-tickets/14994373",
+   "info_url": "https://www.ticketweb.com/event/its-a-2000s-party-mobile-soul-kitchen-tickets/14994373",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 169,
+   "series_slug": "mike-goodwin-early-show",
+   "title": "Mike Goodwin (Early Show)",
+   "start": "2026-10-03T16:00:00-05:00",
+   "end": "2026-10-03T19:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$32.05-81.95",
+   "ticket_url": "https://www.ticketweb.com/event/mike-goodwin-early-show-crescent-theater-tickets/14319774",
+   "info_url": "https://www.ticketweb.com/event/mike-goodwin-early-show-crescent-theater-tickets/14319774",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 232,
+   "series_slug": "pensacola-symphony-orchestra-opening-night",
+   "title": "Pensacola Symphony Orchestra: Opening Night!",
+   "start": "2026-10-03T19:30:00-05:00",
+   "end": "2026-10-03T22:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-opening-night-pensacola-florida-10-03-2026/event/1B0064991166E213",
+   "info_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-opening-night-pensacola-florida-10-03-2026/event/1B0064991166E213",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 170,
+   "series_slug": "unsteady-a-film-by-jesse-starling",
+   "title": "Unsteady: A Film by Jesse Starling",
+   "start": "2026-10-04T15:00:00-05:00",
+   "end": "2026-10-04T18:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$16.67",
+   "ticket_url": "https://www.ticketweb.com/event/unsteady-a-film-by-jesse-crescent-theater-tickets/14301854",
+   "info_url": "https://www.ticketweb.com/event/unsteady-a-film-by-jesse-crescent-theater-tickets/14301854",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1064,6 +1848,90 @@
    "independent_source_count": 1
   },
   {
+   "id": 233,
+   "series_slug": "roman-street",
+   "title": "Roman Street",
+   "start": "2026-10-04T19:30:00-05:00",
+   "end": "2026-10-04T22:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/roman-street-pensacola-florida-10-04-2026/event/1B006383EB1C6FDA",
+   "info_url": "https://www.ticketmaster.com/roman-street-pensacola-florida-10-04-2026/event/1B006383EB1C6FDA",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 234,
+   "series_slug": "toast-the-best-of-bread",
+   "title": "Toast - The Best of Bread",
+   "start": "2026-10-05T19:00:00-05:00",
+   "end": "2026-10-05T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/toast-the-best-of-bread-pensacola-florida-10-05-2026/event/1B0064C4C68834D0",
+   "info_url": "https://www.ticketmaster.com/toast-the-best-of-bread-pensacola-florida-10-05-2026/event/1B0064C4C68834D0",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 171,
+   "series_slug": "black-and-gold-on-the-movie-screen",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-10-05T19:15:00-05:00",
+   "end": "2026-10-05T22:15:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035673",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035673",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 106,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -1092,6 +1960,90 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 172,
+   "series_slug": "an-evening-with-shadowgrass-night-one",
+   "title": "An Evening with Shadowgrass (NIGHT ONE)",
+   "start": "2026-10-06T20:00:00-05:00",
+   "end": "2026-10-06T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$28.91-44.36",
+   "ticket_url": "https://www.ticketweb.com/event/an-evening-with-shadowgrass-night-the-merry-widow-tickets/14226324",
+   "info_url": "https://www.ticketweb.com/event/an-evening-with-shadowgrass-night-the-merry-widow-tickets/14226324",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 173,
+   "series_slug": "crescent-comedy-workshop",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-10-07T17:30:00-05:00",
+   "end": "2026-10-07T20:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$8.76",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237474",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237474",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 174,
+   "series_slug": "an-evening-with-shadowgrass-night-one",
+   "title": "An Evening with Shadowgrass (NIGHT TWO)",
+   "start": "2026-10-07T20:00:00-05:00",
+   "end": "2026-10-07T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$28.91",
+   "ticket_url": "https://www.ticketweb.com/event/an-evening-with-shadowgrass-night-the-merry-widow-tickets/14226344",
+   "info_url": "https://www.ticketweb.com/event/an-evening-with-shadowgrass-night-the-merry-widow-tickets/14226344",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1157,6 +2109,34 @@
    "independent_source_count": 1
   },
   {
+   "id": 175,
+   "series_slug": "stagner-s-showcase-feat-justin-stagner-friends",
+   "title": "Stagner's Showcase feat. Justin Stagner & Friends",
+   "start": "2026-10-08T19:00:00-05:00",
+   "end": "2026-10-08T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$14.41-50.31",
+   "ticket_url": "https://www.ticketweb.com/event/stagners-showcase-feat-justin-stagner-crescent-theater-tickets/15047863",
+   "info_url": "https://www.ticketweb.com/event/stagners-showcase-feat-justin-stagner-crescent-theater-tickets/15047863",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 108,
    "series_slug": "postmodern-jukebox-the-future-is-vintage-world-tour",
    "title": "Postmodern Jukebox: The Future Is Vintage World Tour",
@@ -1185,6 +2165,34 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 235,
+   "series_slug": "scott-bradlee-s-postmodern-jukebox-the-future-is-vintage-world-tour",
+   "title": "Scott Bradlee's Postmodern Jukebox: The Future Is Vintage World Tour",
+   "start": "2026-10-08T20:00:00-05:00",
+   "end": "2026-10-08T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-pensacola-florida-10-08-2026/event/1B00649EB7FF38A6",
+   "info_url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-pensacola-florida-10-08-2026/event/1B00649EB7FF38A6",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1250,6 +2258,146 @@
    "independent_source_count": 1
   },
   {
+   "id": 236,
+   "series_slug": "daniel-tosh-my-first-farewell-tour",
+   "title": "Daniel Tosh: My First Farewell Tour",
+   "start": "2026-10-09T19:00:00-05:00",
+   "end": "2026-10-09T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/daniel-tosh-my-first-farewell-tour-pensacola-florida-10-09-2026/event/1B00636B2DB89AE5",
+   "info_url": "https://www.ticketmaster.com/daniel-tosh-my-first-farewell-tour-pensacola-florida-10-09-2026/event/1B00636B2DB89AE5",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 176,
+   "series_slug": "comedy-shorts-3-short-shows-one-low-price",
+   "title": "Comedy Shorts: 3 Short Shows, One Low Price",
+   "start": "2026-10-09T19:30:00-05:00",
+   "end": "2026-10-09T22:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$8.76",
+   "ticket_url": "https://www.ticketweb.com/event/comedy-shorts-3-short-shows-crescent-theater-tickets/14944373",
+   "info_url": "https://www.ticketweb.com/event/comedy-shorts-3-short-shows-crescent-theater-tickets/14944373",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 177,
+   "series_slug": "slow-degrade",
+   "title": "Slow Degrade",
+   "start": "2026-10-09T20:30:00-05:00",
+   "end": "2026-10-09T23:30:00-05:00",
+   "all_day": false,
+   "category": "nightlife",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$21.83",
+   "ticket_url": "https://www.ticketweb.com/event/slow-degrade-soul-kitchen-tickets/14285194",
+   "info_url": "https://www.ticketweb.com/event/slow-degrade-soul-kitchen-tickets/14285194",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 178,
+   "series_slug": "double-feature-comedy-night",
+   "title": "Double Feature Comedy Night",
+   "start": "2026-10-10T19:00:00-05:00",
+   "end": "2026-10-10T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$20.56-50.31",
+   "ticket_url": "https://www.ticketweb.com/event/double-feature-comedy-night-crescent-theater-tickets/15001503",
+   "info_url": "https://www.ticketweb.com/event/double-feature-comedy-night-crescent-theater-tickets/15001503",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 238,
+   "series_slug": "rodney-carrington",
+   "title": "Rodney Carrington",
+   "start": "2026-10-10T19:00:00-05:00",
+   "end": "2026-10-10T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/rodney-carrington-pensacola-florida-10-10-2026/event/1B006495E52A576C",
+   "info_url": "https://www.ticketmaster.com/rodney-carrington-pensacola-florida-10-10-2026/event/1B006495E52A576C",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 14,
    "series_slug": "spectacular",
    "title": "Spectacular!",
@@ -1279,6 +2427,62 @@
    },
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 179,
+   "series_slug": "nighttime-with-carson-taylor",
+   "title": "Nighttime with Carson Taylor",
+   "start": "2026-10-10T21:30:00-05:00",
+   "end": "2026-10-11T00:30:00-05:00",
+   "all_day": false,
+   "category": "nightlife",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$20.56",
+   "ticket_url": "https://www.ticketweb.com/event/nighttime-with-carson-taylor-crescent-theater-tickets/14305804",
+   "info_url": "https://www.ticketweb.com/event/nighttime-with-carson-taylor-crescent-theater-tickets/14305804",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 180,
+   "series_slug": "black-and-gold-on-the-movie-screen",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-10-11T12:00:00-05:00",
+   "end": "2026-10-11T15:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035573",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035573",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 111,
@@ -1312,6 +2516,34 @@
    "independent_source_count": 1
   },
   {
+   "id": 181,
+   "series_slug": "ward-davis-solo-acoustic",
+   "title": "WARD DAVIS (Solo Acoustic)",
+   "start": "2026-10-13T20:00:00-05:00",
+   "end": "2026-10-13T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$34.06",
+   "ticket_url": "https://www.ticketweb.com/event/ward-davis-solo-acoustic-the-merry-widow-tickets/14206704",
+   "info_url": "https://www.ticketweb.com/event/ward-davis-solo-acoustic-the-merry-widow-tickets/14206704",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 5,
    "series_slug": "enrg-entrepreneurial-network-resource-group",
    "title": "ENRG (Entrepreneurial Network Resource Group)",
@@ -1339,6 +2571,34 @@
     "url": "https://www.innovation-portal.com/wp-content/uploads/2024/12/enrg-2025-horizontal.png",
     "credit": "Innovation Portal"
    },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 182,
+   "series_slug": "crescent-comedy-workshop",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-10-14T17:30:00-05:00",
+   "end": "2026-10-14T20:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15039973",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15039973",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -1374,6 +2634,62 @@
    "independent_source_count": 1
   },
   {
+   "id": 183,
+   "series_slug": "gabriel-rutledge",
+   "title": "Gabriel Rutledge",
+   "start": "2026-10-15T19:00:00-05:00",
+   "end": "2026-10-15T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$33.36-84.21",
+   "ticket_url": "https://www.ticketweb.com/event/gabriel-rutledge-crescent-theater-tickets/14214564",
+   "info_url": "https://www.ticketweb.com/event/gabriel-rutledge-crescent-theater-tickets/14214564",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 240,
+   "series_slug": "aaron-tippin-collin-raye",
+   "title": "Aaron Tippin & Collin Raye",
+   "start": "2026-10-15T19:00:00-05:00",
+   "end": "2026-10-15T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/aaron-tippin-collin-raye-pensacola-florida-10-15-2026/event/1B0064FB1C3D4E6C",
+   "info_url": "https://www.ticketmaster.com/aaron-tippin-collin-raye-pensacola-florida-10-15-2026/event/1B0064FB1C3D4E6C",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 113,
    "series_slug": "sister-hazel",
    "title": "Sister Hazel",
@@ -1389,8 +2705,8 @@
      "mobile"
     ]
    },
-   "price": "",
-   "ticket_url": "",
+   "price": "$35.92-82.5",
+   "ticket_url": "https://www.ticketweb.com/event/sister-hazel-soul-kitchen-tickets/14162794",
    "info_url": "https://www.soulkitchenmobile.com/tm-event/sister-hazel/",
    "source": {
     "name": "92ZEW",
@@ -1402,6 +2718,62 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
+   "id": 184,
+   "series_slug": "luke-severeid",
+   "title": "Luke Severeid",
+   "start": "2026-10-16T19:00:00-05:00",
+   "end": "2026-10-16T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$26.96-72.91",
+   "ticket_url": "https://www.ticketweb.com/event/luke-severeid-crescent-theater-tickets/14236244",
+   "info_url": "https://www.ticketweb.com/event/luke-severeid-crescent-theater-tickets/14236244",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 185,
+   "series_slug": "danny-bedrosian-secret-army",
+   "title": "Danny Bedrosian & Secret Army",
+   "start": "2026-10-16T20:00:00-05:00",
+   "end": "2026-10-16T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$18.61",
+   "ticket_url": "https://www.ticketweb.com/event/danny-bedrosian-secret-army-the-merry-widow-tickets/15031393",
+   "info_url": "https://www.ticketweb.com/event/danny-bedrosian-secret-army-the-merry-widow-tickets/15031393",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1436,6 +2808,34 @@
    "independent_source_count": 1
   },
   {
+   "id": 186,
+   "series_slug": "amber-wallin",
+   "title": "Amber Wallin",
+   "start": "2026-10-17T19:00:00-05:00",
+   "end": "2026-10-17T22:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$33.36-84.21",
+   "ticket_url": "https://www.ticketweb.com/event/amber-wallin-crescent-theater-tickets/14963863",
+   "info_url": "https://www.ticketweb.com/event/amber-wallin-crescent-theater-tickets/14963863",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 114,
    "series_slug": "jo-koy",
    "title": "Jo Koy",
@@ -1452,16 +2852,16 @@
     ]
    },
    "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/jo-koy/",
+   "ticket_url": "https://www.ticketmaster.com/jo-koy-koy-meets-world-tour-mobile-alabama-10-17-2026/event/1B006471B7C2FA08",
+   "info_url": "https://www.ticketmaster.com/jo-koy-koy-meets-world-tour-mobile-alabama-10-17-2026/event/1B006471B7C2FA08",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": null,
    "curation_score": 1,
-   "independent_source_count": 1
+   "independent_source_count": 2
   },
   {
    "id": 115,
@@ -1479,8 +2879,8 @@
      "mobile"
     ]
    },
-   "price": "",
-   "ticket_url": "",
+   "price": "$26.42",
+   "ticket_url": "https://www.ticketweb.com/event/crawling-a-tribute-to-early-soul-kitchen-tickets/14197304",
    "info_url": "https://www.soulkitchenmobile.com/tm-event/crawling-a-tribute-to-early-linkin-park-nirvanna-tribute-to-nirvana/",
    "source": {
     "name": "92ZEW",
@@ -1492,6 +2892,118 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
+   "id": 243,
+   "series_slug": "ali-siddiq-the-custom-fit-tour",
+   "title": "Ali Siddiq: The Custom Fit Tour",
+   "start": "2026-10-17T20:00:00-05:00",
+   "end": "2026-10-17T23:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/ali-siddiq-the-custom-fit-tour-pensacola-florida-10-17-2026/event/1B0064D815F44F56",
+   "info_url": "https://www.ticketmaster.com/ali-siddiq-the-custom-fit-tour-pensacola-florida-10-17-2026/event/1B0064D815F44F56",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 187,
+   "series_slug": "black-and-gold-on-the-movie-screen",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-10-18T12:00:00-05:00",
+   "end": "2026-10-18T15:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035593",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035593",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 244,
+   "series_slug": "the-billy-joel-legacy-celebrating-the-piano-man",
+   "title": "The Billy Joel Legacy: Celebrating The Piano Man",
+   "start": "2026-10-18T19:00:00-05:00",
+   "end": "2026-10-18T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/the-billy-joel-legacy-celebrating-the-pensacola-florida-10-18-2026/event/1B0064DEE757F246",
+   "info_url": "https://www.ticketmaster.com/the-billy-joel-legacy-celebrating-the-pensacola-florida-10-18-2026/event/1B0064DEE757F246",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 188,
+   "series_slug": "great-lake-swimmers",
+   "title": "GREAT LAKE SWIMMERS",
+   "start": "2026-10-18T20:00:00-05:00",
+   "end": "2026-10-18T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$23.76",
+   "ticket_url": "https://www.ticketweb.com/event/great-lake-swimmers-the-merry-widow-tickets/14200544",
+   "info_url": "https://www.ticketweb.com/event/great-lake-swimmers-the-merry-widow-tickets/14200544",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1523,6 +3035,118 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 189,
+   "series_slug": "sonic-live-in-concert",
+   "title": "Sonic Live In Concert",
+   "start": "2026-10-20T19:30:00-05:00",
+   "end": "2026-10-20T22:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/sonic-live-in-concert-mobile-alabama-10-20-2026/event/1B0064ABBA09DAC5",
+   "info_url": "https://www.ticketmaster.com/sonic-live-in-concert-mobile-alabama-10-20-2026/event/1B0064ABBA09DAC5",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 245,
+   "series_slug": "rumours-of-fleetwood-mac",
+   "title": "Rumours of Fleetwood Mac",
+   "start": "2026-10-20T19:30:00-05:00",
+   "end": "2026-10-20T22:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/rumours-of-fleetwood-mac-pensacola-florida-10-20-2026/event/1B00650EDAF69B61",
+   "info_url": "https://www.ticketmaster.com/rumours-of-fleetwood-mac-pensacola-florida-10-20-2026/event/1B00650EDAF69B61",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 190,
+   "series_slug": "the-filthy-heathens",
+   "title": "The Filthy Heathens",
+   "start": "2026-10-20T20:00:00-05:00",
+   "end": "2026-10-20T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$18.61",
+   "ticket_url": "https://www.ticketweb.com/event/the-filthy-heathens-the-merry-widow-tickets/14306184",
+   "info_url": "https://www.ticketweb.com/event/the-filthy-heathens-the-merry-widow-tickets/14306184",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 191,
+   "series_slug": "crescent-comedy-workshop",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-10-21T17:30:00-05:00",
+   "end": "2026-10-21T20:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$8.76",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237444",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237444",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1572,12 +3196,12 @@
      "mobile"
     ]
    },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/jd-simo-w-luther-dickinson-black-joe-lewis-the-honeybears/",
+   "price": "$36.64",
+   "ticket_url": "https://www.ticketweb.com/event/jd-simo-w-luther-dickinson-the-merry-widow-tickets/15010263",
+   "info_url": "https://www.ticketweb.com/event/jd-simo-w-luther-dickinson-the-merry-widow-tickets/15010263",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": {
@@ -1585,6 +3209,90 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
+   "id": 192,
+   "series_slug": "adult-talent-show",
+   "title": "Adult Talent Show",
+   "start": "2026-10-24T18:00:00-05:00",
+   "end": "2026-10-24T21:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$14.41",
+   "ticket_url": "https://www.ticketweb.com/event/adult-talent-show-crescent-theater-tickets/14319854",
+   "info_url": "https://www.ticketweb.com/event/adult-talent-show-crescent-theater-tickets/14319854",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 193,
+   "series_slug": "black-and-gold-on-the-movie-screen",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-10-25T08:30:00-05:00",
+   "end": "2026-10-25T11:30:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035533",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035533",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 249,
+   "series_slug": "waitress",
+   "title": "Waitress",
+   "start": "2026-10-26T19:30:00-05:00",
+   "end": "2026-10-26T22:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/waitress-pensacola-florida-10-26-2026/event/1B0064C326AC636F",
+   "info_url": "https://www.ticketmaster.com/waitress-pensacola-florida-10-26-2026/event/1B0064C326AC636F",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1650,6 +3358,62 @@
    "independent_source_count": 1
   },
   {
+   "id": 250,
+   "series_slug": "waitress",
+   "title": "Waitress",
+   "start": "2026-10-27T19:30:00-05:00",
+   "end": "2026-10-27T22:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/waitress-pensacola-florida-10-27-2026/event/1B0064C9D21A25AE",
+   "info_url": "https://www.ticketmaster.com/waitress-pensacola-florida-10-27-2026/event/1B0064C9D21A25AE",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 194,
+   "series_slug": "crescent-comedy-workshop",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-10-28T17:30:00-05:00",
+   "end": "2026-10-28T20:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15039963",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15039963",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 121,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -1681,6 +3445,34 @@
    "independent_source_count": 1
   },
   {
+   "id": 195,
+   "series_slug": "extreme-dwarfanator-wrestling",
+   "title": "Extreme Dwarfanator Wrestling",
+   "start": "2026-10-29T19:00:00-05:00",
+   "end": "2026-10-29T22:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Ep9",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Ep9",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 7,
    "series_slug": "la-ai-meetup",
    "title": "LA-AI Meetup",
@@ -1708,6 +3500,118 @@
     "url": "https://www.innovation-portal.com/wp-content/uploads/2024/03/IP_Meetup-2-28-25-copy-scaled.png",
     "credit": "Innovation Portal"
    },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 196,
+   "series_slug": "mac-sabbath",
+   "title": "MAC SABBATH",
+   "start": "2026-10-30T19:30:00-05:00",
+   "end": "2026-10-30T22:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$0",
+   "ticket_url": "https://www.ticketweb.com/event/mac-sabbath-soul-kitchen-tickets/14265444",
+   "info_url": "https://www.ticketweb.com/event/mac-sabbath-soul-kitchen-tickets/14265444",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 197,
+   "series_slug": "nosferatu-live-improvised-score-feat-mike-dillon-chris-baby-spies",
+   "title": "Nosferatu Live Improvised Score feat. Mike Dillon, Chris “Baby” Spies, Brian Haas & James Singleton",
+   "start": "2026-10-30T20:00:00-05:00",
+   "end": "2026-10-30T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$39.01",
+   "ticket_url": "https://www.ticketweb.com/event/nosferatu-live-improvised-score-crescent-theater-tickets/15024403",
+   "info_url": "https://www.ticketweb.com/event/nosferatu-live-improvised-score-crescent-theater-tickets/15024403",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 198,
+   "series_slug": "nosferatu-live-improvised-score-feat-mike-dillon-chris-baby-spies",
+   "title": "Nosferatu Live Improvised Score feat. Mike Dillon, Chris “Baby” Spies, Brian Haas & James Singleton",
+   "start": "2026-10-31T20:00:00-05:00",
+   "end": "2026-10-31T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$39.01",
+   "ticket_url": "https://www.ticketweb.com/event/nosferatu-live-improvised-score-feat-crescent-theater-tickets/15024413",
+   "info_url": "https://www.ticketweb.com/event/nosferatu-live-improvised-score-feat-crescent-theater-tickets/15024413",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 199,
+   "series_slug": "the-emo-society",
+   "title": "THE EMO SOCIETY",
+   "start": "2026-10-31T21:00:00-05:00",
+   "end": "2026-11-01T00:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$19.77",
+   "ticket_url": "https://www.ticketweb.com/event/the-emo-society-soul-kitchen-tickets/14282274",
+   "info_url": "https://www.ticketweb.com/event/the-emo-society-soul-kitchen-tickets/14282274",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -1743,6 +3647,62 @@
    "independent_source_count": 1
   },
   {
+   "id": 255,
+   "series_slug": "pensacola-opera-rock-the-runway",
+   "title": "Pensacola Opera-Rock the Runway",
+   "start": "2026-11-04T19:00:00-06:00",
+   "end": "2026-11-04T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-operarock-the-runway-pensacola-florida-11-04-2026/event/1B006518E4272C06",
+   "info_url": "https://www.ticketmaster.com/pensacola-operarock-the-runway-pensacola-florida-11-04-2026/event/1B006518E4272C06",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 200,
+   "series_slug": "the-brook-the-bluff",
+   "title": "The Brook & The Bluff",
+   "start": "2026-11-04T20:00:00-06:00",
+   "end": "2026-11-04T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$35.84-166.04",
+   "ticket_url": "https://www.ticketweb.com/event/the-brook-the-bluff-soul-kitchen-tickets/14958473",
+   "info_url": "https://www.ticketweb.com/event/the-brook-the-bluff-soul-kitchen-tickets/14958473",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 123,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -1774,6 +3734,62 @@
    "independent_source_count": 1
   },
   {
+   "id": 201,
+   "series_slug": "matthew-goodnough",
+   "title": "Matthew Goodnough",
+   "start": "2026-11-05T20:00:00-06:00",
+   "end": "2026-11-05T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$18.61",
+   "ticket_url": "https://www.ticketweb.com/event/matthew-goodnough-the-merry-widow-tickets/14307904",
+   "info_url": "https://www.ticketweb.com/event/matthew-goodnough-the-merry-widow-tickets/14307904",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 202,
+   "series_slug": "graeson-mcgaha",
+   "title": "Graeson Mcgaha",
+   "start": "2026-11-06T19:00:00-06:00",
+   "end": "2026-11-06T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$32.05-83.08",
+   "ticket_url": "https://www.ticketweb.com/event/graeson-mcgaha-crescent-theater-tickets/14316064",
+   "info_url": "https://www.ticketweb.com/event/graeson-mcgaha-crescent-theater-tickets/14316064",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 125,
    "series_slug": "maggie-koerner",
    "title": "Maggie Koerner",
@@ -1789,8 +3805,8 @@
      "mobile"
     ]
    },
-   "price": "",
-   "ticket_url": "",
+   "price": "$23.76",
+   "ticket_url": "https://www.ticketweb.com/event/maggie-koerner-the-merry-widow-tickets/15042673",
    "info_url": "https://themerrywidow.net/events/maggie-koerner/",
    "source": {
     "name": "92ZEW",
@@ -1802,7 +3818,7 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
-   "independent_source_count": 1
+   "independent_source_count": 2
   },
   {
    "id": 15,
@@ -1836,6 +3852,90 @@
    "independent_source_count": 0
   },
   {
+   "id": 256,
+   "series_slug": "pensacola-symphony-orchestra-opening-night",
+   "title": "Pensacola Symphony Orchestra: Mozart & Bizet",
+   "start": "2026-11-07T19:30:00-06:00",
+   "end": "2026-11-07T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-mozart-bizet-pensacola-florida-11-07-2026/event/1B00649911D5E309",
+   "info_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-mozart-bizet-pensacola-florida-11-07-2026/event/1B00649911D5E309",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 203,
+   "series_slug": "crobot-x-dark-chapel",
+   "title": "CROBOT X DARK CHAPEL",
+   "start": "2026-11-07T20:00:00-06:00",
+   "end": "2026-11-07T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$23.76",
+   "ticket_url": "https://www.ticketweb.com/event/crobot-x-dark-chapel-the-merry-widow-tickets/14301024",
+   "info_url": "https://www.ticketweb.com/event/crobot-x-dark-chapel-the-merry-widow-tickets/14301024",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 204,
+   "series_slug": "black-and-gold-on-the-movie-screen",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-11-08T12:00:00-06:00",
+   "end": "2026-11-08T15:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035603",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035603",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 126,
    "series_slug": "drivin-n-cryin",
    "title": "Drivin N Cryin",
@@ -1851,12 +3951,12 @@
      "mobile"
     ]
    },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/drivin-n-cryin/",
+   "price": "$28.91",
+   "ticket_url": "https://www.ticketweb.com/event/drivin-n-cryin-the-merry-widow-tickets/14244634",
+   "info_url": "https://www.ticketweb.com/event/drivin-n-cryin-the-merry-widow-tickets/14244634",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": {
@@ -1864,7 +3964,7 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
-   "independent_source_count": 1
+   "independent_source_count": 2
   },
   {
    "id": 127,
@@ -1925,6 +4025,34 @@
     "url": "https://www.innovation-portal.com/wp-content/uploads/2024/12/enrg-2025-horizontal.png",
     "credit": "Innovation Portal"
    },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 206,
+   "series_slug": "nick-rochefort-alex-schultz-live-standup-show",
+   "title": "Nick Rochefort & Alex Schultz Live Standup Show",
+   "start": "2026-11-11T19:00:00-06:00",
+   "end": "2026-11-11T22:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$26.96",
+   "ticket_url": "https://www.ticketweb.com/event/nick-rochefort-alex-schultz-crescent-theater-tickets/15002013",
+   "info_url": "https://www.ticketweb.com/event/nick-rochefort-alex-schultz-crescent-theater-tickets/15002013",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -1991,6 +4119,34 @@
    "independent_source_count": 1
   },
   {
+   "id": 207,
+   "series_slug": "justin-moore-live-in-concert",
+   "title": "Justin Moore Live In Concert",
+   "start": "2026-11-12T19:30:00-06:00",
+   "end": "2026-11-12T22:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/justin-moore-live-in-concert-mobile-alabama-11-12-2026/event/1B0064F5E139E72A",
+   "info_url": "https://www.ticketmaster.com/justin-moore-live-in-concert-mobile-alabama-11-12-2026/event/1B0064F5E139E72A",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 130,
    "series_slug": "artwalk-picture-book-month",
    "title": "ArtWalk : Picture Book Month",
@@ -2019,6 +4175,90 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 208,
+   "series_slug": "comedy-shorts-3-short-shows-one-low-price",
+   "title": "Comedy Shorts: 3 Short Shows, One Low Price",
+   "start": "2026-11-13T19:30:00-06:00",
+   "end": "2026-11-13T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$8.76",
+   "ticket_url": "https://www.ticketweb.com/event/comedy-shorts-3-short-shows-crescent-theater-tickets/14944383",
+   "info_url": "https://www.ticketweb.com/event/comedy-shorts-3-short-shows-crescent-theater-tickets/14944383",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 261,
+   "series_slug": "nephew-tommy-s-black-tie-house-party-comedy-show",
+   "title": "Nephew Tommy's Black Tie House Party & Comedy Show",
+   "start": "2026-11-14T19:00:00-06:00",
+   "end": "2026-11-14T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/nephew-tommys-black-tie-house-party-pensacola-florida-11-14-2026/event/1B0064FE0C308B62",
+   "info_url": "https://www.ticketmaster.com/nephew-tommys-black-tie-house-party-pensacola-florida-11-14-2026/event/1B0064FE0C308B62",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 209,
+   "series_slug": "black-and-gold-on-the-movie-screen",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-11-15T12:00:00-06:00",
+   "end": "2026-11-15T15:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035633",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035633",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2053,6 +4293,62 @@
    "independent_source_count": 1
   },
   {
+   "id": 210,
+   "series_slug": "aaron-lewis-acoustic-origins-tour",
+   "title": "Aaron Lewis Acoustic Origins Tour",
+   "start": "2026-11-18T19:00:00-06:00",
+   "end": "2026-11-18T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/aaron-lewis-acoustic-origins-tour-mobile-alabama-11-18-2026/event/1B006511ABD28CA0",
+   "info_url": "https://www.ticketmaster.com/aaron-lewis-acoustic-origins-tour-mobile-alabama-11-18-2026/event/1B006511ABD28CA0",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 264,
+   "series_slug": "whose-live-anyway",
+   "title": "Whose Live Anyway?",
+   "start": "2026-11-18T19:30:00-06:00",
+   "end": "2026-11-18T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/whose-live-anyway-pensacola-florida-11-18-2026/event/1B0064A4D2213065",
+   "info_url": "https://www.ticketmaster.com/whose-live-anyway-pensacola-florida-11-18-2026/event/1B0064A4D2213065",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 132,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -2081,6 +4377,34 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 266,
+   "series_slug": "the-fab-four-tribute-to-the-beatles-a-hard-day-s-night",
+   "title": "The Fab Four: Tribute to the Beatles' A Hard Day's Night",
+   "start": "2026-11-19T19:30:00-06:00",
+   "end": "2026-11-19T22:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/the-fab-four-tribute-to-the-pensacola-florida-11-19-2026/event/1B00646CBF6AF36C",
+   "info_url": "https://www.ticketmaster.com/the-fab-four-tribute-to-the-pensacola-florida-11-19-2026/event/1B00646CBF6AF36C",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2115,6 +4439,62 @@
    "independent_source_count": 1
   },
   {
+   "id": 268,
+   "series_slug": "derek-hough-dance-for-the-holidays",
+   "title": "Derek Hough: Dance For The Holidays",
+   "start": "2026-11-20T20:00:00-06:00",
+   "end": "2026-11-20T23:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/derek-hough-dance-for-the-holidays-pensacola-florida-11-20-2026/event/1B0064F0E2DB3882",
+   "info_url": "https://www.ticketmaster.com/derek-hough-dance-for-the-holidays-pensacola-florida-11-20-2026/event/1B0064F0E2DB3882",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 270,
+   "series_slug": "cirque-dreams-holidaze",
+   "title": "Cirque Dreams Holidaze",
+   "start": "2026-11-21T19:00:00-06:00",
+   "end": "2026-11-21T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/cirque-dreams-holidaze-pensacola-florida-11-21-2026/event/1B00651590169E70",
+   "info_url": "https://www.ticketmaster.com/cirque-dreams-holidaze-pensacola-florida-11-21-2026/event/1B00651590169E70",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 134,
    "series_slug": "little-feat",
    "title": "Little Feat",
@@ -2131,15 +4511,43 @@
     ]
    },
    "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/little-feat-2/",
+   "ticket_url": "https://www.ticketmaster.com/little-feat-the-last-farewell-tour-mobile-alabama-11-21-2026/event/1B00648E8A3D7969",
+   "info_url": "https://www.ticketmaster.com/little-feat-the-last-farewell-tour-mobile-alabama-11-21-2026/event/1B00648E8A3D7969",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
+   "id": 211,
+   "series_slug": "black-and-gold-on-the-movie-screen",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-11-22T12:00:00-06:00",
+   "end": "2026-11-22T15:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035543",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035543",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2267,6 +4675,62 @@
    "independent_source_count": 1
   },
   {
+   "id": 212,
+   "series_slug": "black-and-gold-on-the-movie-screen",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-11-29T12:00:00-06:00",
+   "end": "2026-11-29T15:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035523",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035523",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 276,
+   "series_slug": "a-christmas-carol",
+   "title": "A Christmas Carol",
+   "start": "2026-11-30T19:30:00-06:00",
+   "end": "2026-11-30T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/a-christmas-carol-pensacola-florida-11-30-2026/event/1B0064DC0E2F1E04",
+   "info_url": "https://www.ticketmaster.com/a-christmas-carol-pensacola-florida-11-30-2026/event/1B0064DC0E2F1E04",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 137,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -2295,6 +4759,34 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 213,
+   "series_slug": "american-aquarium",
+   "title": "American Aquarium",
+   "start": "2026-12-01T20:00:00-06:00",
+   "end": "2026-12-01T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$28.91",
+   "ticket_url": "https://www.ticketweb.com/event/american-aquarium-the-merry-widow-tickets/14192954",
+   "info_url": "https://www.ticketweb.com/event/american-aquarium-the-merry-widow-tickets/14192954",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2360,6 +4852,202 @@
    "independent_source_count": 1
   },
   {
+   "id": 277,
+   "series_slug": "christmas-with-chris-tomlin",
+   "title": "Christmas with Chris Tomlin",
+   "start": "2026-12-04T19:00:00-06:00",
+   "end": "2026-12-04T22:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/christmas-with-chris-tomlin-pensacola-florida-12-04-2026/event/1B00651AA485C1C1",
+   "info_url": "https://www.ticketmaster.com/christmas-with-chris-tomlin-pensacola-florida-12-04-2026/event/1B00651AA485C1C1",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 214,
+   "series_slug": "hunter-flynn-back-to-my-roots-tour",
+   "title": "Hunter Flynn: Back to My Roots Tour",
+   "start": "2026-12-04T20:00:00-06:00",
+   "end": "2026-12-04T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$0",
+   "ticket_url": "https://www.ticketweb.com/event/hunter-flynn-back-to-my-soul-kitchen-tickets/15017933",
+   "info_url": "https://www.ticketweb.com/event/hunter-flynn-back-to-my-soul-kitchen-tickets/15017933",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 215,
+   "series_slug": "get-the-led-out",
+   "title": "Get the Led Out",
+   "start": "2026-12-05T19:30:00-06:00",
+   "end": "2026-12-05T22:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/get-the-led-out-mobile-alabama-12-05-2026/event/1B00650C896150C2",
+   "info_url": "https://www.ticketmaster.com/get-the-led-out-mobile-alabama-12-05-2026/event/1B00650C896150C2",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 279,
+   "series_slug": "kenny-g-the-miracles-holiday-and-hits-tour",
+   "title": "Kenny G- The Miracles Holiday and Hits Tour",
+   "start": "2026-12-05T19:30:00-06:00",
+   "end": "2026-12-05T22:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/kenny-g-the-miracles-holiday-and-pensacola-florida-12-05-2026/event/1B00651BE88BD0C4",
+   "info_url": "https://www.ticketmaster.com/kenny-g-the-miracles-holiday-and-pensacola-florida-12-05-2026/event/1B00651BE88BD0C4",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 280,
+   "series_slug": "kenny-g-green-room-lounge",
+   "title": "Kenny G-Green Room Lounge",
+   "start": "2026-12-05T19:30:00-06:00",
+   "end": "2026-12-05T22:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/kenny-ggreen-room-lounge-pensacola-florida-12-05-2026/event/1B00651CD8FD200D",
+   "info_url": "https://www.ticketmaster.com/kenny-ggreen-room-lounge-pensacola-florida-12-05-2026/event/1B00651CD8FD200D",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 216,
+   "series_slug": "black-and-gold-on-the-movie-screen",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-12-06T12:00:00-06:00",
+   "end": "2026-12-06T15:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035583",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035583",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 217,
+   "series_slug": "jodeci-35th-anniversary-tour-of-forever-my-lady",
+   "title": "Jodeci - 35th Anniversary Tour of Forever My Lady",
+   "start": "2026-12-06T19:30:00-06:00",
+   "end": "2026-12-06T22:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/jodeci-35th-anniversary-tour-of-forever-mobile-alabama-12-06-2026/event/1B0064F793068C4E",
+   "info_url": "https://www.ticketmaster.com/jodeci-35th-anniversary-tour-of-forever-mobile-alabama-12-06-2026/event/1B0064F793068C4E",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 140,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -2418,6 +5106,34 @@
     "url": "https://www.innovation-portal.com/wp-content/uploads/2024/12/enrg-2025-horizontal.png",
     "credit": "Innovation Portal"
    },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 218,
+   "series_slug": "a-celtic-christmas",
+   "title": "A Celtic Christmas",
+   "start": "2026-12-09T19:30:00-06:00",
+   "end": "2026-12-09T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/a-celtic-christmas-mobile-alabama-12-09-2026/event/1B0064DDCC56C560",
+   "info_url": "https://www.ticketmaster.com/a-celtic-christmas-mobile-alabama-12-09-2026/event/1B0064DDCC56C560",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -2484,6 +5200,34 @@
    "independent_source_count": 1
   },
   {
+   "id": 219,
+   "series_slug": "brian-posehn",
+   "title": "Brian Posehn",
+   "start": "2026-12-10T19:00:00-06:00",
+   "end": "2026-12-10T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$38.45-44.1",
+   "ticket_url": "https://www.ticketweb.com/event/brian-posehn-crescent-theater-tickets/14985483",
+   "info_url": "https://www.ticketweb.com/event/brian-posehn-crescent-theater-tickets/14985483",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 142,
    "series_slug": "artwalk-celebrate-christmas",
    "title": "ArtWalk: Celebrate Christmas",
@@ -2512,6 +5256,34 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 221,
+   "series_slug": "comedy-shorts-3-short-shows-one-low-price",
+   "title": "Comedy Shorts: 3 Short Shows, One Low Price",
+   "start": "2026-12-11T19:30:00-06:00",
+   "end": "2026-12-11T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$8.76",
+   "ticket_url": "https://www.ticketweb.com/event/comedy-shorts-3-short-shows-crescent-theater-tickets/14944393",
+   "info_url": "https://www.ticketweb.com/event/comedy-shorts-3-short-shows-crescent-theater-tickets/14944393",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2544,6 +5316,62 @@
    },
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 223,
+   "series_slug": "caleb-lee-hutchinson-long-line-of-losers-tour",
+   "title": "Caleb Lee Hutchinson: Long Line of Losers Tour",
+   "start": "2026-12-12T20:00:00-06:00",
+   "end": "2026-12-12T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$18.61",
+   "ticket_url": "https://www.ticketweb.com/event/caleb-lee-hutchinson-long-line-the-merry-widow-tickets/14301074",
+   "info_url": "https://www.ticketweb.com/event/caleb-lee-hutchinson-long-line-the-merry-widow-tickets/14301074",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 224,
+   "series_slug": "black-and-gold-on-the-movie-screen",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-12-13T12:00:00-06:00",
+   "end": "2026-12-13T15:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035643",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035643",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   }
  ]
 }
