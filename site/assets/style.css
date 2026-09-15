@@ -2,7 +2,7 @@
 :root {
   --bg: #fbfaf7; --fg: #1b1f24; --muted: #5b6470; --line: #e4e1da; --card: #ffffff;
   --brand: #0b5c8f; --brand-fg: #ffffff; --accent: #e07a1f; --free: #1f7a3f;
-  --music: #6d3fb5; --family: #d9346b; --food: #c2410c; --arts: #0f766e; --sports: #1d4ed8; --community: #4b5563; --nightlife: #7c2d12;
+  --music: #6d3fb5; --family: #d9346b; --food: #c2410c; --arts: #0f766e; --active: #0e7490; --sports: #1d4ed8; --community: #4b5563; --nightlife: #7c2d12;
   --radius: 10px; --wrap: 880px;
 }
 @media (prefers-color-scheme: dark) {
@@ -59,6 +59,7 @@ p { margin: .5em 0; }
 .card-img-food { background: linear-gradient(135deg, var(--food), #fdba74); }
 .card-img-arts { background: linear-gradient(135deg, var(--arts), #7fd6cd); }
 .card-img-sports { background: linear-gradient(135deg, var(--sports), #93b4fd); }
+.card-img-active { background: linear-gradient(135deg, var(--active), #67e8f9); }
 .card-img-community { background: linear-gradient(135deg, var(--community), #b0b7c3); }
 .card-img-nightlife { background: linear-gradient(135deg, var(--nightlife), #d98a5a); }
 .card-body { padding: 12px 14px 14px; }
@@ -73,7 +74,7 @@ p { margin: .5em 0; }
 .tag { display: inline-block; font-size: .75rem; font-weight: 600; letter-spacing: .02em; padding: 3px 8px; border-radius: 999px; background: var(--line); color: var(--fg); }
 .tag-music { background: var(--music); color: #fff; } .tag-family { background: var(--family); color: #fff; }
 .tag-food { background: var(--food); color: #fff; } .tag-arts { background: var(--arts); color: #fff; }
-.tag-sports { background: var(--sports); color: #fff; } .tag-community { background: var(--community); color: #fff; }
+.tag-sports { background: var(--sports); color: #fff; } .tag-active { background: var(--active); color: #fff; } .tag-community { background: var(--community); color: #fff; }
 .tag-nightlife { background: var(--nightlife); color: #fff; } .tag-free { background: var(--free); color: #fff; }
 .tag-warn { background: var(--accent); color: #fff; }
 
@@ -87,8 +88,8 @@ p { margin: .5em 0; }
 .row-main { flex: 1; min-width: 0; display: flex; flex-direction: column; }
 .row-title { font-weight: 600; }
 .row-sub { color: var(--muted); font-size: .88rem; }
-.row-tag { flex: 0 0 auto; display: none; }
-@media (min-width: 640px) { .row-tag { display: inline-block; } }
+.row-tags { flex: 0 0 auto; display: none; gap: 4px; }
+@media (min-width: 640px) { .row-tags { display: inline-flex; } }
 .day-h { font-size: 1.05rem; margin: 1.4em 0 .3em; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
 .cat-h { display: flex; align-items: center; gap: 8px; margin: 1.4em 0 .4em; }
 .count { color: var(--muted); font-weight: 500; font-size: .9rem; }
@@ -106,6 +107,7 @@ p { margin: .5em 0; }
 .filters .pill-food[aria-pressed="true"] { background: var(--food); border-color: var(--food); color: #fff; }
 .filters .pill-arts[aria-pressed="true"] { background: var(--arts); border-color: var(--arts); color: #fff; }
 .filters .pill-sports[aria-pressed="true"] { background: var(--sports); border-color: var(--sports); color: #fff; }
+.filters .pill-active[aria-pressed="true"] { background: var(--active); border-color: var(--active); color: #fff; }
 .filters .pill-nightlife[aria-pressed="true"] { background: var(--nightlife); border-color: var(--nightlife); color: #fff; }
 .filters .pill-community[aria-pressed="true"] { background: var(--community); border-color: var(--community); color: #fff; }
 .filters .pill-free[aria-pressed="true"] { background: var(--free); border-color: var(--free); color: #fff; }

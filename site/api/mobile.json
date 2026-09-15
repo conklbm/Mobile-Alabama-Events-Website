@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-09-15T13:33:27Z",
+ "generated": "2026-09-15T13:36:19Z",
  "events": [
   {
    "id": 39,
@@ -10,6 +10,10 @@
    "end": "2026-09-15T10:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
    "venue": {
     "slug": "everhope-baptist-church",
     "name": "EverHope Baptist Church",
@@ -41,6 +45,10 @@
    "end": "2026-09-15T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -72,6 +80,9 @@
    "end": "2026-09-16T10:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -103,6 +114,9 @@
    "end": "2026-09-16T21:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "bellingrath-gardens",
     "name": "Bellingrath Gardens and Home",
@@ -134,6 +148,9 @@
    "end": "2026-09-16T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -162,6 +179,10 @@
    "end": "2026-09-17T11:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
    "venue": {
     "slug": "bloom-play-studio",
     "name": "BLOOM Play Studio",
@@ -193,6 +214,9 @@
    "end": "2026-09-17T17:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "mobile-museum-of-art",
     "name": "Mobile Museum of Art",
@@ -221,6 +245,9 @@
    "end": "2026-09-17T13:30:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "may-day-park",
     "name": "May Day Park",
@@ -249,6 +276,10 @@
    "end": "2026-09-17T16:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
    "venue": {
     "slug": "mobile-museum-of-art",
     "name": "Mobile Museum of Art",
@@ -277,6 +308,10 @@
    "end": "2026-09-17T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -308,6 +343,9 @@
    "end": "2026-09-17T22:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -336,6 +374,9 @@
    "end": "2026-09-17T22:30:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -364,6 +405,10 @@
    "end": "2026-09-18T11:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
    "venue": {
     "slug": "bloom-play-studio",
     "name": "BLOOM Play Studio",
@@ -395,6 +440,10 @@
    "end": "2026-09-18T23:00:00-05:00",
    "all_day": false,
    "category": "nightlife",
+   "categories": [
+    "nightlife",
+    "arts"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -423,6 +472,9 @@
    "end": "2026-09-19T00:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -451,6 +503,10 @@
    "end": "2026-09-19T23:59:59-05:00",
    "all_day": true,
    "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
    "venue": {
     "slug": "bellingrath-gardens",
     "name": "Bellingrath Gardens and Home",
@@ -482,6 +538,9 @@
    "end": "2026-09-19T13:00:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family"
+   ],
    "venue": {
     "slug": "bellingrath-gardens",
     "name": "Bellingrath Gardens and Home",
@@ -513,6 +572,10 @@
    "end": "2026-09-19T14:00:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
    "venue": {
     "slug": "national-maritime-museum",
     "name": "National Maritime Museum of the Gulf of Mexico",
@@ -544,6 +607,9 @@
    "end": "2026-09-19T14:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "mobile-botanical-gardens",
     "name": "Mobile Botanical Gardens",
@@ -575,6 +641,10 @@
    "end": "2026-09-19T16:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
    "venue": {
     "slug": "eastern-shore-art-center",
     "name": "Eastern Shore Art Center",
@@ -606,6 +676,9 @@
    "end": "2026-09-19T23:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -634,6 +707,9 @@
    "end": "2026-09-20T00:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -662,6 +738,10 @@
    "end": "2026-09-20T15:00:00-05:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -690,6 +770,9 @@
    "end": "2026-09-20T19:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "lott-park",
     "name": "W.O. Lott Park",
@@ -718,6 +801,9 @@
    "end": "2026-09-20T23:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -746,6 +832,10 @@
    "end": "2026-09-22T10:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
    "venue": {
     "slug": "everhope-baptist-church",
     "name": "EverHope Baptist Church",
@@ -777,6 +867,10 @@
    "end": "2026-09-22T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -808,6 +902,9 @@
    "end": "2026-09-23T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -836,6 +933,9 @@
    "end": "2026-09-24T11:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family"
+   ],
    "venue": {
     "slug": "bloom-play-studio",
     "name": "BLOOM Play Studio",
@@ -867,6 +967,9 @@
    "end": "2026-09-24T17:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "mobile-museum-of-art",
     "name": "Mobile Museum of Art",
@@ -895,6 +998,9 @@
    "end": "2026-09-24T13:30:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "may-day-park",
     "name": "May Day Park",
@@ -923,6 +1029,10 @@
    "end": "2026-09-24T16:30:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
    "venue": {
     "slug": "mobile-museum-of-art",
     "name": "Mobile Museum of Art",
@@ -951,6 +1061,9 @@
    "end": "2026-09-24T20:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "downtown-fairhope",
     "name": "Downtown Fairhope",
@@ -982,6 +1095,10 @@
    "end": "2026-09-24T20:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "active"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -1010,6 +1127,9 @@
    "end": "2026-09-24T20:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "halstead-amphitheater",
     "name": "Halstead Amphitheater",
@@ -1038,6 +1158,10 @@
    "end": "2026-09-24T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -1069,6 +1193,9 @@
    "end": "2026-09-24T22:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -1097,6 +1224,10 @@
    "end": "2026-09-25T11:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
    "venue": {
     "slug": "bloom-play-studio",
     "name": "BLOOM Play Studio",
@@ -1128,6 +1259,9 @@
    "end": "2026-09-25T17:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -1159,6 +1293,10 @@
    "end": "2026-09-25T20:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "food"
+   ],
    "venue": {
     "slug": "bloom-play-studio",
     "name": "BLOOM Play Studio",
@@ -1190,6 +1328,9 @@
    "end": "2026-09-25T23:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -1221,6 +1362,9 @@
    "end": "2026-09-25T23:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -1249,6 +1393,9 @@
    "end": "2026-09-26T23:59:59-05:00",
    "all_day": true,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "bellingrath-gardens",
     "name": "Bellingrath Gardens and Home",
@@ -1280,6 +1427,9 @@
    "end": "2026-09-27T16:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-grounds",
     "name": "The Grounds",
@@ -1311,6 +1461,9 @@
    "end": "2026-09-26T12:00:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family"
+   ],
    "venue": {
     "slug": "blakeley-state-park",
     "name": "Historic Blakeley State Park",
@@ -1339,6 +1492,9 @@
    "end": "2026-09-26T22:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -1367,6 +1523,10 @@
    "end": "2026-09-26T22:30:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "family"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -1395,6 +1555,9 @@
    "end": "2026-09-26T23:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -1423,6 +1586,9 @@
    "end": "2026-09-27T00:00:00-05:00",
    "all_day": false,
    "category": "nightlife",
+   "categories": [
+    "nightlife"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -1451,6 +1617,9 @@
    "end": "2026-09-27T00:30:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -1479,6 +1648,10 @@
    "end": "2026-09-27T18:25:00-05:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -1507,6 +1680,10 @@
    "end": "2026-09-29T10:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
    "venue": {
     "slug": "everhope-baptist-church",
     "name": "EverHope Baptist Church",
@@ -1538,6 +1715,9 @@
    "end": "2026-09-29T17:30:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -1569,6 +1749,10 @@
    "end": "2026-09-29T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -1600,6 +1784,10 @@
    "end": "2026-09-29T22:00:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -1628,6 +1816,9 @@
    "end": "2026-09-30T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -1656,6 +1847,9 @@
    "end": "2026-09-30T23:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -1684,6 +1878,10 @@
    "end": "2026-10-01T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -1715,6 +1913,9 @@
    "end": "2026-10-01T23:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -1746,6 +1947,9 @@
    "end": "2026-10-02T22:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -1774,6 +1978,9 @@
    "end": "2026-10-02T23:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -1805,6 +2012,9 @@
    "end": "2026-10-02T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -1833,6 +2043,10 @@
    "end": "2026-10-03T22:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -1861,6 +2075,10 @@
    "end": "2026-10-03T22:30:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts",
+    "music"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -1889,6 +2107,9 @@
    "end": "2026-10-04T18:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -1917,6 +2138,10 @@
    "end": "2026-10-04T22:30:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -1948,6 +2173,9 @@
    "end": "2026-10-04T22:30:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -1976,6 +2204,9 @@
    "end": "2026-10-05T22:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -2004,6 +2235,10 @@
    "end": "2026-10-05T22:15:00-05:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2032,6 +2267,10 @@
    "end": "2026-10-06T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -2063,6 +2302,9 @@
    "end": "2026-10-06T23:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -2091,6 +2333,9 @@
    "end": "2026-10-07T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2119,6 +2364,9 @@
    "end": "2026-10-07T23:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -2147,6 +2395,9 @@
    "end": "2026-10-08T17:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -2178,6 +2429,10 @@
    "end": "2026-10-08T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -2209,6 +2464,9 @@
    "end": "2026-10-08T22:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2237,6 +2495,10 @@
    "end": "2026-10-08T23:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -2268,6 +2530,9 @@
    "end": "2026-10-08T23:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -2296,6 +2561,9 @@
    "end": "2026-10-09T21:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2327,6 +2595,10 @@
    "end": "2026-10-09T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -2358,6 +2630,10 @@
    "end": "2026-10-09T22:30:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2386,6 +2662,9 @@
    "end": "2026-10-09T23:30:00-05:00",
    "all_day": false,
    "category": "nightlife",
+   "categories": [
+    "nightlife"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -2414,6 +2693,9 @@
    "end": "2026-10-10T00:30:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -2442,6 +2724,9 @@
    "end": "2026-10-10T22:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2470,6 +2755,9 @@
    "end": "2026-10-10T22:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -2498,6 +2786,10 @@
    "end": "2026-10-11T14:30:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -2529,6 +2821,9 @@
    "end": "2026-10-11T00:30:00-05:00",
    "all_day": false,
    "category": "nightlife",
+   "categories": [
+    "nightlife"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2557,6 +2852,10 @@
    "end": "2026-10-11T15:00:00-05:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2585,6 +2884,10 @@
    "end": "2026-10-13T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -2616,6 +2919,9 @@
    "end": "2026-10-13T23:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -2644,6 +2950,9 @@
    "end": "2026-10-14T10:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -2675,6 +2984,9 @@
    "end": "2026-10-14T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2703,6 +3015,10 @@
    "end": "2026-10-15T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -2734,6 +3050,10 @@
    "end": "2026-10-15T22:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2762,6 +3082,9 @@
    "end": "2026-10-15T22:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -2790,6 +3113,9 @@
    "end": "2026-10-15T23:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -2821,6 +3147,9 @@
    "end": "2026-10-16T22:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2849,6 +3178,9 @@
    "end": "2026-10-16T23:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -2877,6 +3209,10 @@
    "end": "2026-10-17T18:00:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
    "venue": {
     "slug": "pops-midtown",
     "name": "Pop's Midtown",
@@ -2908,6 +3244,10 @@
    "end": "2026-10-17T22:00:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2936,6 +3276,10 @@
    "end": "2026-10-17T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -2964,6 +3308,9 @@
    "end": "2026-10-17T23:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -2995,6 +3342,9 @@
    "end": "2026-10-17T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -3023,6 +3373,10 @@
    "end": "2026-10-18T15:00:00-05:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -3051,6 +3405,9 @@
    "end": "2026-10-18T22:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -3079,6 +3436,9 @@
    "end": "2026-10-18T23:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -3107,6 +3467,10 @@
    "end": "2026-10-20T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -3138,6 +3502,10 @@
    "end": "2026-10-20T22:30:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts",
+    "music"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -3166,6 +3534,9 @@
    "end": "2026-10-20T22:30:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -3194,6 +3565,9 @@
    "end": "2026-10-20T23:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -3222,6 +3596,9 @@
    "end": "2026-10-21T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -3250,6 +3627,10 @@
    "end": "2026-10-22T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -3281,6 +3662,9 @@
    "end": "2026-10-23T23:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -3312,6 +3696,9 @@
    "end": "2026-10-24T21:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -3340,6 +3727,10 @@
    "end": "2026-10-25T11:30:00-05:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -3368,6 +3759,9 @@
    "end": "2026-10-26T22:30:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -3396,6 +3790,9 @@
    "end": "2026-10-27T17:30:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -3427,6 +3824,10 @@
    "end": "2026-10-27T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -3458,6 +3859,9 @@
    "end": "2026-10-27T22:30:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -3486,6 +3890,9 @@
    "end": "2026-10-28T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -3514,6 +3921,10 @@
    "end": "2026-10-29T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -3545,6 +3956,9 @@
    "end": "2026-10-29T22:00:00-05:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -3573,6 +3987,9 @@
    "end": "2026-10-30T17:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -3604,6 +4021,9 @@
    "end": "2026-10-30T22:30:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -3632,6 +4052,9 @@
    "end": "2026-10-30T23:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -3660,6 +4083,9 @@
    "end": "2026-10-31T23:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -3688,6 +4114,9 @@
    "end": "2026-11-01T00:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -3716,6 +4145,10 @@
    "end": "2026-11-03T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -3747,6 +4180,9 @@
    "end": "2026-11-04T22:00:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -3775,6 +4211,9 @@
    "end": "2026-11-04T23:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -3803,6 +4242,10 @@
    "end": "2026-11-05T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -3834,6 +4277,9 @@
    "end": "2026-11-05T23:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -3862,6 +4308,9 @@
    "end": "2026-11-06T22:00:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -3890,6 +4339,9 @@
    "end": "2026-11-06T22:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "alabama-music-box",
     "name": "Alabama Music Box",
@@ -3918,6 +4370,9 @@
    "end": "2026-11-06T23:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -3949,6 +4404,10 @@
    "end": "2026-11-08T14:30:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -3980,6 +4439,10 @@
    "end": "2026-11-07T22:30:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts",
+    "music"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -4008,6 +4471,9 @@
    "end": "2026-11-07T23:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -4036,6 +4502,10 @@
    "end": "2026-11-08T15:00:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -4064,6 +4534,9 @@
    "end": "2026-11-08T21:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "alabama-music-box",
     "name": "Alabama Music Box",
@@ -4092,6 +4565,9 @@
    "end": "2026-11-08T23:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -4123,6 +4599,10 @@
    "end": "2026-11-10T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -4154,6 +4634,9 @@
    "end": "2026-11-11T10:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -4185,6 +4668,9 @@
    "end": "2026-11-12T00:30:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -4213,6 +4699,9 @@
    "end": "2026-11-12T17:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -4244,6 +4733,10 @@
    "end": "2026-11-12T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -4275,6 +4768,10 @@
    "end": "2026-11-12T22:30:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "family"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -4303,6 +4800,9 @@
    "end": "2026-11-13T21:00:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -4334,6 +4834,10 @@
    "end": "2026-11-13T22:30:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -4362,6 +4866,9 @@
    "end": "2026-11-14T22:00:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -4390,6 +4897,10 @@
    "end": "2026-11-15T15:00:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -4418,6 +4929,10 @@
    "end": "2026-11-17T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -4449,6 +4964,10 @@
    "end": "2026-11-18T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "family"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -4477,6 +4996,9 @@
    "end": "2026-11-18T22:30:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -4505,6 +5027,10 @@
    "end": "2026-11-19T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -4536,6 +5062,9 @@
    "end": "2026-11-19T22:30:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -4564,6 +5093,9 @@
    "end": "2026-11-20T20:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "downtown-fairhope",
     "name": "Downtown Fairhope",
@@ -4595,6 +5127,9 @@
    "end": "2026-11-20T23:00:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -4623,6 +5158,9 @@
    "end": "2026-11-21T22:00:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -4651,6 +5189,10 @@
    "end": "2026-11-21T23:00:00-06:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -4679,6 +5221,10 @@
    "end": "2026-11-22T15:00:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -4707,6 +5253,9 @@
    "end": "2026-11-24T17:30:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -4738,6 +5287,10 @@
    "end": "2026-11-24T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -4769,6 +5322,10 @@
    "end": "2026-11-26T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -4800,6 +5357,9 @@
    "end": "2026-11-27T17:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -4831,6 +5391,10 @@
    "end": "2026-11-29T15:00:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -4859,6 +5423,9 @@
    "end": "2026-11-30T22:30:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -4887,6 +5454,10 @@
    "end": "2026-12-01T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -4918,6 +5489,9 @@
    "end": "2026-12-01T23:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -4946,6 +5520,10 @@
    "end": "2026-12-03T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -4977,6 +5555,10 @@
    "end": "2026-12-03T23:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -5008,6 +5590,9 @@
    "end": "2026-12-04T22:00:00-06:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -5036,6 +5621,9 @@
    "end": "2026-12-04T23:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "soul-kitchen",
     "name": "Soul Kitchen Music Hall",
@@ -5064,6 +5652,10 @@
    "end": "2026-12-05T22:30:00-06:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -5092,6 +5684,9 @@
    "end": "2026-12-05T22:30:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -5120,6 +5715,9 @@
    "end": "2026-12-05T22:30:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -5148,6 +5746,10 @@
    "end": "2026-12-06T15:00:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -5176,6 +5778,9 @@
    "end": "2026-12-06T22:30:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -5204,6 +5809,10 @@
    "end": "2026-12-08T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -5235,6 +5844,9 @@
    "end": "2026-12-09T10:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -5266,6 +5878,10 @@
    "end": "2026-12-09T22:30:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -5294,6 +5910,9 @@
    "end": "2026-12-10T17:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -5325,6 +5944,10 @@
    "end": "2026-12-10T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
    "venue": {
     "slug": "moes-original-bbq-mobile",
     "name": "Moe's Original BBQ (Downtown Mobile)",
@@ -5356,6 +5979,9 @@
    "end": "2026-12-10T22:00:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -5384,6 +6010,9 @@
    "end": "2026-12-10T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "cottage-hill-baptist-church",
     "name": "Cottage Hill Baptist Church",
@@ -5412,6 +6041,9 @@
    "end": "2026-12-11T21:00:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -5443,6 +6075,10 @@
    "end": "2026-12-11T22:30:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -5471,6 +6107,10 @@
    "end": "2026-12-13T14:30:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -5502,6 +6142,9 @@
    "end": "2026-12-12T23:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -5530,6 +6173,10 @@
    "end": "2026-12-13T15:00:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",

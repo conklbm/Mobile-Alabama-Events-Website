@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-09-15T13:33:27Z",
+ "generated": "2026-09-15T13:36:19Z",
  "events": [
   {
    "id": 21,
@@ -9,7 +9,11 @@
    "start": "2026-09-15T10:00:00-05:00",
    "end": "2026-09-15T11:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -38,6 +42,9 @@
    "end": "2026-09-15T14:00:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -59,34 +66,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 20,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-09-15T17:00:00-05:00",
-   "end": "2026-09-15T18:00:00-05:00",
-   "all_day": false,
-   "category": "sports",
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9149",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 22,
    "series_slug": "city-council-meeting-orange-beach-city-hall",
    "title": "City Council Meeting",
@@ -94,6 +73,9 @@
    "end": "2026-09-15T19:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -121,7 +103,11 @@
    "start": "2026-09-16T09:00:00-05:00",
    "end": "2026-09-16T10:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -149,7 +135,10 @@
    "start": "2026-09-16T10:00:00-05:00",
    "end": "2026-09-16T11:00:00-05:00",
    "all_day": false,
-   "category": "community",
+   "category": "active",
+   "categories": [
+    "active"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -178,6 +167,9 @@
    "end": "2026-09-16T16:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -206,6 +198,9 @@
    "end": "2026-09-16T17:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -233,7 +228,11 @@
    "start": "2026-09-17T07:20:00-05:00",
    "end": "2026-09-17T08:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -262,6 +261,9 @@
    "end": "2026-09-17T20:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "gulf-place",
     "name": "Gulf Place",
@@ -290,6 +292,9 @@
    "end": "2026-09-17T21:30:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -318,6 +323,10 @@
    "end": "2026-09-18T23:59:59-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "community"
+   ],
    "venue": {
     "slug": "community-maritime-park",
     "name": "Community Maritime Park",
@@ -345,7 +354,11 @@
    "start": "2026-09-18T09:00:00-05:00",
    "end": "2026-09-18T10:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -373,7 +386,11 @@
    "start": "2026-09-18T09:00:00-05:00",
    "end": "2026-09-18T10:00:00-05:00",
    "all_day": false,
-   "category": "family",
+   "category": "active",
+   "categories": [
+    "active",
+    "family"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -402,6 +419,9 @@
    "end": "2026-09-19T00:30:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "vinyl-music-hall",
     "name": "Vinyl Music Hall",
@@ -430,6 +450,10 @@
    "end": "2026-09-19T23:59:59-05:00",
    "all_day": true,
    "category": "sports",
+   "categories": [
+    "sports",
+    "family"
+   ],
    "venue": {
     "slug": "the-wharf-amphitheater",
     "name": "The Wharf Amphitheater",
@@ -458,6 +482,9 @@
    "end": "2026-09-19T12:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -486,6 +513,9 @@
    "end": "2026-09-19T17:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -514,6 +544,10 @@
    "end": "2026-09-19T17:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
    "venue": {
     "slug": "the-wharf-amphitheater",
     "name": "The Wharf Amphitheater",
@@ -541,7 +575,11 @@
    "start": "2026-09-19T10:00:00-05:00",
    "end": "2026-09-19T11:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -570,6 +608,9 @@
    "end": "2026-09-19T17:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music"
+   ],
    "venue": {
     "slug": "community-maritime-park",
     "name": "Community Maritime Park",
@@ -598,6 +639,10 @@
    "end": "2026-09-19T22:30:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
    "venue": {
     "slug": "owa-parks-resort",
     "name": "OWA Parks & Resort",
@@ -629,6 +674,9 @@
    "end": "2026-09-19T22:30:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -657,6 +705,9 @@
    "end": "2026-09-20T15:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -685,6 +736,10 @@
    "end": "2026-09-20T15:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
    "venue": {
     "slug": "the-wharf-amphitheater",
     "name": "The Wharf Amphitheater",
@@ -713,6 +768,9 @@
    "end": "2026-09-20T17:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "community-maritime-park",
     "name": "Community Maritime Park",
@@ -741,6 +799,10 @@
    "end": "2026-09-21T09:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "active"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -769,6 +831,9 @@
    "end": "2026-09-21T14:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -797,6 +862,9 @@
    "end": "2026-09-21T17:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "gulf-shores-city-hall",
     "name": "Gulf Shores City Hall",
@@ -824,7 +892,11 @@
    "start": "2026-09-21T17:00:00-05:00",
    "end": "2026-09-21T18:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -852,7 +924,11 @@
    "start": "2026-09-22T10:00:00-05:00",
    "end": "2026-09-22T11:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -880,7 +956,10 @@
    "start": "2026-09-22T14:00:00-05:00",
    "end": "2026-09-22T14:15:00-05:00",
    "all_day": false,
-   "category": "community",
+   "category": "active",
+   "categories": [
+    "active"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -909,6 +988,9 @@
    "end": "2026-09-22T17:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "gulf-shores-city-hall",
     "name": "Gulf Shores City Hall",
@@ -936,7 +1018,11 @@
    "start": "2026-09-22T17:00:00-05:00",
    "end": "2026-09-22T18:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -964,7 +1050,11 @@
    "start": "2026-09-23T09:00:00-05:00",
    "end": "2026-09-23T10:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -993,6 +1083,9 @@
    "end": "2026-09-23T10:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -1020,7 +1113,11 @@
    "start": "2026-09-24T07:20:00-05:00",
    "end": "2026-09-24T08:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -1049,6 +1146,9 @@
    "end": "2026-09-24T14:00:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -1076,7 +1176,10 @@
    "start": "2026-09-24T14:00:00-05:00",
    "end": "2026-09-24T14:15:00-05:00",
    "all_day": false,
-   "category": "community",
+   "category": "active",
+   "categories": [
+    "active"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -1104,7 +1207,11 @@
    "start": "2026-09-25T08:00:00-05:00",
    "end": "2026-09-25T09:00:00-05:00",
    "all_day": false,
-   "category": "family",
+   "category": "active",
+   "categories": [
+    "active",
+    "family"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -1132,7 +1239,11 @@
    "start": "2026-09-25T09:00:00-05:00",
    "end": "2026-09-25T10:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -1161,6 +1272,9 @@
    "end": "2026-09-25T09:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -1189,6 +1303,10 @@
    "end": "2026-09-26T23:59:59-05:00",
    "all_day": true,
    "category": "sports",
+   "categories": [
+    "sports",
+    "family"
+   ],
    "venue": {
     "slug": "the-wharf-amphitheater",
     "name": "The Wharf Amphitheater",
@@ -1217,6 +1335,10 @@
    "end": "2026-09-26T11:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "sports"
+   ],
    "venue": {
     "slug": "the-wharf-amphitheater",
     "name": "The Wharf Amphitheater",
@@ -1244,7 +1366,11 @@
    "start": "2026-09-26T10:00:00-05:00",
    "end": "2026-09-26T11:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -1273,6 +1399,9 @@
    "end": "2026-09-26T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -1304,6 +1433,10 @@
    "end": "2026-09-28T09:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "active"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -1331,7 +1464,10 @@
    "start": "2026-09-28T09:00:00-05:00",
    "end": "2026-09-28T10:30:00-05:00",
    "all_day": false,
-   "category": "community",
+   "category": "active",
+   "categories": [
+    "active"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -1360,6 +1496,9 @@
    "end": "2026-09-28T17:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "gulf-shores-city-hall",
     "name": "Gulf Shores City Hall",
@@ -1387,7 +1526,11 @@
    "start": "2026-09-28T17:00:00-05:00",
    "end": "2026-09-28T18:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -1409,41 +1552,17 @@
    "independent_source_count": 1
   },
   {
-   "id": 282,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-09-29T07:20:00-05:00",
-   "end": "2026-09-29T08:00:00-05:00",
-   "all_day": false,
-   "category": "sports",
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9153",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 283,
    "series_slug": "gentle-stretch-yoga",
    "title": "Gentle Stretch Yoga",
    "start": "2026-09-29T10:00:00-05:00",
    "end": "2026-09-29T11:00:00-05:00",
    "all_day": false,
-   "category": "sports",
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
    "venue": {
     "slug": "orange-beach-city-hall",
     "name": "Orange Beach City Hall",
@@ -1472,6 +1591,10 @@
    "end": "2026-09-29T14:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -1493,6 +1616,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 282,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-09-29T17:00:00-05:00",
+   "end": "2026-09-29T18:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9153",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 87,
    "series_slug": "night-day-birds-of-prey",
    "title": "Night & Day Birds of Prey",
@@ -1500,6 +1655,9 @@
    "end": "2026-09-30T11:00:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -1528,6 +1686,10 @@
    "end": "2026-09-30T16:30:00-05:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family",
+    "food"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -1556,6 +1718,10 @@
    "end": "2026-10-01T11:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
    "venue": {
     "slug": "gulf-state-park",
     "name": "Gulf State Park",
@@ -1584,6 +1750,9 @@
    "end": "2026-10-03T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "the-wharf-amphitheater",
     "name": "The Wharf Amphitheater",
@@ -1615,6 +1784,10 @@
    "end": "2026-10-11T17:00:00-05:00",
    "all_day": false,
    "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
    "venue": {
     "slug": "gulf-place",
     "name": "Gulf Place",
@@ -1643,6 +1816,10 @@
    "end": "2026-10-10T20:00:00-05:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "food"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -1671,6 +1848,9 @@
    "end": "2026-10-15T22:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "vinyl-music-hall",
     "name": "Vinyl Music Hall",
@@ -1699,6 +1879,9 @@
    "end": "2026-10-16T23:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "vinyl-music-hall",
     "name": "Vinyl Music Hall",
@@ -1727,6 +1910,10 @@
    "end": "2026-10-17T22:05:00-05:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -1755,6 +1942,10 @@
    "end": "2026-10-19T22:00:00-05:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
    "venue": {
     "slug": "owa-parks-resort",
     "name": "OWA Parks & Resort",
@@ -1786,6 +1977,9 @@
    "end": "2026-10-22T22:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -1814,6 +2008,9 @@
    "end": "2026-10-23T21:30:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -1842,6 +2039,10 @@
    "end": "2026-10-24T22:05:00-05:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -1870,6 +2071,9 @@
    "end": "2026-10-29T22:30:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-handlebar-pensacola",
     "name": "The Handlebar",
@@ -1898,6 +2102,10 @@
    "end": "2026-10-30T22:05:00-05:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -1926,6 +2134,9 @@
    "end": "2026-10-31T22:00:00-05:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "vinyl-music-hall",
     "name": "Vinyl Music Hall",
@@ -1954,6 +2165,10 @@
    "end": "2026-11-01T19:05:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -1982,6 +2197,10 @@
    "end": "2026-11-06T22:30:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
    "venue": {
     "slug": "owa-parks-resort",
     "name": "OWA Parks & Resort",
@@ -2013,6 +2232,9 @@
    "end": "2026-11-10T22:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "vinyl-music-hall",
     "name": "Vinyl Music Hall",
@@ -2041,6 +2263,9 @@
    "end": "2026-11-11T22:00:00-06:00",
    "all_day": false,
    "category": "family",
+   "categories": [
+    "family"
+   ],
    "venue": {
     "slug": "vinyl-music-hall",
     "name": "Vinyl Music Hall",
@@ -2069,6 +2294,10 @@
    "end": "2026-11-12T22:00:00-06:00",
    "all_day": false,
    "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
    "venue": {
     "slug": "owa-parks-resort",
     "name": "OWA Parks & Resort",
@@ -2100,6 +2329,10 @@
    "end": "2026-11-12T22:00:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "food"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -2128,6 +2361,10 @@
    "end": "2026-11-13T22:05:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -2156,6 +2393,10 @@
    "end": "2026-11-14T22:05:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -2184,6 +2425,9 @@
    "end": "2026-11-14T23:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "the-handlebar-pensacola",
     "name": "The Handlebar",
@@ -2212,6 +2456,9 @@
    "end": "2026-11-19T22:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "marcus-pointe-baptist-church",
     "name": "Marcus Pointe Baptist Church",
@@ -2240,6 +2487,9 @@
    "end": "2026-11-20T23:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "vinyl-music-hall",
     "name": "Vinyl Music Hall",
@@ -2268,6 +2518,9 @@
    "end": "2026-11-21T23:59:59-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -2296,6 +2549,9 @@
    "end": "2026-11-21T19:00:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -2324,6 +2580,10 @@
    "end": "2026-11-22T17:00:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "food"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -2352,6 +2612,10 @@
    "end": "2026-11-25T22:05:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -2380,6 +2644,10 @@
    "end": "2026-11-28T22:05:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -2408,6 +2676,10 @@
    "end": "2026-11-29T17:00:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "food"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -2436,6 +2708,10 @@
    "end": "2026-12-05T22:05:00-06:00",
    "all_day": false,
    "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -2464,6 +2740,9 @@
    "end": "2026-12-06T22:00:00-06:00",
    "all_day": false,
    "category": "community",
+   "categories": [
+    "community"
+   ],
    "venue": {
     "slug": "vinyl-music-hall",
     "name": "Vinyl Music Hall",
@@ -2492,6 +2771,9 @@
    "end": "2026-12-11T22:00:00-06:00",
    "all_day": false,
    "category": "arts",
+   "categories": [
+    "arts"
+   ],
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",

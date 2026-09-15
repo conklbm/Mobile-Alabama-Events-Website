@@ -46,3 +46,22 @@ python -m http.server -d site 8000       # preview
 
 ## Git workflow
 Ask before pulling on first touch of the repo and before any push (direct to `main` vs. dev branch + PR). See global CLAUDE.md.
+
+## Git workflow: always confirm branch strategy
+
+When starting work in a repository I haven't touched yet this session (a fresh
+codebase, or the first git action after opening a new project):
+- Before doing anything else, ask whether I want to pull the latest `main` (or
+  the repo's default branch) first, rather than assuming the working copy is
+  current.
+
+When it's time to push commits:
+- Always ask whether I want to:
+  1. Push directly to `main`, or
+  2. Create/use a `dev` branch, push there, and open a pull request into `main`.
+- Never push to `main` without this confirmation.
+- If I choose the dev/PR path, ask for a branch name (or suggest one from the
+  work just done) before creating it.
+
+Ask these as explicit questions — don't infer the answer from context or past
+sessions.

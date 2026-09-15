@@ -77,6 +77,7 @@ CREATE TABLE IF NOT EXISTS occurrences (
   ticket_url TEXT,
   info_url TEXT,
   category TEXT NOT NULL DEFAULT 'community',
+  categories TEXT NOT NULL DEFAULT '[]',      -- JSON list, primary first, max 2
   status TEXT NOT NULL DEFAULT 'active',        -- active | flagged_cancelled | canceled
   independent_source_count INTEGER NOT NULL DEFAULT 0,
   curation_score INTEGER NOT NULL DEFAULT 0,
@@ -180,6 +181,10 @@ def _migrate(conn: sqlite3.Connection) -> None:
     cols = {r[1] for r in conn.execute("PRAGMA table_info(occurrences)")}
     if "time_tba" not in cols:
         conn.execute("ALTER TABLE occurrences ADD COLUMN time_tba INTEGER NOT NULL DEFAULT 0")
+        conn.commit()
+    if "categories" not in cols:
+        conn.execute("ALTER TABLE occurrences ADD COLUMN categories TEXT NOT NULL DEFAULT '[]'")
+        conn.execute("UPDATE occurrences SET categories = '[\"' || category || '\"]'")
         conn.commit()
 
 

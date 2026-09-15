@@ -37,7 +37,7 @@ def export(conn: sqlite3.Connection, out: Path | None = None, regions: tuple[str
                 "id": r["id"], "series_slug": r["series_slug"], "title": r["title_raw"],
                 "start": from_utc(r["start_utc"], r["timezone"]).isoformat(),
                 "end": from_utc(r["end_utc"], r["timezone"]).isoformat(),
-                "all_day": bool(r["all_day"]), "category": r["category"],
+                "all_day": bool(r["all_day"]), "category": r["category"], "categories": db.uj(r["categories"]) or [r["category"]],
                 "venue": {"slug": v["slug"], "name": v["canonical_name"], "city": v["city"], "regions": db.uj(v["regions"])} if v else {"name": r["venue_name_raw"]},
                 "price": r["price"], "ticket_url": r["ticket_url"],
                 "info_url": (p["origin_url"] or p["source_url"]) if p else r["info_url"],

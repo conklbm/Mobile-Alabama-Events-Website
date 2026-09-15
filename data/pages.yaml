@@ -64,8 +64,8 @@ cities:
 categories:
   - slug: live-music-mobile-al
     category: music
-    title: Live Music in Mobile, AL This Week
-    h1: Live Music in Mobile
+    title: Music in Mobile, AL This Week
+    h1: Music in Mobile
     intro: >
       Every show we can find in the metro this week, from the Saenger and Soul
       Kitchen to neighborhood bars like Callaghan's that never charge a cover.
@@ -100,13 +100,21 @@ categories:
       Stage, gallery, and screen. Joe Jefferson Players and Playhouse in the Park
       run community theater seasons; the Museum of Art and Alabama Contemporary
       rotate exhibits every few months.
+  - slug: active-mobile-al
+    category: active
+    title: Runs, Races & Fitness in Mobile, AL
+    h1: Active in Mobile
+    intro: >
+      Things you do, not watch: 5Ks, group rides, yoga in the park, guided hikes,
+      paddles, and pickleball. Most races start downtown or in Fairhope; register
+      early, race-day signup usually costs more.
   - slug: sports-events-mobile-al
     category: sports
-    title: Sports & Races in Mobile, AL
-    h1: Sports & Races in Mobile
+    title: Sports in Mobile, AL
+    h1: Sports in Mobile
     intro: >
-      Games, races, tournaments, and fishing rodeos. South Alabama football is at
-      Hancock Whitney Stadium; most 5Ks start downtown or in Fairhope.
+      Games and matches to watch. South Alabama football is at Hancock Whitney
+      Stadium; the Jaguars and high school schedules fill fall weekends.
   - slug: nightlife-mobile-al
     category: nightlife
     title: Nightlife in Mobile, AL

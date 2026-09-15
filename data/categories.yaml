@@ -1,6 +1,6 @@
-# Category classification. First matching rule wins; order matters.
-# Checked against source category names first, then title, then description (weak).
-# Categories: music, family, food, arts, sports, community, nightlife
+# Category classification. An event gets up to TWO categories: the first two rules that
+# match, in this order, checking source category names first, then title, then description.
+# Categories: music, family, food, active, sports, arts, community, nightlife
 
 rules:
   - category: family
@@ -9,8 +9,10 @@ rules:
     keywords: [concert, live music, band, orchestra, symphony, jazz, blues, bluegrass, dj, acoustic, choir, recital, open mic, songwriter, singer-songwriter, "92zew live", concert series, music series]
   - category: food
     keywords: [food, brunch, dinner, tasting, wine, beer fest, crawfish, oyster, bbq, barbecue, cookoff, cook-off, farmers market, "farmers' market", food truck, brewery, taco, gumbo, seafood, shrimp festival]
+  - category: active
+    keywords: [5k, 10k, half marathon, marathon, fun run, run, race, triathlon, yoga, fitness, workout, zumba, pilates, bootcamp, boot camp, cycling, bike, ride, hike, hiking, trail, paddle, kayak, pickleball, tennis, golf, swim, climb, walk, stretch, crossfit, fishing rodeo, rodeo]
   - category: sports
-    keywords: [game, race, 5k, 10k, marathon, run, tournament, football, baseball, basketball, soccer, golf, fishing, rodeo, regatta, fun run, triathlon, pickleball, wrestling, cycling, yoga, fitness, workout, zumba, pilates, bootcamp, boot camp]
+    keywords: [game, football, baseball, basketball, soccer, hockey, volleyball, wrestling, boxing, mma, regatta, tournament, vs., match, jaguars, bay bears, blue wahoos]
   - category: community
     keywords: [meeting, council, commission, volunteer, cleanup, clean-up, church, class, seminar, workshop, market, festival, parade, fair, fundraiser, gala, open house, job fair, resume, health, blood drive, networking, meetup, town hall, pop up, pop-up, lab, entrepreneur, entrepreneurs, business, startup, founders, user group, user groups, chamber, leadership, eos, mastermind, coworking]
   - category: arts

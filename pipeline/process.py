@@ -10,7 +10,7 @@ from collections import defaultdict
 from datetime import date
 
 from . import config, db, freshness, review, scoring
-from .categories import classify
+from .categories import classify_all
 from .collect import load_run_with_ids
 from .dates import default_end, iso_utc
 from .matcher import Matcher, MatchSchema
@@ -69,7 +69,8 @@ def normalize(ev: RawEvent, source: dict, resolver: VenueResolver) -> dict | Non
         "price": ev.price or "",
         "ticket_url": ev.ticket_url or "",
         "info_url": ev.info_url or "",
-        "category": classify(title, ev.categories, ev.description),
+        "category": classify_all(title, ev.categories, ev.description)[0],
+        "categories": classify_all(title, ev.categories, ev.description),
         "regions": list(regions),
         "origin_url": origin_url,
         "origin_tier": origin_tier,
@@ -193,8 +194,8 @@ def _refresh(conn, existing, n, venue_id, raw_pull_id, now, sources) -> None:
     primary = scoring.primary_source(conn, occ["id"])
     if primary and primary["source_id"] == existing["source_id"]:
         # the best source's dates win; a moved event moves
-        if occ["category"] != n["category"]:
-            conn.execute("UPDATE occurrences SET category=? WHERE id=?", (n["category"], occ["id"]))
+        if occ["category"] != n["category"] or db.uj(occ["categories"]) != n["categories"]:
+            conn.execute("UPDATE occurrences SET category=?, categories=? WHERE id=?", (n["category"], db.j(n["categories"]), occ["id"]))
         if (occ["start_utc"], occ["end_utc"], occ["time_tba"], occ["date_confident"]) != (n["start_utc"], n["end_utc"], n["time_tba"], n["date_confident"]) or occ["title_raw"] != n["title"]:
             conn.execute(
                 """UPDATE occurrences SET start_utc=?, end_utc=?, local_day=?, all_day=?, time_tba=?, date_confident=?, title_raw=?, title_key=?, updated_at=?
@@ -223,12 +224,12 @@ def _merge_into(conn, oid, n, matcher: Matcher, now) -> None:
 def _create_occurrence(conn, n, venue_id, series_id, res, now) -> int:
     cur = conn.execute(
         """INSERT INTO occurrences (series_id, title_raw, title_key, start_utc, end_utc, timezone, local_day, all_day, time_tba, date_confident,
-           venue_id, venue_name_raw, venue_key, city, regions, description, price, ticket_url, info_url, category, status,
+           venue_id, venue_name_raw, venue_key, city, regions, description, price, ticket_url, info_url, category, categories, status,
            match_ambiguous, match_candidate_id, publish_state, created_at, updated_at)
-           VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,'active',?,?,'held',?,?)""",
+           VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,'active',?,?,'held',?,?)""",
         (series_id, n["title"], n["title_key"], n["start_utc"], n["end_utc"], n["timezone"], n["local_day"], n["all_day"], n["time_tba"],
          n["date_confident"], venue_id, n["venue_name_raw"], n["venue_key"], n["city"], db.j(n["regions"]), n["description"], n["price"],
-         n["ticket_url"], n["info_url"], n["category"], int(res.decision == "ambiguous"),
+         n["ticket_url"], n["info_url"], n["category"], db.j(n["categories"]), int(res.decision == "ambiguous"),
          res.candidate["id"] if res.decision == "ambiguous" and res.candidate else None, now, now),
     )
     return cur.lastrowid

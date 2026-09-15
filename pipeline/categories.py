@@ -7,7 +7,8 @@ from functools import lru_cache
 
 from . import config
 
-CATEGORIES = ["music", "family", "food", "arts", "sports", "community", "nightlife"]
+CATEGORIES = ["music", "family", "food", "active", "sports", "arts", "community", "nightlife"]
+MAX_CATEGORIES = 2
 
 
 @lru_cache(maxsize=None)
@@ -19,20 +20,28 @@ def _rules() -> list[tuple[str, list[re.Pattern]]]:
     return out
 
 
-def classify(title: str, source_categories: list[str] | None = None, description: str = "") -> str:
-    """Source categories are checked first (strong signal), then title, then description (weak)."""
+def classify_all(title: str, source_categories: list[str] | None = None, description: str = "") -> list[str]:
+    """Up to MAX_CATEGORIES categories. Source categories are checked first (strong signal),
+    then title, then description (weak). Rule order breaks ties within a text."""
     texts = [
         " ".join(source_categories or []).lower(),
         (title or "").lower(),
         (description or "")[:400].lower(),
     ]
+    found: list[str] = []
     for text in texts:
         if not text.strip():
             continue
         for cat, pats in _rules():
-            if any(p.search(text) for p in pats):
-                return cat
-    return config.categories().get("default", "community")
+            if cat not in found and any(p.search(text) for p in pats):
+                found.append(cat)
+                if len(found) >= MAX_CATEGORIES:
+                    return found
+    return found or [config.categories().get("default", "community")]
+
+
+def classify(title: str, source_categories: list[str] | None = None, description: str = "") -> str:
+    return classify_all(title, source_categories, description)[0]
 
 
 def never_feature(title: str) -> bool:

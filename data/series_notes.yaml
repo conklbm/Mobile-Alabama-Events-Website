@@ -7,7 +7,7 @@
 #     kids_under_6: true | false        # shown as a flag
 #     parking: short note
 #     cadence: annual | weekly | monthly | one_off   # overrides the detected value
-#     category: music | family | ...                 # overrides the classifier
+#     category: music | [music, nightlife]           # overrides the classifier (1 or 2)
 #     featured: true                                 # pin to the homepage top list
 #     never_feature: true                            # keep off the top list
 
@@ -16,4 +16,4 @@ beer-bbq-bingo:
   kids_under_6: true
   parking: "Springhill Ave lot fills by 6:45; street parking on Warren St."
   cadence: weekly
-  category: nightlife
+  category: [nightlife, food]

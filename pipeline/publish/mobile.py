@@ -32,9 +32,10 @@ TEMPLATES = HERE / "templates"
 STATIC = HERE / "static"
 
 CATEGORY_LABELS = {
-    "music": "Live Music", "family": "Family & Kids", "food": "Food & Drink", "arts": "Arts & Theater",
-    "sports": "Sports & Races", "community": "Community", "nightlife": "Nightlife",
+    "music": "Music", "family": "Family & Kids", "food": "Food & Drink", "active": "Active",
+    "sports": "Sports", "arts": "Arts & Theater", "community": "Community", "nightlife": "Nightlife",
 }
+CATEGORY_ORDER = ["music", "family", "food", "active", "sports", "arts", "community", "nightlife"]
 
 
 # ---------- view models ----------
@@ -94,6 +95,9 @@ class Site:
         primary = srows[0] if srows else None
         info_url = (primary["origin_url"] or primary["source_url"]) if primary else (r["info_url"] or "")
         notes = self.notes.get(r["series_slug"]) or {}
+        override = notes.get("category")
+        cats = ([override] if isinstance(override, str) else list(override)) if override else (db.uj(r["categories"]) or [r["category"]])
+        cats = [c for c in cats if c in CATEGORY_LABELS][:2] or ["community"]
         multi_day = end.date() > start.date() and r["all_day"]
         return {
             "id": r["id"], "series_id": r["series_id"], "series_slug": r["series_slug"],
@@ -110,8 +114,10 @@ class Site:
             "sources": [{"name": x["name"], "url": x["origin_url"] or x["source_url"], "tier": x["tier"]} for x in srows if (x["origin_url"] or x["source_url"])],
             "powered_by_ticketmaster": any(x["collector_type"] == "ticketmaster" for x in srows),
             "image": {"url": r["image_url"], "credit": r["image_credit"], "source_url": r["image_source_url"]} if r["image_ok"] and r["image_url"] else None,
-            "category": notes.get("category") or r["category"],
-            "category_label": CATEGORY_LABELS.get(notes.get("category") or r["category"], "Community"),
+            "category": cats[0],
+            "categories": cats,
+            "category_label": CATEGORY_LABELS.get(cats[0], "Community"),
+            "category_labels": [CATEGORY_LABELS.get(c, c.title()) for c in cats],
             "description": r["description"] or "",
             "excerpt": excerpt(r["description"], 180),
             "kids_under_6": bool(notes.get("kids_under_6")),
@@ -202,6 +208,7 @@ class Renderer:
         self.env.filters["clock"] = _clock
         self.env.filters["isodt"] = lambda d: d.isoformat()
         self.env.filters["catlabel"] = lambda c: CATEGORY_LABELS.get(c, c.title())
+        self.env.globals["CATEGORY_ORDER"] = CATEGORY_ORDER
         self.urls: list[tuple[str, str]] = []  # (path, lastmod)
         self.redirects: list[dict] = []
         self.nav = {
@@ -287,10 +294,6 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
 
     # home
     week = site.within(7)
-    by_cat: dict[str, list[dict]] = defaultdict(list)
-    for o in week:
-        by_cat[o["category"]].append(o)
-    cat_order = ["music", "family", "food", "arts", "sports", "nightlife", "community"]
     r.page("/", "index.html", title=f"{site.name} — What's happening in Mobile, AL this week",
            description="This week's events in Mobile, the Eastern Shore, and Dauphin Island, pulled from venue calendars and merged so each shows once. Updated every Thursday.",
            featured=site.featured(), groups=group_by_day(week), week=week,
@@ -325,7 +328,7 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
     # category pages
     for c in site.pages.get("categories", []):
         cat = c["category"]
-        occs = [o for o in site.upcoming if (o["is_free"] if cat == "free" else o["category"] == cat)]
+        occs = [o for o in site.upcoming if (o["is_free"] if cat == "free" else cat in o["categories"])]
         r.page(f"/{c['slug']}/", "list.html", title=c["title"], description=(c.get("intro") or "").strip()[:160],
                h1=c["h1"], intro=(c.get("intro") or "").strip(), groups=group_by_day(occs),
                empty="Nothing in this category right now. New events are added every Thursday.", noindex=len(occs) == 0)

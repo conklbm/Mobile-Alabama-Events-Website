@@ -80,7 +80,7 @@
       <span class="row-title">Crescent Comedy Chaos</span>
       <span class="row-sub">Downtown Mobile, Mobile · $2.06</span>
     </span>
-    <span class="tag tag-arts row-tag">Arts &amp; Theater</span>
+    <span class="row-tags"><span class="tag tag-arts row-tag">Arts &amp; Theater</span></span>
   </a>
 </li><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/crescent-comedy-workshop/">
@@ -89,7 +89,7 @@
       <span class="row-title">Crescent Comedy Chaos</span>
       <span class="row-sub">Downtown Mobile, Mobile · $2.06</span>
     </span>
-    <span class="tag tag-arts row-tag">Arts &amp; Theater</span>
+    <span class="row-tags"><span class="tag tag-arts row-tag">Arts &amp; Theater</span></span>
   </a>
 </li><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/crescent-comedy-workshop/">
@@ -98,7 +98,7 @@
       <span class="row-title">Crescent Comedy Chaos</span>
       <span class="row-sub">Downtown Mobile, Mobile · $8.76</span>
     </span>
-    <span class="tag tag-arts row-tag">Arts &amp; Theater</span>
+    <span class="row-tags"><span class="tag tag-arts row-tag">Arts &amp; Theater</span></span>
   </a>
 </li><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/crescent-comedy-workshop/">
@@ -107,7 +107,7 @@
       <span class="row-title">Crescent Comedy Chaos</span>
       <span class="row-sub">Downtown Mobile, Mobile · $2.06</span>
     </span>
-    <span class="tag tag-arts row-tag">Arts &amp; Theater</span>
+    <span class="row-tags"><span class="tag tag-arts row-tag">Arts &amp; Theater</span></span>
   </a>
 </li><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/crescent-comedy-workshop/">
@@ -116,7 +116,7 @@
       <span class="row-title">Crescent Comedy Chaos</span>
       <span class="row-sub">Downtown Mobile, Mobile · $8.76</span>
     </span>
-    <span class="tag tag-arts row-tag">Arts &amp; Theater</span>
+    <span class="row-tags"><span class="tag tag-arts row-tag">Arts &amp; Theater</span></span>
   </a>
 </li><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/crescent-comedy-workshop/">
@@ -125,7 +125,7 @@
       <span class="row-title">Crescent Comedy Chaos</span>
       <span class="row-sub">Downtown Mobile, Mobile · $2.06</span>
     </span>
-    <span class="tag tag-arts row-tag">Arts &amp; Theater</span>
+    <span class="row-tags"><span class="tag tag-arts row-tag">Arts &amp; Theater</span></span>
   </a>
 </li></ul>
   </section>
@@ -144,7 +144,7 @@
       </div>
       <div>
         <h2 class="foot-h">Categories</h2>
-        <ul><li><a href="/live-music-mobile-al/">Live Music in Mobile</a></li><li><a href="/free-things-to-do-mobile-al/">Free Things to Do in Mobile</a></li><li><a href="/family-events-mobile-al/">Family &amp; Kids Events in Mobile</a></li><li><a href="/food-events-mobile-al/">Food &amp; Drink Events in Mobile</a></li><li><a href="/arts-events-mobile-al/">Arts, Theater &amp; Film in Mobile</a></li><li><a href="/sports-events-mobile-al/">Sports &amp; Races in Mobile</a></li><li><a href="/nightlife-mobile-al/">Nightlife in Mobile</a></li><li><a href="/community-events-mobile-al/">Community Events in Mobile</a></li></ul>
+        <ul><li><a href="/live-music-mobile-al/">Music in Mobile</a></li><li><a href="/free-things-to-do-mobile-al/">Free Things to Do in Mobile</a></li><li><a href="/family-events-mobile-al/">Family &amp; Kids Events in Mobile</a></li><li><a href="/food-events-mobile-al/">Food &amp; Drink Events in Mobile</a></li><li><a href="/arts-events-mobile-al/">Arts, Theater &amp; Film in Mobile</a></li><li><a href="/active-mobile-al/">Active in Mobile</a></li><li><a href="/sports-events-mobile-al/">Sports in Mobile</a></li><li><a href="/nightlife-mobile-al/">Nightlife in Mobile</a></li><li><a href="/community-events-mobile-al/">Community Events in Mobile</a></li></ul>
       </div>
       <div>
         <h2 class="foot-h">Site</h2>
@@ -169,7 +169,8 @@
   function apply() {
     var any = false;
     items.forEach(function (el) {
-      var ok = (!state.cats.length || state.cats.indexOf(el.dataset.cat) > -1) && (!state.free || el.dataset.free === '1');
+      var mine = (el.dataset.cat || '').split(' ');
+      var ok = (!state.cats.length || state.cats.some(function (c) { return mine.indexOf(c) > -1; })) && (!state.free || el.dataset.free === '1');
       el.hidden = !ok; if (ok) any = true;
     });
     document.querySelectorAll('.day, [data-featured]').forEach(function (sec) {

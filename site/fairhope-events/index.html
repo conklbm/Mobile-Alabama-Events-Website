@@ -43,9 +43,15 @@
   <div class="filters" data-filters role="group" aria-label="Filter by category">
     <button type="button" class="pill pill-all" data-cat="all" aria-pressed="true">All <span class="count">4</span></button>
     
-    <button type="button" class="pill pill-music" data-cat="music" aria-pressed="false">Live Music <span class="count">2</span></button>
+    
+    <button type="button" class="pill pill-music" data-cat="music" aria-pressed="false">Music <span class="count">2</span></button>
+    
+    
+    <button type="button" class="pill pill-family" data-cat="family" aria-pressed="false">Family &amp; Kids <span class="count">1</span></button>
+    
     
     <button type="button" class="pill pill-arts" data-cat="arts" aria-pressed="false">Arts &amp; Theater <span class="count">1</span></button>
+    
     
     <button type="button" class="pill pill-community" data-cat="community" aria-pressed="false">Community <span class="count">1</span></button>
     
@@ -58,14 +64,14 @@
     
     <section class="day">
       <h2 class="day-h">Saturday, September 19</h2>
-      <ul class="rows"><li class="row" data-cat="arts" data-free="0">
+      <ul class="rows"><li class="row" data-cat="arts family" data-free="0">
   <a class="row-link" href="/events/art-of-the-paw/">
     <span class="row-time">12 pm</span>
     <span class="row-main">
       <span class="row-title">Art of the Paw</span>
       <span class="row-sub">Eastern Shore Art Center, Fairhope</span>
     </span>
-    <span class="tag tag-arts row-tag">Arts &amp; Theater</span>
+    <span class="row-tags"><span class="tag tag-arts row-tag">Arts &amp; Theater</span><span class="tag tag-family row-tag">Family &amp; Kids</span></span>
   </a>
 </li></ul>
     </section>
@@ -79,7 +85,7 @@
       <span class="row-title">Jason Isbell &amp; The 400 Unit</span>
       <span class="row-sub">Downtown Fairhope, Fairhope</span>
     </span>
-    <span class="tag tag-music row-tag">Live Music</span>
+    <span class="row-tags"><span class="tag tag-music row-tag">Music</span></span>
   </a>
 </li><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/jason-isbell-the-400-unit-halstead-amphitheater/">
@@ -88,7 +94,7 @@
       <span class="row-title">Jason Isbell &amp; the 400 Unit</span>
       <span class="row-sub">Halstead Amphitheater, Fairhope</span>
     </span>
-    <span class="tag tag-community row-tag">Community</span>
+    <span class="row-tags"><span class="tag tag-community row-tag">Community</span></span>
   </a>
 </li></ul>
     </section>
@@ -102,7 +108,7 @@
       <span class="row-title">Robert Earl Keen</span>
       <span class="row-sub">Downtown Fairhope, Fairhope</span>
     </span>
-    <span class="tag tag-music row-tag">Live Music</span>
+    <span class="row-tags"><span class="tag tag-music row-tag">Music</span></span>
   </a>
 </li></ul>
     </section>
@@ -119,7 +125,7 @@
       </div>
       <div>
         <h2 class="foot-h">Categories</h2>
-        <ul><li><a href="/live-music-mobile-al/">Live Music in Mobile</a></li><li><a href="/free-things-to-do-mobile-al/">Free Things to Do in Mobile</a></li><li><a href="/family-events-mobile-al/">Family &amp; Kids Events in Mobile</a></li><li><a href="/food-events-mobile-al/">Food &amp; Drink Events in Mobile</a></li><li><a href="/arts-events-mobile-al/">Arts, Theater &amp; Film in Mobile</a></li><li><a href="/sports-events-mobile-al/">Sports &amp; Races in Mobile</a></li><li><a href="/nightlife-mobile-al/">Nightlife in Mobile</a></li><li><a href="/community-events-mobile-al/">Community Events in Mobile</a></li></ul>
+        <ul><li><a href="/live-music-mobile-al/">Music in Mobile</a></li><li><a href="/free-things-to-do-mobile-al/">Free Things to Do in Mobile</a></li><li><a href="/family-events-mobile-al/">Family &amp; Kids Events in Mobile</a></li><li><a href="/food-events-mobile-al/">Food &amp; Drink Events in Mobile</a></li><li><a href="/arts-events-mobile-al/">Arts, Theater &amp; Film in Mobile</a></li><li><a href="/active-mobile-al/">Active in Mobile</a></li><li><a href="/sports-events-mobile-al/">Sports in Mobile</a></li><li><a href="/nightlife-mobile-al/">Nightlife in Mobile</a></li><li><a href="/community-events-mobile-al/">Community Events in Mobile</a></li></ul>
       </div>
       <div>
         <h2 class="foot-h">Site</h2>
@@ -144,7 +150,8 @@
   function apply() {
     var any = false;
     items.forEach(function (el) {
-      var ok = (!state.cats.length || state.cats.indexOf(el.dataset.cat) > -1) && (!state.free || el.dataset.free === '1');
+      var mine = (el.dataset.cat || '').split(' ');
+      var ok = (!state.cats.length || state.cats.some(function (c) { return mine.indexOf(c) > -1; })) && (!state.free || el.dataset.free === '1');
       el.hidden = !ok; if (ok) any = true;
     });
     document.querySelectorAll('.day, [data-featured]').forEach(function (sec) {
