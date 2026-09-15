@@ -7,7 +7,7 @@ Read-only consumer of the SQLite store. Renders:
   /this-weekend/            evergreen URL, rotating content
   /<city-slug>/             satellite city pages (first-class from day one)
   /<category-slug>/         category pages
-  /about/ /contact/ /privacy/ /terms/  standard trust pages
+  /about/ /privacy/ /terms/  standard trust pages (/contact/ redirects to /about/)
   sitemap.xml, robots.txt, 404.html, and vercel.json (redirects + noindex guard) at repo root
 """
 
@@ -371,7 +371,7 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
     about = site.pages.get("about", {})
     r.page("/about/", "page.html", title=f"About — {site.name}", description=(about.get("intro") or "")[:160], h1="About", body=_about_html(about, site),
            header_photo=about.get("header_photo"), header_alt=about.get("header_alt", ""), og_image=(site.url + about["header_photo"]) if about.get("header_photo") else None)
-    r.page("/contact/", "page.html", title=f"Contact — {site.name}", description="Corrections, missing events, and venue updates. Reach Brooks at brooksconkle.com.", h1="Contact", body=_contact_html(about))
+    r.redirects.append({"source": "/contact(/)?", "destination": "/about/", "permanent": True})
     r.page("/privacy/", "page.html", title=f"Privacy Policy — {site.name}", description="What this site collects (almost nothing) and who it shares it with.", h1="Privacy Policy", body=_privacy_html(site))
     r.page("/terms/", "page.html", title=f"Terms of Use — {site.name}", description="Terms for using this events calendar.", h1="Terms of Use", body=_terms_html(site))
     r.page("/404/", "404.html", title=f"Page not found — {site.name}", description="", noindex=True, index=False)
@@ -438,20 +438,13 @@ def _about_html(about: dict, site: Site) -> str:
 <p>{backstory}</p>"""
 
 
-def _contact_html(about: dict) -> str:
-    url = about.get("contact_url", "https://www.brooksconkle.com/")
-    return f"""<p>Corrections, cancellations, missing events, or a venue we should track: reach Brooks at
-<a href="{url}" target="_blank" rel="noopener">brooksconkle.com<span class="sr-only"> (opens in new tab)</span></a>.</p>
-<p>Fixes usually land in the next Thursday build.</p>"""
-
-
 def _privacy_html(site: Site) -> str:
     return f"""<p><em>Last updated: September 14, 2026</em></p>
 <p>{site.name} is a static website. It does not have accounts, does not set cookies, and does not run advertising or third-party analytics scripts.</p>
 <h2>What we collect</h2><p>Nothing directly. Our hosting provider (Vercel) logs standard server request data (IP address, user agent, requested page) for security and operations, retained per their policy.</p>
 <h2>Contact</h2><p>If you contact us through brooksconkle.com, that site's privacy policy covers the message. We do not add you to any list.</p>
 <h2>Third parties</h2><p>Outbound links go to venue websites, Ticketmaster, and other organizers. Their privacy policies apply once you leave this site.</p>
-<p>Questions: <a href="/contact/">contact page</a>.</p>"""
+<p>Questions: <a href="https://www.brooksconkle.com/" target="_blank" rel="noopener">brooksconkle.com<span class="sr-only"> (opens in new tab)</span></a>.</p>"""
 
 
 def _terms_html(site: Site) -> str:
@@ -459,7 +452,7 @@ def _terms_html(site: Site) -> str:
 <p>By using {site.name} you agree to these terms.</p>
 <h2>Accuracy</h2><p>Listings are collected automatically from public sources and checked weekly. Dates, times, prices, and availability change. Always confirm with the venue or organizer before you go. We are not responsible for canceled, moved, or sold-out events.</p>
 <h2>Tickets</h2><p>We do not sell tickets. Ticket links go to the venue, organizer, or Ticketmaster. Any purchase is between you and them.</p>
-<h2>Content and attribution</h2><p>Event descriptions and images belong to their original publishers and are shown with a link to the source. If you own content shown here and want it removed or credited differently, <a href="/contact/">contact us</a> and we will act within a week.</p>
+<h2>Content and attribution</h2><p>Event descriptions and images belong to their original publishers and are shown with a link to the source. If you own content shown here and want it removed or credited differently, reach us at <a href="https://www.brooksconkle.com/" target="_blank" rel="noopener">brooksconkle.com<span class="sr-only"> (opens in new tab)</span></a> and we will act within a week.</p>
 <h2>Use of this site</h2><p>You may link to any page. Automated bulk copying of the listings is not permitted without permission.</p>
 <h2>No warranty</h2><p>The site is provided as-is, without warranties of any kind. Our liability is limited to the fullest extent permitted by law.</p>
 <h2>Changes</h2><p>We may update these terms; the date above reflects the latest change.</p>"""

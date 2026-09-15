@@ -4,7 +4,13 @@
   "buildCommand": "",
   "cleanUrls": true,
   "trailingSlash": true,
-  "redirects": [],
+  "redirects": [
+    {
+      "source": "/contact(/)?",
+      "destination": "/about/",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
