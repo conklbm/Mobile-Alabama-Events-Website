@@ -369,8 +369,9 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
 
     # standard pages
     about = site.pages.get("about", {})
-    r.page("/about/", "page.html", title=f"About — {site.name}", description=(about.get("intro") or "")[:160], h1="About", body=_about_html(about, site))
-    r.page("/contact/", "page.html", title=f"Contact — {site.name}", description="Corrections, missing events, and venue updates.", h1="Contact", body=_contact_html(about))
+    r.page("/about/", "page.html", title=f"About — {site.name}", description=(about.get("intro") or "")[:160], h1="About", body=_about_html(about, site),
+           header_photo=about.get("header_photo"), header_alt=about.get("header_alt", ""), og_image=(site.url + about["header_photo"]) if about.get("header_photo") else None)
+    r.page("/contact/", "page.html", title=f"Contact — {site.name}", description="Corrections, missing events, and venue updates. Reach Brooks at brooksconkle.com.", h1="Contact", body=_contact_html(about))
     r.page("/privacy/", "page.html", title=f"Privacy Policy — {site.name}", description="What this site collects (almost nothing) and who it shares it with.", h1="Privacy Policy", body=_privacy_html(site))
     r.page("/terms/", "page.html", title=f"Terms of Use — {site.name}", description="Terms for using this events calendar.", h1="Terms of Use", body=_terms_html(site))
     r.page("/404/", "404.html", title=f"Page not found — {site.name}", description="", noindex=True, index=False)
@@ -412,29 +413,45 @@ def _vercel(redirects: list[dict]) -> dict:
     }
 
 
+def _source_count(site: Site) -> str:
+    """Automated sources + the hand-checked pages, rounded down to a 5 with a plus."""
+    automated = [s for s in site.sources.values() if s["collector_type"] != "manual"]
+    manual = next((s for s in site.sources.values() if s["collector_type"] == "manual"), None)
+    pages = len((db.uj(manual["config"], {}) or {}).get("scanned_pages", [])) if manual else 0
+    n = len(automated) + pages
+    return f"{n - n % 5}+" if n >= 10 else str(n)
+
+
 def _about_html(about: dict, site: Site) -> str:
-    srcs = [s for s in site.sources.values() if s["collector_type"] != "manual"]
-    lis = "".join(f'<li><a href="{s["url"]}" target="_blank" rel="noopener">{s["name"]}</a></li>' for s in sorted(srcs, key=lambda s: s["name"]))
-    return f"""<p>{about.get('intro','')}</p>
-<h2>How it works</h2><p>{about.get('how','')}</p>
-<h2>Where the listings come from</h2><ul>{lis}<li>A weekly hand check of local Facebook pages</li></ul>
-<p>Ticketmaster listings are provided via the Ticketmaster Discovery API. Event images belong to the venue or organizer credited under each image.</p>
-<h2>Missing something?</h2><p>Venues and organizers: if your calendar is public and machine-readable, we can add it in a week. <a href="/contact/">Get in touch</a>.</p>"""
+    how = (about.get("how") or "").replace("{count}", _source_count(site))
+    backstory = (about.get("backstory") or "")
+    url = about.get("mobilebaynow_url", "https://mobilebaynow.com/")
+    backstory = backstory.replace("MobileBayNow", f'<a href="{url}" target="_blank" rel="noopener">MobileBayNow<span class="sr-only"> (opens in new tab)</span></a>')
+    photo = ""
+    if about.get("photo"):
+        photo = (f'<figure class="about-photo"><img src="{about["photo"]}" alt="{about.get("photo_alt", "")}" loading="lazy" width="1200" height="900">'
+                 f'<figcaption>{about.get("photo_caption", "")}</figcaption></figure>')
+    return f"""<p>{about.get('intro', '')}</p>
+<p>{how}</p>
+<h2>{about.get('backstory_title', 'The backstory')}</h2>
+{photo}
+<p>{backstory}</p>"""
 
 
 def _contact_html(about: dict) -> str:
-    email = about.get("contact_email", "hello@mobilebayevents.com")
-    return f"""<p>Corrections, cancellations, missing events, or a venue we should track: email <a href="mailto:{email}">{email}</a>.</p>
-<p>We read everything. Fixes usually land in the next Thursday build.</p>"""
+    url = about.get("contact_url", "https://www.brooksconkle.com/")
+    return f"""<p>Corrections, cancellations, missing events, or a venue we should track: reach Brooks at
+<a href="{url}" target="_blank" rel="noopener">brooksconkle.com<span class="sr-only"> (opens in new tab)</span></a>.</p>
+<p>Fixes usually land in the next Thursday build.</p>"""
 
 
 def _privacy_html(site: Site) -> str:
     return f"""<p><em>Last updated: September 14, 2026</em></p>
 <p>{site.name} is a static website. It does not have accounts, does not set cookies, and does not run advertising or third-party analytics scripts.</p>
 <h2>What we collect</h2><p>Nothing directly. Our hosting provider (Vercel) logs standard server request data (IP address, user agent, requested page) for security and operations, retained per their policy.</p>
-<h2>Email</h2><p>If you email us, we keep the message to respond to it. We do not add you to any list.</p>
+<h2>Contact</h2><p>If you contact us through brooksconkle.com, that site's privacy policy covers the message. We do not add you to any list.</p>
 <h2>Third parties</h2><p>Outbound links go to venue websites, Ticketmaster, and other organizers. Their privacy policies apply once you leave this site.</p>
-<h2>Contact</h2><p>Questions: <a href="/contact/">contact page</a>.</p>"""
+<p>Questions: <a href="/contact/">contact page</a>.</p>"""
 
 
 def _terms_html(site: Site) -> str:

@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
 <article class="prose">
+{% if header_photo %}<img class="page-hero" src="{{ header_photo }}" alt="{{ header_alt }}" width="1374" height="945">{% endif %}
 <h1>{{ h1 }}</h1>
 {{ body | safe }}
 </article>

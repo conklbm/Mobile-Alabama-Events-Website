@@ -167,3 +167,4 @@
   expected_min_events: 0
   config:
     path: data/manual/events.csv
+    scanned_pages: [Facebook Events tab, VisitMobile, Downtown Mobile Alliance, Lagniappe, City of Mobile, Mobile Parks & Rec]

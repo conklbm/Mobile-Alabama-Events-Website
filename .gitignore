@@ -14,3 +14,6 @@ __pycache__/
 
 # vercel
 .vercel
+
+# original photos (web-sized copies live in pipeline/publish/static/img)
+assets/

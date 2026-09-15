@@ -131,13 +131,26 @@ categories:
       doesn't fit a neat box but fills the calendar.
 
 about:
+  # {count} = automated sources + hand-checked pages, computed at build time (rounded down, "+")
   intro: >
-    Mobile Bay Events is a weekly-updated calendar for Mobile, the Eastern Shore,
-    and Dauphin Island. It's built and run by Brooks Conkle, who lives here and got
-    tired of checking fifteen websites to find out what was happening on Saturday.
+    Mobile Bay Events is a weekly calendar for Mobile, the Eastern Shore, and Dauphin
+    Island, built by people who live here.
   how: >
-    Every Thursday a script pulls venue calendars, the 92ZEW and Mob Mom community
-    calendars, city calendars, and Ticketmaster, then merges duplicates so each
-    event shows once. Anything the software isn't sure about waits for a human.
-    Every listing links to the original source; we don't sell tickets.
-  contact_email: hello@mobilebayevents.com
+    Every Thursday we scour the web, checking {count} local sources (venue calendars, city
+    calendars, ticketing sites, community pages) and merging everything into one list, so you
+    see each event once with a link straight to whoever's putting it on. Anything the software
+    isn't sure about gets a human look before it's published.
+  backstory_title: The backstory
+  backstory: >
+    For several years we ran Mobile Rundown, a local newsletter and media brand. In 2026 we
+    sold it to an incredible team who've since rebranded it as MobileBayNow, and they're doing
+    great work. Right before the sale, we'd started building our own events calendar because
+    we were convinced we could do it better than the tool we were paying for. Mobile Bay Events
+    is us continuing to tinker with that idea.
+  mobilebaynow_url: https://mobilebaynow.com/
+  photo: /assets/img/about-brooks-mandee.jpg
+  photo_alt: Brooks and Mandee at a rooftop table with the downtown Mobile skyline behind them at sunset
+  photo_caption: Brooks and Mandee, downtown Mobile.
+  header_photo: /assets/img/about-dauphin-street.jpg
+  header_alt: Dauphin Street in downtown Mobile at sunset, palm trees and string lights over the sidewalk
+  contact_url: https://www.brooksconkle.com/
