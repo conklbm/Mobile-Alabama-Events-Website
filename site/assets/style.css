@@ -137,9 +137,10 @@ p { margin: .5em 0; }
 .passed { background: var(--card); border-left: 4px solid var(--accent); padding: 10px 14px; border-radius: 6px; }
 .past { color: var(--muted); }
 .plain li { padding: 4px 0; }
-.prose { max-width: 66ch; }
+.prose { max-width: 72ch; margin: 0 auto; }
+.prose p, .prose li { font-size: 1.05rem; }
 .prose h2 { margin-top: 1.4em; }
-.page-hero { border-radius: var(--radius); margin: 12px 0 4px; }
+.page-hero { border-radius: var(--radius); margin: 12px 0 4px; width: 100%; }
 .about-photo { margin: 12px 0 16px; }
 .about-photo img { border-radius: var(--radius); }
 .about-photo figcaption { font-size: .85rem; color: var(--muted); margin-top: 6px; }
