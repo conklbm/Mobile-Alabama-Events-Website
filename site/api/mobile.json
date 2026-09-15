@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-09-15T14:11:18Z",
+ "generated": "2026-09-15T14:12:07Z",
  "events": [
   {
    "id": 39,
@@ -1217,6 +1217,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 73,
+   "series_slug": "fall-2026-statemint-mobile-pop-up",
+   "title": "Fall 2026 Statemint Mobile Pop Up",
+   "start": "2026-09-25T09:00:00-05:00",
+   "end": "2026-09-27T19:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "statemint-pop-up",
+    "name": "Statemint Mobile Pop Up",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/fall-2026-statemint-mobile-pop-up/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/statemint-pop-up.jpg?fit=960%2C300&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 75,
    "series_slug": "blooms-apple-orchard-themed-play-session-mommy-me-apple-pie-baking",
    "title": "BLOOM’s Fall Farm Animal Themed Play Session + Mommy & Me Animal Cracker Baking Workshop with BLOOM Play Studio",
@@ -1414,6 +1448,36 @@
    },
    "image": {
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/scarecrows-in-the-gardens.webp?fit=1536%2C864&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 79,
+   "series_slug": "usa-health-mitchell-cancer-institute-go-run",
+   "title": "USA Health Mitchell Cancer Institute GO Run",
+   "start": "2026-09-26T08:00:00-05:00",
+   "end": "2026-09-26T10:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/usa-health-mitchell-cancer-institute-go-run/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/GO-Run-scaled.webp?fit=2560%2C2560&ssl=1",
     "credit": "The Mob Mom"
    },
    "curation_score": 1,

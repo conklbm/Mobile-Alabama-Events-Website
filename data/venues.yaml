@@ -817,3 +817,11 @@
   zip: "36602"
   regions: [mobile]
   notes: "Single-screen indie cinema downtown; also hosts comedy and small shows. Street parking on Dauphin."
+
+- slug: statemint-pop-up
+  name: Statemint Mobile Pop Up
+  aliases: ["Statemint Mobile Pop Up", "7701 Hitt Road – Mobile, Al – 36695"]
+  domains: []
+  city: Mobile
+  state: AL
+  regions: [mobile]
