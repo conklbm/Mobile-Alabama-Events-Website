@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}</title>
+{% if meta_description %}<meta name="description" content="{{ meta_description }}">{% endif %}
+<link rel="canonical" href="{{ canonical }}">
+{% if noindex %}<meta name="robots" content="noindex, follow">{% endif %}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ meta_description }}">
+<meta property="og:url" content="{{ canonical }}">
+{% if og_image %}<meta property="og:image" content="{{ og_image }}">{% endif %}
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/assets/style.css">
+{% if jsonld %}<script type="application/ld+json">{{ jsonld | tojson }}</script>{% endif %}
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="{{ site.name }} home"><span class="brand-mark" aria-hidden="true">⌇</span>{{ site.name }}</a>
+    <nav class="nav" aria-label="Primary">
+      <a href="/this-weekend/">This Weekend</a>
+      <a href="/events/">All Events</a>
+      <a href="/venues/">Venues</a>
+      <a href="/about/">About</a>
+    </nav>
+  </div>
+</header>
+<main id="main" class="wrap">
+{% block content %}{% endblock %}
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-cols">
+      <div>
+        <h2 class="foot-h">Cities</h2>
+        <ul>{% for c in nav.cities %}<li><a href="/{{ c.slug }}/">{{ c.title }}</a></li>{% endfor %}</ul>
+      </div>
+      <div>
+        <h2 class="foot-h">Categories</h2>
+        <ul>{% for c in nav.categories %}<li><a href="/{{ c.slug }}/">{{ c.title }}</a></li>{% endfor %}</ul>
+      </div>
+      <div>
+        <h2 class="foot-h">Site</h2>
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/privacy/">Privacy</a></li>
+          <li><a href="/terms/">Terms</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="foot-note"><a href="/">{{ site.name }}</a> · © {{ year }} · Updated {{ now | shortday }}. Listings link to their source; confirm details before you go.</p>
+  </div>
+</footer>
+</body>
+</html>

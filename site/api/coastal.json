@@ -1,0 +1,1539 @@
+{
+ "region": "coastal",
+ "generated": "2026-09-15T00:17:03Z",
+ "events": [
+  {
+   "id": 21,
+   "series_slug": "gentle-stretch-yoga",
+   "title": "Gentle Stretch Yoga",
+   "start": "2026-09-15T10:00:00-05:00",
+   "end": "2026-09-15T11:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=7767",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 40,
+   "series_slug": "squid-dissections",
+   "title": "Squid Dissections",
+   "start": "2026-09-15T13:00:00-05:00",
+   "end": "2026-09-15T14:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 20,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-09-15T17:00:00-05:00",
+   "end": "2026-09-15T18:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9149",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 22,
+   "series_slug": "city-council-meeting-orange-beach-city-hall",
+   "title": "City Council Meeting",
+   "start": "2026-09-15T17:00:00-05:00",
+   "end": "2026-09-15T19:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=679",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 23,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-09-16T09:00:00-05:00",
+   "end": "2026-09-16T10:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8842",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 41,
+   "series_slug": "junior-rangers-plant-id-press",
+   "title": "Junior Rangers: Plant ID & Press",
+   "start": "2026-09-16T10:00:00-05:00",
+   "end": "2026-09-16T11:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 42,
+   "series_slug": "terrific-turtles",
+   "title": "Terrific Turtles",
+   "start": "2026-09-16T15:30:00-05:00",
+   "end": "2026-09-16T16:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 24,
+   "series_slug": "zoning-board-of-adjustment",
+   "title": "Zoning Board of Adjustment",
+   "start": "2026-09-16T16:00:00-05:00",
+   "end": "2026-09-16T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=2058",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 25,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-09-17T07:20:00-05:00",
+   "end": "2026-09-17T08:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9150",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 48,
+   "series_slug": "sunset-series-2026",
+   "title": "Sunset Series 2026",
+   "start": "2026-09-17T17:00:00-05:00",
+   "end": "2026-09-17T20:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "gulf-place",
+    "name": "Gulf Place",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshoresal.gov/1463/Sunset-Series",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 26,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-09-18T09:00:00-05:00",
+   "end": "2026-09-18T10:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8843",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 49,
+   "series_slug": "guided-pier-walk",
+   "title": "Guided Pier Walk",
+   "start": "2026-09-18T09:00:00-05:00",
+   "end": "2026-09-18T10:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 51,
+   "series_slug": "game-day-on-the-green-at-portside",
+   "title": "Game Day on the Green at Portside",
+   "start": "2026-09-19T00:00:00-05:00",
+   "end": "2026-09-19T23:59:59-05:00",
+   "all_day": true,
+   "category": "sports",
+   "venue": {
+    "slug": "the-wharf-amphitheater",
+    "name": "The Wharf Amphitheater",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://alwharf.com/events",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 53,
+   "series_slug": "39th-annual-coastal-cleanup",
+   "title": "39th Annual Coastal Cleanup",
+   "start": "2026-09-19T08:00:00-05:00",
+   "end": "2026-09-19T12:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 27,
+   "series_slug": "6th-annual-orange-beach-freedom-fest",
+   "title": "6th Annual Orange Beach Freedom Fest",
+   "start": "2026-09-19T09:00:00-05:00",
+   "end": "2026-09-19T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9280",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 54,
+   "series_slug": "6th-annual-orange-beach-freedom-festival",
+   "title": "6th Annual Orange Beach Freedom Festival",
+   "start": "2026-09-19T09:00:00-05:00",
+   "end": "2026-09-19T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-wharf-amphitheater",
+    "name": "The Wharf Amphitheater",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://alwharf.com/events/2026/09/19/61180/6th-annual-orange-beach-freedom-festival",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 28,
+   "series_slug": "gentle-stretch-yoga",
+   "title": "Yoga",
+   "start": "2026-09-19T10:00:00-05:00",
+   "end": "2026-09-19T11:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8714",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 94,
+   "series_slug": "use-your-illusion-americas-1-gnr-experience",
+   "title": "Use Your Illusion – America’s #1 GNR Experience",
+   "start": "2026-09-19T19:30:00-05:00",
+   "end": "2026-09-19T22:30:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/use-your-illusion-americas-1-gnr-experience/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/ClientFile614386.png",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 29,
+   "series_slug": "6th-annual-orange-beach-freedom-fest",
+   "title": "6th Annual Orange Beach Freedom Fest",
+   "start": "2026-09-20T10:00:00-05:00",
+   "end": "2026-09-20T15:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9281",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 59,
+   "series_slug": "6th-annual-orange-beach-freedom-festival",
+   "title": "6th Annual Orange Beach Freedom Festival",
+   "start": "2026-09-20T10:00:00-05:00",
+   "end": "2026-09-20T15:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-wharf-amphitheater",
+    "name": "The Wharf Amphitheater",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://alwharf.com/events/2026/09/20/61183/6th-annual-orange-beach-freedom-festival",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 61,
+   "series_slug": "lakeview-nature-walk",
+   "title": "Lakeview Nature Walk",
+   "start": "2026-09-21T08:30:00-05:00",
+   "end": "2026-09-21T09:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 62,
+   "series_slug": "native-animal-meet-greet",
+   "title": "Native Animal Meet & Greet",
+   "start": "2026-09-21T13:00:00-05:00",
+   "end": "2026-09-21T14:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 17,
+   "series_slug": "council-work-session",
+   "title": "Council Work Session",
+   "start": "2026-09-21T16:00:00-05:00",
+   "end": "2026-09-21T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "gulf-shores-city-hall",
+    "name": "Gulf Shores City Hall",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshoresal.gov/Calendar.aspx?EID=16360",
+   "source": {
+    "name": "City of Gulf Shores",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 30,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-09-21T17:00:00-05:00",
+   "end": "2026-09-21T18:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9579",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 32,
+   "series_slug": "gentle-stretch-yoga",
+   "title": "Gentle Stretch Yoga",
+   "start": "2026-09-22T10:00:00-05:00",
+   "end": "2026-09-22T11:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=7768",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 64,
+   "series_slug": "turtles-at-2-lobby-talk",
+   "title": "Turtles at 2 Lobby Talk",
+   "start": "2026-09-22T14:00:00-05:00",
+   "end": "2026-09-22T14:15:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 18,
+   "series_slug": "planning-commission-meeting",
+   "title": "Planning Commission Meeting",
+   "start": "2026-09-22T16:00:00-05:00",
+   "end": "2026-09-22T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "gulf-shores-city-hall",
+    "name": "Gulf Shores City Hall",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshoresal.gov/Calendar.aspx?EID=16322",
+   "source": {
+    "name": "City of Gulf Shores",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 31,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-09-22T17:00:00-05:00",
+   "end": "2026-09-22T18:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9151",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 33,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-09-23T09:00:00-05:00",
+   "end": "2026-09-23T10:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8844",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 65,
+   "series_slug": "seine-net-experience",
+   "title": "Seine Net Experience",
+   "start": "2026-09-23T10:00:00-05:00",
+   "end": "2026-09-23T10:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 34,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-09-24T07:20:00-05:00",
+   "end": "2026-09-24T08:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9152",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 69,
+   "series_slug": "fossil-sea-turtles-of-al",
+   "title": "Fossil Sea Turtles of AL",
+   "start": "2026-09-24T13:00:00-05:00",
+   "end": "2026-09-24T14:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 70,
+   "series_slug": "turtles-at-2-lobby-talk",
+   "title": "Turtles at 2 Lobby Talk",
+   "start": "2026-09-24T14:00:00-05:00",
+   "end": "2026-09-24T14:15:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 72,
+   "series_slug": "guided-pier-walk",
+   "title": "Guided Pier Walk",
+   "start": "2026-09-25T08:00:00-05:00",
+   "end": "2026-09-25T09:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 35,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-09-25T09:00:00-05:00",
+   "end": "2026-09-25T10:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8845",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 74,
+   "series_slug": "organic-gardening-composting",
+   "title": "Organic Gardening & Composting",
+   "start": "2026-09-25T09:00:00-05:00",
+   "end": "2026-09-25T09:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 77,
+   "series_slug": "game-day-on-the-green-at-portside",
+   "title": "Game Day on The Green at Portside",
+   "start": "2026-09-26T00:00:00-05:00",
+   "end": "2026-09-26T23:59:59-05:00",
+   "all_day": true,
+   "category": "sports",
+   "venue": {
+    "slug": "the-wharf-amphitheater",
+    "name": "The Wharf Amphitheater",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://alwharf.com/events/2026/09",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 81,
+   "series_slug": "kids-win-fishing-tournament-presented-by-rouses-market",
+   "title": "Kids Win Fishing Tournament presented by Rouses Market",
+   "start": "2026-09-26T09:00:00-05:00",
+   "end": "2026-09-26T11:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "the-wharf-amphitheater",
+    "name": "The Wharf Amphitheater",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://alwharf.com/events/2026/09/26/61106/kids-win-fishing-tournament-presented-by-rouses-market",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 36,
+   "series_slug": "gentle-stretch-yoga",
+   "title": "Yoga",
+   "start": "2026-09-26T10:00:00-05:00",
+   "end": "2026-09-26T11:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8715",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 99,
+   "series_slug": "gabriel-iglesias",
+   "title": "Gabriel Iglesias",
+   "start": "2026-09-26T20:00:00-05:00",
+   "end": "2026-09-26T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/gabriel-iglesias/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/09/IC_GabrielIglesias_0926_Pensacola_250x150-b77a26a3ea.webp",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 83,
+   "series_slug": "lakeview-nature-walk",
+   "title": "Lakeview Nature Walk",
+   "start": "2026-09-28T08:30:00-05:00",
+   "end": "2026-09-28T09:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 84,
+   "series_slug": "discover-gulf-oak-ridge",
+   "title": "Discover Gulf Oak Ridge",
+   "start": "2026-09-28T09:00:00-05:00",
+   "end": "2026-09-28T10:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 19,
+   "series_slug": "city-council-meeting",
+   "title": "City Council Meeting",
+   "start": "2026-09-28T16:00:00-05:00",
+   "end": "2026-09-28T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "gulf-shores-city-hall",
+    "name": "Gulf Shores City Hall",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshoresal.gov/Calendar.aspx?EID=16361",
+   "source": {
+    "name": "City of Gulf Shores",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 37,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-09-28T17:00:00-05:00",
+   "end": "2026-09-28T18:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9581",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 86,
+   "series_slug": "eco-art-sea-salt-bath-products",
+   "title": "Eco-Art: Sea Salt Bath Products",
+   "start": "2026-09-29T13:00:00-05:00",
+   "end": "2026-09-29T14:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 87,
+   "series_slug": "night-day-birds-of-prey",
+   "title": "Night & Day Birds of Prey",
+   "start": "2026-09-30T10:00:00-05:00",
+   "end": "2026-09-30T11:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 88,
+   "series_slug": "creepy-crawlers",
+   "title": "Creepy Crawlers",
+   "start": "2026-09-30T15:30:00-05:00",
+   "end": "2026-09-30T16:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 89,
+   "series_slug": "eco-art-sea-salt-bath-products",
+   "title": "Eerie Sea Salt Bath Products",
+   "start": "2026-10-01T10:00:00-05:00",
+   "end": "2026-10-01T11:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "gulf-state-park",
+    "name": "Gulf State Park",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 104,
+   "series_slug": "weird-al-yankovic-bigger-weirder-tour",
+   "title": "Weird Al Yankovic – Bigger & Weirder Tour",
+   "start": "2026-10-03T20:00:00-05:00",
+   "end": "2026-10-03T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "the-wharf-amphitheater",
+    "name": "The Wharf Amphitheater",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/weird-al-yankovic-bigger-weirder-tour/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2025/11/weird-Al.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 90,
+   "series_slug": "53rd-annual-national-shrimp-festival",
+   "title": "53rd Annual National Shrimp Festival",
+   "start": "2026-10-08T10:00:00-05:00",
+   "end": "2026-10-11T17:00:00-05:00",
+   "all_day": false,
+   "category": "food",
+   "venue": {
+    "slug": "gulf-place",
+    "name": "Gulf Place",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/53rd-annual-national-shrimp-festival/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 116,
+   "series_slug": "devon-gilfillian",
+   "title": "Devon Gilfillian",
+   "start": "2026-10-19T19:00:00-05:00",
+   "end": "2026-10-19T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/devon-gilfillian/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/ClientFile617716.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 124,
+   "series_slug": "rehab",
+   "title": "Rehab",
+   "start": "2026-11-06T19:30:00-06:00",
+   "end": "2026-11-06T22:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/rehab/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/ClientFile619154.png",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 129,
+   "series_slug": "tab-benoit-soul-of-the-swamp-tour",
+   "title": "Tab Benoit – Soul of the Swamp Tour",
+   "start": "2026-11-12T19:00:00-06:00",
+   "end": "2026-11-12T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/tab-benoit-soul-of-the-swamp-tour/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/ClientFile604500.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 143,
+   "series_slug": "jeff-dunham-inappropriate-contact",
+   "title": "Jeff Dunham: Inappropriate Contact",
+   "start": "2026-12-11T19:00:00-06:00",
+   "end": "2026-12-11T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/jeff-dunham-inappropriate-contact/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/09/JD-121126-250x150-Website-thumb-32b0c48b92.webp",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  }
+ ]
+}

@@ -1,0 +1,738 @@
+# Venue alias map. THE file Brooks edits most. Hand-built; no shortcut exists.
+#
+# Each entry:
+#   slug:        URL slug for /venues/<slug>  (stable — don't rename once live)
+#   name:        canonical display name
+#   aliases:     every spelling seen in the wild (case-insensitive, punctuation-insensitive)
+#   domains:     venue's own web domains — a listing linking here is a Tier A origin (one-hop rule)
+#   address / city / state / zip / lat / lng
+#   regions:     list — mobile, coastal, or both (Dauphin Island is both)
+#   notes:       original content shown on the venue page (parking, kids, etc.)
+#
+# Unknown venue names land in the review queue. Add the alias here, next run resolves it.
+
+- slug: saenger-theatre
+  name: Saenger Theatre
+  aliases: ["Saenger Theatre", "Saenger Theater", "Mobile Saenger Theatre", "Mobile Saenger", "The Saenger"]
+  domains: ["mobilesaenger.com"]
+  address: 6 S Joachim St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  lat: 30.6899
+  lng: -88.0428
+  regions: [mobile]
+  notes: "Historic 1927 downtown theater. Street parking is tight on show nights; the Civic Center lot is a 5-minute walk."
+
+- slug: mobile-civic-center
+  name: Mobile Civic Center
+  aliases: ["Mobile Civic Center", "Civic Center", "Mobile Civic Center Arena", "Mobile Civic Center Theater", "Civic Center Theater", "Mobile Civic Ctr"]
+  domains: ["mobilecivicctr.com"]
+  address: 401 Civic Center Dr
+  city: Mobile
+  state: AL
+  zip: "36602"
+  lat: 30.6929
+  lng: -88.0466
+  regions: [mobile]
+  notes: "Large surface lots on site. Arena for concerts and Mardi Gras balls; Theater is the smaller room."
+
+- slug: soul-kitchen
+  name: Soul Kitchen Music Hall
+  aliases: ["Soul Kitchen", "Soul Kitchen Music Hall", "Soul Kitchen Mobile"]
+  domains: ["soulkitchenmobile.com"]
+  address: 219 Dauphin St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  lat: 30.6912
+  lng: -88.0446
+  regions: [mobile]
+  notes: "Standing-room club on Dauphin St. Most shows 18+; check the listing."
+
+- slug: moes-original-bbq-mobile
+  name: Moe's Original BBQ (Downtown Mobile)
+  aliases: ["Moe's Original BBQ", "Moes Original BBQ", "Moe's BBQ", "Moe's Original Bar B Que", "Moe's Original BBQ Mobile", "Moe's Original BBQ Downtown"]
+  domains: []
+  address: 701 Springhill Ave
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: moes-original-bbq-daphne
+  name: Moe's Original BBQ (Daphne)
+  aliases: ["Moe's Original BBQ Daphne", "Moe's Daphne", "Moes Daphne"]
+  domains: []
+  city: Daphne
+  state: AL
+  regions: [mobile]
+
+- slug: callaghans
+  name: Callaghan's Irish Social Club
+  aliases: ["Callaghan's", "Callaghans", "Callaghan's Irish Social Club", "Callaghan's Irish Pub"]
+  domains: ["callaghansirishsocialclub.com"]
+  address: 916 Charleston St
+  city: Mobile
+  state: AL
+  zip: "36604"
+  lat: 30.6828
+  lng: -88.0545
+  regions: [mobile]
+  notes: "Oakleigh Garden District neighborhood bar. Free live music most nights, no cover on the patio."
+
+- slug: blue-gill
+  name: Blue Gill Restaurant
+  aliases: ["Blue Gill", "Bluegill", "Blue Gill Restaurant", "The Bluegill", "Bluegill Restaurant"]
+  domains: ["bluegillrestaurant.com"]
+  address: 3775 Battleship Pkwy
+  city: Spanish Fort
+  state: AL
+  zip: "36527"
+  regions: [mobile]
+  notes: "On the Causeway. Deck music on weekends; sunset over the bay is the draw."
+
+- slug: the-wharf-amphitheater
+  name: The Wharf Amphitheater
+  aliases: ["The Wharf Amphitheater", "Wharf Amphitheater", "The Wharf", "The Amphitheater at The Wharf", "Wharf Amphitheatre", "The Wharf Amphitheatre"]
+  domains: ["alwharf.com"]
+  address: 23101 Canal Rd
+  city: Orange Beach
+  state: AL
+  zip: "36561"
+  lat: 30.2925
+  lng: -87.5972
+  regions: [coastal]
+
+- slug: the-hangout
+  name: The Hangout
+  aliases: ["The Hangout", "Hangout", "The Hangout Gulf Shores"]
+  domains: ["thehangout.com"]
+  address: 101 E Beach Blvd
+  city: Gulf Shores
+  state: AL
+  zip: "36542"
+  lat: 30.2469
+  lng: -87.7006
+  regions: [coastal]
+
+- slug: flora-bama
+  name: Flora-Bama
+  aliases: ["Flora-Bama", "Flora Bama", "Florabama", "Flora-Bama Lounge", "Flora-Bama Lounge & Package"]
+  domains: ["florabama.com"]
+  address: 17401 Perdido Key Dr
+  city: Pensacola
+  state: FL
+  zip: "32507"
+  regions: [coastal]
+
+- slug: innovation-portal
+  name: Innovation Portal
+  aliases: ["Innovation Portal", "Innovation PortAL", "The Innovation Portal"]
+  domains: ["innovation-portal.com"]
+  address: 358 St Louis St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Downtown startup hub. Free street parking after 6pm."
+
+- slug: mobile-museum-of-art
+  name: Mobile Museum of Art
+  aliases: ["Mobile Museum of Art", "MMoA", "MMOA"]
+  domains: ["mobilemuseumofart.com"]
+  address: 4850 Museum Dr
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "In Langan Park. Free admission most days; big free lot."
+
+- slug: playhouse-in-the-park
+  name: Playhouse in the Park
+  aliases: ["Playhouse in the Park", "Playhouse In The Park"]
+  domains: ["playhouseinthepark.org"]
+  address: 4851 Museum Dr
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "Youth theater in Langan Park. Good for kids under 6."
+
+- slug: joe-jefferson-playhouse
+  name: Joe Jefferson Playhouse
+  aliases: ["Joe Jefferson Playhouse", "Joe Jefferson Players", "JJP"]
+  domains: ["joejeffersonplayers.com"]
+  address: 11 S Carlen St
+  city: Mobile
+  state: AL
+  zip: "36606"
+  regions: [mobile]
+
+- slug: alabama-contemporary-art-center
+  name: Alabama Contemporary Art Center
+  aliases: ["Alabama Contemporary Art Center", "Alabama Contemporary", "ACAC", "Centre for the Living Arts", "Space 301"]
+  domains: ["alabamacontemporary.org"]
+  address: 301 Conti St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: mobile-arts-council
+  name: Mobile Arts Council
+  aliases: ["Mobile Arts Council", "MAC"]
+  domains: ["mobilearts.org"]
+  address: 6 S Joachim St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: ben-may-main-library
+  name: Ben May Main Library
+  aliases: ["Ben May Main Library", "Ben May Library", "Mobile Public Library", "Mobile Public Library - Main", "Main Library", "MPL Main"]
+  domains: ["mobilepubliclibrary.org"]
+  address: 701 Government St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Free lot behind the building off Church St."
+
+- slug: cathedral-square
+  name: Cathedral Square
+  aliases: ["Cathedral Square", "Cathedral Square Park"]
+  domains: []
+  address: 300 Conti St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  lat: 30.6905
+  lng: -88.0450
+  regions: [mobile]
+  notes: "Downtown park across from the Cathedral. Bring a chair for concerts; bathrooms in nearby restaurants."
+
+- slug: mardi-gras-park
+  name: Mardi Gras Park
+  aliases: ["Mardi Gras Park"]
+  domains: []
+  address: 100 Royal St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: bienville-square
+  name: Bienville Square
+  aliases: ["Bienville Square", "Bienville Square Park"]
+  domains: []
+  address: 150 Dauphin St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: hank-aaron-stadium
+  name: Hank Aaron Stadium
+  aliases: ["Hank Aaron Stadium", "The Hank"]
+  domains: []
+  address: 755 Bolling Brothers Blvd
+  city: Mobile
+  state: AL
+  zip: "36606"
+  regions: [mobile]
+
+- slug: uss-alabama-battleship-park
+  name: USS Alabama Battleship Memorial Park
+  aliases: ["USS Alabama Battleship Memorial Park", "USS Alabama", "Battleship Park", "Battleship Memorial Park", "USS Alabama Battleship Park"]
+  domains: ["ussalabama.com"]
+  address: 2703 Battleship Pkwy
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Kids love it. Parking is paid on event days."
+
+- slug: mobile-botanical-gardens
+  name: Mobile Botanical Gardens
+  aliases: ["Mobile Botanical Gardens", "Botanical Gardens"]
+  domains: ["mobilebotanicalgardens.org"]
+  address: 5151 Museum Dr
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+
+- slug: bellingrath-gardens
+  name: Bellingrath Gardens and Home
+  aliases: ["Bellingrath Gardens and Home", "Bellingrath Gardens", "Bellingrath", "Bellingrath Gardens & Home"]
+  domains: ["bellingrath.org"]
+  address: 12401 Bellingrath Gardens Rd
+  city: Theodore
+  state: AL
+  zip: "36582"
+  regions: [mobile]
+  notes: "Magic Christmas in Lights runs late Nov through Dec. Stroller-friendly paths."
+
+- slug: gulf-state-park
+  name: Gulf State Park
+  aliases: ["Gulf State Park", "Gulf State Park Pier", "Lakeview Trailhead", "Lake Shelby Playground", "Lake Shelby", "Gulf Oak Ridge Trailhead West", "Gulf Oak Ridge Trailhead", "Interpretive Center at Gulf State Park", "Learning Campus at Gulf State Park", "Gulf State Park Learning Campus", "Gulf State Park Nature Center", "Hugh S. Branyon Backcountry Trail", "Backcountry Trail", "Gulf State Park Interpretive Center", "The Lodge at Gulf State Park"]
+  domains: ["alapark.com"]
+  address: 20115 State Hwy 135
+  city: Gulf Shores
+  state: AL
+  zip: "36542"
+  regions: [coastal]
+
+- slug: owa-parks-resort
+  name: OWA Parks & Resort
+  aliases: ["OWA Parks & Resort", "OWA", "OWA Foley", "OWA Theater", "OWA Theatre", "Tropic Falls at OWA", "Downtown OWA", "OWA Parks and Resort"]
+  domains: ["visitowa.com"]
+  address: 101 S OWA Blvd
+  city: Foley
+  state: AL
+  zip: "36535"
+  regions: [coastal]
+
+- slug: gulf-coast-exploreum
+  name: Gulf Coast Exploreum Science Center
+  aliases: ["Gulf Coast Exploreum Science Center", "Exploreum", "Gulf Coast Exploreum", "The Exploreum"]
+  domains: ["exploreum.com"]
+  address: 65 Government St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Good for kids under 6. Paid garage next door."
+
+- slug: mobile-carnival-museum
+  name: Mobile Carnival Museum
+  aliases: ["Mobile Carnival Museum", "Carnival Museum"]
+  domains: ["mobilecarnivalmuseum.com"]
+  address: 355 Government St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: history-museum-of-mobile
+  name: History Museum of Mobile
+  aliases: ["History Museum of Mobile", "Mobile History Museum"]
+  domains: ["historymuseumofmobile.com"]
+  address: 111 S Royal St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: the-steeple
+  name: The Steeple on St. Francis
+  aliases: ["The Steeple on St. Francis", "The Steeple", "Steeple on St Francis", "The Steeple Mobile"]
+  domains: ["thesteeplemobile.com"]
+  address: 251 St Francis St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: mobile-convention-center
+  name: Mobile Convention Center
+  aliases: ["Mobile Convention Center", "Arthur R. Outlaw Mobile Convention Center", "Convention Center", "Outlaw Convention Center"]
+  domains: ["mobileconventions.com"]
+  address: 1 S Water St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: serda-brewing
+  name: Serda Brewing
+  aliases: ["Serda Brewing", "Serda Brewing Co", "Serda Brewing Company", "Serda's Brewing"]
+  domains: ["serdabrewing.com"]
+  address: 600 Government St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: serdas-coffee
+  name: Serda's Coffee Co.
+  aliases: ["Serda's Coffee", "Serda's Coffee Co", "Serdas Coffee", "Serda's"]
+  domains: []
+  address: 3 S Royal St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: oyster-city-brewing-mobile
+  name: Oyster City Brewing Co. (Mobile)
+  aliases: ["Oyster City Brewing", "Oyster City Brewing Co", "Oyster City Brewing Company", "Oyster City Mobile", "Oyster City"]
+  domains: []
+  address: 254 Dauphin St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: braided-river-brewing
+  name: Braided River Brewing Co.
+  aliases: ["Braided River Brewing", "Braided River Brewing Co", "Braided River Brewing Company", "Braided River"]
+  domains: ["braidedriverbrewing.com"]
+  city: Mobile
+  state: AL
+  regions: [mobile]
+
+- slug: the-merry-widow
+  name: The Merry Widow
+  aliases: ["The Merry Widow", "Merry Widow"]
+  domains: ["themerrywidow.net"]
+  address: 51 S Conception St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: alchemy-tavern
+  name: Alchemy Tavern
+  aliases: ["Alchemy Tavern", "Alchemy"]
+  domains: []
+  address: 7 S Joachim St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: loda-bier-garten
+  name: LoDa Bier Garten
+  aliases: ["LoDa Bier Garten", "Loda Biergarten", "LoDa Beer Garden", "Loda Bier Garten"]
+  domains: []
+  address: 251 Dauphin St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: downtown-mobile
+  name: Downtown Mobile
+  aliases: ["Downtown Mobile", "Dauphin Street", "Dauphin St", "LoDa", "Lower Dauphin", "Downtown", "Various locations downtown", "Multiple Locations Downtown Mobile"]
+  domains: ["downtownmobile.org"]
+  city: Mobile
+  state: AL
+  regions: [mobile]
+  notes: "Used for street festivals, art walks, and parades that span several blocks."
+
+- slug: the-grounds
+  name: The Grounds
+  aliases: ["The Grounds", "The Grounds Mobile", "Mobile Fairgrounds", "Greater Gulf State Fairgrounds", "Greater Gulf State Fair", "Fairgrounds"]
+  domains: ["thegroundsmobile.com"]
+  address: 1035 Cody Rd N
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "Home of the Greater Gulf State Fair each fall. Huge lot; expect a walk."
+
+- slug: daphne-civic-center
+  name: Daphne Civic Center
+  aliases: ["Daphne Civic Center", "Daphne Civic Centre"]
+  domains: []
+  address: 2603 US-98
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+
+- slug: fairhope-pier
+  name: Fairhope Municipal Pier
+  aliases: ["Fairhope Municipal Pier", "Fairhope Pier", "Fairhope Pier Park", "Henry George Park"]
+  domains: []
+  city: Fairhope
+  state: AL
+  zip: "36532"
+  regions: [mobile]
+
+- slug: downtown-fairhope
+  name: Downtown Fairhope
+  aliases: ["Downtown Fairhope", "Fairhope", "Fairhope Ave", "Section Street Fairhope", "Fairhope Downtown"]
+  domains: []
+  city: Fairhope
+  state: AL
+  zip: "36532"
+  regions: [mobile]
+  notes: "First Friday Art Walk runs monthly. Park once, walk everywhere."
+
+- slug: halstead-amphitheater
+  name: Halstead Amphitheater
+  aliases: ["Halstead Amphitheater", "Halstead Amphitheatre", "Coastal Alabama Community College Fairhope Amphitheater", "Fairhope Amphitheater"]
+  domains: []
+  address: 440 Fairhope Ave
+  city: Fairhope
+  state: AL
+  zip: "36532"
+  regions: [mobile]
+
+- slug: eastern-shore-art-center
+  name: Eastern Shore Art Center
+  aliases: ["Eastern Shore Art Center", "ESAC", "Eastern Shore Arts Center"]
+  domains: ["esartcenter.org"]
+  address: 401 Oak St
+  city: Fairhope
+  state: AL
+  zip: "36532"
+  regions: [mobile]
+
+- slug: spanish-fort-town-center
+  name: Spanish Fort Town Center
+  aliases: ["Spanish Fort Town Center", "Spanish Fort Towne Center", "Eastern Shore Centre", "Eastern Shore Center"]
+  domains: []
+  city: Spanish Fort
+  state: AL
+  regions: [mobile]
+
+- slug: five-rivers-delta-center
+  name: Five Rivers Delta Resource Center
+  aliases: ["Five Rivers Delta Resource Center", "5 Rivers", "Five Rivers", "5 Rivers Delta Resource Center", "Five Rivers Delta Center"]
+  domains: []
+  address: 30945 Five Rivers Blvd
+  city: Spanish Fort
+  state: AL
+  zip: "36527"
+  regions: [mobile]
+  notes: "Free admission. Good for kids under 6; short boardwalk trails."
+
+- slug: meaher-state-park
+  name: Meaher State Park
+  aliases: ["Meaher State Park", "Meaher Park"]
+  domains: []
+  city: Spanish Fort
+  state: AL
+  regions: [mobile]
+
+- slug: fort-gaines
+  name: Fort Gaines
+  aliases: ["Fort Gaines", "Fort Gaines Historic Site", "Historic Fort Gaines"]
+  domains: ["dauphinisland.org"]
+  address: 51 Bienville Blvd
+  city: Dauphin Island
+  state: AL
+  zip: "36528"
+  regions: [mobile, coastal]
+
+- slug: dauphin-island-sea-lab
+  name: Dauphin Island Sea Lab / Estuarium
+  aliases: ["Dauphin Island Sea Lab", "Estuarium", "Alabama Aquarium at Dauphin Island Sea Lab", "Alabama Aquarium", "DISL"]
+  domains: ["disl.edu"]
+  address: 101 Bienville Blvd
+  city: Dauphin Island
+  state: AL
+  zip: "36528"
+  regions: [mobile, coastal]
+
+- slug: dauphin-island
+  name: Dauphin Island
+  aliases: ["Dauphin Island", "Town of Dauphin Island", "Dauphin Island Public Beach", "West End Beach"]
+  domains: ["townofdauphinisland.org"]
+  city: Dauphin Island
+  state: AL
+  zip: "36528"
+  regions: [mobile, coastal]
+
+- slug: usa-mitchell-center
+  name: USA Mitchell Center
+  aliases: ["USA Mitchell Center", "Mitchell Center", "University of South Alabama Mitchell Center"]
+  domains: []
+  city: Mobile
+  state: AL
+  zip: "36688"
+  regions: [mobile]
+
+- slug: laidlaw-performing-arts-center
+  name: Laidlaw Performing Arts Center
+  aliases: ["Laidlaw Performing Arts Center", "Laidlaw", "USA Laidlaw Performing Arts Center", "Laidlaw Recital Hall", "USA Music"]
+  domains: []
+  address: 5751 USA Dr S
+  city: Mobile
+  state: AL
+  zip: "36688"
+  regions: [mobile]
+
+- slug: hancock-whitney-stadium
+  name: Hancock Whitney Stadium
+  aliases: ["Hancock Whitney Stadium", "USA Stadium", "South Alabama Stadium"]
+  domains: []
+  address: 6001 USA Dr S
+  city: Mobile
+  state: AL
+  zip: "36688"
+  regions: [mobile]
+
+- slug: spring-hill-college
+  name: Spring Hill College
+  aliases: ["Spring Hill College", "SHC"]
+  domains: ["shc.edu"]
+  address: 4000 Dauphin St
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+
+- slug: ladd-peebles-stadium
+  name: Ladd-Peebles Stadium
+  aliases: ["Ladd-Peebles Stadium", "Ladd Peebles Stadium", "Ladd Stadium"]
+  domains: []
+  address: 1621 Virginia St
+  city: Mobile
+  state: AL
+  zip: "36604"
+  regions: [mobile]
+
+- slug: fort-conde
+  name: Fort Conde
+  aliases: ["Fort Conde", "Colonial Fort Conde", "Fort Condé"]
+  domains: []
+  address: 150 S Royal St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: gulf-shores-city-hall
+  name: Gulf Shores City Hall
+  aliases: ["Gulf Shores City Hall", "1905 W 1st St", "1905 West 1st Street", "City Hall Gulf Shores"]
+  domains: ["gulfshoresal.gov"]
+  address: 1905 W 1st St
+  city: Gulf Shores
+  state: AL
+  zip: "36547"
+  regions: [coastal]
+
+- slug: orange-beach-city-hall
+  name: Orange Beach City Hall
+  aliases: ["Orange Beach City Hall", "City Hall Orange Beach", "4099 Orange Beach Blvd"]
+  domains: ["orangebeachal.gov"]
+  address: 4099 Orange Beach Blvd
+  city: Orange Beach
+  state: AL
+  zip: "36561"
+  regions: [coastal]
+
+- slug: orange-beach-event-center
+  name: Orange Beach Event Center
+  aliases: ["Orange Beach Event Center", "Event Center at The Wharf", "The Wharf Event Center"]
+  domains: []
+  address: 4671 Wharf Pkwy W
+  city: Orange Beach
+  state: AL
+  zip: "36561"
+  regions: [coastal]
+
+- slug: coastal-arts-center-orange-beach
+  name: Coastal Arts Center of Orange Beach
+  aliases: ["Coastal Arts Center of Orange Beach", "Coastal Arts Center", "Orange Beach Arts Center"]
+  domains: []
+  address: 26389 Canal Rd
+  city: Orange Beach
+  state: AL
+  zip: "36561"
+  regions: [coastal]
+
+- slug: saraland-community-center
+  name: Saraland Community Center
+  aliases: ["Saraland Community Center", "Saraland Civic Center"]
+  domains: []
+  city: Saraland
+  state: AL
+  zip: "36571"
+  regions: [mobile]
+
+- slug: semmes-community-center
+  name: Semmes Community Center
+  aliases: ["Semmes Community Center", "Semmes Civic Center"]
+  domains: []
+  city: Semmes
+  state: AL
+  zip: "36575"
+  regions: [mobile]
+
+# --- added from run #1 review (2026-09-14) ---
+
+- slug: may-day-park
+  name: May Day Park
+  aliases: ["May Day Park", "Mayday Park", "May Day Park Daphne"]
+  domains: []
+  address: 1 Main St
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "Bayfront park in Olde Towne Daphne. Brown Bag by the Bay concerts run Thursdays at lunch in spring and fall."
+
+- slug: lott-park
+  name: W.O. Lott Park
+  aliases: ["W. O. Lott Park", "W.O. Lott Park", "WO Lott Park", "Lott Park"]
+  domains: []
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+
+- slug: blakeley-state-park
+  name: Historic Blakeley State Park
+  aliases: ["Blakeley State Park", "Historic Blakeley State Park", "Blakeley Park", "Blakeley"]
+  domains: ["blakeleypark.com"]
+  address: 34745 State Hwy 225
+  city: Spanish Fort
+  state: AL
+  zip: "36527"
+  regions: [mobile]
+  notes: "Day-use fee at the gate. Delta boat tours book out; reserve ahead."
+
+- slug: national-maritime-museum
+  name: National Maritime Museum of the Gulf of Mexico
+  aliases: ["The National Maritime Museum of the Gulf of Mexico", "National Maritime Museum of the Gulf of Mexico", "GulfQuest", "Gulfquest National Maritime Museum", "GulfQuest Maritime Museum"]
+  domains: ["gulfquest.org"]
+  address: 155 S Water St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Downtown on the river. Good for kids under 6; paid lot next door."
+
+- slug: bloom-play-studio
+  name: BLOOM Play Studio
+  aliases: ["Bloom Play Studio", "BLOOM Play Studio", "Bloom"]
+  domains: []
+  city: Mobile
+  state: AL
+  regions: [mobile]
+
+- slug: pops-midtown
+  name: Pop's Midtown
+  aliases: ["Pop's Midtown", "Pops Midtown"]
+  domains: []
+  city: Mobile
+  state: AL
+  regions: [mobile]
+
+- slug: gulf-place
+  name: Gulf Place
+  aliases: ["Gulf Place", "Town Green at Gulf Place", "Town Green at Gulf Place, 101 Gulf Shores Parkway", "101 Gulf Shores Pkwy", "101 Gulf Shores Parkway", "Gulf Place Town Green"]
+  domains: []
+  address: 101 Gulf Shores Pkwy
+  city: Gulf Shores
+  state: AL
+  zip: "36542"
+  regions: [coastal]
+  notes: "The public beach hub at the foot of Hwy 59. Shrimp Festival home base."
+
+- slug: pensacola-bay-center
+  name: Pensacola Bay Center
+  aliases: ["Pensacola Bay Center", "Bay Center", "Pensacola Civic Center"]
+  domains: ["pensacolabaycenter.com"]
+  address: 201 E Gregory St
+  city: Pensacola
+  state: FL
+  zip: "32502"
+  regions: [coastal]

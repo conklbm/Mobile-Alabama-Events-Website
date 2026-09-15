@@ -1,0 +1,26 @@
+# Category classification. First matching rule wins; order matters.
+# Checked against source category names first, then title, then description (weak).
+# Categories: music, family, food, arts, sports, community, nightlife
+
+rules:
+  - category: family
+    keywords: [kids, kid, family, children, child, toddler, toddlers, storytime, story time, teen, teens, youth, all ages, puppet, trunk or treat, egg hunt, santa, family-friendly, family friendly, little ones, mommy, mommy & me, mom & me, open play, play session, playgroup, parents night out, camp, nature walk, nature program, seine net, dissection]
+  - category: music
+    keywords: [concert, live music, band, orchestra, symphony, jazz, blues, bluegrass, dj, acoustic, choir, recital, open mic, songwriter, singer-songwriter, "92zew live", concert series, music series]
+  - category: food
+    keywords: [food, brunch, dinner, tasting, wine, beer fest, crawfish, oyster, bbq, barbecue, cookoff, cook-off, farmers market, "farmers' market", food truck, brewery, taco, gumbo, seafood, shrimp festival]
+  - category: sports
+    keywords: [game, race, 5k, 10k, marathon, run, tournament, football, baseball, basketball, soccer, golf, fishing, rodeo, regatta, fun run, triathlon, pickleball, wrestling, cycling, yoga, fitness, workout, zumba, pilates, bootcamp, boot camp]
+  - category: arts
+    keywords: [art, gallery, exhibit, exhibition, theatre, theater, musical, ballet, dance, opera, film, movie, screening, poetry, book, author, museum, art walk, artwalk, comedy, improv, craft, pottery, photography, sculpture, painting]
+  - category: community
+    keywords: [meeting, council, commission, volunteer, cleanup, clean-up, church, class, seminar, workshop, market, festival, parade, fair, fundraiser, gala, open house, job fair, resume, health, blood drive, networking, meetup, town hall, pop up, pop-up, lab, entrepreneur]
+  - category: nightlife
+    keywords: [bingo, trivia, happy hour, pub crawl, karaoke, "18+", "21+", drag show, dj night, late night, nightlife]
+
+# Fallback when nothing matches
+default: community
+
+# Titles containing these never make the homepage top list (public meetings, weekly
+# programming). They still appear in listings and on city pages.
+never_feature_keywords: [council, commission, work session, board meeting, resume, public hearing, committee]

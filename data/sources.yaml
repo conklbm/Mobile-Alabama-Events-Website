@@ -1,0 +1,169 @@
+# Event sources. One entry per source. Synced into the `sources` table every run
+# (YAML wins for config fields; the DB keeps runtime fields like last_successful_pull).
+#
+# collector_type: tribe_api | ticketmaster | civicplus_rss | ics | jsonld | manual
+# tier:  A = venue/organizer's own site   B = ticketing platform   C = aggregator/curator
+# regions: list — ["mobile"], ["coastal"], or both
+# curated: true when a human picks each event (drives curation_score)
+# brand_tokens: strings that identify the source's OWN events (self-promo detection)
+# license_notes / redistributable: REQUIRED. Record terms now, not after promising a feed.
+# expected_min_events: floor for the silent-breakage alarm (0 = don't alarm on low count)
+
+- id: 92zew
+  name: 92ZEW
+  url: https://92zew.net
+  collector_type: tribe_api
+  tier: C
+  curated: true
+  regions: [mobile]
+  brand_tokens: ["92ZEW", "92 ZEW", "ZEW"]
+  license_notes: "Public WP REST endpoint (The Events Calendar). Community radio calendar. Link back to listing."
+  redistributable: false
+  expected_min_events: 40
+
+- id: innovation-portal
+  name: Innovation Portal
+  url: https://www.innovation-portal.com
+  collector_type: tribe_api
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["Innovation Portal"]
+  license_notes: "Public WP REST endpoint. Organizer's own events + hosted community events."
+  redistributable: false
+  expected_min_events: 10
+  config:
+    default_venue: innovation-portal   # listings carry no venue; it's their own building
+
+- id: themobmom
+  name: The Mob Mom
+  url: https://themobmom.com
+  collector_type: tribe_api
+  tier: C
+  curated: true
+  regions: [mobile, coastal]
+  brand_tokens: ["Mob Mom", "The Mob Mom"]
+  license_notes: "Public WP REST endpoint. Independent family-events blog. Link back."
+  redistributable: false
+  expected_min_events: 10
+
+- id: mobilesymphony
+  name: Mobile Symphony Orchestra
+  url: https://mobilesymphony.org
+  collector_type: tribe_api
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["Mobile Symphony", "MSO"]
+  license_notes: "Public WP REST endpoint. Organizer's own events."
+  redistributable: false
+  expected_min_events: 0
+
+- id: joejeffersonplayers
+  name: Joe Jefferson Players
+  url: https://joejeffersonplayers.com
+  collector_type: tribe_api
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["Joe Jefferson"]
+  license_notes: "Public WP REST endpoint. Organizer's own events. (0 upcoming at verification 2026-09-14.)"
+  redistributable: false
+  expected_min_events: 0
+
+- id: mobilespca
+  name: Mobile SPCA
+  url: https://mobilespca.org
+  collector_type: tribe_api
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["SPCA"]
+  license_notes: "Public WP REST endpoint. Organizer's own events. (0 upcoming at verification 2026-09-14.)"
+  redistributable: false
+  expected_min_events: 0
+
+- id: ticketmaster
+  name: Ticketmaster
+  url: https://www.ticketmaster.com
+  collector_type: ticketmaster
+  tier: B
+  curated: false
+  regions: [mobile, coastal]
+  brand_tokens: []
+  license_notes: >
+    Discovery API v2. Terms require attribution ("Powered by Ticketmaster" style credit)
+    and a link back to the Ticketmaster event page on every listing. No image reuse
+    (images are artist/label owned) — image_ok is forced false. Do not cache beyond
+    reasonable refresh; do not resell. Affiliate program exists — evaluate.
+  redistributable: false
+  expected_min_events: 10
+  config:
+    # Two sweeps: Mobile metro and the Gulf Shores / Orange Beach corridor
+    sweeps:
+      - {label: mobile,  latlong: "30.6954,-88.0399", radius_miles: 40, regions: [mobile]}
+      - {label: coastal, latlong: "30.2794,-87.6720", radius_miles: 40, regions: [coastal]}
+
+- id: gulfshores-city
+  name: City of Gulf Shores
+  url: https://www.gulfshoresal.gov/Calendar.aspx
+  collector_type: civicplus_rss
+  tier: A
+  curated: false
+  regions: [coastal]
+  brand_tokens: ["City of Gulf Shores"]
+  license_notes: "Public CivicPlus RSS feed. Municipal calendar (public meetings + community events)."
+  redistributable: true
+  expected_min_events: 2
+  config:
+    feed_url: https://www.gulfshoresal.gov/RSSFeed.aspx?ModID=58&CID=All-calendar.xml
+
+- id: orangebeach-city
+  name: City of Orange Beach
+  url: https://www.orangebeachal.gov/Calendar.aspx
+  collector_type: civicplus_rss
+  tier: A
+  curated: false
+  regions: [coastal]
+  brand_tokens: ["City of Orange Beach"]
+  license_notes: "Public CivicPlus RSS feed. Municipal calendar."
+  redistributable: true
+  expected_min_events: 5
+  config:
+    feed_url: https://www.orangebeachal.gov/RSSFeed.aspx?ModID=58&CID=All-calendar.xml
+
+# --- Not yet live. Verified 2026-09-14 that the registry was wrong for these: ---
+# playhouseinthepark.org  -> JSON-LD is WebSite/Organization/LocalBusiness only, no Event. Needs HTML parser.
+# soulkitchenmobile.com   -> No Event JSON-LD; events are /tm-event/ pages (Ticketmaster). Covered by the TM sweep.
+# eventkeeper.com (MPL)   -> Now a JS app labeled "Archived". Not parseable server-side.
+#
+# Template for a JSON-LD source once one is verified to carry Event markup:
+# - id: example-venue
+#   name: Example Venue
+#   url: https://example.com/events
+#   collector_type: jsonld
+#   tier: A
+#   curated: false
+#   regions: [mobile]
+#   brand_tokens: ["Example Venue"]
+#   license_notes: "Public schema.org Event markup on venue's own site."
+#   redistributable: false
+#   expected_min_events: 3
+#   config:
+#     pages: ["https://example.com/events"]
+#     follow_pattern: "/event/"     # optional: follow listing links matching this, one hop
+#     max_follow: 40
+
+- id: manual
+  name: Manual entry (Facebook weekly scan)
+  url: https://www.facebook.com/events
+  collector_type: manual
+  tier: C
+  curated: true
+  regions: [mobile, coastal]
+  brand_tokens: []
+  license_notes: "Hand-entered by Brooks from the weekly Facebook scan. Each row carries its own info_url."
+  redistributable: false
+  expected_min_events: 0
+  config:
+    path: data/manual/events.csv

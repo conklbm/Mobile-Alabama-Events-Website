@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% from "_macros.html" import day_groups %}
+{% block content %}
+<h1>{{ h1 }}</h1>
+{% if intro %}<p class="lede">{{ intro }}</p>{% endif %}
+{{ day_groups(groups, empty) }}
+{% endblock %}

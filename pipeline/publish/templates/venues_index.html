@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Venues</h1>
+<p class="lede">Every venue with at least one event on the calendar. Counts are upcoming events.</p>
+<ul class="rows">
+{% for v in venues %}
+  <li class="row"><a class="row-link" href="{{ v.url }}"><span class="row-main"><span class="row-title">{{ v.name }}</span><span class="row-sub">{{ v.city }}, {{ v.state }}</span></span><span class="count">{{ v.count }}</span></a></li>
+{% endfor %}
+</ul>
+{% endblock %}

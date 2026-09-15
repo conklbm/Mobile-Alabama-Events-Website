@@ -1,0 +1,37 @@
+# Pipeline settings. Tune here, not in code.
+
+timezone: America/Chicago
+
+collect:
+  # First run pulls 90 days so the site doesn't look abandoned (cold start).
+  # After that, a rolling window. Both are "days ahead of today".
+  window_days: 90
+  http_timeout: 60
+  user_agent: "MobileBayEventsBot/0.1 (+https://www.mobilebayevents.com/about/)"
+
+dedup:
+  # rapidfuzz token_set_ratio thresholds (0-100)
+  match_threshold: 82       # >= this: same event
+  ambiguous_floor: 70       # between floor and threshold: review queue
+  venue_alias_threshold: 90 # fuzzy venue-name match against aliases
+
+series:
+  # Annual series: re-attach if within this many days of the previous year's date
+  annual_window_days: 45
+
+review:
+  # Queue EVERYTHING for the first N runs. You cannot calibrate a threshold you
+  # have never watched fail. Raise/lower after watching where parsers break.
+  strict_until_run: 3
+
+freshness:
+  consecutive_misses_to_flag: 2
+  stale_source_weeks: 3
+
+publish:
+  site_url: https://www.mobilebayevents.com
+  site_name: Mobile Bay Events
+  region: mobile
+  featured_count: 10
+  # One-off events 301 to the venue page this many days AFTER the event ends.
+  one_off_redirect_after_days: 7

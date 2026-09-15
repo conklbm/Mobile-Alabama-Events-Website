@@ -1,0 +1,2549 @@
+{
+ "region": "mobile",
+ "generated": "2026-09-15T00:17:03Z",
+ "events": [
+  {
+   "id": 92,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-09-15T19:00:00-05:00",
+   "end": "2026-09-15T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-09-15/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1,
+   "series_slug": "enrg-entrepreneurial-network-resource-group",
+   "title": "ENRG (Entrepreneurial Network Resource Group)",
+   "start": "2026-09-16T08:30:00-05:00",
+   "end": "2026-09-16T10:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "innovation-portal.com/enrg",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2024/12/enrg-2025-horizontal.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 43,
+   "series_slug": "night-sky-series-september-skies",
+   "title": "Night Sky Series: September Skies",
+   "start": "2026-09-16T18:00:00-05:00",
+   "end": "2026-09-16T21:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "bellingrath-gardens",
+    "name": "Bellingrath Gardens and Home",
+    "city": "Theodore",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://bellingrath.org/event/night-sky-series-september-skies/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/summer-sky-bellingrath.webp?fit=1536%2C864&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 44,
+   "series_slug": "fall-in-love-with-speech-honey-b-bloom-mommy-me-session-on-the",
+   "title": "Fall in love with Speech! Honey B + BLOOM Mommy & Me Session: On the Orchard! with BLOOM Play Studio",
+   "start": "2026-09-17T09:30:00-05:00",
+   "end": "2026-09-17T11:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "bloom-play-studio",
+    "name": "BLOOM Play Studio",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/fall-in-love-with-speech-honey-b-bloom-mommy-me-session-on-the-orchard-with-bloom-play-studio/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/01/Bloom-Play-Studio.webp?fit=500%2C500&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 45,
+   "series_slug": "free-admission-to-mmoa-for-mobile-residents",
+   "title": "Free Admission to MMOA for Mobile Residents",
+   "start": "2026-09-17T10:00:00-05:00",
+   "end": "2026-09-17T17:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/visit/admissions-directions/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 46,
+   "series_slug": "brown-bag-by-the-bay-concert-series",
+   "title": "Brown Bag by the Bay Concert Series",
+   "start": "2026-09-17T11:30:00-05:00",
+   "end": "2026-09-17T13:30:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "may-day-park",
+    "name": "May Day Park",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/brown-bag-by-the-bay-concert-series-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 47,
+   "series_slug": "family-art",
+   "title": "Family Art",
+   "start": "2026-09-17T15:00:00-05:00",
+   "end": "2026-09-17T16:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/family-art-8-2/2026-09-17/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 93,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-09-17T19:00:00-05:00",
+   "end": "2026-09-17T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-09-17/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 50,
+   "series_slug": "blooms-apple-orchard-themed-play-session-mommy-me-apple-pie-baking",
+   "title": "BLOOM’s Apple Orchard Themed Play Session + Mommy & Me Apple Pie Baking Workshop with BLOOM Play Studio",
+   "start": "2026-09-18T09:30:00-05:00",
+   "end": "2026-09-18T11:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "bloom-play-studio",
+    "name": "BLOOM Play Studio",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/blooms-apple-orchard-themed-play-session-mommy-me-apple-pie-baking-workshop-with-bloom-play-studio/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/01/Bloom-Play-Studio.webp?fit=500%2C500&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 52,
+   "series_slug": "the-great-bellingrath-harvest",
+   "title": "The Great Bellingrath Harvest",
+   "start": "2026-09-19T00:00:00-05:00",
+   "end": "2026-09-19T23:59:59-05:00",
+   "all_day": true,
+   "category": "family",
+   "venue": {
+    "slug": "bellingrath-gardens",
+    "name": "Bellingrath Gardens and Home",
+    "city": "Theodore",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://bellingrath.org/event/the-great-bellingrath-harvest-1/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2025/09/bellingrath-pumpkin-patch-2026.webp?fit=1536%2C864&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 55,
+   "series_slug": "naturenauts-stem-day",
+   "title": "NatureNauts STEM Day",
+   "start": "2026-09-19T09:00:00-05:00",
+   "end": "2026-09-19T13:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "bellingrath-gardens",
+    "name": "Bellingrath Gardens and Home",
+    "city": "Theodore",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://bellingrath.org/event/naturenauts-stem-day-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/naturenaut-day.webp?fit=1536%2C864&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 56,
+   "series_slug": "kids-day-young-entrepreneur-showcase",
+   "title": "Kid’s Day: Young Entrepreneur Showcase",
+   "start": "2026-09-19T10:00:00-05:00",
+   "end": "2026-09-19T14:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "national-maritime-museum",
+    "name": "National Maritime Museum of the Gulf of Mexico",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/kids-day-young-entrepreneur-showcase-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/kids-day-mobile.jpg?fit=990%2C315&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 57,
+   "series_slug": "dog-days-at-mbg",
+   "title": "Dog Days at MBG",
+   "start": "2026-09-19T10:00:00-05:00",
+   "end": "2026-09-19T14:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "mobile-botanical-gardens",
+    "name": "Mobile Botanical Gardens",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/dog-days-at-mbg/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/dog-days-mbg.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 58,
+   "series_slug": "art-of-the-paw",
+   "title": "Art of the Paw",
+   "start": "2026-09-19T12:00:00-05:00",
+   "end": "2026-09-19T16:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "eastern-shore-art-center",
+    "name": "Eastern Shore Art Center",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://esartcenter.org/event/art-of-the-paw/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/art-of-the-paw.jpg?fit=784%2C604&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 60,
+   "series_slug": "sunday-sunset-concert-series",
+   "title": "Sunday Sunset Concert Series",
+   "start": "2026-09-20T17:30:00-05:00",
+   "end": "2026-09-20T19:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "lott-park",
+    "name": "W.O. Lott Park",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/sunday-sunset-concert-series/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 95,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-09-22T19:00:00-05:00",
+   "end": "2026-09-22T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-09-22/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 66,
+   "series_slug": "fall-into-fun-weekly-themed-open-play-session-ages-1-with-bloom-play",
+   "title": "Fall into Fun! Weekly Themed OPEN PLAY Session (ages 1+) with BLOOM Play Studio",
+   "start": "2026-09-24T09:30:00-05:00",
+   "end": "2026-09-24T11:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "bloom-play-studio",
+    "name": "BLOOM Play Studio",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/fall-into-fun-weekly-themed-open-play-session-ages-1-with-bloom-play-studio-3/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/01/Bloom-Play-Studio.webp?fit=500%2C500&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 67,
+   "series_slug": "free-admission-to-mmoa-for-mobile-residents",
+   "title": "Free Admission to Mobile Museum of Art for Mobile Residents",
+   "start": "2026-09-24T10:00:00-05:00",
+   "end": "2026-09-24T17:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/visit/admissions-directions/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 68,
+   "series_slug": "brown-bag-by-the-bay-concert-series",
+   "title": "Brown Bag by the Bay Concert Series",
+   "start": "2026-09-24T11:30:00-05:00",
+   "end": "2026-09-24T13:30:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "may-day-park",
+    "name": "May Day Park",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/brown-bag-by-the-bay-concert-series-3/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 71,
+   "series_slug": "make-take-art",
+   "title": "Make & Take Art",
+   "start": "2026-09-24T15:00:00-05:00",
+   "end": "2026-09-24T16:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/make-take-art-7-2/2026-09-24/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 96,
+   "series_slug": "jason-isbell-the-400-unit",
+   "title": "Jason Isbell & The 400 Unit",
+   "start": "2026-09-24T17:00:00-05:00",
+   "end": "2026-09-24T20:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/jason-isbell-the-400-unit/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/06/710700625_1619446986850353_4940407629244053519_n.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 97,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-09-24T19:00:00-05:00",
+   "end": "2026-09-24T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-09-24/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 75,
+   "series_slug": "blooms-apple-orchard-themed-play-session-mommy-me-apple-pie-baking",
+   "title": "BLOOM’s Fall Farm Animal Themed Play Session + Mommy & Me Animal Cracker Baking Workshop with BLOOM Play Studio",
+   "start": "2026-09-25T09:30:00-05:00",
+   "end": "2026-09-25T11:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "bloom-play-studio",
+    "name": "BLOOM Play Studio",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/blooms-fall-farm-animal-themed-play-session-mommy-me-animal-cracker-baking-workshop-with-bloom-play-studio/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/01/Bloom-Play-Studio.webp?fit=500%2C500&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 2,
+   "series_slug": "la-ai-meetup",
+   "title": "LA-AI Meetup",
+   "start": "2026-09-25T15:30:00-05:00",
+   "end": "2026-09-25T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/la-ai-meetup-2/2026-09-25/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2024/03/IP_Meetup-2-28-25-copy-scaled.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 76,
+   "series_slug": "parents-night-out",
+   "title": "Parents Night Out!",
+   "start": "2026-09-25T17:30:00-05:00",
+   "end": "2026-09-25T20:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "bloom-play-studio",
+    "name": "BLOOM Play Studio",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/parents-night-out-4/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/PNO-bloom-play.webp?fit=750%2C922&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 98,
+   "series_slug": "jar-of-sap-alice-in-chains-tribute",
+   "title": "Jar of Sap: Alice In Chains Tribute",
+   "start": "2026-09-25T22:00:00-05:00",
+   "end": "2026-09-26T01:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/jar-of-sap-alice-in-chains-tribute/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/06/74_Edp.png",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 78,
+   "series_slug": "scarecrows-in-the-gardens",
+   "title": "Scarecrows in the Gardens",
+   "start": "2026-09-26T00:00:00-05:00",
+   "end": "2026-09-26T23:59:59-05:00",
+   "all_day": true,
+   "category": "community",
+   "venue": {
+    "slug": "bellingrath-gardens",
+    "name": "Bellingrath Gardens and Home",
+    "city": "Theodore",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://bellingrath.org/event/scarecrows-in-the-gardens-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/scarecrows-in-the-gardens.webp?fit=1536%2C864&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 80,
+   "series_slug": "mobile-reptile-exotic-pet-expo",
+   "title": "Mobile Reptile & Exotic Pet Expo",
+   "start": "2026-09-26T09:00:00-05:00",
+   "end": "2026-09-27T16:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-grounds",
+    "name": "The Grounds",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/mobile-reptile-exotic-pet-expo/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/pet-expo.jpg?fit=960%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 82,
+   "series_slug": "search-and-rescue-instruction-program-for-kids",
+   "title": "Search and Rescue Instruction Program for Kids",
+   "start": "2026-09-26T11:00:00-05:00",
+   "end": "2026-09-26T12:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "blakeley-state-park",
+    "name": "Historic Blakeley State Park",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.blakeleypark.com/Things-to-Do/Events/AgentType/View/PropertyID/282",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 3,
+   "series_slug": "prototyping-lab-3d-modeling-workshop",
+   "title": "Prototyping Lab 3D Modeling Workshop",
+   "start": "2026-09-29T16:00:00-05:00",
+   "end": "2026-09-29T17:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/prototyping-lab-3d-modeling-workshop-4/2026-09-29/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-1-1.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 100,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-09-29T19:00:00-05:00",
+   "end": "2026-09-29T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-09-29/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 101,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-10-01T19:00:00-05:00",
+   "end": "2026-10-01T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-10-01/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 102,
+   "series_slug": "jj-grey-mofro",
+   "title": "JJ Grey & Mofro",
+   "start": "2026-10-01T20:00:00-05:00",
+   "end": "2026-10-01T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/jj-grey-mofro/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/jj-grey-2026-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 103,
+   "series_slug": "lamont-landers",
+   "title": "Lamont Landers",
+   "start": "2026-10-02T20:00:00-05:00",
+   "end": "2026-10-02T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themerrywidow.net/events/lamont-landers/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/09/IMG_6182-2048x1366-1.jpeg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 105,
+   "series_slug": "roman-street-with-andy-vargas-singer-for-santana",
+   "title": "Roman Street with Andy Vargas (singer for Santana)",
+   "start": "2026-10-04T19:30:00-05:00",
+   "end": "2026-10-04T22:30:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/roman-street-with-andy-vargas-singer-for-santana/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/06/romanoct.png",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 106,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-10-06T19:00:00-05:00",
+   "end": "2026-10-06T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-10-06/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 4,
+   "series_slug": "prototyping-lab-open-house-night",
+   "title": "Prototyping Lab Open House Night!",
+   "start": "2026-10-08T16:00:00-05:00",
+   "end": "2026-10-08T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/prototyping-lab-open-house-night/2026-10-08/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-2.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 107,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-10-08T19:00:00-05:00",
+   "end": "2026-10-08T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-10-08/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 108,
+   "series_slug": "postmodern-jukebox-the-future-is-vintage-world-tour",
+   "title": "Postmodern Jukebox: The Future Is Vintage World Tour",
+   "start": "2026-10-08T20:00:00-05:00",
+   "end": "2026-10-08T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/scott-bradlees-postmodern-jukebox-the-future-is-vintage-world-tour/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/postmodern-jukebox-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 109,
+   "series_slug": "artwalk-halloween",
+   "title": "ArtWalk: Halloween",
+   "start": "2026-10-09T18:00:00-05:00",
+   "end": "2026-10-09T21:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/art-walk?fbclid=IwY2xjawSozD9leHRuA2FlbQIxMABicmlkETEwTnc5OFpzUkQ3NVpTeUlrc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqaNYekiq8zpa6A40Vep5rgIssyAf-q2C9Ng2pMNGDJS4JrHbz-ntTFVDs0I_aem_FjFmMw4tK0WH78G46GB-IQ",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/06/artwalk-logo-512-x-442-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 110,
+   "series_slug": "daniel-tosh",
+   "title": "Daniel Tosh",
+   "start": "2026-10-09T19:00:00-05:00",
+   "end": "2026-10-09T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/daniel-tosh/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/Tosh.png",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 14,
+   "series_slug": "spectacular",
+   "title": "Spectacular!",
+   "start": "2026-10-10T19:30:00-05:00",
+   "end": "2026-10-11T14:30:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://mobilesymphony.org/event/spectacular",
+   "source": {
+    "name": "Mobile Symphony Orchestra",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://mobilesymphony.org/wp-content/uploads/2026/04/Concert_Page_Banner_1-scaled.png",
+    "credit": "Mobile Symphony Orchestra"
+   },
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 111,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-10-13T19:00:00-05:00",
+   "end": "2026-10-13T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-10-13/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 5,
+   "series_slug": "enrg-entrepreneurial-network-resource-group",
+   "title": "ENRG (Entrepreneurial Network Resource Group)",
+   "start": "2026-10-14T08:30:00-05:00",
+   "end": "2026-10-14T10:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "innovation-portal.com/enrg",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2024/12/enrg-2025-horizontal.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 112,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-10-15T19:00:00-05:00",
+   "end": "2026-10-15T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-10-15/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 113,
+   "series_slug": "sister-hazel",
+   "title": "Sister Hazel",
+   "start": "2026-10-15T20:00:00-05:00",
+   "end": "2026-10-15T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.soulkitchenmobile.com/tm-event/sister-hazel/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/84_Original.png",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 91,
+   "series_slug": "pops-midtown-6th-annual-family-fun-day-fall-festival-block-party",
+   "title": "POP’S MIDTOWN 6TH ANNUAL FAMILY FUN DAY FALL FESTIVAL & BLOCK PARTY",
+   "start": "2026-10-17T10:00:00-05:00",
+   "end": "2026-10-17T18:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "pops-midtown",
+    "name": "Pop's Midtown",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/pops-midtown-6th-annual-family-fun-day-fall-festival-block-party/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2025/09/pops-midtown-pumpkin-patch-2026.jpg?fit=742%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 114,
+   "series_slug": "jo-koy",
+   "title": "Jo Koy",
+   "start": "2026-10-17T20:00:00-05:00",
+   "end": "2026-10-17T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/jo-koy/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 115,
+   "series_slug": "crawling-a-tribute-to-linkin-park",
+   "title": "Crawling: A Tribute to Linkin Park",
+   "start": "2026-10-17T20:00:00-05:00",
+   "end": "2026-10-17T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.soulkitchenmobile.com/tm-event/crawling-a-tribute-to-early-linkin-park-nirvanna-tribute-to-nirvana/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/09/24_Edp.png",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 117,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-10-20T19:00:00-05:00",
+   "end": "2026-10-20T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-10-20/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 118,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-10-22T19:00:00-05:00",
+   "end": "2026-10-22T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-10-22/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 119,
+   "series_slug": "jd-simo-w-luther-dickinson-black-joe-lewis-the-honeybears",
+   "title": "JD Simo w Luther Dickinson + Black Joe Lewis & The Honeybears",
+   "start": "2026-10-23T20:00:00-05:00",
+   "end": "2026-10-23T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/jd-simo-w-luther-dickinson-black-joe-lewis-the-honeybears/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/08/762974469_1972860303670138_231126205669625406_n.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 6,
+   "series_slug": "prototyping-lab-3d-modeling-workshop",
+   "title": "Prototyping Lab 3D Modeling Workshop",
+   "start": "2026-10-27T16:00:00-05:00",
+   "end": "2026-10-27T17:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/prototyping-lab-3d-modeling-workshop-4/2026-10-27/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-1-1.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 120,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-10-27T19:00:00-05:00",
+   "end": "2026-10-27T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-10-27/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 121,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-10-29T19:00:00-05:00",
+   "end": "2026-10-29T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-10-29/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 7,
+   "series_slug": "la-ai-meetup",
+   "title": "LA-AI Meetup",
+   "start": "2026-10-30T15:30:00-05:00",
+   "end": "2026-10-30T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/la-ai-meetup-2/2026-10-30/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2024/03/IP_Meetup-2-28-25-copy-scaled.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 122,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-11-03T19:00:00-06:00",
+   "end": "2026-11-03T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-11-03/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 123,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-11-05T19:00:00-06:00",
+   "end": "2026-11-05T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-11-05/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 125,
+   "series_slug": "maggie-koerner",
+   "title": "Maggie Koerner",
+   "start": "2026-11-06T20:00:00-06:00",
+   "end": "2026-11-06T23:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themerrywidow.net/events/maggie-koerner/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/09/IMG_6795.jpeg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 15,
+   "series_slug": "beethoven-blue-jeans",
+   "title": "Beethoven & Blue Jeans",
+   "start": "2026-11-07T19:30:00-06:00",
+   "end": "2026-11-08T14:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://mobilesymphony.org/event/beethoven-blue-jeans-5",
+   "source": {
+    "name": "Mobile Symphony Orchestra",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://mobilesymphony.org/wp-content/uploads/2026/04/Concert_Page_Banner_2.png",
+    "credit": "Mobile Symphony Orchestra"
+   },
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 126,
+   "series_slug": "drivin-n-cryin",
+   "title": "Drivin N Cryin",
+   "start": "2026-11-08T20:00:00-06:00",
+   "end": "2026-11-08T23:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/drivin-n-cryin/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/07/742059620_4624982121114441_4415926615109025591_n.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 127,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-11-10T19:00:00-06:00",
+   "end": "2026-11-10T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-11-10/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 8,
+   "series_slug": "enrg-entrepreneurial-network-resource-group",
+   "title": "ENRG (Entrepreneurial Network Resource Group)",
+   "start": "2026-11-11T08:30:00-06:00",
+   "end": "2026-11-11T10:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "innovation-portal.com/enrg",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2024/12/enrg-2025-horizontal.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 9,
+   "series_slug": "prototyping-lab-open-house-night",
+   "title": "Prototyping Lab Open House Night!",
+   "start": "2026-11-12T16:00:00-06:00",
+   "end": "2026-11-12T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/prototyping-lab-open-house-night/2026-11-12/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-2.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 128,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-11-12T19:00:00-06:00",
+   "end": "2026-11-12T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-11-12/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 130,
+   "series_slug": "artwalk-picture-book-month",
+   "title": "ArtWalk : Picture Book Month",
+   "start": "2026-11-13T18:00:00-06:00",
+   "end": "2026-11-13T21:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/art-walk?fbclid=IwY2xjawSozD9leHRuA2FlbQIxMABicmlkETEwTnc5OFpzUkQ3NVpTeUlrc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqaNYekiq8zpa6A40Vep5rgIssyAf-q2C9Ng2pMNGDJS4JrHbz-ntTFVDs0I_aem_FjFmMw4tK0WH78G46GB-IQ",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/06/artwalk-logo-512-x-442-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 131,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-11-17T19:00:00-06:00",
+   "end": "2026-11-17T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-11-17/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 132,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-11-19T19:00:00-06:00",
+   "end": "2026-11-19T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-11-19/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 133,
+   "series_slug": "robert-earl-keen",
+   "title": "Robert Earl Keen",
+   "start": "2026-11-20T17:00:00-06:00",
+   "end": "2026-11-20T20:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/robert-earl-keen/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/07/rek-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 134,
+   "series_slug": "little-feat",
+   "title": "Little Feat",
+   "start": "2026-11-21T20:00:00-06:00",
+   "end": "2026-11-21T23:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/little-feat-2/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 10,
+   "series_slug": "prototyping-lab-3d-modeling-workshop",
+   "title": "Prototyping Lab 3D Modeling Workshop",
+   "start": "2026-11-24T16:00:00-06:00",
+   "end": "2026-11-24T17:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/prototyping-lab-3d-modeling-workshop-4/2026-11-24/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-1-1.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 135,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-11-24T19:00:00-06:00",
+   "end": "2026-11-24T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-11-24/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 136,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-11-26T19:00:00-06:00",
+   "end": "2026-11-26T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-11-26/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 11,
+   "series_slug": "la-ai-meetup",
+   "title": "LA-AI Meetup",
+   "start": "2026-11-27T15:30:00-06:00",
+   "end": "2026-11-27T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/la-ai-meetup-2/2026-11-27/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2024/03/IP_Meetup-2-28-25-copy-scaled.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 137,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-01T19:00:00-06:00",
+   "end": "2026-12-01T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-12-01/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 138,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-03T19:00:00-06:00",
+   "end": "2026-12-03T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-12-03/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 139,
+   "series_slug": "croce-plays-croce",
+   "title": "Croce Plays Croce",
+   "start": "2026-12-03T20:00:00-06:00",
+   "end": "2026-12-03T23:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/croce-plays-croce/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/07/1203-Pensacola-CrocePlaysCroce-678x399-1.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 140,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-08T19:00:00-06:00",
+   "end": "2026-12-08T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-12-08/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 12,
+   "series_slug": "enrg-entrepreneurial-network-resource-group",
+   "title": "ENRG (Entrepreneurial Network Resource Group)",
+   "start": "2026-12-09T08:30:00-06:00",
+   "end": "2026-12-09T10:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "innovation-portal.com/enrg",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2024/12/enrg-2025-horizontal.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 13,
+   "series_slug": "prototyping-lab-open-house-night",
+   "title": "Prototyping Lab Open House Night!",
+   "start": "2026-12-10T16:00:00-06:00",
+   "end": "2026-12-10T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/prototyping-lab-open-house-night/2026-12-10/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-2.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 141,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-10T19:00:00-06:00",
+   "end": "2026-12-10T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-12-10/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 142,
+   "series_slug": "artwalk-celebrate-christmas",
+   "title": "ArtWalk: Celebrate Christmas",
+   "start": "2026-12-11T18:00:00-06:00",
+   "end": "2026-12-11T21:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/art-walk?fbclid=IwY2xjawSozD9leHRuA2FlbQIxMABicmlkETEwTnc5OFpzUkQ3NVpTeUlrc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqaNYekiq8zpa6A40Vep5rgIssyAf-q2C9Ng2pMNGDJS4JrHbz-ntTFVDs0I_aem_FjFmMw4tK0WH78G46GB-IQ",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/06/artwalk-logo-512-x-442-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 16,
+   "series_slug": "swing-into-the-holidays",
+   "title": "Swing into the Holidays!",
+   "start": "2026-12-12T19:30:00-06:00",
+   "end": "2026-12-13T14:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://mobilesymphony.org/event/swing-into-the-holidays",
+   "source": {
+    "name": "Mobile Symphony Orchestra",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://mobilesymphony.org/wp-content/uploads/2026/04/Concert_Page_Banner_3-scaled.png",
+    "credit": "Mobile Symphony Orchestra"
+   },
+   "curation_score": 0,
+   "independent_source_count": 0
+  }
+ ]
+}

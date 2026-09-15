@@ -1,0 +1,19 @@
+# Original per-series content. Keyed by series slug (see /events/<slug>).
+# This is the "value beyond the scraped listing" — parking, kids, what to expect.
+# Add entries as series show up in the review issue or on the site.
+#
+#   <series-slug>:
+#     blurb: one or two sentences in your own words
+#     kids_under_6: true | false        # shown as a flag
+#     parking: short note
+#     cadence: annual | weekly | monthly | one_off   # overrides the detected value
+#     category: music | family | ...                 # overrides the classifier
+#     featured: true                                 # pin to the homepage top list
+#     never_feature: true                            # keep off the top list
+
+beer-bbq-bingo:
+  blurb: "Free bingo with the 92ZEW crew at Moe's. Tuesdays downtown, Thursdays in Daphne. Show up early for a table."
+  kids_under_6: true
+  parking: "Springhill Ave lot fills by 6:45; street parking on Warren St."
+  cadence: weekly
+  category: nightlife

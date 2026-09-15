@@ -1,0 +1,25 @@
+[project]
+name = "mobilebayevents"
+version = "0.1.0"
+description = "Gulf Coast events pipeline + mobilebayevents.com publisher"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "icalendar>=7.3.0",
+    "jinja2>=3.1.6",
+    "python-dateutil>=2.9.0.post0",
+    "pyyaml>=6.0.3",
+    "rapidfuzz>=3.14.6",
+    "recurring-ical-events>=3.8.2",
+    "requests>=2.34.2",
+]
+
+[dependency-groups]
+dev = [
+    "pillow>=12.3.0",
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

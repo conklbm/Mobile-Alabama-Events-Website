@@ -1,0 +1,25 @@
+# Manual overrides. Resolves review-queue items the alias map can't.
+# Re-applied every run, so an entry here is permanent until you remove it.
+
+# Force two occurrences to merge (by occurrence id from the review issue).
+# The first id wins field conflicts.
+merge: []
+#  - [1234, 5678]
+
+# Force an occurrence onto a series (by occurrence id -> series slug).
+attach_to_series: {}
+#  1234: greater-gulf-state-fair
+
+# Never merge these two (false positive from the fuzzy matcher).
+never_merge: []
+#  - [1234, 5678]
+
+# Confirm cancellation (occurrence id) — removes it from the site.
+cancelled: []
+
+# Clear a cancellation flag (occurrence id) — it's still happening.
+not_cancelled: []
+
+# Publish a held item as-is (occurrence id). Use when the venue is genuinely
+# unknown but the event is real — better to add an alias in venues.yaml.
+force_publish: []

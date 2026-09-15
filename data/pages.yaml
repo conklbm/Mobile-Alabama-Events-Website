@@ -1,0 +1,135 @@
+# Original content for the site's landing pages. Every page needs value beyond the
+# scraped listing — that's what these intros are. Keep them honest, local, short.
+
+cities:
+  # slug is the URL: /<slug>/   cities: list of venue.city values that belong on the page
+  - slug: mobile-al-events
+    title: Things to Do in Mobile, AL
+    h1: Mobile, AL Events
+    cities: [Mobile, Theodore, Semmes, Chickasaw, Prichard]
+    intro: >
+      Everything happening in Mobile proper this week, pulled from venue calendars,
+      the 92ZEW community calendar, and Ticketmaster, then deduplicated so you see each
+      event once. Downtown parking is free on street after 6pm and all day Sunday.
+  - slug: daphne-al-events
+    title: Things to Do in Daphne, AL
+    h1: Daphne Events
+    cities: [Daphne]
+    intro: >
+      Daphne sits at the top of the Eastern Shore, ten minutes across the Bayway from
+      downtown Mobile. Most events cluster around the Civic Center and Olde Towne on
+      Main Street. Bayfront Park is the sunset spot.
+  - slug: fairhope-events
+    title: Things to Do in Fairhope, AL
+    h1: Fairhope Events
+    cities: [Fairhope, Point Clear, Montrose]
+    intro: >
+      Fairhope's downtown is walkable end to end: park once near the Section Street
+      clock and you can reach the pier, the art center, and every restaurant on foot.
+      First Friday Art Walk is the monthly anchor; the Arts & Crafts Festival in March
+      is the big one.
+  - slug: spanish-fort-events
+    title: Things to Do in Spanish Fort, AL
+    h1: Spanish Fort Events
+    cities: [Spanish Fort]
+    intro: >
+      Spanish Fort is the Causeway side of the bay. The Blue Gill and the other
+      Causeway decks book live music most weekends, and Five Rivers Delta Center
+      runs free nature programs that are genuinely good for small kids.
+  - slug: saraland-events
+    title: Things to Do in Saraland, AL
+    h1: Saraland Events
+    cities: [Saraland, Satsuma, Creola]
+    intro: >
+      Saraland is the north side of the metro, up US-43. Events are mostly city
+      recreation, school, and church calendars; when something bigger lands here,
+      it will be on this page.
+  - slug: dauphin-island-events
+    title: Things to Do on Dauphin Island, AL
+    h1: Dauphin Island Events
+    cities: [Dauphin Island]
+    intro: >
+      Forty minutes south of Mobile at the end of AL-193. Fort Gaines, the Sea Lab
+      Estuarium, and the public beach on the west end carry most of the calendar.
+      Bring cash for the bridge-side vendors and check the ferry schedule if you're
+      heading on to Fort Morgan.
+  - slug: bay-minette-events
+    title: Things to Do in Bay Minette, AL
+    h1: Bay Minette Events
+    cities: [Bay Minette, Stapleton, Loxley, Robertsdale]
+    intro: >
+      North Baldwin County. Fewer listings than the Eastern Shore, but the ones
+      here are real: county fair, high school sports, downtown festivals.
+
+categories:
+  - slug: live-music-mobile-al
+    category: music
+    title: Live Music in Mobile, AL This Week
+    h1: Live Music in Mobile
+    intro: >
+      Every show we can find in the metro this week, from the Saenger and Soul
+      Kitchen to neighborhood bars like Callaghan's that never charge a cover.
+      Ticket links go straight to the venue or Ticketmaster; we don't resell.
+  - slug: free-things-to-do-mobile-al
+    category: free
+    title: Free Things to Do in Mobile, AL
+    h1: Free Things to Do in Mobile
+    intro: >
+      Events where the listing says free or no price is charged. Museum free days,
+      park concerts, library programs, and street festivals. If a listing turns out
+      to charge at the door, tell us and we'll fix it.
+  - slug: family-events-mobile-al
+    category: family
+    title: Family Events in Mobile, AL
+    h1: Family & Kids Events in Mobile
+    intro: >
+      Things to do with kids this week across the metro and the Eastern Shore.
+      We flag events that work for kids under 6 where we know.
+  - slug: food-events-mobile-al
+    category: food
+    title: Food & Drink Events in Mobile, AL
+    h1: Food & Drink Events in Mobile
+    intro: >
+      Tastings, cook-offs, brewery events, and markets. Mobile eats early; most
+      of these start before 7.
+  - slug: arts-events-mobile-al
+    category: arts
+    title: Arts, Theater & Film in Mobile, AL
+    h1: Arts, Theater & Film in Mobile
+    intro: >
+      Stage, gallery, and screen. Joe Jefferson Players and Playhouse in the Park
+      run community theater seasons; the Museum of Art and Alabama Contemporary
+      rotate exhibits every few months.
+  - slug: sports-events-mobile-al
+    category: sports
+    title: Sports & Races in Mobile, AL
+    h1: Sports & Races in Mobile
+    intro: >
+      Games, races, tournaments, and fishing rodeos. South Alabama football is at
+      Hancock Whitney Stadium; most 5Ks start downtown or in Fairhope.
+  - slug: nightlife-mobile-al
+    category: nightlife
+    title: Nightlife in Mobile, AL
+    h1: Nightlife in Mobile
+    intro: >
+      Trivia, bingo, DJ nights, and late shows. Downtown bars are walkable;
+      Dauphin Street is the spine.
+  - slug: community-events-mobile-al
+    category: community
+    title: Community Events in Mobile, AL
+    h1: Community Events in Mobile
+    intro: >
+      Festivals, markets, fundraisers, classes, and public meetings. The stuff that
+      doesn't fit a neat box but fills the calendar.
+
+about:
+  intro: >
+    Mobile Bay Events is a weekly-updated calendar for Mobile, the Eastern Shore,
+    and Dauphin Island. It's built and run by Brooks Conkle, who lives here and got
+    tired of checking fifteen websites to find out what was happening on Saturday.
+  how: >
+    Every Thursday a script pulls venue calendars, the 92ZEW and Mob Mom community
+    calendars, city calendars, and Ticketmaster, then merges duplicates so each
+    event shows once. Anything the software isn't sure about waits for a human.
+    Every listing links to the original source; we don't sell tickets.
+  contact_email: hello@mobilebayevents.com

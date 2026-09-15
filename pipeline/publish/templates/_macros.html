@@ -1,0 +1,72 @@
+{% macro when(o) -%}
+  {%- if o.all_day and o.multi_day -%}{{ o.day | shortday }} – {{ o.end.date() | shortday }}
+  {%- elif o.all_day -%}{{ o.day | shortday }} · All day
+  {%- else -%}{{ o.day | shortday }} · {{ o.start | clock }}
+  {%- endif -%}
+{%- endmacro %}
+
+{% macro meta(o) -%}
+  <p class="meta">
+    <time datetime="{{ o.start | isodt }}">{{ when(o) }}</time>
+    {% if o.venue %} · <a href="{{ o.venue.url }}">{{ o.venue.name }}</a>{% if o.venue.city %}, {{ o.venue.city }}{% endif %}
+    {% elif o.venue_name_raw %} · {{ o.venue_name_raw }}{% endif %}
+  </p>
+{%- endmacro %}
+
+{% macro tags(o) -%}
+  <p class="tags">
+    <span class="tag tag-{{ o.category }}">{{ o.category_label }}</span>
+    {% if o.is_free %}<span class="tag tag-free">Free</span>{% elif o.price %}<span class="tag">{{ o.price }}</span>{% endif %}
+    {% if o.kids_under_6 %}<span class="tag">Good for kids under 6</span>{% endif %}
+    {% if o.flagged %}<span class="tag tag-warn">Possibly canceled — confirm</span>{% endif %}
+  </p>
+{%- endmacro %}
+
+{% macro card(o) -%}
+<article class="card">
+  {% if o.image %}<a href="{{ o.url }}" class="card-img" tabindex="-1" aria-hidden="true"><img src="{{ o.image.url }}" alt="" loading="lazy"></a>{% else %}<a href="{{ o.url }}" class="card-img card-img-{{ o.category }}" tabindex="-1" aria-hidden="true"></a>{% endif %}
+  <div class="card-body">
+    <h3 class="card-title"><a href="{{ o.url }}">{{ o.title }}</a></h3>
+    {{ meta(o) }}
+    {{ tags(o) }}
+    {% if o.blurb %}<p class="blurb">{{ o.blurb }}</p>{% elif o.excerpt %}<p class="excerpt">{{ o.excerpt }}</p>{% endif %}
+  </div>
+</article>
+{%- endmacro %}
+
+{% macro row(o, show_date=False) -%}
+<li class="row">
+  <a class="row-link" href="{{ o.url }}">
+    <span class="row-time{% if show_date %} row-time-wide{% endif %}">{% if show_date %}{{ o.day | shortday }}{% if not o.all_day %} · {{ o.start | clock }}{% endif %}{% elif o.all_day %}All day{% else %}{{ o.start | clock }}{% endif %}</span>
+    <span class="row-main">
+      <span class="row-title">{{ o.title }}</span>
+      <span class="row-sub">{% if o.venue %}{{ o.venue.name }}{% if o.venue.city %}, {{ o.venue.city }}{% endif %}{% elif o.venue_name_raw %}{{ o.venue_name_raw }}{% endif %}{% if o.is_free %} · Free{% elif o.price %} · {{ o.price }}{% endif %}</span>
+    </span>
+    <span class="tag tag-{{ o.category }} row-tag">{{ o.category_label }}</span>
+  </a>
+</li>
+{%- endmacro %}
+
+{% macro day_groups(groups, empty) -%}
+  {% if groups %}
+    {% for day, items in groups %}
+    <section class="day">
+      <h2 class="day-h">{{ day | day }}</h2>
+      <ul class="rows">{% for o in items %}{{ row(o) }}{% endfor %}</ul>
+    </section>
+    {% endfor %}
+  {% else %}
+    <p class="empty">{{ empty }}</p>
+  {% endif %}
+{%- endmacro %}
+
+{% macro source_links(o) -%}
+  <p class="sources">
+    {% if o.info_url %}<a class="btn" href="{{ o.info_url }}" target="_blank" rel="noopener">More info<span class="sr-only"> (opens in new tab)</span></a>{% endif %}
+    {% if o.ticket_url and o.ticket_url != o.info_url %}<a class="btn btn-primary" href="{{ o.ticket_url }}" target="_blank" rel="noopener">Get tickets<span class="sr-only"> (opens in new tab)</span></a>{% endif %}
+  </p>
+  <p class="attribution">Listed by
+    {% for s in o.sources %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.
+    {% if o.powered_by_ticketmaster %}Ticket data powered by <a href="https://www.ticketmaster.com" target="_blank" rel="noopener">Ticketmaster</a>.{% endif %}
+  </p>
+{%- endmacro %}

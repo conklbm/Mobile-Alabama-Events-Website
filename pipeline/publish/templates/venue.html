@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% from "_macros.html" import day_groups, when %}
+{% block content %}
+<p class="crumbs"><a href="/">Home</a> › <a href="/venues/">Venues</a></p>
+<h1>{{ v.name }}</h1>
+<p class="where">{% if v.address %}{{ v.address }}, {% endif %}{{ v.city }}, {{ v.state }}{% if v.zip %} {{ v.zip }}{% endif %}
+{% if v.lat and v.lng %} · <a href="https://www.google.com/maps/search/?api=1&query={{ v.lat }},{{ v.lng }}" target="_blank" rel="noopener">Map<span class="sr-only"> (opens in new tab)</span></a>{% elif v.address %} · <a href="https://www.google.com/maps/search/?api=1&query={{ (v.address ~ ', ' ~ v.city ~ ', ' ~ v.state) | urlencode }}" target="_blank" rel="noopener">Map<span class="sr-only"> (opens in new tab)</span></a>{% endif %}</p>
+{% if v.notes %}<p class="lede">{{ v.notes }}</p>{% endif %}
+<h2>Upcoming</h2>
+{{ day_groups(upcoming, "Nothing upcoming listed here right now.") }}
+{% if past %}
+<section class="past">
+  <h2>Past events</h2>
+  <ul class="plain">{% for o in past %}<li><a href="{{ o.url }}">{{ o.title }}</a> · {{ when(o) }}</li>{% endfor %}</ul>
+</section>
+{% endif %}
+{% endblock %}
