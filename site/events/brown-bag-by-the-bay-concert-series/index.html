@@ -31,6 +31,11 @@
       <svg class="brand-mark" viewBox="0 0 64 64" width="30" height="30" aria-hidden="true" focusable="false"><rect width="64" height="64" rx="14" fill="#0b5c8f"/><path d="M8 40c6-8 10-8 16 0s10 8 16 0 10-8 16 0" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/><path d="M8 50c6-8 10-8 16 0s10 8 16 0 10-8 16 0" fill="none" stroke="#e07a1f" stroke-width="5" stroke-linecap="round"/><circle cx="46" cy="18" r="7" fill="#e07a1f"/></svg>
       <span class="brand-word">Mobile Bay <em>Events</em></span>
     </a>
+    <form class="search" data-search action="/search/" method="get" role="search" autocomplete="off">
+      <label class="sr-only" for="hq">Search events</label>
+      <input id="hq" name="q" type="search" placeholder="Search events…" aria-label="Search events" autocomplete="off">
+      <ul class="search-results" data-search-results hidden></ul>
+    </form>
     <nav class="nav" aria-label="Primary">
       <a href="/this-weekend/">This Weekend</a>
       <a href="/events/">All Events</a>
@@ -117,6 +122,7 @@
     <p class="foot-note">Brought to you with love <span class="heart" aria-label="love">&#10084;&#65039;</span> by <a href="https://gulfcoastbeachvibes.com/" target="_blank" rel="noopener">Gulf Coast Beach Vibes<span class="sr-only"> (opens in new tab)</span></a></p>
   </div>
 </footer>
+<script src="/assets/search.js" defer></script>
 <script>
 (function () {
   var bar = document.querySelector('[data-filters]'); if (!bar) return;

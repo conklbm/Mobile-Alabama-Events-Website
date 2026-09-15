@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<section data-search-page>
+  <h1>Search</h1>
+  <form class="search-form" action="/search/" method="get" role="search">
+    <label class="sr-only" for="q">Search events and venues</label>
+    <input id="q" name="q" type="search" placeholder="Artist, venue, festival…" autocomplete="off" autofocus>
+    <button type="submit" class="btn btn-primary">Search</button>
+  </form>
+  <div data-search-page-results><p class="lede">Type an artist, a venue, or a word from the event title.</p></div>
+  <noscript><p class="empty">Search needs JavaScript. Browse <a href="/events/">all upcoming events</a> instead.</p></noscript>
+</section>
+{% endblock %}

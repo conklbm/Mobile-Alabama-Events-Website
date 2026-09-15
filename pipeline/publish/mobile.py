@@ -367,6 +367,17 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
     r.page("/venues/", "venues_index.html", title=f"Venues in Mobile, AL — {site.name}",
            description="Every venue we track across Mobile, the Eastern Shore, and Dauphin Island, with upcoming event counts.", venues=venues_list)
 
+    # search: compact index of upcoming events + venues, and the results page
+    idx = [{"y": "event", "t": o["title"], "v": o["venue"]["name"] if o["venue"] else o["venue_name_raw"], "c": o["city"],
+            "d": o["day"].isoformat(), "w": f"{o['day']:%a %b %d}".replace(" 0", " "), "u": o["url"], "k": " ".join(o["category_labels"])}
+           for o in site.upcoming]
+    seen_series: set[str] = set()
+    idx = [i for i in idx if not (i["u"] in seen_series or seen_series.add(i["u"]))]  # one entry per series (next date)
+    idx += [{"y": "venue", "t": v["name"], "v": "", "c": v["city"], "d": "", "w": "", "u": v["url"], "k": "venue"} for v in venues_list]
+    (out / "api" / "search.json").parent.mkdir(parents=True, exist_ok=True)
+    (out / "api" / "search.json").write_text(json.dumps(idx, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    r.page("/search/", "search.html", title=f"Search — {site.name}", description="Search upcoming events and venues in Mobile, AL.", noindex=True, index=False)
+
     # standard pages
     about = site.pages.get("about", {})
     r.page("/about/", "page.html", title=f"About — {site.name}", description=(about.get("intro") or "")[:160], h1="About", body=_about_html(about, site),
