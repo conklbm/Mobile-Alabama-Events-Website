@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-09-15T02:38:31Z",
+ "generated": "2026-09-15T13:33:27Z",
  "events": [
   {
    "id": 39,
@@ -3873,6 +3873,34 @@
    "price": "$32.05-83.08",
    "ticket_url": "https://www.ticketweb.com/event/graeson-mcgaha-crescent-theater-tickets/14316064",
    "info_url": "https://www.ticketweb.com/event/graeson-mcgaha-crescent-theater-tickets/14316064",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 284,
+   "series_slug": "wraithbearer-union251-lessfaith-innerwounds",
+   "title": "WRAITHBEARER / UNION251 / LESSFAITH / INNERWOUNDS",
+   "start": "2026-11-06T19:00:00-06:00",
+   "end": "2026-11-06T22:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "alabama-music-box",
+    "name": "Alabama Music Box",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$18.61",
+   "ticket_url": "https://www.ticketweb.com/event/wraithbearer-union251-lessfaith-alabama-music-box-tickets/14321474",
+   "info_url": "https://www.ticketweb.com/event/wraithbearer-union251-lessfaith-alabama-music-box-tickets/14321474",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",

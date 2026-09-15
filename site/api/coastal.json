@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-09-15T02:38:31Z",
+ "generated": "2026-09-15T13:33:27Z",
  "events": [
   {
    "id": 21,
@@ -1399,6 +1399,62 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9581",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 282,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-09-29T07:20:00-05:00",
+   "end": "2026-09-29T08:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9153",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 283,
+   "series_slug": "gentle-stretch-yoga",
+   "title": "Gentle Stretch Yoga",
+   "start": "2026-09-29T10:00:00-05:00",
+   "end": "2026-09-29T11:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=7769",
    "source": {
     "name": "City of Orange Beach",
     "tier": "A",
