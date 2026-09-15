@@ -62,6 +62,7 @@ jobs:
         run: |
           [ -s alerts.md ] || { echo "all sources healthy"; exit 0; }
           gh label create source-alert --color B60205 --description "A collector is failing or underdelivering" --force >/dev/null 2>&1 || true
+          note='Silent breakage check fired. Fix the collector or the source URL in data/sources.yaml; this issue gets a comment each week it stays broken. Close it when a run comes back healthy.'
           while IFS= read -r line; do
             [ -z "$line" ] && continue
             sid=$(printf '%s' "$line" | sed -n 's/.*(`\([^`]*\)`).*/\1/p')
@@ -70,11 +71,8 @@ jobs:
             if [ -n "$existing" ]; then
               gh issue comment "$existing" --body "Still failing on $(date -u +%F): $line"
             else
-              body="$(printf '%s
-
-%s' "$line" 'Silent breakage check fired. Fix the collector or the source URL in `data/sources.yaml`; this issue gets a comment each week it stays broken. Close it when a run comes back healthy.')"
-              gh issue create --title "$title" --label source-alert --body "$body"
+              gh issue create --title "$title" --label source-alert --body "$line"$'\n\n'"$note"
             fi
           done < alerts.md
-          echo "::error::$(wc -l < alerts.md) source alert(s) — see the source-alert issues"
+          echo "::error::$(wc -l < alerts.md) source alert(s) - see the source-alert issues"
           exit 1
