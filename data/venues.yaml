@@ -828,3 +828,13 @@
   zip: "36695"
   regions: [mobile]
   notes: "West Mobile event hall; hosts pop-up markets, gun and craft shows, and the Shrine Circus. Big free lot."
+
+- slug: pensacola-saenger
+  name: Saenger Theatre (Pensacola)
+  aliases: ["Saenger Theatre", "Saenger Theater", "Pensacola Saenger Theatre", "Pensacola Saenger", "Saenger Theatre Pensacola", "Saenger Theatre - Pensacola"]
+  domains: ["pensacolasaenger.com"]
+  address: 118 S Palafox Pl
+  city: Pensacola
+  state: FL
+  zip: "32502"
+  regions: [coastal]

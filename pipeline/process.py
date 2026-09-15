@@ -40,7 +40,7 @@ def normalize(ev: RawEvent, source: dict, resolver: VenueResolver) -> dict | Non
         if ov:
             origin_url, origin_tier, origin_venue = candidate, "A", ov
             break
-    vm = resolver.resolve(ev.venue_name, ev.venue_address, ev.info_url if source["tier"] == "A" else None)
+    vm = resolver.resolve(ev.venue_name, ev.venue_address, ev.info_url if source["tier"] == "A" else None, city=ev.city)
     if vm is None and origin_venue is not None and not ev.venue_name:
         vm = resolver.resolve(origin_venue["name"])
     default_venue = (source.get("config") or {}).get("default_venue")

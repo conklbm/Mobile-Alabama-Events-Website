@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-09-15T15:40:48Z",
+ "generated": "2026-09-15T15:43:02Z",
  "events": [
   {
    "id": 21,
@@ -306,6 +306,37 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/sportsmans-night-out-pensacola-florida-09-17-2026/event/1B006482CFCCA204",
    "info_url": "https://www.ticketmaster.com/sportsmans-night-out-pensacola-florida-09-17-2026/event/1B006482CFCCA204",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 226,
+   "series_slug": "josh-turner-this-country-music-thing-tour",
+   "title": "Josh Turner: This Country Music Thing Tour",
+   "start": "2026-09-17T19:30:00-05:00",
+   "end": "2026-09-17T22:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/josh-turner-this-country-music-thing-pensacola-florida-09-17-2026/event/1B0064A7A3DAE93D",
+   "info_url": "https://www.ticketmaster.com/josh-turner-this-country-music-thing-pensacola-florida-09-17-2026/event/1B0064A7A3DAE93D",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -1773,6 +1804,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 232,
+   "series_slug": "pensacola-symphony-orchestra-opening-night",
+   "title": "Pensacola Symphony Orchestra: Opening Night!",
+   "start": "2026-10-03T19:30:00-05:00",
+   "end": "2026-10-03T22:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "music"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-opening-night-pensacola-florida-10-03-2026/event/1B0064991166E213",
+   "info_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-opening-night-pensacola-florida-10-03-2026/event/1B0064991166E213",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 104,
    "series_slug": "weird-al-yankovic-bigger-weirder-tour",
    "title": "\"Weird Al\" Yankovic: Bigger & Weirder 2026 Tour",
@@ -1807,6 +1870,103 @@
    "independent_source_count": 2
   },
   {
+   "id": 105,
+   "series_slug": "roman-street-with-andy-vargas-singer-for-santana",
+   "title": "Roman Street with Andy Vargas (singer for Santana)",
+   "start": "2026-10-04T19:30:00-05:00",
+   "end": "2026-10-04T22:30:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/roman-street-with-andy-vargas-singer-for-santana/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/06/romanoct.png",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 233,
+   "series_slug": "roman-street",
+   "title": "Roman Street",
+   "start": "2026-10-04T19:30:00-05:00",
+   "end": "2026-10-04T22:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/roman-street-pensacola-florida-10-04-2026/event/1B006383EB1C6FDA",
+   "info_url": "https://www.ticketmaster.com/roman-street-pensacola-florida-10-04-2026/event/1B006383EB1C6FDA",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 234,
+   "series_slug": "toast-the-best-of-bread",
+   "title": "Toast - The Best of Bread",
+   "start": "2026-10-05T19:00:00-05:00",
+   "end": "2026-10-05T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/toast-the-best-of-bread-pensacola-florida-10-05-2026/event/1B0064C4C68834D0",
+   "info_url": "https://www.ticketmaster.com/toast-the-best-of-bread-pensacola-florida-10-05-2026/event/1B0064C4C68834D0",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 90,
    "series_slug": "53rd-annual-national-shrimp-festival",
    "title": "53rd Annual National Shrimp Festival",
@@ -1836,6 +1996,138 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 108,
+   "series_slug": "postmodern-jukebox-the-future-is-vintage-world-tour",
+   "title": "Postmodern Jukebox: The Future Is Vintage World Tour",
+   "start": "2026-10-08T20:00:00-05:00",
+   "end": "2026-10-08T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/scott-bradlees-postmodern-jukebox-the-future-is-vintage-world-tour/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/postmodern-jukebox-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 235,
+   "series_slug": "scott-bradlee-s-postmodern-jukebox-the-future-is-vintage-world-tour",
+   "title": "Scott Bradlee's Postmodern Jukebox: The Future Is Vintage World Tour",
+   "start": "2026-10-08T20:00:00-05:00",
+   "end": "2026-10-08T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-pensacola-florida-10-08-2026/event/1B00649EB7FF38A6",
+   "info_url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-pensacola-florida-10-08-2026/event/1B00649EB7FF38A6",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 110,
+   "series_slug": "daniel-tosh",
+   "title": "Daniel Tosh",
+   "start": "2026-10-09T19:00:00-05:00",
+   "end": "2026-10-09T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/daniel-tosh/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/Tosh.png",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 236,
+   "series_slug": "daniel-tosh-my-first-farewell-tour",
+   "title": "Daniel Tosh: My First Farewell Tour",
+   "start": "2026-10-09T21:30:00-05:00",
+   "end": "2026-10-10T00:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/daniel-tosh-my-first-farewell-tour-pensacola-florida-10-09-2026/event/1B00636B2DB89AE5",
+   "info_url": "https://www.ticketmaster.com/daniel-tosh-my-first-farewell-tour-pensacola-florida-10-09-2026/event/1B00636B2DB89AE5",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1871,6 +2163,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 238,
+   "series_slug": "rodney-carrington",
+   "title": "Rodney Carrington",
+   "start": "2026-10-10T19:00:00-05:00",
+   "end": "2026-10-10T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/rodney-carrington-pensacola-florida-10-10-2026/event/1B006495E52A576C",
+   "info_url": "https://www.ticketmaster.com/rodney-carrington-pensacola-florida-10-10-2026/event/1B006495E52A576C",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 239,
    "series_slug": "machine-girl",
    "title": "Machine Girl",
@@ -1892,6 +2215,37 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ8kF",
    "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ8kF",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 240,
+   "series_slug": "aaron-tippin-collin-raye",
+   "title": "Aaron Tippin & Collin Raye",
+   "start": "2026-10-15T19:00:00-05:00",
+   "end": "2026-10-15T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/aaron-tippin-collin-raye-pensacola-florida-10-15-2026/event/1B0064FB1C3D4E6C",
+   "info_url": "https://www.ticketmaster.com/aaron-tippin-collin-raye-pensacola-florida-10-15-2026/event/1B0064FB1C3D4E6C",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -1965,6 +2319,68 @@
    "independent_source_count": 1
   },
   {
+   "id": 243,
+   "series_slug": "ali-siddiq-the-custom-fit-tour",
+   "title": "Ali Siddiq: The Custom Fit Tour",
+   "start": "2026-10-17T20:00:00-05:00",
+   "end": "2026-10-17T23:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/ali-siddiq-the-custom-fit-tour-pensacola-florida-10-17-2026/event/1B0064D815F44F56",
+   "info_url": "https://www.ticketmaster.com/ali-siddiq-the-custom-fit-tour-pensacola-florida-10-17-2026/event/1B0064D815F44F56",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 244,
+   "series_slug": "the-billy-joel-legacy-celebrating-the-piano-man",
+   "title": "The Billy Joel Legacy: Celebrating The Piano Man",
+   "start": "2026-10-18T19:00:00-05:00",
+   "end": "2026-10-18T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/the-billy-joel-legacy-celebrating-the-pensacola-florida-10-18-2026/event/1B0064DEE757F246",
+   "info_url": "https://www.ticketmaster.com/the-billy-joel-legacy-celebrating-the-pensacola-florida-10-18-2026/event/1B0064DEE757F246",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 116,
    "series_slug": "devon-gilfillian",
    "title": "Devon Gilfillian",
@@ -1997,6 +2413,37 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 245,
+   "series_slug": "rumours-of-fleetwood-mac",
+   "title": "Rumours of Fleetwood Mac",
+   "start": "2026-10-20T19:30:00-05:00",
+   "end": "2026-10-20T22:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/rumours-of-fleetwood-mac-pensacola-florida-10-20-2026/event/1B00650EDAF69B61",
+   "info_url": "https://www.ticketmaster.com/rumours-of-fleetwood-mac-pensacola-florida-10-20-2026/event/1B00650EDAF69B61",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2084,6 +2531,68 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-24-2026/event/1B00650D855562DB",
    "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-24-2026/event/1B00650D855562DB",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 249,
+   "series_slug": "waitress",
+   "title": "Waitress",
+   "start": "2026-10-26T19:30:00-05:00",
+   "end": "2026-10-26T22:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/waitress-pensacola-florida-10-26-2026/event/1B0064C326AC636F",
+   "info_url": "https://www.ticketmaster.com/waitress-pensacola-florida-10-26-2026/event/1B0064C326AC636F",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 250,
+   "series_slug": "waitress",
+   "title": "Waitress",
+   "start": "2026-10-27T19:30:00-05:00",
+   "end": "2026-10-27T22:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/waitress-pensacola-florida-10-27-2026/event/1B0064C9D21A25AE",
+   "info_url": "https://www.ticketmaster.com/waitress-pensacola-florida-10-27-2026/event/1B0064C9D21A25AE",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -2220,6 +2729,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 255,
+   "series_slug": "pensacola-opera-rock-the-runway",
+   "title": "Pensacola Opera-Rock the Runway",
+   "start": "2026-11-04T19:00:00-06:00",
+   "end": "2026-11-04T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-operarock-the-runway-pensacola-florida-11-04-2026/event/1B006518E4272C06",
+   "info_url": "https://www.ticketmaster.com/pensacola-operarock-the-runway-pensacola-florida-11-04-2026/event/1B006518E4272C06",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 124,
    "series_slug": "rehab",
    "title": "Rehab",
@@ -2252,6 +2792,38 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 256,
+   "series_slug": "pensacola-symphony-orchestra-opening-night",
+   "title": "Pensacola Symphony Orchestra: Mozart & Bizet",
+   "start": "2026-11-07T19:30:00-06:00",
+   "end": "2026-11-07T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "music"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-mozart-bizet-pensacola-florida-11-07-2026/event/1B00649911D5E309",
+   "info_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-mozart-bizet-pensacola-florida-11-07-2026/event/1B00649911D5E309",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2416,6 +2988,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 261,
+   "series_slug": "nephew-tommy-s-black-tie-house-party-comedy-show",
+   "title": "Nephew Tommy's Black Tie House Party & Comedy Show",
+   "start": "2026-11-14T19:00:00-06:00",
+   "end": "2026-11-14T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/nephew-tommys-black-tie-house-party-pensacola-florida-11-14-2026/event/1B0064FE0C308B62",
+   "info_url": "https://www.ticketmaster.com/nephew-tommys-black-tie-house-party-pensacola-florida-11-14-2026/event/1B0064FE0C308B62",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 262,
    "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
    "title": "Pensacola Ice Flyers vs. Macon Mayhem",
@@ -2479,6 +3082,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 264,
+   "series_slug": "whose-live-anyway",
+   "title": "Whose Live Anyway?",
+   "start": "2026-11-18T19:30:00-06:00",
+   "end": "2026-11-18T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/whose-live-anyway-pensacola-florida-11-18-2026/event/1B0064A4D2213065",
+   "info_url": "https://www.ticketmaster.com/whose-live-anyway-pensacola-florida-11-18-2026/event/1B0064A4D2213065",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 265,
    "series_slug": "ive-got-a-fire-tour-with-pat-barrett-pensacola-fl",
    "title": "I’ve Got A Fire Tour with Pat Barrett - Pensacola, FL",
@@ -2510,6 +3144,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 266,
+   "series_slug": "the-fab-four-tribute-to-the-beatles-a-hard-day-s-night",
+   "title": "The Fab Four: Tribute to the Beatles' A Hard Day's Night",
+   "start": "2026-11-19T19:30:00-06:00",
+   "end": "2026-11-19T22:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/the-fab-four-tribute-to-the-pensacola-florida-11-19-2026/event/1B00646CBF6AF36C",
+   "info_url": "https://www.ticketmaster.com/the-fab-four-tribute-to-the-pensacola-florida-11-19-2026/event/1B00646CBF6AF36C",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 267,
    "series_slug": "evan-honer",
    "title": "Evan Honer",
@@ -2531,6 +3196,37 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbY",
    "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbY",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 268,
+   "series_slug": "derek-hough-dance-for-the-holidays",
+   "title": "Derek Hough: Dance For The Holidays",
+   "start": "2026-11-20T20:00:00-06:00",
+   "end": "2026-11-20T23:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/derek-hough-dance-for-the-holidays-pensacola-florida-11-20-2026/event/1B0064F0E2DB3882",
+   "info_url": "https://www.ticketmaster.com/derek-hough-dance-for-the-holidays-pensacola-florida-11-20-2026/event/1B0064F0E2DB3882",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -2593,6 +3289,37 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-invitational-saturday-only-pensacola-florida-11-21-2026/event/1B00651CDF20421E",
    "info_url": "https://www.ticketmaster.com/pensacola-invitational-saturday-only-pensacola-florida-11-21-2026/event/1B00651CDF20421E",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 270,
+   "series_slug": "cirque-dreams-holidaze",
+   "title": "Cirque Dreams Holidaze",
+   "start": "2026-11-21T19:00:00-06:00",
+   "end": "2026-11-21T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/cirque-dreams-holidaze-pensacola-florida-11-21-2026/event/1B00651590169E70",
+   "info_url": "https://www.ticketmaster.com/cirque-dreams-holidaze-pensacola-florida-11-21-2026/event/1B00651590169E70",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -2731,6 +3458,103 @@
    "independent_source_count": 1
   },
   {
+   "id": 276,
+   "series_slug": "a-christmas-carol",
+   "title": "A Christmas Carol",
+   "start": "2026-11-30T19:30:00-06:00",
+   "end": "2026-11-30T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/a-christmas-carol-pensacola-florida-11-30-2026/event/1B0064DC0E2F1E04",
+   "info_url": "https://www.ticketmaster.com/a-christmas-carol-pensacola-florida-11-30-2026/event/1B0064DC0E2F1E04",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 139,
+   "series_slug": "croce-plays-croce",
+   "title": "Croce Plays Croce",
+   "start": "2026-12-03T20:00:00-06:00",
+   "end": "2026-12-03T23:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/croce-plays-croce/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/07/1203-Pensacola-CrocePlaysCroce-678x399-1.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 277,
+   "series_slug": "christmas-with-chris-tomlin",
+   "title": "Christmas with Chris Tomlin",
+   "start": "2026-12-04T19:00:00-06:00",
+   "end": "2026-12-04T22:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/christmas-with-chris-tomlin-pensacola-florida-12-04-2026/event/1B00651AA485C1C1",
+   "info_url": "https://www.ticketmaster.com/christmas-with-chris-tomlin-pensacola-florida-12-04-2026/event/1B00651AA485C1C1",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 278,
    "series_slug": "pensacola-ice-flyers-vs-birmingham-bulls",
    "title": "Pensacola Ice Flyers vs. Birmingham Bulls",
@@ -2753,6 +3577,68 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-12-05-2026/event/1B00650D8578631B",
    "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-12-05-2026/event/1B00650D8578631B",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 279,
+   "series_slug": "kenny-g-the-miracles-holiday-and-hits-tour",
+   "title": "Kenny G- The Miracles Holiday and Hits Tour",
+   "start": "2026-12-05T19:30:00-06:00",
+   "end": "2026-12-05T22:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/kenny-g-the-miracles-holiday-and-pensacola-florida-12-05-2026/event/1B00651BE88BD0C4",
+   "info_url": "https://www.ticketmaster.com/kenny-g-the-miracles-holiday-and-pensacola-florida-12-05-2026/event/1B00651BE88BD0C4",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 280,
+   "series_slug": "kenny-g-green-room-lounge",
+   "title": "Kenny G-Green Room Lounge",
+   "start": "2026-12-05T19:30:00-06:00",
+   "end": "2026-12-05T22:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/kenny-ggreen-room-lounge-pensacola-florida-12-05-2026/event/1B00651CD8FD200D",
+   "info_url": "https://www.ticketmaster.com/kenny-ggreen-room-lounge-pensacola-florida-12-05-2026/event/1B00651CD8FD200D",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",

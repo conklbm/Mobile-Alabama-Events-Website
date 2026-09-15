@@ -4,6 +4,7 @@ from pipeline.venues import VenueResolver
 
 VENUES = [
     {"slug": "saenger-theatre", "name": "Saenger Theatre", "aliases": ["Mobile Saenger", "The Saenger"], "domains": ["mobilesaenger.com"], "city": "Mobile", "regions": ["mobile"]},
+    {"slug": "pensacola-saenger", "name": "Saenger Theatre (Pensacola)", "aliases": ["Saenger Theatre"], "domains": [], "city": "Pensacola", "regions": ["coastal"]},
     {"slug": "moes-bbq", "name": "Moe's Original BBQ (Downtown Mobile)", "aliases": ["Moe's Original BBQ", "Moes BBQ"], "domains": [], "city": "Mobile", "regions": ["mobile"]},
     {"slug": "gs-city-hall", "name": "Gulf Shores City Hall", "aliases": ["1905 W 1st St"], "domains": ["gulfshoresal.gov"], "city": "Gulf Shores", "regions": ["coastal"]},
 ]
@@ -53,3 +54,11 @@ def test_self_promo_detector():
     assert is_self_promoted(["Mob Mom"], "Fall Fest", "", "The Mob Mom")
     assert not is_self_promoted(["ZEW"], "Zewie the clown", "", "")   # word boundary
     assert not is_self_promoted([], "anything", "", "")
+
+
+def test_same_name_two_towns_city_disambiguates():
+    assert r.resolve("Saenger Theatre", city="Mobile").slug == "saenger-theatre"
+    assert r.resolve("Saenger Theatre", city="Pensacola").slug == "pensacola-saenger"
+    assert r.resolve("Saenger Theatre").slug == "saenger-theatre"          # no city: first defined wins
+    assert r.resolve("Saenger Theatre", city="Birmingham") is None         # contradicts every candidate -> unknown
+    assert r.resolve("Moe's Original BBQ", city="Mobile").slug == "moes-bbq"
