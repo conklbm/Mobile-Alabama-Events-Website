@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-09-15T02:11:55Z",
+ "generated": "2026-09-15T02:13:26Z",
  "events": [
   {
    "id": 21,
@@ -367,6 +367,34 @@
    "independent_source_count": 1
   },
   {
+   "id": 228,
+   "series_slug": "can-t-feel-my-face-2010s-dance-party-18-and-over",
+   "title": "Can't Feel My Face: 2010s Dance Party (18 and Over)",
+   "start": "2026-09-18T21:30:00-05:00",
+   "end": "2026-09-19T00:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ8k6",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ8k6",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 51,
    "series_slug": "game-day-on-the-green-at-portside",
    "title": "Game Day on the Green at Portside",
@@ -507,6 +535,34 @@
    "independent_source_count": 1
   },
   {
+   "id": 229,
+   "series_slug": "gulf-coast-summer-fest-friday-only",
+   "title": "Gulf Coast Summer Fest - SATURDAY ONLY",
+   "start": "2026-09-19T14:00:00-05:00",
+   "end": "2026-09-19T17:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "community-maritime-park",
+    "name": "Community Maritime Park",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/gulf-coast-summer-fest-saturday-only-pensacola-florida-09-19-2026/event/1B006378DFC7D5BF",
+   "info_url": "https://www.ticketmaster.com/gulf-coast-summer-fest-saturday-only-pensacola-florida-09-19-2026/event/1B006378DFC7D5BF",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 94,
    "series_slug": "use-your-illusion-americas-1-gnr-experience",
    "title": "Use Your Illusion – America’s #1 GNR Experience",
@@ -619,6 +675,34 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 231,
+   "series_slug": "gulf-coast-summer-fest-friday-only",
+   "title": "Gulf Coast Summer Fest - SUNDAY ONLY",
+   "start": "2026-09-20T14:00:00-05:00",
+   "end": "2026-09-20T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "community-maritime-park",
+    "name": "Community Maritime Park",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/gulf-coast-summer-fest-sunday-only-pensacola-florida-09-20-2026/event/1B006378DFCCD5C4",
+   "info_url": "https://www.ticketmaster.com/gulf-coast-summer-fest-sunday-only-pensacola-florida-09-20-2026/event/1B006378DFCCD5C4",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1156,11 +1240,11 @@
   {
    "id": 99,
    "series_slug": "gabriel-iglesias",
-   "title": "Gabriel Iglesias",
+   "title": "Gabriel Fluffy Iglesias: The 1976 Tour",
    "start": "2026-09-26T20:00:00-05:00",
    "end": "2026-09-26T23:00:00-05:00",
    "all_day": false,
-   "category": "music",
+   "category": "arts",
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",
@@ -1411,11 +1495,11 @@
   {
    "id": 104,
    "series_slug": "weird-al-yankovic-bigger-weirder-tour",
-   "title": "Weird Al Yankovic – Bigger & Weirder Tour",
+   "title": "\"Weird Al\" Yankovic: Bigger & Weirder 2026 Tour",
    "start": "2026-10-03T20:00:00-05:00",
    "end": "2026-10-03T23:00:00-05:00",
    "all_day": false,
-   "category": "music",
+   "category": "arts",
    "venue": {
     "slug": "the-wharf-amphitheater",
     "name": "The Wharf Amphitheater",
@@ -1486,6 +1570,62 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/southern-tipoff-florida-state-vs-mississippi-pensacola-florida-10-10-2026/event/1B006516F618F015",
    "info_url": "https://www.ticketmaster.com/southern-tipoff-florida-state-vs-mississippi-pensacola-florida-10-10-2026/event/1B006516F618F015",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 239,
+   "series_slug": "machine-girl",
+   "title": "Machine Girl",
+   "start": "2026-10-15T19:00:00-05:00",
+   "end": "2026-10-15T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ8kF",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ8kF",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 241,
+   "series_slug": "nirvanna-tribute-to-nirvana",
+   "title": "Nirvanna - Tribute to Nirvana",
+   "start": "2026-10-16T20:00:00-05:00",
+   "end": "2026-10-16T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbI",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbI",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -1639,6 +1779,34 @@
    "independent_source_count": 1
   },
   {
+   "id": 251,
+   "series_slug": "the-linda-lindas",
+   "title": "The Linda Lindas",
+   "start": "2026-10-29T19:30:00-05:00",
+   "end": "2026-10-29T22:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-handlebar-pensacola",
+    "name": "The Handlebar",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jo8b",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jo8b",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 252,
    "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
    "title": "Pensacola Ice Flyers vs. Huntsville Havoc",
@@ -1657,6 +1825,34 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-30-2026/event/1B00650D855A62E2",
    "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-30-2026/event/1B00650D855A62E2",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 253,
+   "series_slug": "saosin",
+   "title": "Saosin",
+   "start": "2026-10-31T19:00:00-05:00",
+   "end": "2026-10-31T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbt",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbt",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -1723,6 +1919,62 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 257,
+   "series_slug": "hawthorne-heights-w-letlive",
+   "title": "Hawthorne Heights w/ Letlive",
+   "start": "2026-11-10T19:00:00-06:00",
+   "end": "2026-11-10T22:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x_bf",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x_bf",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 258,
+   "series_slug": "fortunate-youth-w-kash-d-out",
+   "title": "Fortunate Youth w/ Kash'd Out",
+   "start": "2026-11-11T19:00:00-06:00",
+   "end": "2026-11-11T22:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J8pv",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J8pv",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1831,6 +2083,90 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-14-2026/event/1B00650D85696307",
    "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-14-2026/event/1B00650D85696307",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 263,
+   "series_slug": "chrissy-chlapecka",
+   "title": "Chrissy Chlapecka",
+   "start": "2026-11-14T20:00:00-06:00",
+   "end": "2026-11-14T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "the-handlebar-pensacola",
+    "name": "The Handlebar",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J737",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J737",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 265,
+   "series_slug": "ive-got-a-fire-tour-with-pat-barrett-pensacola-fl",
+   "title": "I’ve Got A Fire Tour with Pat Barrett - Pensacola, FL",
+   "start": "2026-11-19T19:00:00-06:00",
+   "end": "2026-11-19T22:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "marcus-pointe-baptist-church",
+    "name": "Marcus Pointe Baptist Church",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "$27.62-86.33",
+   "ticket_url": "https://www.ticketweb.com/event/ive-got-a-fire-tour-marcus-pointe-baptist-church-tickets/14873713",
+   "info_url": "https://www.ticketweb.com/event/ive-got-a-fire-tour-marcus-pointe-baptist-church-tickets/14873713",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 267,
+   "series_slug": "evan-honer",
+   "title": "Evan Honer",
+   "start": "2026-11-20T20:00:00-06:00",
+   "end": "2026-11-20T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbY",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbY",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -2009,13 +2345,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 281,
+   "series_slug": "keller-williams",
+   "title": "Keller Williams",
+   "start": "2026-12-06T19:00:00-06:00",
+   "end": "2026-12-06T22:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pb13",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pb13",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 143,
    "series_slug": "jeff-dunham-inappropriate-contact",
-   "title": "Jeff Dunham: Inappropriate Contact",
+   "title": "Jeff Dunham Inappropriate Contact",
    "start": "2026-12-11T19:00:00-06:00",
    "end": "2026-12-11T22:00:00-06:00",
    "all_day": false,
-   "category": "music",
+   "category": "arts",
    "venue": {
     "slug": "pensacola-bay-center",
     "name": "Pensacola Bay Center",

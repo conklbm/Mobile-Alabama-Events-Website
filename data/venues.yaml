@@ -736,3 +736,73 @@
   state: FL
   zip: "32502"
   regions: [coastal]
+
+# --- added from run #4 review (2026-09-15) ---
+
+- slug: vinyl-music-hall
+  name: Vinyl Music Hall
+  aliases: ["Vinyl Music Hall", "Vinyl Music Hall Pensacola", "Vinyl"]
+  domains: ["vinylmusichall.com"]
+  address: 2 S Palafox St
+  city: Pensacola
+  state: FL
+  zip: "32502"
+  regions: [coastal]
+
+- slug: community-maritime-park
+  name: Community Maritime Park
+  aliases: ["Community Maritime Park", "Festival Grounds at Pensacola Maritime Park", "Pensacola Maritime Park", "Blue Wahoos Stadium", "Maritime Park"]
+  domains: []
+  address: 301 W Main St
+  city: Pensacola
+  state: FL
+  zip: "32502"
+  regions: [coastal]
+
+- slug: the-handlebar-pensacola
+  name: The Handlebar
+  aliases: ["The Handlebar - Pensacola", "The Handlebar", "Handlebar Pensacola"]
+  domains: []
+  address: 319 N Tarragona St
+  city: Pensacola
+  state: FL
+  zip: "32501"
+  regions: [coastal]
+
+- slug: alabama-music-box
+  name: Alabama Music Box
+  aliases: ["Alabama Music Box", "The Alabama Music Box", "Music Box Mobile"]
+  domains: []
+  address: 455 Dauphin St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: cottage-hill-baptist-church
+  name: Cottage Hill Baptist Church
+  aliases: ["Cottage Hill Baptist Church", "Cottage Hill Baptist"]
+  domains: []
+  address: 4255 Cottage Hill Rd
+  city: Mobile
+  state: AL
+  zip: "36609"
+  regions: [mobile]
+
+- slug: everhope-baptist-church
+  name: EverHope Baptist Church
+  aliases: ["EverHope Baptist Church", "EverHope Baptist", "EverHope"]
+  domains: []
+  city: Mobile
+  state: AL
+  regions: [mobile]
+
+- slug: marcus-pointe-baptist-church
+  name: Marcus Pointe Baptist Church
+  aliases: ["Marcus Pointe Baptist Church", "Marcus Pointe Baptist", "Marcus Pointe"]
+  domains: []
+  address: 6205 N W St
+  city: Pensacola
+  state: FL
+  zip: "32505"
+  regions: [coastal]

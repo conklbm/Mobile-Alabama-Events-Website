@@ -11,8 +11,8 @@ attach_to_series: {}
 #  1234: greater-gulf-state-fair
 
 # Never merge these two (false positive from the fuzzy matcher).
-never_merge: []
-#  - [1234, 5678]
+never_merge:
+  - [271, 269]   # Pensacola Invitational: 2-day package vs Saturday-only are different products
 
 # Confirm cancellation (occurrence id) — removes it from the site.
 cancelled: []

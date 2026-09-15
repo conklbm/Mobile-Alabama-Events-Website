@@ -1,7 +1,38 @@
 {
  "region": "mobile",
- "generated": "2026-09-15T02:11:55Z",
+ "generated": "2026-09-15T02:13:26Z",
  "events": [
+  {
+   "id": 39,
+   "series_slug": "open-play-at-everhope",
+   "title": "Open Play at EverHope",
+   "start": "2026-09-15T09:30:00-05:00",
+   "end": "2026-09-15T10:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "everhope-baptist-church",
+    "name": "EverHope Baptist Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/open-play-at-everhope/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/Everhope-Baptsist-Storytime.jpg?fit=960%2C640&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
   {
    "id": 92,
    "series_slug": "beer-bbq-bingo",
@@ -65,34 +96,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 144,
-   "series_slug": "crescent-comedy-workshop",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-09-16T17:30:00-05:00",
-   "end": "2026-09-16T20:30:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$8.76",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237434",
-   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237434",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 43,
    "series_slug": "night-sky-series-september-skies",
    "title": "Night Sky Series: September Skies",
@@ -121,6 +124,34 @@
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 144,
+   "series_slug": "crescent-comedy-workshop",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-09-16T20:00:00-05:00",
+   "end": "2026-09-16T23:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$8.76",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237434",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237434",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -682,7 +713,7 @@
   {
    "id": 152,
    "series_slug": "morgan-wade-loves-insane-tour",
-   "title": "Morgan Wade Love’s Insane Tour",
+   "title": "Morgan Wade",
    "start": "2026-09-20T20:00:00-05:00",
    "end": "2026-09-20T23:00:00-05:00",
    "all_day": false,
@@ -705,6 +736,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 63,
+   "series_slug": "story-time-at-everhope-baptist-church",
+   "title": "Story Time at EverHope Baptist Church",
+   "start": "2026-09-22T09:30:00-05:00",
+   "end": "2026-09-22T10:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "everhope-baptist-church",
+    "name": "EverHope Baptist Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/story-time-at-everhope-baptist-church-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/Everhope-Baptsist-Storytime.jpg?fit=960%2C640&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -741,9 +803,9 @@
   {
    "id": 153,
    "series_slug": "crescent-comedy-workshop",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-09-23T17:30:00-05:00",
-   "end": "2026-09-23T20:30:00-05:00",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-09-23T20:00:00-05:00",
+   "end": "2026-09-23T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
    "venue": {
@@ -1121,6 +1183,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 98,
+   "series_slug": "jar-of-sap-alice-in-chains-tribute",
+   "title": "Jar of Sap: Alice In Chains Unplugged Tribute",
+   "start": "2026-09-25T20:00:00-05:00",
+   "end": "2026-09-25T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$20.56-26.96",
+   "ticket_url": "https://www.ticketweb.com/event/jar-of-sap-alice-in-crescent-theater-tickets/14215074",
+   "info_url": "https://www.ticketweb.com/event/jar-of-sap-alice-in-crescent-theater-tickets/14215074",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/06/74_Edp.png",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
    "id": 157,
    "series_slug": "johnny-mullenax",
    "title": "Johnny Mullenax",
@@ -1147,37 +1240,6 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
-  },
-  {
-   "id": 98,
-   "series_slug": "jar-of-sap-alice-in-chains-tribute",
-   "title": "Jar of Sap: Alice In Chains Tribute",
-   "start": "2026-09-25T22:00:00-05:00",
-   "end": "2026-09-26T01:00:00-05:00",
-   "all_day": false,
-   "category": "music",
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$20.56-26.96",
-   "ticket_url": "https://www.ticketweb.com/event/jar-of-sap-alice-in-crescent-theater-tickets/14215074",
-   "info_url": "https://www.ticketweb.com/event/jar-of-sap-alice-in-crescent-theater-tickets/14215074",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/06/74_Edp.png",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
   },
   {
    "id": 78,
@@ -1326,34 +1388,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 160,
-   "series_slug": "r-b-only-live-mobile-al",
-   "title": "R&B ONLY LIVE - Mobile, AL",
-   "start": "2026-09-26T20:00:00-05:00",
-   "end": "2026-09-26T23:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "venue": {
-    "slug": "soul-kitchen",
-    "name": "Soul Kitchen Music Hall",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$64.84",
-   "ticket_url": "https://www.universe.com/events/r-b-only-live-mobile-al-tickets-YHG3TL?ref=ticketmaster",
-   "info_url": "https://www.universe.com/events/r-b-only-live-mobile-al-tickets-YHG3TL?ref=ticketmaster",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 161,
    "series_slug": "jason-carter-band",
    "title": "Jason Carter Band",
@@ -1372,6 +1406,34 @@
    "price": "$23.76",
    "ticket_url": "https://www.ticketweb.com/event/jason-carter-band-the-merry-widow-tickets/14240734",
    "info_url": "https://www.ticketweb.com/event/jason-carter-band-the-merry-widow-tickets/14240734",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 160,
+   "series_slug": "r-b-only-live-mobile-al",
+   "title": "R&B ONLY LIVE",
+   "start": "2026-09-26T21:00:00-05:00",
+   "end": "2026-09-27T00:00:00-05:00",
+   "all_day": false,
+   "category": "nightlife",
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$64.84",
+   "ticket_url": "https://www.universe.com/events/r-b-only-live-mobile-al-tickets-YHG3TL?ref=ticketmaster",
+   "info_url": "https://www.universe.com/events/r-b-only-live-mobile-al-tickets-YHG3TL?ref=ticketmaster",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -1435,6 +1497,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 85,
+   "series_slug": "open-play-at-everhope",
+   "title": "Open Play at EverHope",
+   "start": "2026-09-29T09:30:00-05:00",
+   "end": "2026-09-29T10:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "venue": {
+    "slug": "everhope-baptist-church",
+    "name": "EverHope Baptist Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/open-play-at-everhope-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/Everhope-Baptsist-Storytime.jpg?fit=960%2C640&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1530,9 +1623,9 @@
   {
    "id": 165,
    "series_slug": "crescent-comedy-workshop",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-09-30T17:30:00-05:00",
-   "end": "2026-09-30T20:30:00-05:00",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-09-30T20:00:00-05:00",
+   "end": "2026-09-30T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
    "venue": {
@@ -1617,7 +1710,7 @@
   {
    "id": 102,
    "series_slug": "jj-grey-mofro",
-   "title": "JJ Grey & Mofro",
+   "title": "JJ Grey & Mofro — Top of the World Tour",
    "start": "2026-10-01T20:00:00-05:00",
    "end": "2026-10-01T23:00:00-05:00",
    "all_day": false,
@@ -1735,9 +1828,9 @@
   {
    "id": 169,
    "series_slug": "mike-goodwin-early-show",
-   "title": "Mike Goodwin (Early Show)",
-   "start": "2026-10-03T16:00:00-05:00",
-   "end": "2026-10-03T19:00:00-05:00",
+   "title": "Mike Goodwin",
+   "start": "2026-10-03T19:00:00-05:00",
+   "end": "2026-10-03T22:00:00-05:00",
    "all_day": false,
    "category": "arts",
    "venue": {
@@ -1993,9 +2086,9 @@
   {
    "id": 173,
    "series_slug": "crescent-comedy-workshop",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-10-07T17:30:00-05:00",
-   "end": "2026-10-07T20:30:00-05:00",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-10-07T20:00:00-05:00",
+   "end": "2026-10-07T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
    "venue": {
@@ -2258,34 +2351,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 236,
-   "series_slug": "daniel-tosh-my-first-farewell-tour",
-   "title": "Daniel Tosh: My First Farewell Tour",
-   "start": "2026-10-09T19:00:00-05:00",
-   "end": "2026-10-09T22:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "venue": {
-    "slug": "saenger-theatre",
-    "name": "Saenger Theatre",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/daniel-tosh-my-first-farewell-tour-pensacola-florida-10-09-2026/event/1B00636B2DB89AE5",
-   "info_url": "https://www.ticketmaster.com/daniel-tosh-my-first-farewell-tour-pensacola-florida-10-09-2026/event/1B00636B2DB89AE5",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 176,
    "series_slug": "comedy-shorts-3-short-shows-one-low-price",
    "title": "Comedy Shorts: 3 Short Shows, One Low Price",
@@ -2332,6 +2397,34 @@
    "price": "$21.83",
    "ticket_url": "https://www.ticketweb.com/event/slow-degrade-soul-kitchen-tickets/14285194",
    "info_url": "https://www.ticketweb.com/event/slow-degrade-soul-kitchen-tickets/14285194",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 236,
+   "series_slug": "daniel-tosh-my-first-farewell-tour",
+   "title": "Daniel Tosh: My First Farewell Tour",
+   "start": "2026-10-09T21:30:00-05:00",
+   "end": "2026-10-10T00:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/daniel-tosh-my-first-farewell-tour-pensacola-florida-10-09-2026/event/1B00636B2DB89AE5",
+   "info_url": "https://www.ticketmaster.com/daniel-tosh-my-first-farewell-tour-pensacola-florida-10-09-2026/event/1B00636B2DB89AE5",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -2577,9 +2670,9 @@
   {
    "id": 182,
    "series_slug": "crescent-comedy-workshop",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-10-14T17:30:00-05:00",
-   "end": "2026-10-14T20:30:00-05:00",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-10-14T20:00:00-05:00",
+   "end": "2026-10-14T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
    "venue": {
@@ -2838,11 +2931,11 @@
   {
    "id": 114,
    "series_slug": "jo-koy",
-   "title": "Jo Koy",
+   "title": "Jo Koy: Koy Meets World Tour",
    "start": "2026-10-17T20:00:00-05:00",
    "end": "2026-10-17T23:00:00-05:00",
    "all_day": false,
-   "category": "music",
+   "category": "arts",
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -3124,9 +3217,9 @@
   {
    "id": 191,
    "series_slug": "crescent-comedy-workshop",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-10-21T17:30:00-05:00",
-   "end": "2026-10-21T20:30:00-05:00",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-10-21T20:00:00-05:00",
+   "end": "2026-10-21T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
    "venue": {
@@ -3183,7 +3276,7 @@
   {
    "id": 119,
    "series_slug": "jd-simo-w-luther-dickinson-black-joe-lewis-the-honeybears",
-   "title": "JD Simo w Luther Dickinson + Black Joe Lewis & The Honeybears",
+   "title": "JD SIMO w/ Luther Dickinson X Black Joe Lewis & The Honeybears",
    "start": "2026-10-23T20:00:00-05:00",
    "end": "2026-10-23T23:00:00-05:00",
    "all_day": false,
@@ -3388,9 +3481,9 @@
   {
    "id": 194,
    "series_slug": "crescent-comedy-workshop",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-10-28T17:30:00-05:00",
-   "end": "2026-10-28T20:30:00-05:00",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-10-28T20:00:00-05:00",
+   "end": "2026-10-28T23:00:00-05:00",
    "all_day": false,
    "category": "arts",
    "venue": {
@@ -3936,13 +4029,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 205,
+   "series_slug": "akchamel-fuckless-mamalon",
+   "title": "AK’CHAMEL/FUCKLESS/MAMALON",
+   "start": "2026-11-08T18:00:00-06:00",
+   "end": "2026-11-08T21:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "venue": {
+    "slug": "alabama-music-box",
+    "name": "Alabama Music Box",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$23.76-44.36",
+   "ticket_url": "https://www.ticketweb.com/event/akchamelfucklessmamalon-alabama-music-box-tickets/14202894",
+   "info_url": "https://www.ticketweb.com/event/akchamelfucklessmamalon-alabama-music-box-tickets/14202894",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 126,
    "series_slug": "drivin-n-cryin",
-   "title": "Drivin N Cryin",
+   "title": "DRIVIN N CRYIN",
    "start": "2026-11-08T20:00:00-06:00",
    "end": "2026-11-08T23:00:00-06:00",
    "all_day": false,
-   "category": "music",
+   "category": "community",
    "venue": {
     "slug": "the-merry-widow",
     "name": "The Merry Widow",
@@ -4031,11 +4152,11 @@
   {
    "id": 206,
    "series_slug": "nick-rochefort-alex-schultz-live-standup-show",
-   "title": "Nick Rochefort & Alex Schultz Live Standup Show",
-   "start": "2026-11-11T19:00:00-06:00",
-   "end": "2026-11-11T22:00:00-06:00",
+   "title": "Scuffed Realtor Live feat. Nick Rochefort & Alex Schultz",
+   "start": "2026-11-11T21:30:00-06:00",
+   "end": "2026-11-12T00:30:00-06:00",
    "all_day": false,
-   "category": "family",
+   "category": "community",
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -4497,11 +4618,11 @@
   {
    "id": 134,
    "series_slug": "little-feat",
-   "title": "Little Feat",
+   "title": "Little Feat The Last Farewell Tour",
    "start": "2026-11-21T20:00:00-06:00",
    "end": "2026-11-21T23:00:00-06:00",
    "all_day": false,
-   "category": "music",
+   "category": "family",
    "venue": {
     "slug": "saenger-theatre",
     "name": "Saenger Theatre",
@@ -5218,6 +5339,34 @@
    "price": "$38.45-44.1",
    "ticket_url": "https://www.ticketweb.com/event/brian-posehn-crescent-theater-tickets/14985483",
    "info_url": "https://www.ticketweb.com/event/brian-posehn-crescent-theater-tickets/14985483",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 220,
+   "series_slug": "gaither-homecoming-christmas-bill-gaither-the-gaither-vocal-band",
+   "title": "Gaither Homecoming Christmas: Bill Gaither & The Gaither Vocal Band - Mobile, AL",
+   "start": "2026-12-10T19:00:00-06:00",
+   "end": "2026-12-10T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "venue": {
+    "slug": "cottage-hill-baptist-church",
+    "name": "Cottage Hill Baptist Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$41.79-45.91",
+   "ticket_url": "https://www.ticketweb.com/event/gaither-homecoming-christmas-bill-gaither-cottage-hill-baptist-church-tickets/14264764",
+   "info_url": "https://www.ticketweb.com/event/gaither-homecoming-christmas-bill-gaither-cottage-hill-baptist-church-tickets/14264764",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
