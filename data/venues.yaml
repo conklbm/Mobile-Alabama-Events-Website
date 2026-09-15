@@ -818,10 +818,13 @@
   regions: [mobile]
   notes: "Single-screen indie cinema downtown; also hosts comedy and small shows. Street parking on Dauphin."
 
-- slug: statemint-pop-up
-  name: Statemint Mobile Pop Up
-  aliases: ["Statemint Mobile Pop Up", "7701 Hitt Road – Mobile, Al – 36695"]
-  domains: []
+- slug: abba-shrine
+  name: Abba Shrine Center
+  aliases: ["Abba Shrine Center", "Abba Shrine", "Abba Shriners", "Abba Temple", "Abba Shrine Temple", "7701 Hitt Road – Mobile, Al – 36695", "7701 Hitt Road", "7701 Hitt Rd"]
+  domains: ["abbashrine.com"]
+  address: 7701 Hitt Rd
   city: Mobile
   state: AL
+  zip: "36695"
   regions: [mobile]
+  notes: "West Mobile event hall; hosts pop-up markets, gun and craft shows, and the Shrine Circus. Big free lot."

@@ -206,6 +206,7 @@ def _refresh(conn, existing, n, venue_id, raw_pull_id, now, sources) -> None:
     if occ["venue_id"] is None and venue_id is not None:
         conn.execute("UPDATE occurrences SET venue_id=?, venue_key=?, city=?, regions=?, updated_at=? WHERE id=?",
                      (venue_id, n["venue_key"], n["city"], db.j(n["regions"]), now, occ["id"]))
+        conn.execute("UPDATE series SET venue_id=?, venue_key=? WHERE id=? AND venue_id IS NULL", (venue_id, n["venue_key"], occ["series_id"]))
     if n["description"] and (not occ["description"] or (primary and primary["source_id"] == existing["source_id"] and occ["description"] != n["description"])):
         conn.execute("UPDATE occurrences SET description=? WHERE id=?", (n["description"], occ["id"]))
     if n["cancelled"] and occ["status"] in ("active", "flagged_cancelled"):
