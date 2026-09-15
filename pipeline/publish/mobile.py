@@ -293,7 +293,7 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
     cat_order = ["music", "family", "food", "arts", "sports", "nightlife", "community"]
     r.page("/", "index.html", title=f"{site.name} — What's happening in Mobile, AL this week",
            description="This week's events in Mobile, the Eastern Shore, and Dauphin Island, pulled from venue calendars and merged so each shows once. Updated every Thursday.",
-           featured=site.featured(), groups=[(c, by_cat[c]) for c in cat_order if by_cat.get(c)],
+           featured=site.featured(), groups=group_by_day(week), week=week,
            week_count=len(week), upcoming_count=len(site.upcoming))
     counts["home"] += 1
 

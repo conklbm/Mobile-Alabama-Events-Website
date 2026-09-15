@@ -38,10 +38,31 @@
 <h1>Mobile, AL Events</h1>
 <p class="lede">Everything happening in Mobile proper this week, pulled from venue calendars, the 92ZEW community calendar, and Ticketmaster, then deduplicated so you see each event once. Downtown parking is free on street after 6pm and all day Sunday.</p>
 
+
+  
+  <div class="filters" data-filters role="group" aria-label="Filter by category">
+    <button type="button" class="pill pill-all" data-cat="all" aria-pressed="true">All <span class="count">76</span></button>
+    
+    <button type="button" class="pill pill-music" data-cat="music" aria-pressed="false">Live Music <span class="count">17</span></button>
+    
+    <button type="button" class="pill pill-family" data-cat="family" aria-pressed="false">Family &amp; Kids <span class="count">10</span></button>
+    
+    <button type="button" class="pill pill-arts" data-cat="arts" aria-pressed="false">Arts &amp; Theater <span class="count">10</span></button>
+    
+    <button type="button" class="pill pill-nightlife" data-cat="nightlife" aria-pressed="false">Nightlife <span class="count">26</span></button>
+    
+    <button type="button" class="pill pill-community" data-cat="community" aria-pressed="false">Community <span class="count">13</span></button>
+    
+    
+    
+  </div>
+  <p class="empty" data-filter-empty hidden>Nothing matches those filters. <button type="button" class="linkish" data-filter-reset>Show everything</button></p>
+  
+
     
     <section class="day">
       <h2 class="day-h">Tuesday, September 15</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -55,7 +76,7 @@
     
     <section class="day">
       <h2 class="day-h">Wednesday, September 16</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/enrg-entrepreneurial-network-resource-group/">
     <span class="row-time">8:30 am</span>
     <span class="row-main">
@@ -64,7 +85,7 @@
     </span>
     <span class="tag tag-arts row-tag">Arts &amp; Theater</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/night-sky-series-september-skies/">
     <span class="row-time">6 pm</span>
     <span class="row-main">
@@ -78,7 +99,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, September 17</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="family" data-free="0">
   <a class="row-link" href="/events/fall-in-love-with-speech-honey-b-bloom-mommy-me-session-on-the/">
     <span class="row-time">9:30 am</span>
     <span class="row-main">
@@ -87,7 +108,7 @@
     </span>
     <span class="tag tag-family row-tag">Family &amp; Kids</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/free-admission-to-mmoa-for-mobile-residents/">
     <span class="row-time">10 am</span>
     <span class="row-main">
@@ -96,7 +117,7 @@
     </span>
     <span class="tag tag-arts row-tag">Arts &amp; Theater</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="family" data-free="0">
   <a class="row-link" href="/events/family-art/">
     <span class="row-time">3 pm</span>
     <span class="row-main">
@@ -105,7 +126,7 @@
     </span>
     <span class="tag tag-family row-tag">Family &amp; Kids</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -119,7 +140,7 @@
     
     <section class="day">
       <h2 class="day-h">Friday, September 18</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="family" data-free="0">
   <a class="row-link" href="/events/blooms-apple-orchard-themed-play-session-mommy-me-apple-pie-baking/">
     <span class="row-time">9:30 am</span>
     <span class="row-main">
@@ -133,7 +154,7 @@
     
     <section class="day">
       <h2 class="day-h">Saturday, September 19</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="family" data-free="0">
   <a class="row-link" href="/events/the-great-bellingrath-harvest/">
     <span class="row-time">All day</span>
     <span class="row-main">
@@ -142,7 +163,7 @@
     </span>
     <span class="tag tag-family row-tag">Family &amp; Kids</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="family" data-free="0">
   <a class="row-link" href="/events/naturenauts-stem-day/">
     <span class="row-time">9 am</span>
     <span class="row-main">
@@ -151,7 +172,7 @@
     </span>
     <span class="tag tag-family row-tag">Family &amp; Kids</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="family" data-free="0">
   <a class="row-link" href="/events/kids-day-young-entrepreneur-showcase/">
     <span class="row-time">10 am</span>
     <span class="row-main">
@@ -160,7 +181,7 @@
     </span>
     <span class="tag tag-family row-tag">Family &amp; Kids</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/dog-days-at-mbg/">
     <span class="row-time">10 am</span>
     <span class="row-main">
@@ -174,7 +195,7 @@
     
     <section class="day">
       <h2 class="day-h">Tuesday, September 22</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -188,7 +209,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, September 24</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="family" data-free="0">
   <a class="row-link" href="/events/fall-into-fun-weekly-themed-open-play-session-ages-1-with-bloom-play/">
     <span class="row-time">9:30 am</span>
     <span class="row-main">
@@ -197,7 +218,7 @@
     </span>
     <span class="tag tag-family row-tag">Family &amp; Kids</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/free-admission-to-mmoa-for-mobile-residents/">
     <span class="row-time">10 am</span>
     <span class="row-main">
@@ -206,7 +227,7 @@
     </span>
     <span class="tag tag-arts row-tag">Arts &amp; Theater</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/make-take-art/">
     <span class="row-time">3 pm</span>
     <span class="row-main">
@@ -215,7 +236,7 @@
     </span>
     <span class="tag tag-arts row-tag">Arts &amp; Theater</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -229,7 +250,7 @@
     
     <section class="day">
       <h2 class="day-h">Friday, September 25</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="family" data-free="0">
   <a class="row-link" href="/events/blooms-apple-orchard-themed-play-session-mommy-me-apple-pie-baking/">
     <span class="row-time">9:30 am</span>
     <span class="row-main">
@@ -238,7 +259,7 @@
     </span>
     <span class="tag tag-family row-tag">Family &amp; Kids</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/la-ai-meetup/">
     <span class="row-time">3:30 pm</span>
     <span class="row-main">
@@ -247,7 +268,7 @@
     </span>
     <span class="tag tag-community row-tag">Community</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="family" data-free="0">
   <a class="row-link" href="/events/parents-night-out/">
     <span class="row-time">5:30 pm</span>
     <span class="row-main">
@@ -256,7 +277,7 @@
     </span>
     <span class="tag tag-family row-tag">Family &amp; Kids</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/jar-of-sap-alice-in-chains-tribute/">
     <span class="row-time">10 pm</span>
     <span class="row-main">
@@ -270,7 +291,7 @@
     
     <section class="day">
       <h2 class="day-h">Saturday, September 26</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/scarecrows-in-the-gardens/">
     <span class="row-time">All day</span>
     <span class="row-main">
@@ -279,7 +300,7 @@
     </span>
     <span class="tag tag-community row-tag">Community</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/mobile-reptile-exotic-pet-expo/">
     <span class="row-time">9 am</span>
     <span class="row-main">
@@ -293,7 +314,7 @@
     
     <section class="day">
       <h2 class="day-h">Tuesday, September 29</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/prototyping-lab-3d-modeling-workshop/">
     <span class="row-time">4 pm</span>
     <span class="row-main">
@@ -302,7 +323,7 @@
     </span>
     <span class="tag tag-community row-tag">Community</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -316,7 +337,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, October 1</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -325,7 +346,7 @@
     </span>
     <span class="tag tag-nightlife row-tag">Nightlife</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/jj-grey-mofro/">
     <span class="row-time">8 pm</span>
     <span class="row-main">
@@ -339,7 +360,7 @@
     
     <section class="day">
       <h2 class="day-h">Friday, October 2</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/lamont-landers/">
     <span class="row-time">8 pm</span>
     <span class="row-main">
@@ -353,7 +374,7 @@
     
     <section class="day">
       <h2 class="day-h">Sunday, October 4</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/roman-street-with-andy-vargas-singer-for-santana/">
     <span class="row-time">7:30 pm</span>
     <span class="row-main">
@@ -367,7 +388,7 @@
     
     <section class="day">
       <h2 class="day-h">Tuesday, October 6</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -381,7 +402,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, October 8</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/prototyping-lab-open-house-night/">
     <span class="row-time">4 pm</span>
     <span class="row-main">
@@ -390,7 +411,7 @@
     </span>
     <span class="tag tag-community row-tag">Community</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -399,7 +420,7 @@
     </span>
     <span class="tag tag-nightlife row-tag">Nightlife</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/postmodern-jukebox-the-future-is-vintage-world-tour/">
     <span class="row-time">8 pm</span>
     <span class="row-main">
@@ -413,7 +434,7 @@
     
     <section class="day">
       <h2 class="day-h">Friday, October 9</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/artwalk-halloween/">
     <span class="row-time">6 pm</span>
     <span class="row-main">
@@ -422,7 +443,7 @@
     </span>
     <span class="tag tag-arts row-tag">Arts &amp; Theater</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/daniel-tosh/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -436,7 +457,7 @@
     
     <section class="day">
       <h2 class="day-h">Saturday, October 10</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/spectacular/">
     <span class="row-time">7:30 pm</span>
     <span class="row-main">
@@ -450,7 +471,7 @@
     
     <section class="day">
       <h2 class="day-h">Tuesday, October 13</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -464,7 +485,7 @@
     
     <section class="day">
       <h2 class="day-h">Wednesday, October 14</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/enrg-entrepreneurial-network-resource-group/">
     <span class="row-time">8:30 am</span>
     <span class="row-main">
@@ -478,7 +499,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, October 15</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -487,7 +508,7 @@
     </span>
     <span class="tag tag-nightlife row-tag">Nightlife</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/sister-hazel/">
     <span class="row-time">8 pm</span>
     <span class="row-main">
@@ -501,7 +522,7 @@
     
     <section class="day">
       <h2 class="day-h">Saturday, October 17</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="family" data-free="0">
   <a class="row-link" href="/events/pops-midtown-6th-annual-family-fun-day-fall-festival-block-party/">
     <span class="row-time">10 am</span>
     <span class="row-main">
@@ -510,7 +531,7 @@
     </span>
     <span class="tag tag-family row-tag">Family &amp; Kids</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/jo-koy/">
     <span class="row-time">8 pm</span>
     <span class="row-main">
@@ -519,7 +540,7 @@
     </span>
     <span class="tag tag-music row-tag">Live Music</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/crawling-a-tribute-to-linkin-park/">
     <span class="row-time">8 pm</span>
     <span class="row-main">
@@ -533,7 +554,7 @@
     
     <section class="day">
       <h2 class="day-h">Tuesday, October 20</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -547,7 +568,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, October 22</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -561,7 +582,7 @@
     
     <section class="day">
       <h2 class="day-h">Friday, October 23</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/jd-simo-w-luther-dickinson-black-joe-lewis-the-honeybears/">
     <span class="row-time">8 pm</span>
     <span class="row-main">
@@ -575,7 +596,7 @@
     
     <section class="day">
       <h2 class="day-h">Tuesday, October 27</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/prototyping-lab-3d-modeling-workshop/">
     <span class="row-time">4 pm</span>
     <span class="row-main">
@@ -584,7 +605,7 @@
     </span>
     <span class="tag tag-community row-tag">Community</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -598,7 +619,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, October 29</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -612,7 +633,7 @@
     
     <section class="day">
       <h2 class="day-h">Friday, October 30</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/la-ai-meetup/">
     <span class="row-time">3:30 pm</span>
     <span class="row-main">
@@ -626,7 +647,7 @@
     
     <section class="day">
       <h2 class="day-h">Tuesday, November 3</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -640,7 +661,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, November 5</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -654,7 +675,7 @@
     
     <section class="day">
       <h2 class="day-h">Friday, November 6</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/maggie-koerner/">
     <span class="row-time">8 pm</span>
     <span class="row-main">
@@ -668,7 +689,7 @@
     
     <section class="day">
       <h2 class="day-h">Saturday, November 7</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/beethoven-blue-jeans/">
     <span class="row-time">7:30 pm</span>
     <span class="row-main">
@@ -682,7 +703,7 @@
     
     <section class="day">
       <h2 class="day-h">Sunday, November 8</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/drivin-n-cryin/">
     <span class="row-time">8 pm</span>
     <span class="row-main">
@@ -696,7 +717,7 @@
     
     <section class="day">
       <h2 class="day-h">Tuesday, November 10</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -710,7 +731,7 @@
     
     <section class="day">
       <h2 class="day-h">Wednesday, November 11</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/enrg-entrepreneurial-network-resource-group/">
     <span class="row-time">8:30 am</span>
     <span class="row-main">
@@ -724,7 +745,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, November 12</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/prototyping-lab-open-house-night/">
     <span class="row-time">4 pm</span>
     <span class="row-main">
@@ -733,7 +754,7 @@
     </span>
     <span class="tag tag-community row-tag">Community</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -747,7 +768,7 @@
     
     <section class="day">
       <h2 class="day-h">Friday, November 13</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/artwalk-picture-book-month/">
     <span class="row-time">6 pm</span>
     <span class="row-main">
@@ -761,7 +782,7 @@
     
     <section class="day">
       <h2 class="day-h">Tuesday, November 17</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -775,7 +796,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, November 19</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -789,7 +810,7 @@
     
     <section class="day">
       <h2 class="day-h">Saturday, November 21</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/little-feat/">
     <span class="row-time">8 pm</span>
     <span class="row-main">
@@ -803,7 +824,7 @@
     
     <section class="day">
       <h2 class="day-h">Tuesday, November 24</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/prototyping-lab-3d-modeling-workshop/">
     <span class="row-time">4 pm</span>
     <span class="row-main">
@@ -812,7 +833,7 @@
     </span>
     <span class="tag tag-community row-tag">Community</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -826,7 +847,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, November 26</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -840,7 +861,7 @@
     
     <section class="day">
       <h2 class="day-h">Friday, November 27</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/la-ai-meetup/">
     <span class="row-time">3:30 pm</span>
     <span class="row-main">
@@ -854,7 +875,7 @@
     
     <section class="day">
       <h2 class="day-h">Tuesday, December 1</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -868,7 +889,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, December 3</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -877,7 +898,7 @@
     </span>
     <span class="tag tag-nightlife row-tag">Nightlife</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/croce-plays-croce/">
     <span class="row-time">8 pm</span>
     <span class="row-main">
@@ -891,7 +912,7 @@
     
     <section class="day">
       <h2 class="day-h">Tuesday, December 8</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -905,7 +926,7 @@
     
     <section class="day">
       <h2 class="day-h">Wednesday, December 9</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/enrg-entrepreneurial-network-resource-group/">
     <span class="row-time">8:30 am</span>
     <span class="row-main">
@@ -919,7 +940,7 @@
     
     <section class="day">
       <h2 class="day-h">Thursday, December 10</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="community" data-free="0">
   <a class="row-link" href="/events/prototyping-lab-open-house-night/">
     <span class="row-time">4 pm</span>
     <span class="row-main">
@@ -928,7 +949,7 @@
     </span>
     <span class="tag tag-community row-tag">Community</span>
   </a>
-</li><li class="row">
+</li><li class="row" data-cat="nightlife" data-free="0">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -942,7 +963,7 @@
     
     <section class="day">
       <h2 class="day-h">Friday, December 11</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="arts" data-free="0">
   <a class="row-link" href="/events/artwalk-celebrate-christmas/">
     <span class="row-time">6 pm</span>
     <span class="row-main">
@@ -956,7 +977,7 @@
     
     <section class="day">
       <h2 class="day-h">Saturday, December 12</h2>
-      <ul class="rows"><li class="row">
+      <ul class="rows"><li class="row" data-cat="music" data-free="0">
   <a class="row-link" href="/events/swing-into-the-holidays/">
     <span class="row-time">7:30 pm</span>
     <span class="row-main">
@@ -995,5 +1016,38 @@
     <p class="foot-note"><a href="/">Mobile Bay Events</a> · © 2026 · Updated Mon Sep 14. Listings link to their source; confirm details before you go.</p>
   </div>
 </footer>
+<script>
+(function () {
+  var bar = document.querySelector('[data-filters]'); if (!bar) return;
+  var KEY = 'mbe.filters', items = document.querySelectorAll('[data-cat]:not(button)');
+  var state = { cats: [], free: false };
+  try { state = Object.assign(state, JSON.parse(localStorage.getItem(KEY) || '{}')); } catch (e) {}
+  function apply() {
+    var any = false;
+    items.forEach(function (el) {
+      var ok = (!state.cats.length || state.cats.indexOf(el.dataset.cat) > -1) && (!state.free || el.dataset.free === '1');
+      el.hidden = !ok; if (ok) any = true;
+    });
+    document.querySelectorAll('.day, [data-featured]').forEach(function (sec) {
+      sec.hidden = !sec.querySelector('[data-cat]:not([hidden])');
+    });
+    bar.querySelectorAll('button').forEach(function (b) {
+      var on = b.dataset.cat === 'all' ? (!state.cats.length && !state.free) : (b.dataset.free ? state.free : state.cats.indexOf(b.dataset.cat) > -1);
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+    var empty = document.querySelector('[data-filter-empty]'); if (empty) empty.hidden = any;
+    try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {}
+  }
+  bar.addEventListener('click', function (e) {
+    var b = e.target.closest('button'); if (!b) return;
+    if (b.dataset.cat === 'all') { state = { cats: [], free: false }; }
+    else if (b.dataset.free) { state.free = !state.free; }
+    else { var i = state.cats.indexOf(b.dataset.cat); i > -1 ? state.cats.splice(i, 1) : state.cats.push(b.dataset.cat); }
+    apply();
+  });
+  document.addEventListener('click', function (e) { if (e.target.closest('[data-filter-reset]')) { state = { cats: [], free: false }; apply(); } });
+  apply();
+})();
+</script>
 </body>
 </html>

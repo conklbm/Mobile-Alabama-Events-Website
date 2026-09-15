@@ -91,6 +91,21 @@ p { margin: .5em 0; }
 .pills { display: flex; flex-wrap: wrap; gap: 8px; }
 .pill { display: inline-flex; align-items: center; min-height: 44px; padding: 6px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--card); text-decoration: none; color: var(--fg); }
 .pill:hover { border-color: var(--brand); }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 18px; }
+.filters .pill { font: inherit; font-size: .92rem; font-weight: 600; }
+.filters .pill .count { margin-left: 4px; font-weight: 500; }
+.filters .pill[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.filters .pill-music[aria-pressed="true"] { background: var(--music); border-color: var(--music); color: #fff; }
+.filters .pill-family[aria-pressed="true"] { background: var(--family); border-color: var(--family); color: #fff; }
+.filters .pill-food[aria-pressed="true"] { background: var(--food); border-color: var(--food); color: #fff; }
+.filters .pill-arts[aria-pressed="true"] { background: var(--arts); border-color: var(--arts); color: #fff; }
+.filters .pill-sports[aria-pressed="true"] { background: var(--sports); border-color: var(--sports); color: #fff; }
+.filters .pill-nightlife[aria-pressed="true"] { background: var(--nightlife); border-color: var(--nightlife); color: #fff; }
+.filters .pill-community[aria-pressed="true"] { background: var(--community); border-color: var(--community); color: #fff; }
+.filters .pill-free[aria-pressed="true"] { background: var(--free); border-color: var(--free); color: #fff; }
+.filters .pill[aria-pressed="true"] .count { color: inherit; opacity: .85; }
+.linkish { background: none; border: 0; padding: 0; color: var(--brand); text-decoration: underline; font: inherit; cursor: pointer; min-height: 44px; }
+[hidden] { display: none !important; }
 
 /* event page */
 .crumbs { color: var(--muted); font-size: .88rem; margin-top: 12px; }

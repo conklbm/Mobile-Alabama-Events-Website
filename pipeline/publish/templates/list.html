@@ -1,7 +1,9 @@
 {% extends "base.html" %}
-{% from "_macros.html" import day_groups %}
+{% from "_macros.html" import day_groups, filter_bar %}
 {% block content %}
 <h1>{{ h1 }}</h1>
 {% if intro %}<p class="lede">{{ intro }}</p>{% endif %}
+{% set all = [] %}{% for d, items in groups %}{% for o in items %}{% set _ = all.append(o) %}{% endfor %}{% endfor %}
+{{ filter_bar(all) }}
 {{ day_groups(groups, empty) }}
 {% endblock %}

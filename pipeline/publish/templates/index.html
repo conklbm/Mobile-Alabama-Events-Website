@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "_macros.html" import card, row %}
+{% from "_macros.html" import card, day_groups, filter_bar %}
 {% block content %}
 <section class="hero">
   <h1>What's happening in Mobile this week</h1>
@@ -7,27 +7,19 @@
   <p class="hero-links"><a class="btn btn-primary" href="/this-weekend/">This weekend</a> <a class="btn" href="/events/">All {{ upcoming_count }} upcoming</a></p>
 </section>
 
+{{ filter_bar(week) }}
+
 {% if featured %}
-<section>
+<section data-featured>
   <h2>Worth your time</h2>
   <div class="cards">{% for o in featured %}{{ card(o) }}{% endfor %}</div>
 </section>
 {% endif %}
 
-{% if groups %}
 <section>
-  <h2>This week by category</h2>
-  {% for cat, items in groups %}
-  <section class="cat">
-    <h3 class="cat-h"><span class="tag tag-{{ cat }}">{{ cat | catlabel }}</span> <span class="count">{{ items | length }}</span></h3>
-    <ul class="rows">{% for o in items[:12] %}{{ row(o) }}{% endfor %}</ul>
-    {% if items | length > 12 %}<p class="more"><a href="/events/">See all {{ items | length }} →</a></p>{% endif %}
-  </section>
-  {% endfor %}
+  <h2>This week</h2>
+  {{ day_groups(groups, "Nothing listed for this week yet. New events are added every Thursday.") }}
 </section>
-{% else %}
-<p class="empty">Nothing listed for this week yet. New events are added every Thursday.</p>
-{% endif %}
 
 <section class="cities">
   <h2>By city</h2>

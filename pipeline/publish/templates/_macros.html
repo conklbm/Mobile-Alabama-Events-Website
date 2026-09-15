@@ -23,7 +23,7 @@
 {%- endmacro %}
 
 {% macro card(o) -%}
-<article class="card">
+<article class="card" data-cat="{{ o.category }}" data-free="{{ 1 if o.is_free else 0 }}">
   {% if o.image %}<a href="{{ o.url }}" class="card-img" tabindex="-1" aria-hidden="true"><img src="{{ o.image.url }}" alt="" loading="lazy"></a>{% else %}<a href="{{ o.url }}" class="card-img card-img-{{ o.category }}" tabindex="-1" aria-hidden="true"></a>{% endif %}
   <div class="card-body">
     <h3 class="card-title"><a href="{{ o.url }}">{{ o.title }}</a></h3>
@@ -35,7 +35,7 @@
 {%- endmacro %}
 
 {% macro row(o, show_date=False) -%}
-<li class="row">
+<li class="row" data-cat="{{ o.category }}" data-free="{{ 1 if o.is_free else 0 }}">
   <a class="row-link" href="{{ o.url }}">
     <span class="row-time{% if show_date %} row-time-wide{% endif %}">{% if show_date %}{{ o.day | shortday }}{% if not o.all_day %} · {{ o.start | clock }}{% endif %}{% elif o.all_day %}All day{% else %}{{ o.start | clock }}{% endif %}</span>
     <span class="row-main">
@@ -45,6 +45,21 @@
     <span class="tag tag-{{ o.category }} row-tag">{{ o.category_label }}</span>
   </a>
 </li>
+{%- endmacro %}
+
+{% macro filter_bar(occs) -%}
+  {% set cats = [] %}{% for o in occs %}{% if o.category not in cats %}{% set _ = cats.append(o.category) %}{% endif %}{% endfor %}
+  {% if occs %}
+  <div class="filters" data-filters role="group" aria-label="Filter by category">
+    <button type="button" class="pill pill-all" data-cat="all" aria-pressed="true">All <span class="count">{{ occs | length }}</span></button>
+    {% for c in ["music","family","food","arts","sports","nightlife","community"] if c in cats %}
+    <button type="button" class="pill pill-{{ c }}" data-cat="{{ c }}" aria-pressed="false">{{ c | catlabel }} <span class="count">{{ occs | selectattr("category", "equalto", c) | list | length }}</span></button>
+    {% endfor %}
+    {% set nfree = occs | selectattr("is_free") | list | length %}
+    {% if nfree %}<button type="button" class="pill pill-free" data-free="1" aria-pressed="false">Free <span class="count">{{ nfree }}</span></button>{% endif %}
+  </div>
+  <p class="empty" data-filter-empty hidden>Nothing matches those filters. <button type="button" class="linkish" data-filter-reset>Show everything</button></p>
+  {% endif %}
 {%- endmacro %}
 
 {% macro day_groups(groups, empty) -%}
