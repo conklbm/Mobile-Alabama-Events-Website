@@ -61,10 +61,10 @@ jobs:
 
       - name: Reply on the issue
         run: |
-          uv run python -m pipeline issue --out remaining.md
+          uv run python -m pipeline issue --remaining --out remaining.md
           if [ -s remaining.md ]; then
             printf '\n\nStill open:\n' >> report.md
-            tail -n +2 remaining.md | grep -E '^- `#' >> report.md || true
+            cat remaining.md >> report.md
           else
             printf '\n\nNothing left to review. Closing.' >> report.md
           fi

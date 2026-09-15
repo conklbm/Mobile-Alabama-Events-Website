@@ -61,7 +61,8 @@ def evaluate(conn: sqlite3.Connection, run_id: int, source_results: dict[str, di
             conn.execute("UPDATE occurrences SET publish_state=?, updated_at=? WHERE id=?", (state, now, occ["id"]))
         counts[state] += 1
 
-        needs_queue = (blocking and occ["status"] != "cancelled") or strict_hold
+        decided = occ["id"] in forced or occ["approved"]
+        needs_queue = (blocking and occ["status"] != "cancelled" and not decided) or strict_hold
         open_row = conn.execute(
             "SELECT id FROM review_queue WHERE occurrence_id=? AND resolved_at IS NULL", (occ["id"],)
         ).fetchone()

@@ -118,8 +118,12 @@ def cmd_issue(args) -> int:
     run_id = db.latest_run_id(conn)
     from .freshness import breakage_alerts
     res = collect_mod.source_results(conn, run_id)
-    title, body = review.issue_body(conn, run_id, breakage_alerts(conn, run_id, res), {})
-    text = (title + "\n" + body) if title else ""
+    if args.remaining:
+        lines = [review._line(conn, r) for r in review.open_items(conn) if any(r[k] for k in review.BLOCKING) or r["strict_mode"]]
+        text = "\n".join(lines) + ("\n" if lines else "")
+    else:
+        title, body = review.issue_body(conn, run_id, breakage_alerts(conn, run_id, res), {})
+        text = (title + "\n" + body) if title else ""
     if args.out:
         Path(args.out).write_text(text, encoding="utf-8")
     else:
@@ -177,7 +181,7 @@ def main(argv=None) -> int:
     s = sub.add_parser("publish"); s.set_defaults(fn=cmd_publish)
     s = sub.add_parser("approve"); s.add_argument("--ids", nargs="*", type=int); s.add_argument("--strict", action="store_true"); s.add_argument("--all", action="store_true"); s.set_defaults(fn=cmd_approve)
     s = sub.add_parser("queue"); s.set_defaults(fn=cmd_queue)
-    s = sub.add_parser("issue"); s.add_argument("--out"); s.set_defaults(fn=cmd_issue)
+    s = sub.add_parser("issue"); s.add_argument("--out"); s.add_argument("--remaining", action="store_true"); s.set_defaults(fn=cmd_issue)
     s = sub.add_parser("commands"); s.add_argument("--file"); s.add_argument("--report"); s.set_defaults(fn=cmd_commands)
     s = sub.add_parser("stats"); s.set_defaults(fn=cmd_stats)
     args = p.parse_args(argv)
