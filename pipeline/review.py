@@ -139,12 +139,24 @@ def issue_body(conn: sqlite3.Connection, run_id: int, alerts: list[str], summary
     items = open_items(conn)
     real = [r for r in items if any(r[k] for k in BLOCKING)]
     strict_only = [r for r in items if not any(r[k] for k in BLOCKING) and r["strict_mode"]]
-    n = len(real) + len(strict_only) + len(alerts)
+    fyi_count = conn.execute(
+        "SELECT COUNT(*) FROM occurrences WHERE status='cancelled' AND end_utc >= datetime('now') AND updated_at >= (SELECT started_at FROM runs WHERE id=?)", (run_id,)).fetchone()[0]
+    n = len(real) + len(strict_only) + len(alerts) + fyi_count
     if n == 0:
         return "", ""
     out = [f"Run #{run_id}. Published: {summary.get('published', 0)}, held: {summary.get('held', 0)}, auto-resolved: {summary.get('auto_resolved', 0)}.", ""]
     if alerts:
         out += ["## Source alerts (silent-breakage check)", *[f"- {a}" for a in alerts], ""]
+
+    fyi = conn.execute(
+        """SELECT o.id, o.title_raw, o.start_utc, o.timezone, COALESCE(v.canonical_name, o.venue_name_raw, '') AS venue
+           FROM occurrences o LEFT JOIN venues v ON v.id=o.venue_id
+           WHERE o.status='cancelled' AND o.end_utc >= datetime('now') AND o.updated_at >= (SELECT started_at FROM runs WHERE id=?)
+           ORDER BY o.start_utc""", (run_id,)).fetchall()
+    if fyi:
+        out += ["## Cancelled by the source (no action needed)", "Removed from the site. `not-cancelled <id>` brings one back if the source was wrong."]
+        out += [f"- `#{r['id']}` **{r['title_raw']}** — {from_utc(r['start_utc'], r['timezone']):%a %b %d} — {r['venue']}" for r in fyi]
+        out.append("")
 
     cancel = [r for r in real if r["cancellation_flagged"]]
     if cancel:
@@ -187,5 +199,5 @@ def issue_body(conn: sqlite3.Connection, run_id: int, alerts: list[str], summary
         if len(strict_only) > 60:
             out.append(f"- …and {len(strict_only) - 60} more")
         out.append("")
-    title = f"{len(real) + len(strict_only)} items need review" if (real or strict_only) else "Source alerts"
+    title = f"{len(real) + len(strict_only)} items need review" if (real or strict_only) else ("Source alerts" if alerts else "Weekly run: nothing to review")
     return title, "\n".join(out)

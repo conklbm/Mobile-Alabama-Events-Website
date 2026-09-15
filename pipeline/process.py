@@ -163,7 +163,8 @@ def process(conn: sqlite3.Connection, run_id: int, source_results: dict[str, dic
                  n["image_url"] or None, now, now, raw_pull_id),
             )
             if n["cancelled"]:
-                conn.execute("UPDATE occurrences SET status='flagged_cancelled' WHERE id=? AND status='active'", (oid,))
+                conn.execute("UPDATE occurrences SET status='cancelled', updated_at=? WHERE id=? AND status IN ('active','flagged_cancelled')", (now, oid))
+                stats["source_cancelled"] += 1
             touched.add(oid)
 
         stats["re_resolved"] = _reresolve_unknown_venues(conn, resolver, venue_ids, now)
@@ -207,8 +208,8 @@ def _refresh(conn, existing, n, venue_id, raw_pull_id, now, sources) -> None:
                      (venue_id, n["venue_key"], n["city"], db.j(n["regions"]), now, occ["id"]))
     if n["description"] and (not occ["description"] or (primary and primary["source_id"] == existing["source_id"] and occ["description"] != n["description"])):
         conn.execute("UPDATE occurrences SET description=? WHERE id=?", (n["description"], occ["id"]))
-    if n["cancelled"]:
-        conn.execute("UPDATE occurrences SET status='flagged_cancelled' WHERE id=? AND status='active'", (occ["id"],))
+    if n["cancelled"] and occ["status"] in ("active", "flagged_cancelled"):
+        conn.execute("UPDATE occurrences SET status='cancelled', updated_at=? WHERE id=?", (now, occ["id"]))
 
 
 def _merge_into(conn, oid, n, matcher: Matcher, now) -> None:
@@ -297,7 +298,7 @@ def _apply_overrides(conn, series_matcher: Matcher, now) -> None:
     for oid in ov.get("cancelled", []):
         conn.execute("UPDATE occurrences SET status='cancelled', updated_at=? WHERE id=?", (now, int(oid)))
     for oid in ov.get("not_cancelled", []):
-        conn.execute("UPDATE occurrences SET status='active', updated_at=? WHERE id=? AND status='flagged_cancelled'", (now, int(oid)))
+        conn.execute("UPDATE occurrences SET status='active', updated_at=? WHERE id=? AND status IN ('flagged_cancelled','cancelled')", (now, int(oid)))
         conn.execute("UPDATE occurrence_sources SET consecutive_misses=0 WHERE occurrence_id=?", (int(oid),))
     for pair in ov.get("never_merge", []):
         if pair and len(pair) == 2:

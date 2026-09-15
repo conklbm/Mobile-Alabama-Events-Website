@@ -1,0 +1,72 @@
+name: Review commands
+
+# Reply to the weekly review issue (email reply works) with one command per line:
+#   approve 73 79 / cancel 151 / not-cancelled 222 / merge 271 269 / never-merge 271 269
+#   alias "Raw venue name" = venue-slug / venue new-slug "Name" City / ignore 73
+# This job applies them, re-processes, republishes, and answers on the thread.
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    if: >-
+      github.event.issue.pull_request == null &&
+      contains(github.event.issue.labels.*.name, 'review') &&
+      github.event.comment.user.login == github.repository_owner &&
+      !startsWith(github.event.comment.body, '<!-- bot -->')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ISSUE: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: uv sync --frozen
+
+      - name: Save the comment
+        env:
+          BODY: ${{ github.event.comment.body }}
+        run: printf '%s' "$BODY" > comment.txt
+
+      - name: Apply commands, re-process, republish
+        env:
+          SITE_URL: https://www.mobilebayevents.com
+        run: |
+          uv run python -m pipeline commands --file comment.txt --report report.md
+          uv run python -m pipeline process
+          uv run python -m pipeline publish
+
+      - name: Commit
+        run: |
+          git config user.name "events-bot"
+          git config user.email "events-bot@users.noreply.github.com"
+          git add data site vercel.json
+          git diff --cached --quiet || git commit -m "review: apply commands from #$ISSUE"
+          git push
+
+      - name: Reply on the issue
+        run: |
+          uv run python -m pipeline issue --out remaining.md
+          if [ -s remaining.md ]; then
+            printf '\n\nStill open:\n' >> report.md
+            tail -n +2 remaining.md | grep -E '^- `#' >> report.md || true
+          else
+            printf '\n\nNothing left to review. Closing.' >> report.md
+          fi
+          gh issue comment "$ISSUE" --body-file report.md
+          if [ ! -s remaining.md ]; then gh issue close "$ISSUE"; fi

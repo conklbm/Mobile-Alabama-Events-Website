@@ -127,6 +127,19 @@ def cmd_issue(args) -> int:
     return 0
 
 
+def cmd_commands(args) -> int:
+    """Apply review commands from an issue comment (file or stdin); write a markdown report."""
+    from . import commands
+    text = Path(args.file).read_text(encoding="utf-8") if args.file else sys.stdin.read()
+    conn = _conn()
+    res = commands.apply(text, conn)
+    rep = commands.report(res)
+    if args.report:
+        Path(args.report).write_text(rep, encoding="utf-8")
+    print(rep)
+    return 0
+
+
 def cmd_stats(args) -> int:
     conn = _conn()
     q = lambda sql: conn.execute(sql).fetchone()[0]
@@ -165,6 +178,7 @@ def main(argv=None) -> int:
     s = sub.add_parser("approve"); s.add_argument("--ids", nargs="*", type=int); s.add_argument("--strict", action="store_true"); s.add_argument("--all", action="store_true"); s.set_defaults(fn=cmd_approve)
     s = sub.add_parser("queue"); s.set_defaults(fn=cmd_queue)
     s = sub.add_parser("issue"); s.add_argument("--out"); s.set_defaults(fn=cmd_issue)
+    s = sub.add_parser("commands"); s.add_argument("--file"); s.add_argument("--report"); s.set_defaults(fn=cmd_commands)
     s = sub.add_parser("stats"); s.set_defaults(fn=cmd_stats)
     args = p.parse_args(argv)
     return args.fn(args)

@@ -416,7 +416,7 @@
 
 - slug: downtown-mobile
   name: Downtown Mobile
-  aliases: ["Downtown Mobile", "Dauphin Street", "Dauphin St", "LoDa", "Lower Dauphin", "Downtown", "Various locations downtown", "Multiple Locations Downtown Mobile"]
+  aliases: ["Downtown Mobile", "LoDa", "Lower Dauphin", "Downtown", "Various locations downtown", "Multiple Locations Downtown Mobile"]
   domains: ["downtownmobile.org"]
   city: Mobile
   state: AL
@@ -806,3 +806,14 @@
   state: FL
   zip: "32505"
   regions: [coastal]
+
+- slug: crescent-theater
+  name: Crescent Theater
+  aliases: ["Crescent Theater", "Crescent Theatre", "The Crescent Theater", "Crescent Theater Mobile"]
+  domains: ["crescenttheater.com"]
+  address: 208 Dauphin St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Single-screen indie cinema downtown; also hosts comedy and small shows. Street parking on Dauphin."
