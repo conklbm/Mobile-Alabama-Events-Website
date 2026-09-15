@@ -51,5 +51,6 @@ jobs:
           if [ -s issue.md ]; then
             title="$(head -n1 issue.md)"
             tail -n +2 issue.md > body.md
+            gh label create review --color E99695 --description "Pipeline items needing a human" --force >/dev/null 2>&1 || true
             gh issue create --title "$title — $(date -u +%F)" --body-file body.md --label review
           fi
