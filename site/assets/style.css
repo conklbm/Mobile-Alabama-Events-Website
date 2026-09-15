@@ -45,7 +45,13 @@ p { margin: .5em 0; }
 /* cards */
 .cards { display: grid; gap: 14px; grid-template-columns: 1fr; }
 @media (min-width: 640px) { .cards { grid-template-columns: repeat(2, 1fr); } }
-.card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; position: relative; cursor: pointer; transition: border-color .15s, transform .15s; display: flex; flex-direction: column; }
+.card:hover { border-color: var(--brand); transform: translateY(-1px); }
+/* stretched link: the title link covers the whole card; inner links sit above it */
+.card-title a::after { content: ""; position: absolute; inset: 0; }
+.card .meta a { position: relative; z-index: 1; }
+.card:hover .card-title a { text-decoration: underline; }
+.card-cta { margin: 10px 0 0; font-size: .9rem; font-weight: 600; color: var(--brand); }
 .card-img { display: block; aspect-ratio: 16/9; background: var(--line); }
 .card-img img { width: 100%; height: 100%; object-fit: cover; }
 .card-img-music { background: linear-gradient(135deg, var(--music), #b48ef2); }

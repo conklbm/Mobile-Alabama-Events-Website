@@ -30,6 +30,7 @@
     {{ meta(o) }}
     {{ tags(o) }}
     {% if o.blurb %}<p class="blurb">{{ o.blurb }}</p>{% elif o.excerpt %}<p class="excerpt">{{ o.excerpt }}</p>{% endif %}
+    <p class="card-cta" aria-hidden="true">Details →</p>
   </div>
 </article>
 {%- endmacro %}
