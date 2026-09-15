@@ -125,7 +125,8 @@ p { margin: .5em 0; }
 
 /* footer */
 .site-footer { border-top: 1px solid var(--line); margin-top: 48px; padding: 24px 0 32px; background: var(--card); font-size: .92rem; }
-.foot-cols { display: grid; grid-template-columns: 1fr; gap: 16px; }
+.site-footer .wrap { text-align: center; }
+.foot-cols { display: grid; grid-template-columns: 1fr; gap: 16px; justify-items: center; }
 @media (min-width: 640px) { .foot-cols { grid-template-columns: repeat(3, 1fr); } }
 .foot-h { font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 6px; }
 .site-footer ul { list-style: none; margin: 0; padding: 0; }
