@@ -70,9 +70,10 @@ jobs:
             if [ -n "$existing" ]; then
               gh issue comment "$existing" --body "Still failing on $(date -u +%F): $line"
             else
-              gh issue create --title "$title" --label source-alert --body "$line
+              body="$(printf '%s
 
-Silent breakage check fired. Fix the collector or the source URL in \`data/sources.yaml\`; this issue gets a comment each week it stays broken. Close it when a run comes back healthy."
+%s' "$line" 'Silent breakage check fired. Fix the collector or the source URL in `data/sources.yaml`; this issue gets a comment each week it stays broken. Close it when a run comes back healthy.')"
+              gh issue create --title "$title" --label source-alert --body "$body"
             fi
           done < alerts.md
           echo "::error::$(wc -l < alerts.md) source alert(s) — see the source-alert issues"
