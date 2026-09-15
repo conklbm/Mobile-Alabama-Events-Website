@@ -48,6 +48,20 @@ titled "N items need review" when anything needs a human. Named booleans, never 
 - `source_underdelivered` / source alerts — a parser probably broke; check the source
 - `date_uncertain` — parser guessed a year or time
 
+**Reply by email.** Reply to the issue email (or comment on the issue) with one command per line:
+
+```
+approve 73 79
+cancel 151
+alias "Raw venue name" = venue-slug
+venue new-slug "Venue Name" Mobile
+merge 271 269   |   never-merge 271 269   |   not-cancelled 222   |   ignore 73
+```
+
+The `review-commands` Action applies them, re-processes, republishes, replies on the thread, and
+closes the issue when nothing is left. Events a source itself marks cancelled are removed
+automatically and listed as FYI only.
+
 **Strict mode** (`settings.review.strict_until_run`, default 3): every new event is held and listed
 in the issue. Skim, run `approve --strict`, republish. After run 3, gated events auto-publish.
 
