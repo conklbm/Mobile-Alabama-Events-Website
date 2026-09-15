@@ -11,10 +11,10 @@ rules:
     keywords: [food, brunch, dinner, tasting, wine, beer fest, crawfish, oyster, bbq, barbecue, cookoff, cook-off, farmers market, "farmers' market", food truck, brewery, taco, gumbo, seafood, shrimp festival]
   - category: sports
     keywords: [game, race, 5k, 10k, marathon, run, tournament, football, baseball, basketball, soccer, golf, fishing, rodeo, regatta, fun run, triathlon, pickleball, wrestling, cycling, yoga, fitness, workout, zumba, pilates, bootcamp, boot camp]
-  - category: arts
-    keywords: [art, gallery, exhibit, exhibition, theatre, theater, musical, ballet, dance, opera, film, movie, screening, poetry, book, author, museum, art walk, artwalk, comedy, improv, craft, pottery, photography, sculpture, painting]
   - category: community
-    keywords: [meeting, council, commission, volunteer, cleanup, clean-up, church, class, seminar, workshop, market, festival, parade, fair, fundraiser, gala, open house, job fair, resume, health, blood drive, networking, meetup, town hall, pop up, pop-up, lab, entrepreneur]
+    keywords: [meeting, council, commission, volunteer, cleanup, clean-up, church, class, seminar, workshop, market, festival, parade, fair, fundraiser, gala, open house, job fair, resume, health, blood drive, networking, meetup, town hall, pop up, pop-up, lab, entrepreneur, entrepreneurs, business, startup, founders, user group, user groups, chamber, leadership, eos, mastermind, coworking]
+  - category: arts
+    keywords: [art, gallery, exhibit, exhibition, theatre, theater, musical, ballet, dance, opera, film, movie, screening, poetry, book signing, book club, book fair, book launch, author talk, author, museum, art walk, artwalk, comedy, improv, craft, pottery, photography, sculpture, painting]
   - category: nightlife
     keywords: [bingo, trivia, happy hour, pub crawl, karaoke, "18+", "21+", drag show, dj night, late night, nightlife]
 
