@@ -66,21 +66,19 @@ class TicketmasterCollector(Collector):
         start_local = None
         all_day = False
         confident = True
-        if st.get("dateTime"):
+        time_tba = bool(st.get("timeTBA") or st.get("noSpecificTime"))
+        if st.get("dateTime") and not time_tba:
             start_local = datetime.fromisoformat(st["dateTime"].replace("Z", "+00:00")).astimezone(z)
         elif st.get("localDate"):
             d = date.fromisoformat(st["localDate"])
-            if st.get("localTime"):
+            if st.get("localTime") and not time_tba:
                 h, m, *_ = [int(x) for x in st["localTime"].split(":")]
                 start_local = datetime(d.year, d.month, d.day, h, m, tzinfo=z)
             else:
                 start_local = datetime(d.year, d.month, d.day, 0, 0, tzinfo=z)
-                all_day = True
-                confident = False
+                time_tba = True
         if not title or start_local is None:
             return None
-        if st.get("timeTBA") or st.get("noSpecificTime"):
-            confident = False
         status = ((dates.get("status") or {}).get("code") or "").lower()
         emb = e.get("_embedded") or {}
         venue = (emb.get("venues") or [{}])[0] or {}
@@ -119,5 +117,6 @@ class TicketmasterCollector(Collector):
             categories=cats,
             regions=list(regions),
             cancelled=(status == 'cancelled'),
+            time_tba=time_tba,
             raw=e,
         )

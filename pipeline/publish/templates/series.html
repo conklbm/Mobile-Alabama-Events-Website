@@ -6,7 +6,7 @@
   <p class="crumbs"><a href="/">Home</a> › <a href="/events/">Events</a>{% if s.venue %} › <a href="{{ s.venue.url }}">{{ s.venue.name }}</a>{% endif %}</p>
   <h1>{{ s.title }}</h1>
   {% if n %}
-    <p class="when-big"><time datetime="{{ n.start | isodt }}">{{ when(n) }}</time>{% if not n.all_day and n.end and (n.end - n.start).total_seconds() < 12*3600 %} – {{ n.end | clock }}{% endif %}</p>
+    <p class="when-big"><time datetime="{{ n.start | isodt }}">{{ when(n) }}</time>{% if not n.all_day and not n.time_tba and n.end and (n.end - n.start).total_seconds() < 12*3600 %} – {{ n.end | clock }}{% endif %}</p>
     {% if s.venue %}<p class="where"><a href="{{ s.venue.url }}">{{ s.venue.name }}</a>{% if s.venue.address %} · {{ s.venue.address }}, {{ s.venue.city }}, {{ s.venue.state }}{% elif s.venue.city %} · {{ s.venue.city }}, {{ s.venue.state }}{% endif %}</p>
     {% elif s.venue_name_raw %}<p class="where">{{ s.venue_name_raw }}</p>{% endif %}
     {{ tags(n) }}

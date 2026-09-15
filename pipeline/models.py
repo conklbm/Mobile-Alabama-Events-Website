@@ -29,4 +29,5 @@ class RawEvent:
     categories: list[str] = field(default_factory=list)
     regions: list[str] = field(default_factory=list)   # only when the source knows better than the venue
     cancelled: bool = False          # source explicitly says cancelled
+    time_tba: bool = False           # date is firm, start time not announced
     raw: dict = field(default_factory=dict)             # exactly as received; archived in raw_pulls

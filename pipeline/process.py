@@ -30,8 +30,9 @@ def normalize(ev: RawEvent, source: dict, resolver: VenueResolver) -> dict | Non
         return None
     start = ev.start_local
     end = ev.end_local
+    time_tba = bool(getattr(ev, "time_tba", False))
     if end is None or end <= start:
-        end = default_end(start, ev.all_day)
+        end = default_end(start, ev.all_day or time_tba)
     # one-hop origin: a listing linking to a venue's own domain hands us the Tier A source
     origin_url, origin_tier, origin_venue = "", None, None
     for candidate in (ev.website, ev.ticket_url, ev.info_url if source["tier"] != "A" else ""):
@@ -58,6 +59,7 @@ def normalize(ev: RawEvent, source: dict, resolver: VenueResolver) -> dict | Non
         "timezone": ev.timezone,
         "local_day": start.date().isoformat(),
         "all_day": int(ev.all_day),
+        "time_tba": int(time_tba),
         "date_confident": int(ev.date_confident),
         "venue_slug": vm.slug if vm else None,
         "venue_name_raw": ev.venue_name or ev.venue_address,
@@ -193,11 +195,11 @@ def _refresh(conn, existing, n, venue_id, raw_pull_id, now, sources) -> None:
         # the best source's dates win; a moved event moves
         if occ["category"] != n["category"]:
             conn.execute("UPDATE occurrences SET category=? WHERE id=?", (n["category"], occ["id"]))
-        if (occ["start_utc"], occ["end_utc"]) != (n["start_utc"], n["end_utc"]) or occ["title_raw"] != n["title"]:
+        if (occ["start_utc"], occ["end_utc"], occ["time_tba"], occ["date_confident"]) != (n["start_utc"], n["end_utc"], n["time_tba"], n["date_confident"]) or occ["title_raw"] != n["title"]:
             conn.execute(
-                """UPDATE occurrences SET start_utc=?, end_utc=?, local_day=?, all_day=?, date_confident=?, title_raw=?, title_key=?, updated_at=?
+                """UPDATE occurrences SET start_utc=?, end_utc=?, local_day=?, all_day=?, time_tba=?, date_confident=?, title_raw=?, title_key=?, updated_at=?
                    WHERE id=?""",
-                (n["start_utc"], n["end_utc"], n["local_day"], n["all_day"], n["date_confident"], n["title"], n["title_key"], now, occ["id"]),
+                (n["start_utc"], n["end_utc"], n["local_day"], n["all_day"], n["time_tba"], n["date_confident"], n["title"], n["title_key"], now, occ["id"]),
             )
     if occ["venue_id"] is None and venue_id is not None:
         conn.execute("UPDATE occurrences SET venue_id=?, venue_key=?, city=?, regions=?, updated_at=? WHERE id=?",
@@ -220,11 +222,11 @@ def _merge_into(conn, oid, n, matcher: Matcher, now) -> None:
 
 def _create_occurrence(conn, n, venue_id, series_id, res, now) -> int:
     cur = conn.execute(
-        """INSERT INTO occurrences (series_id, title_raw, title_key, start_utc, end_utc, timezone, local_day, all_day, date_confident,
+        """INSERT INTO occurrences (series_id, title_raw, title_key, start_utc, end_utc, timezone, local_day, all_day, time_tba, date_confident,
            venue_id, venue_name_raw, venue_key, city, regions, description, price, ticket_url, info_url, category, status,
            match_ambiguous, match_candidate_id, publish_state, created_at, updated_at)
-           VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,'active',?,?,'held',?,?)""",
-        (series_id, n["title"], n["title_key"], n["start_utc"], n["end_utc"], n["timezone"], n["local_day"], n["all_day"],
+           VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,'active',?,?,'held',?,?)""",
+        (series_id, n["title"], n["title_key"], n["start_utc"], n["end_utc"], n["timezone"], n["local_day"], n["all_day"], n["time_tba"],
          n["date_confident"], venue_id, n["venue_name_raw"], n["venue_key"], n["city"], db.j(n["regions"]), n["description"], n["price"],
          n["ticket_url"], n["info_url"], n["category"], int(res.decision == "ambiguous"),
          res.candidate["id"] if res.decision == "ambiguous" and res.candidate else None, now, now),

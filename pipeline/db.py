@@ -65,6 +65,7 @@ CREATE TABLE IF NOT EXISTS occurrences (
   timezone TEXT NOT NULL,
   local_day TEXT NOT NULL,          -- YYYY-MM-DD in event tz; the dedup bucket key
   all_day INTEGER NOT NULL DEFAULT 0,
+  time_tba INTEGER NOT NULL DEFAULT 0,
   date_confident INTEGER NOT NULL DEFAULT 1,
   venue_id INTEGER REFERENCES venues(id),
   venue_name_raw TEXT,
@@ -170,7 +171,16 @@ def connect(path: Path | None = None) -> sqlite3.Connection:
     conn.execute("PRAGMA foreign_keys = ON")
     conn.execute("PRAGMA journal_mode = DELETE")  # single committed .db file, no -wal sidecar
     conn.executescript(SCHEMA)
+    _migrate(conn)
     return conn
+
+
+def _migrate(conn: sqlite3.Connection) -> None:
+    """Additive column migrations for stores created by older schema versions."""
+    cols = {r[1] for r in conn.execute("PRAGMA table_info(occurrences)")}
+    if "time_tba" not in cols:
+        conn.execute("ALTER TABLE occurrences ADD COLUMN time_tba INTEGER NOT NULL DEFAULT 0")
+        conn.commit()
 
 
 @contextmanager
