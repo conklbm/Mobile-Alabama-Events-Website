@@ -33,7 +33,7 @@ jobs:
         env:
           TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
           SITE_URL: https://www.mobilebayevents.com
-        run: uv run python -m pipeline run --issue-out issue.md
+        run: uv run python -m pipeline run --issue-out issue.md --alerts-out alerts.md
 
       - name: Commit store + site
         run: |
@@ -54,3 +54,26 @@ jobs:
             gh label create review --color E99695 --description "Pipeline items needing a human" --force >/dev/null 2>&1 || true
             gh issue create --title "$title — $(date -u +%F)" --body-file body.md --label review
           fi
+
+      - name: Source alerts (one issue per broken source; job fails so GitHub emails you)
+        if: hashFiles('alerts.md') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          [ -s alerts.md ] || { echo "all sources healthy"; exit 0; }
+          gh label create source-alert --color B60205 --description "A collector is failing or underdelivering" --force >/dev/null 2>&1 || true
+          while IFS= read -r line; do
+            [ -z "$line" ] && continue
+            sid=$(printf '%s' "$line" | sed -n 's/.*(`\([^`]*\)`).*/\1/p')
+            title="Source alert: $sid"
+            existing=$(gh issue list --label source-alert --state open --search "\"$title\" in:title" --json number --jq '.[0].number')
+            if [ -n "$existing" ]; then
+              gh issue comment "$existing" --body "Still failing on $(date -u +%F): $line"
+            else
+              gh issue create --title "$title" --label source-alert --body "$line
+
+Silent breakage check fired. Fix the collector or the source URL in \`data/sources.yaml\`; this issue gets a comment each week it stays broken. Close it when a run comes back healthy."
+            fi
+          done < alerts.md
+          echo "::error::$(wc -l < alerts.md) source alert(s) — see the source-alert issues"
+          exit 1

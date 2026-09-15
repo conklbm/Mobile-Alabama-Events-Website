@@ -79,6 +79,11 @@ def cmd_run(args) -> int:
             print(f"issue -> {p} ({'empty' if not title else title})")
         elif title:
             print("\n" + title + "\n" + body)
+        if args.alerts_out:
+            # skipped-for-missing-key is a config choice, not breakage; everything else is
+            real = [a for a in out["alerts"] if "skipped" not in a]
+            Path(args.alerts_out).write_text("\n".join(real) + ("\n" if real else ""), encoding="utf-8")
+            print(f"alerts -> {args.alerts_out} ({len(real)})")
         db.finish_run(conn, run_id, "ok")
     except Exception:
         db.finish_run(conn, run_id, "failed")
@@ -153,7 +158,7 @@ def main(argv=None) -> int:
     logging.getLogger("urllib3").setLevel(logging.WARNING)
     p = argparse.ArgumentParser(prog="pipeline", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = p.add_subparsers(dest="cmd", required=True)
-    s = sub.add_parser("run"); s.add_argument("--only", nargs="*"); s.add_argument("--issue-out"); s.set_defaults(fn=cmd_run)
+    s = sub.add_parser("run"); s.add_argument("--only", nargs="*"); s.add_argument("--issue-out"); s.add_argument("--alerts-out"); s.set_defaults(fn=cmd_run)
     s = sub.add_parser("collect"); s.add_argument("--only", nargs="*"); s.set_defaults(fn=cmd_collect)
     s = sub.add_parser("process"); s.add_argument("--run", type=int); s.set_defaults(fn=cmd_process)
     s = sub.add_parser("publish"); s.set_defaults(fn=cmd_publish)
