@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-09-15T02:38:12Z",
+ "generated": "2026-09-15T02:38:31Z",
  "events": [
   {
    "id": 39,
@@ -71,7 +71,7 @@
    "start": "2026-09-16T08:30:00-05:00",
    "end": "2026-09-16T10:00:00-05:00",
    "all_day": false,
-   "category": "arts",
+   "category": "community",
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -1832,7 +1832,7 @@
    "start": "2026-10-03T19:00:00-05:00",
    "end": "2026-10-03T22:00:00-05:00",
    "all_day": false,
-   "category": "arts",
+   "category": "community",
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -2643,7 +2643,7 @@
    "start": "2026-10-14T08:30:00-05:00",
    "end": "2026-10-14T10:00:00-05:00",
    "all_day": false,
-   "category": "arts",
+   "category": "community",
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -2733,7 +2733,7 @@
    "start": "2026-10-15T19:00:00-05:00",
    "end": "2026-10-15T22:00:00-05:00",
    "all_day": false,
-   "category": "arts",
+   "category": "community",
    "venue": {
     "slug": "downtown-mobile",
     "name": "Downtown Mobile",
@@ -4125,7 +4125,7 @@
    "start": "2026-11-11T08:30:00-06:00",
    "end": "2026-11-11T10:00:00-06:00",
    "all_day": false,
-   "category": "arts",
+   "category": "community",
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
@@ -5206,7 +5206,7 @@
    "start": "2026-12-09T08:30:00-06:00",
    "end": "2026-12-09T10:00:00-06:00",
    "all_day": false,
-   "category": "arts",
+   "category": "community",
    "venue": {
     "slug": "innovation-portal",
     "name": "Innovation Portal",
