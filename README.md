@@ -48,6 +48,13 @@ titled "N items need review" when anything needs a human. Named booleans, never 
 - `source_underdelivered` / source alerts — a parser probably broke; check the source
 - `date_uncertain` — parser guessed a year or time
 
+**Automatic first pass.** A cloud routine ("Mobile Bay Events: resolve review queue",
+https://claude.ai/code/routines) runs Thursdays 7 AM Central, an hour after the pipeline. It reads the
+review issue, researches each unknown venue on the web, adds confident venues/aliases to `venues.yaml`,
+pushes, and writes `data/routine-notes.md`. The `apply-config` workflow then re-processes, republishes,
+posts the notes to the issue, and closes it if nothing remains. Brooks only hears about judgment calls,
+each with a ready-to-send reply command.
+
 **Reply by email.** Reply to the issue email (or comment on the issue) with one command per line:
 
 ```
