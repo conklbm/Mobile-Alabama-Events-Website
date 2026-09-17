@@ -860,3 +860,37 @@
   zip: "36602"
   regions: [mobile]
   notes: "Historic downtown hotel; ballrooms host the Chamber's big luncheons and galas. Valet or the Royal St garage."
+
+# --- resolved from issue #4 (2026-09-17), verified by web search ---
+
+- slug: pump-it-up-mobile
+  name: Pump It Up Mobile
+  aliases: ["Pump It Up Mobile", "Pump it Up Mobile", "Pump It Up", "Pump It Up Kids Birthdays and More"]
+  domains: ["pumpitupparty.com"]
+  address: 741 Hillcrest Rd, Ste A
+  city: Mobile
+  state: AL
+  zip: "36695"
+  regions: [mobile]
+  notes: "Indoor inflatable playground in West Mobile. Open-jump sessions need socks; check ages on the listing."
+
+- slug: foley-library
+  name: Foley Community Library
+  aliases: ["Foley Community Library", "Foley Public Library", "Foley Library"]
+  domains: ["foleylibrary.org"]
+  address: 230 E Orange Ave
+  city: Foley
+  state: AL
+  zip: "36535"
+  regions: [coastal]
+
+- slug: the-collective-house
+  name: The Collective House
+  aliases: ["The Collective House", "Collective House", "The Collective House Studio"]
+  domains: ["thecollectivehousestudio.com"]
+  city: Silverhill
+  state: AL
+  zip: "36576"
+  regions: [coastal]
+  notes: "Studio and small-event space in downtown Silverhill; used by the Coastal Moms Collective."
+

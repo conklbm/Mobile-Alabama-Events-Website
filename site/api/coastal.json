@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-09-17T19:02:08Z",
+ "generated": "2026-09-17T19:41:22Z",
  "events": [
   {
    "id": 25,
@@ -224,6 +224,75 @@
    "independent_source_count": 1
   },
   {
+   "id": 303,
+   "series_slug": "family-bingo",
+   "title": "Family Bingo",
+   "start": "2026-09-18T17:30:00-05:00",
+   "end": "2026-09-18T19:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "nightlife"
+   ],
+   "venue": {
+    "slug": "foley-library",
+    "name": "Foley Community Library",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/family-bingo-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/family-bingo.png?fit=371%2C480&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 304,
+   "series_slug": "butter-together-moms-night-in-with-the-coastal-moms-collective",
+   "title": "Butter Together Moms Night In with The Coastal Moms Collective",
+   "start": "2026-09-18T18:00:00-05:00",
+   "end": "2026-09-18T20:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-collective-house",
+    "name": "The Collective House",
+    "city": "Silverhill",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/butter-together-moms-night-in-with-the-coastal-moms-collective/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/collective-event.jpg?fit=1206%2C1756&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 228,
    "series_slug": "can-t-feel-my-face-2010s-dance-party-18-and-over",
    "title": "Can't Feel My Face: 2010s Dance Party (18 and Over)",
@@ -410,6 +479,76 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 306,
+   "series_slug": "story-time-craft-with-kiara-the-therapy-dog",
+   "title": "Story Time & Craft with Kiara the Therapy Dog",
+   "start": "2026-09-19T10:00:00-05:00",
+   "end": "2026-09-19T11:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
+   "venue": {
+    "slug": "foley-library",
+    "name": "Foley Community Library",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/story-time-craft-with-kiara-the-therapy-dog/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/Story-Time-with-Kiara-2026.jpg?fit=371%2C480&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 308,
+   "series_slug": "switch-open-play",
+   "title": "Switch Open Play",
+   "start": "2026-09-19T13:30:00-05:00",
+   "end": "2026-09-19T16:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "sports"
+   ],
+   "venue": {
+    "slug": "foley-library",
+    "name": "Foley Community Library",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/switch-open-play/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/Teen-Game-Room-Ad-1.jpg?fit=360%2C480&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -702,6 +841,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 313,
+   "series_slug": "baby-story-time-play",
+   "title": "Baby Story Time & Play",
+   "start": "2026-09-21T10:00:00-05:00",
+   "end": "2026-09-21T11:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "foley-library",
+    "name": "Foley Community Library",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/baby-story-time-play/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/Baby-Story-Time-Play.png?fit=480%2C311&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 62,
    "series_slug": "native-animal-meet-greet",
    "title": "Native Animal Meet & Greet",
@@ -761,6 +934,40 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 314,
+   "series_slug": "kids-board-games",
+   "title": "Kids Board Games",
+   "start": "2026-09-21T16:00:00-05:00",
+   "end": "2026-09-21T17:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "foley-library",
+    "name": "Foley Community Library",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/kids-board-games/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/kids-board-games.png?fit=371%2C480&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1553,6 +1760,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 315,
+   "series_slug": "story-time-crafts-coastal-moms-collective",
+   "title": "STORY TIME & CRAFTS (Coastal Moms Collective)",
+   "start": "2026-09-29T17:15:00-05:00",
+   "end": "2026-09-29T18:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "foley-library",
+    "name": "Foley Community Library",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/story-time-crafts-coastal-moms-collective/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
