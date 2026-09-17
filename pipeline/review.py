@@ -26,6 +26,7 @@ def evaluate(conn: sqlite3.Connection, run_id: int, source_results: dict[str, di
     ov = config.overrides()
     gate_c = bool(config.settings().get("review", {}).get("gate_on_tier_c_only", False))
     under = {sid for sid, r in source_results.items() if r.get("underdelivered")}
+    venue_optional = {r["id"] for r in conn.execute("SELECT id, config FROM sources") if (db.uj(r["config"], {}) or {}).get("venue_optional")}
     forced = {int(x) for x in ov.get("force_publish", [])}
     now = db.now_iso()
     counts = defaultdict(int)
@@ -38,7 +39,8 @@ def evaluate(conn: sqlite3.Connection, run_id: int, source_results: dict[str, di
             (occ["id"],),
         ).fetchall()
         flags = {
-            "venue_unknown": occ["venue_id"] is None,
+            "venue_unknown": occ["venue_id"] is None and not (
+                bool(srcs) and all(s["source_id"] in venue_optional for s in srcs) and bool(occ["venue_name_raw"])),
             "match_ambiguous": bool(occ["match_ambiguous"]),
             "cancellation_flagged": occ["status"] == "flagged_cancelled",
             "source_underdelivered": bool(srcs) and all(s["source_id"] in under for s in srcs),

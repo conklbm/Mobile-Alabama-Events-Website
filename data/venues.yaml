@@ -128,7 +128,7 @@
 
 - slug: innovation-portal
   name: Innovation Portal
-  aliases: ["Innovation Portal", "Innovation PortAL", "The Innovation Portal"]
+  aliases: ["Innovation Portal", "Innovation PortAL", "The Innovation Portal", "358 St. Louis St. Mobile AL 36602", "358 St Louis St", "358 St. Louis St"]
   domains: ["innovation-portal.com"]
   address: 358 St Louis St
   city: Mobile
@@ -838,3 +838,25 @@
   state: FL
   zip: "32502"
   regions: [coastal]
+
+- slug: mobile-chamber
+  name: Mobile Chamber
+  aliases: ["Mobile Chamber", "Mobile Area Chamber of Commerce", "Mobile Chamber of Commerce", "451 Government St. Mobile AL 36602", "451 Government St. Mobile AL 33602", "451 Government Street Mobile", "451 Government St", "451 Government Street"]
+  domains: []   # organizer, not a venue: its listings link here for events held elsewhere
+  address: 451 Government St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Chamber offices downtown. Luncheons, forums, and Young Professionals events; most require registration."
+
+- slug: battle-house-hotel
+  name: The Battle House Hotel
+  aliases: ["The Battle House", "Battle House Hotel", "Battle House Renaissance Mobile Hotel & Spa", "Battle House", "26 N. Royal St. Mobile AL 36602", "26 N Royal St", "26 North Royal Street"]
+  domains: []
+  address: 26 N Royal St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Historic downtown hotel; ballrooms host the Chamber's big luncheons and galas. Valet or the Royal St garage."

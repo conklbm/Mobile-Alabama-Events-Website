@@ -154,6 +154,22 @@
 #     follow_pattern: "/event/"     # optional: follow listing links matching this, one hop
 #     max_follow: 40
 
+- id: mobilechamber
+  name: Mobile Chamber
+  url: https://my.mobilechamber.com/mobilechambercalendar
+  collector_type: growthzone
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["Mobile Chamber", "Chamber of Commerce"]
+  license_notes: "Public GrowthZone calendar; per-event iCal exports. Organizer's own events (Business After Hours, luncheons, forums). Link back to the Chamber listing."
+  redistributable: false
+  expected_min_events: 5
+  config:
+    listing_url: https://my.mobilechamber.com/mobilechambercalendar
+    max_events: 80
+    venue_optional: true   # ribbon cuttings at member businesses: publish with the address, don't hold
+
 - id: manual
   name: Manual entry (Facebook weekly scan)
   url: https://www.facebook.com/events

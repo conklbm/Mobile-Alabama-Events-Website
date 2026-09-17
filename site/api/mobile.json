@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-09-17T15:28:28Z",
+ "generated": "2026-09-17T19:01:26Z",
  "events": [
   {
    "id": 43,
@@ -134,6 +134,32 @@
    "independent_source_count": 1
   },
   {
+   "id": 316,
+   "series_slug": "ribbon-cutting-advance-auto-parts",
+   "title": "Ribbon Cutting: Advance Auto Parts",
+   "start": "2026-09-17T11:00:00-05:00",
+   "end": "2026-09-17T12:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "3968 Airport Blvd Mobile 36608"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/ribbon-cutting-advance-auto-parts-1878531?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 46,
    "series_slug": "brown-bag-by-the-bay-concert-series",
    "title": "Brown Bag by the Bay Concert Series",
@@ -194,6 +220,37 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 317,
+   "series_slug": "business-after-hours-with-cgi",
+   "title": "Business After Hours with CGI",
+   "start": "2026-09-17T16:00:00-05:00",
+   "end": "2026-09-17T18:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/business-after-hours-with-cgi-1875794?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -757,6 +814,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 318,
+   "series_slug": "young-professionals-of-mobile-2026-board-readiness-training",
+   "title": "Young Professionals of Mobile 2026 Board Readiness Training",
+   "start": "2026-09-22T11:30:00-05:00",
+   "end": "2026-09-22T13:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/young-professionals-of-mobile-2026-board-readiness-training-1917746?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 95,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -916,6 +1004,32 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 319,
+   "series_slug": "ribbon-cutting-coastal-alabama-hearing",
+   "title": "Ribbon Cutting: Coastal Alabama Hearing",
+   "start": "2026-09-24T11:30:00-05:00",
+   "end": "2026-09-24T12:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "703 Bishop Ln N"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/ribbon-cutting-coastal-alabama-hearing-1903126?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1703,6 +1817,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 320,
+   "series_slug": "young-professionals-of-mobile-2026-board-readiness-training",
+   "title": "Young Professionals of Mobile 2026 Board Readiness Match Day",
+   "start": "2026-09-29T17:30:00-05:00",
+   "end": "2026-09-29T19:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/young-professionals-of-mobile-2026-board-readiness-match-day-1881525?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 100,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -1763,6 +1908,37 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 321,
+   "series_slug": "2026-forum-alabama-lt-governor-will-ainsworth",
+   "title": "2026 Forum Alabama - Lt. Governor Will Ainsworth",
+   "start": "2026-09-30T08:00:00-05:00",
+   "end": "2026-09-30T09:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "battle-house-hotel",
+    "name": "The Battle House Hotel",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/2026-forum-alabama-lt-governor-will-ainsworth-1849643?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
     "redistributable": false
    },
    "image": null,
@@ -2092,6 +2268,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 322,
+   "series_slug": "growth-alliance-task-force",
+   "title": "Growth Alliance Task Force",
+   "start": "2026-10-06T12:00:00-05:00",
+   "end": "2026-10-06T13:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/growth-alliance-task-force-1588179?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 106,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -2158,6 +2365,63 @@
    "independent_source_count": 1
   },
   {
+   "id": 323,
+   "series_slug": "young-professionals-of-mobile-october-2026-lunch-and-learn",
+   "title": "Young Professionals of Mobile October 2026 Lunch and Learn",
+   "start": "2026-10-07T11:00:00-05:00",
+   "end": "2026-10-07T13:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/young-professionals-of-mobile-october-2026-lunch-and-learn-1685606?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 324,
+   "series_slug": "origin-bank-ribbon-cutting",
+   "title": "Origin Bank Ribbon Cutting",
+   "start": "2026-10-07T16:00:00-05:00",
+   "end": "2026-10-07T18:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "119 W-I65 Service Road N Mobile AL 36608"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/origin-bank-ribbon-cutting-1850916?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 173,
    "series_slug": "crescent-comedy-workshop",
    "title": "Crescent Comedy Chaos",
@@ -2213,6 +2477,63 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 325,
+   "series_slug": "what-story-does-your-website-tell",
+   "title": "What Story Does Your Website Tell?",
+   "start": "2026-10-08T08:30:00-05:00",
+   "end": "2026-10-08T10:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/what-story-does-your-website-tell-1704074?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 326,
+   "series_slug": "infinity-bicycles-ribbon-cutting",
+   "title": "Infinity Bicycles Ribbon Cutting",
+   "start": "2026-10-08T11:30:00-05:00",
+   "end": "2026-10-08T12:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "915 Hillcrest Road Mobile"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/infinity-bicycles-ribbon-cutting-1868784?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
     "redistributable": false
    },
    "image": null,
@@ -2678,6 +2999,32 @@
    "independent_source_count": 1
   },
   {
+   "id": 327,
+   "series_slug": "networking-noon-outback-steakhouse",
+   "title": "Networking @ Noon: Outback Steakhouse",
+   "start": "2026-10-14T12:00:54-05:00",
+   "end": "2026-10-14T13:00:54-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "4017 Airport Boulevard Mobile AL 36608-2201"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/networking-noon-outback-steakhouse-1859966?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 182,
    "series_slug": "crescent-comedy-workshop",
    "title": "Crescent Comedy Chaos",
@@ -2702,6 +3049,32 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 328,
+   "series_slug": "gaillard-builders-ribbon-cutting",
+   "title": "Gaillard Builders Ribbon Cutting",
+   "start": "2026-10-15T16:00:00-05:00",
+   "end": "2026-10-15T18:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "612 Dauphin Street Mobile AL 36602"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/gaillard-builders-ribbon-cutting-1910234?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
     "redistributable": false
    },
    "image": null,
@@ -3068,6 +3441,63 @@
    "independent_source_count": 1
   },
   {
+   "id": 329,
+   "series_slug": "executive-roundtable-october-20-2026",
+   "title": "Executive Roundtable - October 20, 2026",
+   "start": "2026-10-20T08:00:00-05:00",
+   "end": "2026-10-20T09:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/executive-roundtable-october-20-2026-1588381?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 330,
+   "series_slug": "ribbon-cutting-ward-scott-morris-architecture-inc",
+   "title": "Ribbon Cutting: Ward Scott Morris Architecture Inc",
+   "start": "2026-10-20T16:00:00-05:00",
+   "end": "2026-10-20T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "230 Dauphin Street Mobile 36602"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/ribbon-cutting-ward-scott-morris-architecture-inc-1884477?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 117,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -3190,6 +3620,32 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 331,
+   "series_slug": "business-after-hours-the-portier-at-midtown",
+   "title": "Business After Hours: The Portier at Midtown",
+   "start": "2026-10-22T16:00:00-05:00",
+   "end": "2026-10-22T18:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "20 Graf Dairy Dr Mobile AL 36606"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/business-after-hours-the-portier-at-midtown-1696248?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
     "redistributable": false
    },
    "image": null,
@@ -3398,6 +3854,64 @@
    "independent_source_count": 1
   },
   {
+   "id": 332,
+   "series_slug": "mobile-launch-8th-grade-career-exploration-event-2026",
+   "title": "Mobile Launch: 8th Grade Career Exploration Event 2026",
+   "start": "2026-10-28T00:00:00-05:00",
+   "end": "2026-10-29T23:59:59-05:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "abba-shrine",
+    "name": "Abba Shrine Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/mobile-launch-8th-grade-career-exploration-event-2026-1898636?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 333,
+   "series_slug": "coffee-with-the-chamber-calagaz-printing",
+   "title": "Coffee with the Chamber: Calagaz Printing",
+   "start": "2026-10-28T08:00:00-05:00",
+   "end": "2026-10-28T09:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "90 Springdale Blvd. Mobile AL 36606-3916"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/coffee-with-the-chamber-calagaz-printing-1878118?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 194,
    "series_slug": "crescent-comedy-workshop",
    "title": "Crescent Comedy Chaos",
@@ -3422,6 +3936,32 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 334,
+   "series_slug": "young-professionals-of-mobile-2026-topgolf-tournament",
+   "title": "Young Professionals of Mobile 2026 Topgolf Tournament",
+   "start": "2026-10-29T17:00:00-05:00",
+   "end": "2026-10-29T20:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "name": "1250 Satchel Paige Dr. Mobile AL 36606"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/young-professionals-of-mobile-2026-topgolf-tournament-1758626?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
     "redistributable": false
    },
    "image": null,
@@ -3523,6 +4063,38 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 335,
+   "series_slug": "2026-eagle-awards",
+   "title": "2026 Eagle Awards",
+   "start": "2026-10-30T11:00:00-05:00",
+   "end": "2026-10-30T13:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "battle-house-hotel",
+    "name": "The Battle House Hotel",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/2026-eagle-awards-1668281?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
     "redistributable": false
    },
    "image": null,
@@ -3688,6 +4260,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 336,
+   "series_slug": "growth-alliance-task-force",
+   "title": "Growth Alliance Task Force",
+   "start": "2026-11-03T12:00:00-06:00",
+   "end": "2026-11-03T13:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/growth-alliance-task-force-1588183?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 122,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -3720,6 +4323,37 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 337,
+   "series_slug": "young-professionals-of-mobile-october-2026-lunch-and-learn",
+   "title": "Young Professionals of Mobile November 2026 Lunch and Learn",
+   "start": "2026-11-04T11:30:00-06:00",
+   "end": "2026-11-04T13:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/young-professionals-of-mobile-november-2026-lunch-and-learn-1685625?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -4079,6 +4713,63 @@
    "independent_source_count": 2
   },
   {
+   "id": 338,
+   "series_slug": "2026-forum-alabama-lt-governor-will-ainsworth",
+   "title": "2026 Forum Alabama - Governor Kay Ivey",
+   "start": "2026-11-10T12:00:00-06:00",
+   "end": "2026-11-10T13:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "battle-house-hotel",
+    "name": "The Battle House Hotel",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/2026-forum-alabama-governor-kay-ivey-1897616?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 339,
+   "series_slug": "business-after-hours-bryant-bank",
+   "title": "Business After Hours: Bryant Bank",
+   "start": "2026-11-10T17:00:00-06:00",
+   "end": "2026-11-10T19:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "3680 Dauphin Street Mobile AL 36608"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/business-after-hours-bryant-bank-1710798?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 127,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -4409,6 +5100,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 340,
+   "series_slug": "executive-roundtable-october-20-2026",
+   "title": "Executive Roundtable - November 17, 2026",
+   "start": "2026-11-17T08:00:00-06:00",
+   "end": "2026-11-17T09:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/executive-roundtable-november-17-2026-1588395?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 131,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -4441,6 +5163,33 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 341,
+   "series_slug": "12th-annual-state-of-the-economy",
+   "title": "12th Annual State of the Economy",
+   "start": "2026-11-18T07:30:00-06:00",
+   "end": "2026-11-18T10:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "name": "6 S. Joachim St. Mobile AL 36602-2708"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/12th-annual-state-of-the-economy-1680864?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -4810,6 +5559,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 342,
+   "series_slug": "growth-alliance-task-force",
+   "title": "Growth Alliance Task Force",
+   "start": "2026-12-01T12:00:00-06:00",
+   "end": "2026-12-01T13:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/growth-alliance-task-force-1588189?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 137,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -5138,6 +5918,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 343,
+   "series_slug": "2026-small-business-of-the-year-awards-luncheon",
+   "title": "2026 Small Business of the Year Awards Luncheon",
+   "start": "2026-12-10T11:30:00-06:00",
+   "end": "2026-12-10T13:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "battle-house-hotel",
+    "name": "The Battle House Hotel",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/2026-small-business-of-the-year-awards-luncheon-1553035?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 13,
    "series_slug": "prototyping-lab-open-house-night",
    "title": "Prototyping Lab Open House Night!",
@@ -5426,6 +6237,37 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 344,
+   "series_slug": "executive-roundtable-october-20-2026",
+   "title": "Executive Roundtable - December 15, 2026",
+   "start": "2026-12-15T08:00:00-06:00",
+   "end": "2026-12-15T09:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/executive-roundtable-december-15-2026-1588401?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
     "redistributable": false
    },
    "image": null,

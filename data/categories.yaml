@@ -14,7 +14,7 @@ rules:
   - category: sports
     keywords: [game, football, baseball, basketball, soccer, hockey, volleyball, wrestling, boxing, mma, regatta, tournament, vs., match, jaguars, bay bears, blue wahoos]
   - category: community
-    keywords: [meeting, council, commission, volunteer, cleanup, clean-up, church, class, seminar, workshop, market, festival, parade, fair, fundraiser, gala, open house, job fair, resume, health, blood drive, networking, meetup, town hall, pop up, pop-up, lab, entrepreneur, entrepreneurs, business, startup, founders, user group, user groups, chamber, leadership, eos, mastermind, coworking]
+    keywords: [meeting, council, commission, volunteer, cleanup, clean-up, church, class, seminar, workshop, market, festival, parade, fair, fundraiser, gala, open house, job fair, resume, health, blood drive, networking, meetup, town hall, ribbon cutting, luncheon, roundtable, task force, after hours, pop up, pop-up, lab, entrepreneur, entrepreneurs, business, startup, founders, user group, user groups, chamber, leadership, eos, mastermind, coworking]
   - category: arts
     keywords: [art, gallery, exhibit, exhibition, theatre, theater, musical, ballet, dance, opera, film, movie, screening, poetry, book signing, book club, book fair, book launch, author talk, author, museum, art walk, artwalk, comedy, improv, craft, pottery, photography, sculpture, painting]
   - category: nightlife
@@ -25,4 +25,4 @@ default: community
 
 # Titles containing these never make the homepage top list (public meetings, weekly
 # programming). They still appear in listings and on city pages.
-never_feature_keywords: [council, commission, work session, board meeting, resume, public hearing, committee]
+never_feature_keywords: [council, commission, work session, board meeting, resume, public hearing, committee, ribbon cutting, task force, roundtable]

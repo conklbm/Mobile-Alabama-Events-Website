@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import re
 from datetime import date, datetime, time
 from zoneinfo import ZoneInfo
 
@@ -23,6 +24,10 @@ class IcsCollector(Collector):
         return self.parse(text, start, end)
 
     def parse(self, text: str, start: date, end: date) -> list[RawEvent]:
+        # ChamberMaster emits X-PUBLISHED-TTL:P1H / REFRESH-INTERVAL:P1H (invalid; PT1H is correct).
+        # They're calendar-level hints we don't use, so drop them rather than fail the whole file.
+        keep = [line for line in text.splitlines() if not line.startswith(("X-PUBLISHED-TTL", "REFRESH-INTERVAL"))]
+        text = chr(10).join(keep)
         try:
             cal = icalendar.Calendar.from_ical(text)
         except Exception as e:  # icalendar raises ValueError subclasses
