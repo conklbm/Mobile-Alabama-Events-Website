@@ -1,0 +1,72 @@
+name: Apply config changes
+
+# When venues.yaml / overrides.yaml / series_notes.yaml / categories.yaml / pages.yaml change on main
+# (from the research routine, a reply-command, or a hand edit), re-process the store, republish,
+# and update the open review issue. The weekly job's own commits touch only the DB and site/, so
+# this never loops.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/venues.yaml"
+      - "data/overrides.yaml"
+      - "data/series_notes.yaml"
+      - "data/categories.yaml"
+      - "data/pages.yaml"
+      - "data/routine-notes.md"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    if: github.actor != 'events-bot'
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: uv sync --frozen
+
+      - name: Re-process and republish
+        env:
+          SITE_URL: https://www.mobilebayevents.com
+        run: |
+          uv run python -m pipeline process
+          uv run python -m pipeline publish
+          uv run python -m pipeline issue --remaining --out remaining.md
+
+      - name: Build the issue comment
+        run: |
+          {
+            echo "<!-- bot -->"
+            echo "Config change applied ($(git log -1 --format='%s' | head -c 100))."
+            if [ -s data/routine-notes.md ]; then echo; cat data/routine-notes.md; fi
+            if [ -s remaining.md ]; then printf '\n\nStill open:\n'; cat remaining.md; else printf '\n\nNothing left to review.'; fi
+          } > comment.md
+          rm -f data/routine-notes.md
+
+      - name: Commit
+        run: |
+          git config user.name "events-bot"
+          git config user.email "events-bot@users.noreply.github.com"
+          git add data site vercel.json
+          git diff --cached --quiet || git commit -m "apply config: re-process + republish"
+          git push
+
+      - name: Update the open review issue
+        run: |
+          issue=$(gh issue list --label review --state open --limit 1 --json number --jq '.[0].number')
+          [ -n "$issue" ] || { echo "no open review issue"; exit 0; }
+          gh issue comment "$issue" --body-file comment.md
+          if [ ! -s remaining.md ]; then gh issue close "$issue"; fi
