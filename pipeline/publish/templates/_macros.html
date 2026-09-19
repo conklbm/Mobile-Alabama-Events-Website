@@ -16,7 +16,7 @@
 
 {% macro tags(o) -%}
   <p class="tags">
-    {% for c in o.categories %}<span class="tag tag-{{ c }}">{{ c | catlabel }}</span>{% endfor %}
+    {% for c in o.categories %}<a class="tag tag-{{ c }}" href="/{{ CATEGORY_PAGES.get(c, 'events') }}/">{{ c | catlabel }}</a>{% endfor %}
     {% if o.is_free %}<span class="tag tag-free">Free</span>{% elif o.price %}<span class="tag">{{ o.price }}</span>{% endif %}
     {% if o.kids_under_6 %}<span class="tag">Good for kids under 6</span>{% endif %}
     {% if o.flagged %}<span class="tag tag-warn">Possibly canceled — confirm</span>{% endif %}
@@ -44,8 +44,8 @@
       <span class="row-title">{{ o.title }}</span>
       <span class="row-sub">{% if o.venue %}{{ o.venue.name }}{% if o.venue.city %}, {{ o.venue.city }}{% endif %}{% elif o.venue_name_raw %}{{ o.venue_name_raw }}{% endif %}{% if o.is_free %} · Free{% elif o.price %} · {{ o.price }}{% endif %}</span>
     </span>
-    <span class="row-tags">{% for c in o.categories %}<span class="tag tag-{{ c }} row-tag">{{ c | catlabel }}</span>{% endfor %}</span>
   </a>
+  <span class="row-tags">{% for c in o.categories %}<button type="button" class="tag tag-{{ c }} row-tag" data-tag="{{ c }}" title="Show {{ c | catlabel }} events">{{ c | catlabel }}</button>{% endfor %}</span>
 </li>
 {%- endmacro %}
 
@@ -61,6 +61,7 @@
     {% set nfree = occs | selectattr("is_free") | list | length %}
     {% if nfree %}<button type="button" class="pill pill-free" data-free="1" aria-pressed="false">Free <span class="count">{{ nfree }}</span></button>{% endif %}
   </div>
+  <p class="filter-status" data-filter-status hidden>Showing: <span data-filter-status-text></span> <button type="button" class="linkish" data-filter-reset>Clear</button></p>
   <p class="empty" data-filter-empty hidden>Nothing matches those filters. <button type="button" class="linkish" data-filter-reset>Show everything</button></p>
   {% endif %}
 {%- endmacro %}

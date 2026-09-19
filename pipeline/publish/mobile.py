@@ -210,6 +210,7 @@ class Renderer:
         self.env.filters["isodt"] = lambda d: d.isoformat()
         self.env.filters["catlabel"] = lambda c: CATEGORY_LABELS.get(c, c.title())
         self.env.globals["CATEGORY_ORDER"] = CATEGORY_ORDER
+        self.env.globals["CATEGORY_PAGES"] = {c["category"]: c["slug"] for c in site.pages.get("categories", []) if c.get("category") in CATEGORY_LABELS}
         self.env.filters["richtext"] = render_richtext
         self.urls: list[tuple[str, str]] = []  # (path, lastmod)
         self.redirects: list[dict] = []

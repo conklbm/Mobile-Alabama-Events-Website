@@ -55,7 +55,7 @@
     <p class="where"><a href="/venues/downtown-mobile/">Downtown Mobile</a> · Mobile, AL</p>
     
     <p class="tags">
-    <span class="tag tag-arts">Arts &amp; Theater</span>
+    <a class="tag tag-arts" href="/arts-events-mobile-al/">Arts &amp; Theater</a>
     <span class="tag">$29.22-77.43</span>
     
     
@@ -117,10 +117,17 @@
   document.querySelectorAll('.day[data-day]').forEach(function (sec) { if (sec.dataset.day < today || !sec.querySelector('.row')) sec.remove(); });
 })();
 (function () {
-  var bar = document.querySelector('[data-filters]'); if (!bar) return;
+  var bar = document.querySelector('[data-filters]');
+  var LABELS = {music:'Music',family:'Family & Kids',food:'Food & Drink',active:'Active',sports:'Sports',arts:'Arts & Theater',community:'Community',nightlife:'Nightlife'};
+  var PAGES = {"music": "live-music-mobile-al", "family": "family-events-mobile-al", "food": "food-events-mobile-al", "arts": "arts-events-mobile-al", "active": "active-mobile-al", "sports": "sports-events-mobile-al", "nightlife": "nightlife-mobile-al", "community": "community-events-mobile-al"};
+  if (!bar) {
+    // no filter bar on this page: a row tag is a link to that category's page
+    document.addEventListener('click', function (e) { var t = e.target.closest('[data-tag]'); if (t) location.href = '/' + (PAGES[t.dataset.tag] || 'events') + '/'; });
+    return;
+  }
   var KEY = 'mbe.filters', items = document.querySelectorAll('[data-cat]:not(button)');
   var state = { cats: [], free: false };
-  try { state = Object.assign(state, JSON.parse(localStorage.getItem(KEY) || '{}')); } catch (e) {}
+  try { state = Object.assign(state, JSON.parse(sessionStorage.getItem(KEY) || '{}')); } catch (e) {}
   function apply() {
     var any = false;
     items.forEach(function (el) {
@@ -128,24 +135,32 @@
       var ok = (!state.cats.length || state.cats.some(function (c) { return mine.indexOf(c) > -1; })) && (!state.free || el.dataset.free === '1');
       el.hidden = !ok; if (ok) any = true;
     });
-    document.querySelectorAll('.day, [data-featured]').forEach(function (sec) {
-      sec.hidden = !sec.querySelector('[data-cat]:not([hidden])');
-    });
+    document.querySelectorAll('.day, [data-featured]').forEach(function (sec) { sec.hidden = !sec.querySelector('[data-cat]:not([hidden])'); });
     bar.querySelectorAll('button').forEach(function (b) {
       var on = b.dataset.cat === 'all' ? (!state.cats.length && !state.free) : (b.dataset.free ? state.free : state.cats.indexOf(b.dataset.cat) > -1);
       b.setAttribute('aria-pressed', on ? 'true' : 'false');
     });
+    document.querySelectorAll('[data-tag]').forEach(function (t) { t.classList.toggle('is-on', state.cats.indexOf(t.dataset.tag) > -1); });
     var empty = document.querySelector('[data-filter-empty]'); if (empty) empty.hidden = any;
-    try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {}
+    var status = document.querySelector('[data-filter-status]');
+    if (status) {
+      var parts = state.cats.map(function (c) { return LABELS[c] || c; }); if (state.free) parts.push('Free');
+      status.hidden = !parts.length; status.querySelector('[data-filter-status-text]').textContent = parts.join(' + ');
+    }
+    try { sessionStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {}
   }
+  function toggleCat(c) { var i = state.cats.indexOf(c); i > -1 ? state.cats.splice(i, 1) : state.cats.push(c); }
   bar.addEventListener('click', function (e) {
     var b = e.target.closest('button'); if (!b) return;
     if (b.dataset.cat === 'all') { state = { cats: [], free: false }; }
     else if (b.dataset.free) { state.free = !state.free; }
-    else { var i = state.cats.indexOf(b.dataset.cat); i > -1 ? state.cats.splice(i, 1) : state.cats.push(b.dataset.cat); }
+    else { toggleCat(b.dataset.cat); }
     apply();
   });
-  document.addEventListener('click', function (e) { if (e.target.closest('[data-filter-reset]')) { state = { cats: [], free: false }; apply(); } });
+  document.addEventListener('click', function (e) {
+    if (e.target.closest('[data-filter-reset]')) { state = { cats: [], free: false }; apply(); return; }
+    var t = e.target.closest('[data-tag]'); if (t) { toggleCat(t.dataset.tag); apply(); bar.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); }
+  });
   apply();
 })();
 </script>
