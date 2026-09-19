@@ -30,6 +30,7 @@ def strip_html(s: str | None) -> str:
     """HTML -> plain text that keeps paragraph breaks (blank line) and list items ("- ")."""
     if not s:
         return ""
+    s = re.sub(r"<h[1-6][^>]*>", "\n\n## ", s, flags=re.I)
     s = _LI_START_RE.sub("\n- ", s)
     s = _BLOCK_END_RE.sub("\n\n", s)
     s = _TAG_RE.sub(" ", s)

@@ -285,13 +285,25 @@ def render_richtext(text: str | None, fold_after: int = 3) -> Markup:
     blocks: list[str] = []
     for chunk in [c.strip() for c in text.split("\n\n") if c.strip()]:
         lines = [l.strip() for l in chunk.split("\n") if l.strip()]
-        if all(l.startswith(("- ", "• ", "* ")) for l in lines):
+        if len(lines) == 1 and lines[0].startswith("## "):
+            blocks.append(f"<h3>{_linkify(lines[0][3:].strip())}</h3>")
+        elif all(l.startswith(("- ", "• ", "* ")) for l in lines):
             blocks.append("<ul>" + "".join(f"<li>{_linkify(l[2:].strip())}</li>" for l in lines) + "</ul>")
         else:
             blocks.append("<p>" + "<br>".join(_linkify(l) for l in lines) + "</p>")
-    if len(blocks) <= fold_after:
+    if len(blocks) <= fold_after + 1:
         return Markup("".join(blocks))
-    head, tail = "".join(blocks[:fold_after]), "".join(blocks[fold_after:])
+    # fold after `fold_after` real paragraphs; never end the visible part on a heading
+    cut, seen = len(blocks), 0
+    for i, b in enumerate(blocks):
+        if not b.startswith("<h3>"):
+            seen += 1
+        if seen == fold_after:
+            cut = i + 1
+            break
+    while cut > 1 and blocks[cut - 1].startswith("<h3>"):
+        cut -= 1
+    head, tail = "".join(blocks[:cut]), "".join(blocks[cut:])
     return Markup(f'{head}<details class="readmore"><summary>Read more</summary>{tail}</details>')
 
 
