@@ -54,9 +54,9 @@
 <h2>Upcoming</h2>
 
     
-    <section class="day">
+    <section class="day" data-day="2026-09-30">
       <h2 class="day-h">Wednesday, September 30</h2>
-      <ul class="rows"><li class="row" data-cat="community" data-free="0">
+      <ul class="rows"><li class="row" data-cat="community" data-free="0" data-end="2026-09-30T09:00:00-05:00">
   <a class="row-link" href="/events/2026-forum-alabama-lt-governor-will-ainsworth/">
     <span class="row-time">8 am</span>
     <span class="row-main">
@@ -68,9 +68,9 @@
 </li></ul>
     </section>
     
-    <section class="day">
+    <section class="day" data-day="2026-10-30">
       <h2 class="day-h">Friday, October 30</h2>
-      <ul class="rows"><li class="row" data-cat="community arts" data-free="0">
+      <ul class="rows"><li class="row" data-cat="community arts" data-free="0" data-end="2026-10-30T13:00:00-05:00">
   <a class="row-link" href="/events/2026-eagle-awards/">
     <span class="row-time">11 am</span>
     <span class="row-main">
@@ -82,9 +82,9 @@
 </li></ul>
     </section>
     
-    <section class="day">
+    <section class="day" data-day="2026-11-10">
       <h2 class="day-h">Tuesday, November 10</h2>
-      <ul class="rows"><li class="row" data-cat="community" data-free="0">
+      <ul class="rows"><li class="row" data-cat="community" data-free="0" data-end="2026-11-10T13:00:00-06:00">
   <a class="row-link" href="/events/2026-forum-alabama-lt-governor-will-ainsworth/">
     <span class="row-time">12 pm</span>
     <span class="row-main">
@@ -96,9 +96,9 @@
 </li></ul>
     </section>
     
-    <section class="day">
+    <section class="day" data-day="2026-12-10">
       <h2 class="day-h">Thursday, December 10</h2>
-      <ul class="rows"><li class="row" data-cat="community" data-free="0">
+      <ul class="rows"><li class="row" data-cat="community" data-free="0" data-end="2026-12-10T13:00:00-06:00">
   <a class="row-link" href="/events/2026-small-business-of-the-year-awards-luncheon/">
     <span class="row-time">11:30 am</span>
     <span class="row-main">
@@ -140,6 +140,12 @@
 </footer>
 <script src="/assets/search.js" defer></script>
 <script>
+(function () {
+  // The site is rebuilt daily, but a tab can sit open: drop days already past and rows already ended.
+  var now = new Date(), today = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+  document.querySelectorAll('[data-end]').forEach(function (el) { var e = new Date(el.dataset.end); if (!isNaN(e) && e < now) el.remove(); });
+  document.querySelectorAll('.day[data-day]').forEach(function (sec) { if (sec.dataset.day < today || !sec.querySelector('.row')) sec.remove(); });
+})();
 (function () {
   var bar = document.querySelector('[data-filters]'); if (!bar) return;
   var KEY = 'mbe.filters', items = document.querySelectorAll('[data-cat]:not(button)');

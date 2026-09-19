@@ -84,7 +84,7 @@
   
   <section>
     <h2>Upcoming dates</h2>
-    <ul class="rows"><li class="row" data-cat="community" data-free="0">
+    <ul class="rows"><li class="row" data-cat="community" data-free="0" data-end="2026-11-12T17:00:00-06:00">
   <a class="row-link" href="/events/prototyping-lab-open-house-night/">
     <span class="row-time row-time-wide">Thu Nov 12 · 4 pm</span>
     <span class="row-main">
@@ -93,7 +93,7 @@
     </span>
     <span class="row-tags"><span class="tag tag-community row-tag">Community</span></span>
   </a>
-</li><li class="row" data-cat="community" data-free="0">
+</li><li class="row" data-cat="community" data-free="0" data-end="2026-12-10T17:00:00-06:00">
   <a class="row-link" href="/events/prototyping-lab-open-house-night/">
     <span class="row-time row-time-wide">Thu Dec 10 · 4 pm</span>
     <span class="row-main">
@@ -136,6 +136,12 @@
 </footer>
 <script src="/assets/search.js" defer></script>
 <script>
+(function () {
+  // The site is rebuilt daily, but a tab can sit open: drop days already past and rows already ended.
+  var now = new Date(), today = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+  document.querySelectorAll('[data-end]').forEach(function (el) { var e = new Date(el.dataset.end); if (!isNaN(e) && e < now) el.remove(); });
+  document.querySelectorAll('.day[data-day]').forEach(function (sec) { if (sec.dataset.day < today || !sec.querySelector('.row')) sec.remove(); });
+})();
 (function () {
   var bar = document.querySelector('[data-filters]'); if (!bar) return;
   var KEY = 'mbe.filters', items = document.querySelectorAll('[data-cat]:not(button)');

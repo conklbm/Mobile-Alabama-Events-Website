@@ -84,7 +84,7 @@
   
   <section>
     <h2>Upcoming dates</h2>
-    <ul class="rows"><li class="row" data-cat="sports" data-free="0">
+    <ul class="rows"><li class="row" data-cat="sports" data-free="0" data-end="2026-09-29T19:00:00-05:00">
   <a class="row-link" href="/events/young-professionals-of-mobile-2026-board-readiness-training/">
     <span class="row-time row-time-wide">Tue Sep 29 · 5:30 pm</span>
     <span class="row-main">
@@ -127,6 +127,12 @@
 </footer>
 <script src="/assets/search.js" defer></script>
 <script>
+(function () {
+  // The site is rebuilt daily, but a tab can sit open: drop days already past and rows already ended.
+  var now = new Date(), today = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+  document.querySelectorAll('[data-end]').forEach(function (el) { var e = new Date(el.dataset.end); if (!isNaN(e) && e < now) el.remove(); });
+  document.querySelectorAll('.day[data-day]').forEach(function (sec) { if (sec.dataset.day < today || !sec.querySelector('.row')) sec.remove(); });
+})();
 (function () {
   var bar = document.querySelector('[data-filters]'); if (!bar) return;
   var KEY = 'mbe.filters', items = document.querySelectorAll('[data-cat]:not(button)');

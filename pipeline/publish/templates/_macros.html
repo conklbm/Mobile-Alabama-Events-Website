@@ -37,7 +37,7 @@
 {%- endmacro %}
 
 {% macro row(o, show_date=False) -%}
-<li class="row" data-cat="{{ o.categories | join(' ') }}" data-free="{{ 1 if o.is_free else 0 }}">
+<li class="row" data-cat="{{ o.categories | join(' ') }}" data-free="{{ 1 if o.is_free else 0 }}" data-end="{{ o.end | isodt }}">
   <a class="row-link" href="{{ o.url }}">
     <span class="row-time{% if show_date %} row-time-wide{% endif %}">{% if show_date %}{{ o.day | shortday }}{% if o.time_tba %} · TBA{% elif not o.all_day %} · {{ o.start | clock }}{% endif %}{% elif o.all_day %}All day{% elif o.time_tba %}Time TBA{% else %}{{ o.start | clock }}{% endif %}</span>
     <span class="row-main">
@@ -68,7 +68,7 @@
 {% macro day_groups(groups, empty) -%}
   {% if groups %}
     {% for day, items in groups %}
-    <section class="day">
+    <section class="day" data-day="{{ day.isoformat() }}">
       <h2 class="day-h">{{ day | day }}</h2>
       <ul class="rows">{% for o in items %}{{ row(o) }}{% endfor %}</ul>
     </section>

@@ -87,6 +87,12 @@
 <script src="/assets/search.js" defer></script>
 <script>
 (function () {
+  // The site is rebuilt daily, but a tab can sit open: drop days already past and rows already ended.
+  var now = new Date(), today = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+  document.querySelectorAll('[data-end]').forEach(function (el) { var e = new Date(el.dataset.end); if (!isNaN(e) && e < now) el.remove(); });
+  document.querySelectorAll('.day[data-day]').forEach(function (sec) { if (sec.dataset.day < today || !sec.querySelector('.row')) sec.remove(); });
+})();
+(function () {
   var bar = document.querySelector('[data-filters]'); if (!bar) return;
   var KEY = 'mbe.filters', items = document.querySelectorAll('[data-cat]:not(button)');
   var state = { cats: [], free: false };

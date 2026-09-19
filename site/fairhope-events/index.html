@@ -73,9 +73,9 @@
   
 
     
-    <section class="day">
+    <section class="day" data-day="2026-09-19">
       <h2 class="day-h">Saturday, September 19</h2>
-      <ul class="rows"><li class="row" data-cat="arts family" data-free="0">
+      <ul class="rows"><li class="row" data-cat="arts family" data-free="0" data-end="2026-09-19T16:00:00-05:00">
   <a class="row-link" href="/events/art-of-the-paw/">
     <span class="row-time">12 pm</span>
     <span class="row-main">
@@ -87,9 +87,9 @@
 </li></ul>
     </section>
     
-    <section class="day">
+    <section class="day" data-day="2026-09-24">
       <h2 class="day-h">Thursday, September 24</h2>
-      <ul class="rows"><li class="row" data-cat="music" data-free="0">
+      <ul class="rows"><li class="row" data-cat="music" data-free="0" data-end="2026-09-24T20:00:00-05:00">
   <a class="row-link" href="/events/jason-isbell-the-400-unit/">
     <span class="row-time">5 pm</span>
     <span class="row-main">
@@ -98,7 +98,7 @@
     </span>
     <span class="row-tags"><span class="tag tag-music row-tag">Music</span></span>
   </a>
-</li><li class="row" data-cat="community" data-free="0">
+</li><li class="row" data-cat="community" data-free="0" data-end="2026-09-24T20:00:00-05:00">
   <a class="row-link" href="/events/jason-isbell-the-400-unit-halstead-amphitheater/">
     <span class="row-time">5 pm</span>
     <span class="row-main">
@@ -110,9 +110,9 @@
 </li></ul>
     </section>
     
-    <section class="day">
+    <section class="day" data-day="2026-11-20">
       <h2 class="day-h">Friday, November 20</h2>
-      <ul class="rows"><li class="row" data-cat="music" data-free="0">
+      <ul class="rows"><li class="row" data-cat="music" data-free="0" data-end="2026-11-20T20:00:00-06:00">
   <a class="row-link" href="/events/robert-earl-keen/">
     <span class="row-time">5 pm</span>
     <span class="row-main">
@@ -153,6 +153,12 @@
 </footer>
 <script src="/assets/search.js" defer></script>
 <script>
+(function () {
+  // The site is rebuilt daily, but a tab can sit open: drop days already past and rows already ended.
+  var now = new Date(), today = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+  document.querySelectorAll('[data-end]').forEach(function (el) { var e = new Date(el.dataset.end); if (!isNaN(e) && e < now) el.remove(); });
+  document.querySelectorAll('.day[data-day]').forEach(function (sec) { if (sec.dataset.day < today || !sec.querySelector('.row')) sec.remove(); });
+})();
 (function () {
   var bar = document.querySelector('[data-filters]'); if (!bar) return;
   var KEY = 'mbe.filters', items = document.querySelectorAll('[data-cat]:not(button)');

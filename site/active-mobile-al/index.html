@@ -73,9 +73,9 @@
   
 
     
-    <section class="day">
+    <section class="day" data-day="2026-09-20">
       <h2 class="day-h">Sunday, September 20</h2>
-      <ul class="rows"><li class="row" data-cat="family active" data-free="0">
+      <ul class="rows"><li class="row" data-cat="family active" data-free="0" data-end="2026-09-20T15:00:00-05:00">
   <a class="row-link" href="/events/delta-discovery-cruise/">
     <span class="row-time">1:30 pm</span>
     <span class="row-main">
@@ -87,9 +87,9 @@
 </li></ul>
     </section>
     
-    <section class="day">
+    <section class="day" data-day="2026-09-24">
       <h2 class="day-h">Thursday, September 24</h2>
-      <ul class="rows"><li class="row" data-cat="music active" data-free="0">
+      <ul class="rows"><li class="row" data-cat="music active" data-free="0" data-end="2026-09-24T20:00:00-05:00">
   <a class="row-link" href="/events/downtown-get-down/">
     <span class="row-time">5 pm</span>
     <span class="row-main">
@@ -101,9 +101,9 @@
 </li></ul>
     </section>
     
-    <section class="day">
+    <section class="day" data-day="2026-09-26">
       <h2 class="day-h">Saturday, September 26</h2>
-      <ul class="rows"><li class="row" data-cat="active community" data-free="0">
+      <ul class="rows"><li class="row" data-cat="active community" data-free="0" data-end="2026-09-26T10:00:00-05:00">
   <a class="row-link" href="/events/usa-health-mitchell-cancer-institute-go-run/">
     <span class="row-time">8 am</span>
     <span class="row-main">
@@ -144,6 +144,12 @@
 </footer>
 <script src="/assets/search.js" defer></script>
 <script>
+(function () {
+  // The site is rebuilt daily, but a tab can sit open: drop days already past and rows already ended.
+  var now = new Date(), today = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+  document.querySelectorAll('[data-end]').forEach(function (el) { var e = new Date(el.dataset.end); if (!isNaN(e) && e < now) el.remove(); });
+  document.querySelectorAll('.day[data-day]').forEach(function (sec) { if (sec.dataset.day < today || !sec.querySelector('.row')) sec.remove(); });
+})();
 (function () {
   var bar = document.querySelector('[data-filters]'); if (!bar) return;
   var KEY = 'mbe.filters', items = document.querySelectorAll('[data-cat]:not(button)');

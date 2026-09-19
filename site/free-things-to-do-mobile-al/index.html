@@ -64,9 +64,9 @@
   
 
     
-    <section class="day">
+    <section class="day" data-day="2026-10-30">
       <h2 class="day-h">Friday, October 30</h2>
-      <ul class="rows"><li class="row" data-cat="community" data-free="1">
+      <ul class="rows"><li class="row" data-cat="community" data-free="1" data-end="2026-10-30T22:30:00-05:00">
   <a class="row-link" href="/events/mac-sabbath/">
     <span class="row-time">7:30 pm</span>
     <span class="row-main">
@@ -78,9 +78,9 @@
 </li></ul>
     </section>
     
-    <section class="day">
+    <section class="day" data-day="2026-12-04">
       <h2 class="day-h">Friday, December 4</h2>
-      <ul class="rows"><li class="row" data-cat="community" data-free="1">
+      <ul class="rows"><li class="row" data-cat="community" data-free="1" data-end="2026-12-04T23:00:00-06:00">
   <a class="row-link" href="/events/hunter-flynn-back-to-my-roots-tour/">
     <span class="row-time">8 pm</span>
     <span class="row-main">
@@ -121,6 +121,12 @@
 </footer>
 <script src="/assets/search.js" defer></script>
 <script>
+(function () {
+  // The site is rebuilt daily, but a tab can sit open: drop days already past and rows already ended.
+  var now = new Date(), today = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+  document.querySelectorAll('[data-end]').forEach(function (el) { var e = new Date(el.dataset.end); if (!isNaN(e) && e < now) el.remove(); });
+  document.querySelectorAll('.day[data-day]').forEach(function (sec) { if (sec.dataset.day < today || !sec.querySelector('.row')) sec.remove(); });
+})();
 (function () {
   var bar = document.querySelector('[data-filters]'); if (!bar) return;
   var KEY = 'mbe.filters', items = document.querySelectorAll('[data-cat]:not(button)');
