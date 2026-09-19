@@ -10,7 +10,7 @@
     {% if s.venue %}<p class="where"><a href="{{ s.venue.url }}">{{ s.venue.name }}</a>{% if s.venue.address %} · {{ s.venue.address }}, {{ s.venue.city }}, {{ s.venue.state }}{% elif s.venue.city %} · {{ s.venue.city }}, {{ s.venue.state }}{% endif %}</p>
     {% elif s.venue_name_raw %}<p class="where">{{ s.venue_name_raw }}</p>{% endif %}
     {{ tags(n) }}
-    {% if n.image %}<figure class="event-img"><img src="{{ n.image.url }}" alt="{{ n.title }}"><figcaption>Image: <a href="{{ n.image.source_url }}" target="_blank" rel="noopener">{{ n.image.credit }}</a></figcaption></figure>{% endif %}
+    {% if n.image %}<figure class="event-img"><img src="{{ n.image.url }}" alt="{{ n.title }}"></figure>{% endif %}
     {{ source_links(n) }}
   {% else %}
     <p class="passed">This event has passed. Last held {{ s.last_end.date() | shortday }}.{% if s.venue %} See <a href="{{ s.venue.url }}">what's next at {{ s.venue.name }}</a>.{% endif %}</p>

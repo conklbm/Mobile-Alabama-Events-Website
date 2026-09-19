@@ -83,8 +83,5 @@
     {% if o.info_url %}<a class="btn" href="{{ o.info_url }}" target="_blank" rel="noopener">More info<span class="sr-only"> (opens in new tab)</span></a>{% endif %}
     {% if o.ticket_url and o.ticket_url != o.info_url %}<a class="btn btn-primary" href="{{ o.ticket_url }}" target="_blank" rel="noopener">Get tickets<span class="sr-only"> (opens in new tab)</span></a>{% endif %}
   </p>
-  <p class="attribution">Listed by
-    {% for s in o.sources %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.
-    {% if o.powered_by_ticketmaster %}Ticket data powered by <a href="https://www.ticketmaster.com" target="_blank" rel="noopener">Ticketmaster</a>.{% endif %}
-  </p>
+  {% if o.powered_by_ticketmaster %}<p class="attribution">Ticket data powered by <a href="https://www.ticketmaster.com" target="_blank" rel="noopener">Ticketmaster</a>.</p>{% endif %}
 {%- endmacro %}
