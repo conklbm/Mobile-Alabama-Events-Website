@@ -20,18 +20,36 @@ _TITLE_NOISE = re.compile(
 )
 
 
+_BLOCK_END_RE = re.compile(r"</(p|div|li|h[1-6]|tr|blockquote|section|article)\s*>|<br\s*/?>", re.I)
+_LI_START_RE = re.compile(r"<li[^>]*>", re.I)
+_HWS_RE = re.compile(r"[ \t\r\f\v]+")
+_MANY_NL_RE = re.compile(r"\n{3,}")
+
+
 def strip_html(s: str | None) -> str:
+    """HTML -> plain text that keeps paragraph breaks (blank line) and list items ("- ")."""
     if not s:
         return ""
+    s = _LI_START_RE.sub("\n- ", s)
+    s = _BLOCK_END_RE.sub("\n\n", s)
     s = _TAG_RE.sub(" ", s)
     s = _SHORTCODE_RE.sub(" ", s)
     s = html.unescape(s)
     s = s.replace("\xa0", " ")
-    return _WS_RE.sub(" ", s).strip()
+    lines = [_HWS_RE.sub(" ", line).strip() for line in s.split("\n")]
+    s = "\n".join(lines)
+    s = _MANY_NL_RE.sub("\n\n", s).strip()
+    # a lone "- " list item line that got glued to a paragraph break stays its own line
+    return s
+
+
+def flatten(s: str | None) -> str:
+    """One-line version for keys, excerpts, and titles."""
+    return _WS_RE.sub(" ", (s or "")).strip()
 
 
 def clean_title(s: str | None) -> str:
-    s = strip_html(s)
+    s = flatten(strip_html(s))
     return s.strip(" -–—|:")
 
 
@@ -62,7 +80,7 @@ def slugify(s: str | None, max_len: int = 70) -> str:
 
 
 def excerpt(s: str | None, n: int = 160) -> str:
-    s = strip_html(s)
+    s = flatten(strip_html(s))
     if len(s) <= n:
         return s
     cut = s[: n - 1].rsplit(" ", 1)[0]

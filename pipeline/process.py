@@ -16,7 +16,7 @@ from .dates import default_end, iso_utc
 from .matcher import Matcher, MatchSchema
 from .models import RawEvent
 from .scoring import TIER_RANK
-from .text import clean_title, norm_key, slugify, title_key
+from .text import clean_title, norm_key, slugify, strip_html, title_key
 from .venues import VenueResolver
 
 log = logging.getLogger("process")
@@ -51,6 +51,13 @@ def normalize(ev: RawEvent, source: dict, resolver: VenueResolver) -> dict | Non
     if vm:
         venue_key = f"v:{vm.slug}"
     regions = (vm.regions if vm else None) or ev.regions or source.get("regions") or []
+    description = ev.description or ""
+    raw = ev.raw if isinstance(ev.raw, dict) else {}
+    for k in ("description", "X-ALT-DESC", "info"):
+        v = raw.get(k)
+        if isinstance(v, str) and "<" in v and len(v) > 20:
+            description = strip_html(v)
+            break
     return {
         "title": title,
         "title_key": title_key(title),
@@ -65,7 +72,7 @@ def normalize(ev: RawEvent, source: dict, resolver: VenueResolver) -> dict | Non
         "venue_name_raw": ev.venue_name or ev.venue_address,
         "venue_key": venue_key,
         "city": (vm.city if vm else ev.city) or "",
-        "description": ev.description or "",
+        "description": description,
         "price": ev.price or "",
         "ticket_url": ev.ticket_url or "",
         "info_url": ev.info_url or "",

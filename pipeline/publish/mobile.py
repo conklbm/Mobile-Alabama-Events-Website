@@ -21,6 +21,7 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+from markupsafe import Markup, escape
 
 from .. import config, db
 from ..dates import from_utc, tz, weekend_bounds
@@ -209,6 +210,7 @@ class Renderer:
         self.env.filters["isodt"] = lambda d: d.isoformat()
         self.env.filters["catlabel"] = lambda c: CATEGORY_LABELS.get(c, c.title())
         self.env.globals["CATEGORY_ORDER"] = CATEGORY_ORDER
+        self.env.filters["richtext"] = render_richtext
         self.urls: list[tuple[str, str]] = []  # (path, lastmod)
         self.redirects: list[dict] = []
         self.nav = {
@@ -260,6 +262,37 @@ class Renderer:
                 ev["offers"] = offer
             out.append(ev)
         return out
+
+
+_URL_RE = __import__("re").compile(r"(https?://[^\s<>\"')]+[^\s<>\"'.,;:!?)])")
+
+
+def _linkify(text: str) -> str:
+    parts, last = [], 0
+    for m in _URL_RE.finditer(text):
+        parts.append(str(escape(text[last:m.start()])))
+        u = m.group(1)
+        parts.append(f'<a href="{escape(u)}" target="_blank" rel="noopener">{escape(u)}</a>')
+        last = m.end()
+    parts.append(str(escape(text[last:])))
+    return "".join(parts)
+
+
+def render_richtext(text: str | None, fold_after: int = 3) -> Markup:
+    """Plain text with blank-line paragraphs and '- ' bullets -> <p>/<ul>; long text folds behind Read more."""
+    if not text:
+        return Markup("")
+    blocks: list[str] = []
+    for chunk in [c.strip() for c in text.split("\n\n") if c.strip()]:
+        lines = [l.strip() for l in chunk.split("\n") if l.strip()]
+        if all(l.startswith(("- ", "• ", "* ")) for l in lines):
+            blocks.append("<ul>" + "".join(f"<li>{_linkify(l[2:].strip())}</li>" for l in lines) + "</ul>")
+        else:
+            blocks.append("<p>" + "<br>".join(_linkify(l) for l in lines) + "</p>")
+    if len(blocks) <= fold_after:
+        return Markup("".join(blocks))
+    head, tail = "".join(blocks[:fold_after]), "".join(blocks[fold_after:])
+    return Markup(f'{head}<details class="more"><summary>Read more</summary>{tail}</details>')
 
 
 def _posix() -> bool:

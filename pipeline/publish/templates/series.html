@@ -25,7 +25,7 @@
   {% endif %}
 
   {% if s.description %}
-  <section class="desc"><h2>About</h2><p>{{ s.description }}</p></section>
+  <section class="desc"><h2>About</h2>{{ s.description | richtext }}</section>
   {% endif %}
 
   {% if s.venue and s.venue.notes %}
