@@ -292,7 +292,7 @@ def render_richtext(text: str | None, fold_after: int = 3) -> Markup:
     if len(blocks) <= fold_after:
         return Markup("".join(blocks))
     head, tail = "".join(blocks[:fold_after]), "".join(blocks[fold_after:])
-    return Markup(f'{head}<details class="more"><summary>Read more</summary>{tail}</details>')
+    return Markup(f'{head}<details class="readmore"><summary>Read more</summary>{tail}</details>')
 
 
 def _posix() -> bool:
