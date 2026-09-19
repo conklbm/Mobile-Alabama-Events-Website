@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "_macros.html" import card, day_groups, filter_bar %}
+{% from "_macros.html" import day_groups, filter_bar %}
 {% block content %}
 <section class="hero hero-photo">
   <img class="hero-bg" src="/assets/img/hero-downtown-dusk.jpg" srcset="/assets/img/hero-downtown-dusk-900.jpg 900w, /assets/img/hero-downtown-dusk.jpg 1674w" sizes="(max-width: 900px) 100vw, 880px" alt="" width="1674" height="945" fetchpriority="high">
@@ -11,13 +11,6 @@
 </section>
 
 {{ filter_bar(week) }}
-
-{% if featured %}
-<section data-featured>
-  <h2>Worth your time</h2>
-  <div class="cards">{% for o in featured %}{{ card(o) }}{% endfor %}</div>
-</section>
-{% endif %}
 
 <section>
   <h2>This week</h2>
