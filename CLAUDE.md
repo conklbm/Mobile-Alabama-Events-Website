@@ -4,14 +4,14 @@
 - **Name:** Mobile Bay Events (mobilebayevents.com) — Gulf Coast events pipeline, V1 publisher.
 - **Purpose:** Weekly automated collection of local events → dedup → static site. Brooks wants one place to see what's on; the domain accumulates SEO equity meanwhile.
 - **Audience:** People who live in Mobile / Eastern Shore / Dauphin Island. (Phase 2: coastal section on gulfcoastbeachvibes.com for trip planners — separate blurbs, same store.)
-- **Status:** Built 2026-09-14. Not yet deployed. Spec: `docs/PRD-events-pipeline-v1.md`, sources: `docs/EVENT-SOURCE-REGISTRY.md`.
+- **Status:** Live at https://www.mobilebayevents.com since 2026-09-15; automated weekly + daily jobs and a cloud review routine (see README). Session check-in: pull, read Action runs, routine commits, open issues. Spec: `docs/PRD-events-pipeline-v1.md`, sources: `docs/EVENT-SOURCE-REGISTRY.md`.
 - **Scheduled review:** October 1, 2027 — forced decision, not auto-kill (PRD §16).
 
 ## Stack
 - Python 3.12, `uv`. SQLite (`data/events.db`, committed). rapidfuzz, icalendar, requests, Jinja2, PyYAML.
 - Static site rendered to `site/`; Vercel serves it with no build (`vercel.json` → `outputDirectory: site`).
 - GitHub Actions weekly cron (Thu 11:00 UTC) commits store + site, opens a review issue.
-- No JS framework, no backend, no accounts. The global CLAUDE.md phases about auth/API/Sentry mostly don't apply.
+- Client-side JS only for search, filters, and past-day pruning. No backend, no accounts. The global CLAUDE.md phases about auth/API/Sentry mostly don't apply.
 
 ## Hard rules (from the PRD — don't relitigate)
 - **Storage and publishing are separate.** Publishers read the DB; a new consumer must not touch `pipeline/process.py`.
@@ -43,6 +43,10 @@ python -m http.server -d site 8000       # preview
 | 2026-09-14 | Gulf Shores / Orange Beach / Foley venues tagged `coastal` only | PRD routes coastal to GCBV. Flip a venue's `regions` to show it on the Mobile site. |
 | 2026-09-14 | Registry corrections | Playhouse in the Park has no Event JSON-LD; EventKeeper (library) is now a JS app; Soul Kitchen has no Event JSON-LD but is covered by Ticketmaster. All noted in `sources.yaml`. |
 | 2026-09-14 | Canonical host `www.mobilebayevents.com` | House standard. Set `SITE_URL` from what Vercel actually serves at cutover. |
+| 2026-09-17 | Cloud routine auto-resolves unknown venues; Brooks only sees judgment calls | Brooks: "automatic unless it's a big question mark." |
+| 2026-09-17 | Source-confirmed cancellations auto-apply; only inferred ones are reviewed | Ticketmaster's cancelled status is authoritative. |
+| 2026-09-19 | No featured section; filters OR together; row tags toggle filters | Brooks's calls after testing. |
+| 2026-09-19 | No Contact page; no image credit / Listed-by lines (TM credit kept) | Brooks's calls; TM terms require the credit. |
 
 ## Git workflow
 Ask before pulling on first touch of the repo and before any push (direct to `main` vs. dev branch + PR). See global CLAUDE.md.
