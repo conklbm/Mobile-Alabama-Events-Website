@@ -894,3 +894,79 @@
   regions: [coastal]
   notes: "Studio and small-event space in downtown Silverhill; used by the Coastal Moms Collective."
 
+# --- resolved from issue #5 (2026-09-24), verified by web search ---
+
+- slug: dicks-house-of-sport-mobile
+  name: DICK'S House of Sport (Mobile)
+  aliases: ["Dick’s House of Sport- Mobile", "Dick's House of Sport- Mobile", "Dick's House of Sport", "DICK'S House of Sport"]
+  domains: ["dickssportinggoods.com"]
+  address: 1390 Tingle Circle W, Ste B-3
+  city: Mobile
+  state: AL
+  zip: "36606"
+  regions: [mobile]
+  notes: "Big-box sporting goods store near McGowin Park with a climbing wall and event space; hosts free community fitness classes."
+
+- slug: laun-park
+  name: Laun Park
+  aliases: ["Laun Park", "Laun Community Center & Park", "Laun Park Recreation Center"]
+  domains: ["cityofmobile.gov"]
+  address: 5401 Windmill Dr
+  city: Mobile
+  state: AL
+  zip: "36693"
+  regions: [mobile]
+  notes: "City of Mobile park in Terrace Hills with a splash pad that opened July 2025; across from Dodge Elementary."
+
+- slug: annunciation-greek-orthodox-church
+  name: Annunciation Greek Orthodox Church
+  aliases: ["50 S. An Street, Mobile, Al", "50 S Ann St", "Annunciation Greek Orthodox Church", "Annunciation Greek Orthodox Cathedral"]
+  domains: ["annunciation.al.goarch.org", "greekfestmobile.com"]
+  address: 50 S Ann St
+  city: Mobile
+  state: AL
+  zip: "36604"
+  regions: [mobile]
+  notes: "Home of Greek Fest Mobile, hosted by the church's Greek Orthodox community since 1912."
+
+- slug: lily-baptist-church
+  name: Lily Baptist Church
+  aliases: ["358 Kennedy St, Mobile, AL", "Lily Baptist Church"]
+  domains: []
+  address: 358 Kennedy St
+  city: Mobile
+  state: AL
+  zip: "36603"
+  regions: [mobile]
+
+- slug: saraland-church
+  name: Saraland Church
+  aliases: ["907 Shelton Beach Rd, Saraland, AL, United States, Alabama 36571", "Saraland Church", "Saraland First", "First Assembly of God Saraland"]
+  domains: ["saralandchurch.com"]
+  address: 907 Shelton Beach Rd
+  city: Saraland
+  state: AL
+  zip: "36571"
+  regions: [mobile]
+  notes: "Assemblies of God congregation; runs the annual CITYFEST Fall Family Festival."
+
+- slug: first-baptist-church-satsuma
+  name: First Baptist Church of Satsuma
+  aliases: ["5600 Old Highway 43, Satsuma, AL, United States, Alabama 36572", "First Baptist Church of Satsuma", "FBC Satsuma", "First Baptist Church Satsuma"]
+  domains: ["fbcsatsuma.com"]
+  address: 5600 Old Hwy 43
+  city: Satsuma
+  state: AL
+  zip: "36572"
+  regions: [mobile]
+
+- slug: celeste-road-baptist-church
+  name: Celeste Road Baptist Church
+  aliases: ["10175 Celeste Rd, Saraland, AL", "Celeste Road Baptist Church"]
+  domains: ["celesteroadbaptist.com"]
+  address: 10175 Celeste Rd
+  city: Saraland
+  state: AL
+  zip: "36571"
+  regions: [mobile]
+
