@@ -1,70 +1,7 @@
 {
  "region": "coastal",
- "generated": "2026-09-23T14:48:36Z",
+ "generated": "2026-09-24T14:45:44Z",
  "events": [
-  {
-   "id": 33,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-09-23T09:00:00-05:00",
-   "end": "2026-09-23T10:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8844",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 65,
-   "series_slug": "seine-net-experience",
-   "title": "Seine Net Experience",
-   "start": "2026-09-23T10:00:00-05:00",
-   "end": "2026-09-23T10:30:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family"
-   ],
-   "venue": {
-    "slug": "gulf-state-park",
-    "name": "Gulf State Park",
-    "city": "Gulf Shores",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
   {
    "id": 34,
    "series_slug": "indoor-cycling",

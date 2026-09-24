@@ -1,42 +1,7 @@
 {
  "region": "mobile",
- "generated": "2026-09-23T14:48:36Z",
+ "generated": "2026-09-24T14:45:44Z",
  "events": [
-  {
-   "id": 95,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2026-09-22T19:00:00-05:00",
-   "end": "2026-09-22T22:00:00-05:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-09-22/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
   {
    "id": 153,
    "series_slug": "crescent-comedy-workshop",
