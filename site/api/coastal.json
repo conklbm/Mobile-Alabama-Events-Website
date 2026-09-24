@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-09-24T14:45:44Z",
+ "generated": "2026-09-24T15:45:24Z",
  "events": [
   {
    "id": 34,
@@ -795,6 +795,70 @@
    "independent_source_count": 1
   },
   {
+   "id": 346,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-10-02T09:00:00-05:00",
+   "end": "2026-10-02T10:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8847",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 347,
+   "series_slug": "gentle-stretch-yoga",
+   "title": "Yoga",
+   "start": "2026-10-03T10:00:00-05:00",
+   "end": "2026-10-03T11:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8716",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 232,
    "series_slug": "pensacola-symphony-orchestra-opening-night",
    "title": "Pensacola Symphony Orchestra: Opening Night!",
@@ -892,6 +956,70 @@
    "independent_source_count": 1
   },
   {
+   "id": 348,
+   "series_slug": "fall-pop-up-farmers-market",
+   "title": "Fall Pop-Up Farmers Market",
+   "start": "2026-10-04T10:00:00-05:00",
+   "end": "2026-10-04T14:00:00-05:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9632",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 349,
+   "series_slug": "monthly-skins-tournament-at-golf-center",
+   "title": "Monthly Skins Tournament at Golf Center",
+   "start": "2026-10-04T12:00:00-05:00",
+   "end": "2026-10-04T15:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "sports"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9633",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 105,
    "series_slug": "roman-street-with-andy-vargas-singer-for-santana",
    "title": "Roman Street with Andy Vargas (singer for Santana)",
@@ -958,6 +1086,69 @@
    "independent_source_count": 1
   },
   {
+   "id": 345,
+   "series_slug": "council-work-session",
+   "title": "Council Work Session",
+   "start": "2026-10-05T16:00:00-05:00",
+   "end": "2026-10-05T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "gulf-shores-city-hall",
+    "name": "Gulf Shores City Hall",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshoresal.gov/Calendar.aspx?EID=16362",
+   "source": {
+    "name": "City of Gulf Shores",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 350,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-10-05T17:00:00-05:00",
+   "end": "2026-10-05T18:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9583",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 234,
    "series_slug": "toast-the-best-of-bread",
    "title": "Toast - The Best of Bread",
@@ -983,6 +1174,102 @@
     "name": "Ticketmaster",
     "tier": "B",
     "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 351,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-10-06T07:20:00-05:00",
+   "end": "2026-10-06T08:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9155",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 352,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-10-07T09:00:00-05:00",
+   "end": "2026-10-07T10:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8848",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 353,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-10-08T07:20:00-05:00",
+   "end": "2026-10-08T08:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9156",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
    },
    "image": null,
    "curation_score": 0,
@@ -1311,7 +1598,7 @@
   {
    "id": 242,
    "series_slug": "pensacola-ice-flyers-vs-birmingham-bulls",
-   "title": "Pensacola Ice Flyers vs. Birmingham Bulls",
+   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
    "start": "2026-10-17T19:05:00-05:00",
    "end": "2026-10-17T22:05:00-05:00",
    "all_day": false,
@@ -1330,7 +1617,7 @@
    },
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-10-17-2026/event/1B00650D855162C3",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-10-17-2026/event/1B00650D855162C3",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-10-17-2026/event/1B00650D855162C3",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -1815,7 +2102,7 @@
   {
    "id": 252,
    "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
-   "title": "Pensacola Ice Flyers vs. Huntsville Havoc",
+   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
    "start": "2026-10-30T19:05:00-05:00",
    "end": "2026-10-30T22:05:00-05:00",
    "all_day": false,
@@ -1834,7 +2121,7 @@
    },
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-30-2026/event/1B00650D855A62E2",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-30-2026/event/1B00650D855A62E2",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-10-30-2026/event/1B00650D855A62E2",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -1910,7 +2197,7 @@
   {
    "id": 254,
    "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
-   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
+   "title": "Pensacola Ice Flyers vs. Birmingham Bulls",
    "start": "2026-11-01T16:05:00-06:00",
    "end": "2026-11-01T19:05:00-06:00",
    "all_day": false,
@@ -1929,7 +2216,38 @@
    },
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-01-2026/event/1B00650D855F62FB",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-01-2026/event/1B00650D855F62FB",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-11-01-2026/event/1B00650D855F62FB",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 367,
+   "series_slug": "synthetic-creativity-ai-da-unveiled",
+   "title": "Synthetic Creativity: Ai-Da Unveiled",
+   "start": "2026-11-02T19:00:00-06:00",
+   "end": "2026-11-02T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/synthetic-creativity-aida-unveiled-pensacola-florida-11-02-2026/event/1B006532E9D0C073",
+   "info_url": "https://www.ticketmaster.com/synthetic-creativity-aida-unveiled-pensacola-florida-11-02-2026/event/1B006532E9D0C073",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -2668,6 +2986,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 368,
+   "series_slug": "motown-christmas",
+   "title": "Motown Christmas",
+   "start": "2026-11-28T19:30:00-06:00",
+   "end": "2026-11-28T22:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/motown-christmas-pensacola-florida-11-28-2026/event/1B006535E1AB81DE",
+   "info_url": "https://www.ticketmaster.com/motown-christmas-pensacola-florida-11-28-2026/event/1B006535E1AB81DE",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 275,
    "series_slug": "battle-at-the-bay-florida-state-vs-university-of-west-florida",
    "title": "Battle at the Bay - Florida State vs. University of West Florida",
@@ -2985,6 +3334,70 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
+  },
+  {
+   "id": 369,
+   "series_slug": "white-tie-rock-ensemble-rock-the-80-s",
+   "title": "White Tie Rock Ensemble: A White Tie Christmas!",
+   "start": "2026-12-18T19:30:00-06:00",
+   "end": "2026-12-18T22:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "music"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/white-tie-rock-ensemble-a-white-pensacola-florida-12-18-2026/event/1B00653097CAA994",
+   "info_url": "https://www.ticketmaster.com/white-tie-rock-ensemble-a-white-pensacola-florida-12-18-2026/event/1B00653097CAA994",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 370,
+   "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
+   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
+   "start": "2026-12-19T19:05:00-06:00",
+   "end": "2026-12-19T22:05:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-12-19-2026/event/1B00650D857D6321",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-12-19-2026/event/1B00650D857D6321",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   }
  ]
 }

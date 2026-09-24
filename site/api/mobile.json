@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-09-24T14:45:44Z",
+ "generated": "2026-09-24T15:45:24Z",
  "events": [
   {
    "id": 153,
@@ -322,7 +322,7 @@
   {
    "id": 156,
    "series_slug": "yes-daddy-plus-marla-the-singers-plus-roman-gabriel-todd-and-27-reeves",
-   "title": "Yes Daddy plus Marla & The Singers plus Roman Gabriel Todd and 27 Reeves",
+   "title": "Yes Daddy plus Marla & The Singers plus Roman Gabriel Todd",
    "start": "2026-09-24T19:00:00-05:00",
    "end": "2026-09-24T22:00:00-05:00",
    "all_day": false,
@@ -420,6 +420,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 374,
+   "series_slug": "open-jump-7-special-pricing",
+   "title": "Open Jump – $7 SPECIAL PRICING",
+   "start": "2026-09-25T10:00:00-05:00",
+   "end": "2026-09-25T11:45:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pump-it-up-mobile",
+    "name": "Pump It Up Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.pumpitupparty.com/mobile-al/calendar/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2025/06/open-jump.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 2,
    "series_slug": "la-ai-meetup",
    "title": "LA-AI Meetup",
@@ -483,6 +517,74 @@
    },
    "image": {
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/PNO-bloom-play.webp?fit=750%2C922&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 375,
+   "series_slug": "the-lightning-thief",
+   "title": "The Lightning Thief",
+   "start": "2026-09-25T19:00:00-05:00",
+   "end": "2026-09-25T21:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "joe-jefferson-playhouse",
+    "name": "Joe Jefferson Playhouse",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/the-lightning-thief/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/logolightingthief.webp?fit=567%2C720&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 376,
+   "series_slug": "a-year-with-frog-and-toad",
+   "title": "A Year with Frog and Toad",
+   "start": "2026-09-25T19:30:00-05:00",
+   "end": "2026-09-25T21:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "laidlaw-performing-arts-center",
+    "name": "Laidlaw Performing Arts Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/a-year-with-frog-and-toad-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/frogandtoad.png?fit=673%2C896&ssl=1",
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
@@ -683,6 +785,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 377,
+   "series_slug": "a-year-with-frog-and-toad",
+   "title": "A Year with Frog and Toad ( 2pm & 7:30pm show times)",
+   "start": "2026-09-26T14:00:00-05:00",
+   "end": "2026-09-26T21:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "laidlaw-performing-arts-center",
+    "name": "Laidlaw Performing Arts Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/a-year-with-frog-and-toad/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/frogandtoad.png?fit=673%2C896&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 158,
    "series_slug": "mobile-comedy-battle-royale-presented-by-high-5-printing",
    "title": "Mobile Comedy Battle Royale presented by High 5 Printing",
@@ -711,6 +847,40 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 378,
+   "series_slug": "the-lightning-thief",
+   "title": "The Lightning Thief",
+   "start": "2026-09-26T19:00:00-05:00",
+   "end": "2026-09-26T21:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "joe-jefferson-playhouse",
+    "name": "Joe Jefferson Playhouse",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/the-lightning-thief-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/logolightingthief.webp?fit=567%2C720&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -836,6 +1006,74 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 379,
+   "series_slug": "the-lightning-thief",
+   "title": "The Lightning Thief",
+   "start": "2026-09-27T14:00:00-05:00",
+   "end": "2026-09-27T16:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "joe-jefferson-playhouse",
+    "name": "Joe Jefferson Playhouse",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/the-lightning-thief-3/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/logolightingthief.webp?fit=567%2C720&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 380,
+   "series_slug": "a-year-with-frog-and-toad",
+   "title": "A Year with Frog and Toad",
+   "start": "2026-09-27T14:00:00-05:00",
+   "end": "2026-09-27T16:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "laidlaw-performing-arts-center",
+    "name": "Laidlaw Performing Arts Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/a-year-with-frog-and-toad-3/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/frogandtoad.png?fit=673%2C896&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1166,6 +1404,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 382,
+   "series_slug": "a-year-with-frog-and-toad",
+   "title": "A Year with Frog and Toad",
+   "start": "2026-10-01T19:30:00-05:00",
+   "end": "2026-10-01T21:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "laidlaw-performing-arts-center",
+    "name": "Laidlaw Performing Arts Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/a-year-with-frog-and-toad-4/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/frogandtoad.png?fit=673%2C896&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 102,
    "series_slug": "jj-grey-mofro",
    "title": "JJ Grey & Mofro — Top of the World Tour",
@@ -1231,6 +1503,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 384,
+   "series_slug": "a-year-with-frog-and-toad",
+   "title": "A Year with Frog and Toad",
+   "start": "2026-10-02T19:30:00-05:00",
+   "end": "2026-10-02T21:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "laidlaw-performing-arts-center",
+    "name": "Laidlaw Performing Arts Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/a-year-with-frog-and-toad-5/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/frogandtoad.png?fit=673%2C896&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 103,
    "series_slug": "lamont-landers",
    "title": "Lamont Landers",
@@ -1286,6 +1592,37 @@
    "price": "$19.77-26.68",
    "ticket_url": "https://www.ticketweb.com/event/its-a-2000s-party-mobile-soul-kitchen-tickets/14994373",
    "info_url": "https://www.ticketweb.com/event/its-a-2000s-party-mobile-soul-kitchen-tickets/14994373",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 355,
+   "series_slug": "xxx-comedy-show-a-late-night-return-to-1970s-grindhouse-comedy",
+   "title": "XXX Comedy Show: A Late-Night Return to 1970s Grindhouse Comedy",
+   "start": "2026-10-02T21:30:00-05:00",
+   "end": "2026-10-03T00:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$14.41-39.01",
+   "ticket_url": "https://www.ticketweb.com/event/xxx-comedy-show-a-late-crescent-theater-tickets/14339014",
+   "info_url": "https://www.ticketweb.com/event/xxx-comedy-show-a-late-crescent-theater-tickets/14339014",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -1863,7 +2200,7 @@
   {
    "id": 178,
    "series_slug": "double-feature-comedy-night",
-   "title": "Double Feature Comedy Night",
+   "title": "Double Feature Comedy Night feat. Dan Alten and Carson Taylor",
    "start": "2026-10-10T19:00:00-05:00",
    "end": "2026-10-10T22:00:00-05:00",
    "all_day": false,
@@ -1881,7 +2218,7 @@
    },
    "price": "$20.56-50.31",
    "ticket_url": "https://www.ticketweb.com/event/double-feature-comedy-night-crescent-theater-tickets/15001503",
-   "info_url": "https://www.ticketweb.com/event/double-feature-comedy-night-crescent-theater-tickets/15001503",
+   "info_url": "https://www.ticketweb.com/event/double-feature-comedy-night-feat-crescent-theater-tickets/15001503",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -2533,6 +2870,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 356,
+   "series_slug": "song4song-music-last-song-competition",
+   "title": "🎶 SONG4SONG MUSIC — LAST SONG COMPETITION 🎶",
+   "start": "2026-10-18T18:30:00-05:00",
+   "end": "2026-10-18T21:30:00-05:00",
+   "all_day": false,
+   "category": "nightlife",
+   "categories": [
+    "nightlife"
+   ],
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$17.97",
+   "ticket_url": "https://www.ticketweb.com/event/-song4song-music-last-soul-kitchen-tickets/14328794",
+   "info_url": "https://www.ticketweb.com/event/-song4song-music-last-soul-kitchen-tickets/14328794",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 188,
    "series_slug": "great-lake-swimmers",
    "title": "GREAT LAKE SWIMMERS",
@@ -2898,6 +3266,38 @@
    "price": "$2.06",
    "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035533",
    "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035533",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 357,
+   "series_slug": "drew-tessier",
+   "title": "Drew Tessier",
+   "start": "2026-10-25T19:00:00-05:00",
+   "end": "2026-10-25T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$26.96-72.91",
+   "ticket_url": "https://www.ticketweb.com/event/drew-tessier-crescent-theater-tickets/14339414",
+   "info_url": "https://www.ticketweb.com/event/drew-tessier-crescent-theater-tickets/14339414",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -3383,6 +3783,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 358,
+   "series_slug": "jacob-brock-and-his-night-mares",
+   "title": "Jacob Brock and His Night Mares",
+   "start": "2026-10-31T21:00:00-05:00",
+   "end": "2026-11-01T00:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$18.61",
+   "ticket_url": "https://www.ticketweb.com/event/jacob-brock-and-his-night-the-merry-widow-tickets/14336054",
+   "info_url": "https://www.ticketweb.com/event/jacob-brock-and-his-night-the-merry-widow-tickets/14336054",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 336,
    "series_slug": "growth-alliance-task-force",
    "title": "Growth Alliance Task Force",
@@ -3447,6 +3878,37 @@
    },
    "curation_score": 1,
    "independent_source_count": 1
+  },
+  {
+   "id": 354,
+   "series_slug": "small-business-b-ai-sics-program",
+   "title": "Small Business B(AI)sics Program",
+   "start": "2026-11-04T08:30:00-06:00",
+   "end": "2026-11-04T10:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/small-business-b-ai-sics-program-1860018?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
   },
   {
    "id": 337,
@@ -4191,6 +4653,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 359,
+   "series_slug": "hannah-mcfarland",
+   "title": "Hannah McFarland",
+   "start": "2026-11-13T20:00:00-06:00",
+   "end": "2026-11-13T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$28.16",
+   "ticket_url": "https://www.ticketweb.com/event/hannah-mcfarland-soul-kitchen-tickets/14309034",
+   "info_url": "https://www.ticketweb.com/event/hannah-mcfarland-soul-kitchen-tickets/14309034",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 209,
    "series_slug": "black-and-gold-on-the-movie-screen",
    "title": "Black and Gold on the Movie Screen",
@@ -4414,6 +4907,37 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 360,
+   "series_slug": "blake-lambert",
+   "title": "Blake Lambert",
+   "start": "2026-11-20T20:30:00-06:00",
+   "end": "2026-11-20T23:30:00-06:00",
+   "all_day": false,
+   "category": "nightlife",
+   "categories": [
+    "nightlife"
+   ],
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$22.09",
+   "ticket_url": "https://www.ticketweb.com/event/blake-lambert-soul-kitchen-tickets/15033363",
+   "info_url": "https://www.ticketweb.com/event/blake-lambert-soul-kitchen-tickets/15033363",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -5269,6 +5793,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 361,
+   "series_slug": "double-feature-comedy-night-crescent-theater",
+   "title": "Double Feature Comedy Night",
+   "start": "2026-12-12T19:00:00-06:00",
+   "end": "2026-12-12T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$20.56-50.31",
+   "ticket_url": "https://www.ticketweb.com/event/double-feature-comedy-night-crescent-theater-tickets/14339104",
+   "info_url": "https://www.ticketweb.com/event/double-feature-comedy-night-crescent-theater-tickets/14339104",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 16,
    "series_slug": "swing-into-the-holidays",
    "title": "Swing into the Holidays!",
@@ -5325,6 +5880,38 @@
    "price": "$18.61",
    "ticket_url": "https://www.ticketweb.com/event/caleb-lee-hutchinson-long-line-the-merry-widow-tickets/14301074",
    "info_url": "https://www.ticketweb.com/event/caleb-lee-hutchinson-long-line-the-merry-widow-tickets/14301074",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 362,
+   "series_slug": "bingo-loco",
+   "title": "Bingo Loco",
+   "start": "2026-12-12T20:00:00-06:00",
+   "end": "2026-12-12T23:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "nightlife"
+   ],
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$45.91",
+   "ticket_url": "https://www.ticketweb.com/event/bingo-loco-soul-kitchen-tickets/14328864",
+   "info_url": "https://www.ticketweb.com/event/bingo-loco-soul-kitchen-tickets/14328864",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -5420,6 +6007,235 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-12-15/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 371,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-17T19:00:00-06:00",
+   "end": "2026-12-17T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-12-17/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 372,
+   "series_slug": "2nd-annual-jacob-hall-memorial-jam",
+   "title": "2nd Annual Jacob Hall Memorial Jam",
+   "start": "2026-12-18T18:00:00-06:00",
+   "end": "2026-12-18T21:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/2nd-annual-jacob-hall-memorial-jam/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/06/jacob-hall-jam-2-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 363,
+   "series_slug": "darren-knight-aka-southern-mama",
+   "title": "Darren Knight aka Southern Mama",
+   "start": "2026-12-18T19:00:00-06:00",
+   "end": "2026-12-18T22:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$38.45-94.38",
+   "ticket_url": "https://www.ticketweb.com/event/darren-knight-aka-southern-mama-crescent-theater-tickets/15046093",
+   "info_url": "https://www.ticketweb.com/event/darren-knight-aka-southern-mama-crescent-theater-tickets/15046093",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 364,
+   "series_slug": "darren-knight-aka-southern-mama",
+   "title": "Darren Knight aka Southern Mama",
+   "start": "2026-12-19T19:00:00-06:00",
+   "end": "2026-12-19T22:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$38.45-94.38",
+   "ticket_url": "https://www.ticketweb.com/event/darren-knight-aka-southern-mama-crescent-theater-tickets/15046103",
+   "info_url": "https://www.ticketweb.com/event/darren-knight-aka-southern-mama-crescent-theater-tickets/15046103",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 365,
+   "series_slug": "mustache-the-band",
+   "title": "Mustache the Band",
+   "start": "2026-12-19T20:30:00-06:00",
+   "end": "2026-12-19T23:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$26.68-56.5",
+   "ticket_url": "https://www.ticketweb.com/event/mustache-the-band-soul-kitchen-tickets/14327784",
+   "info_url": "https://www.ticketweb.com/event/mustache-the-band-soul-kitchen-tickets/14327784",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 366,
+   "series_slug": "black-and-gold-on-the-movie-screen-crescent-theater",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-12-20T12:00:00-06:00",
+   "end": "2026-12-20T15:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035563",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035563",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 373,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-22T19:00:00-06:00",
+   "end": "2026-12-22T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-12-22/",
    "source": {
     "name": "92ZEW",
     "tier": "C",
