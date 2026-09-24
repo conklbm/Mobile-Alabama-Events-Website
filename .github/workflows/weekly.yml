@@ -2,7 +2,7 @@ name: Weekly events pipeline
 
 on:
   schedule:
-    - cron: "0 11 * * 4"   # Thursday 6:00 AM Central (11:00 UTC)
+    - cron: "17 9 * * 4"   # Thursday ~4:17 AM Central. Off-the-hour minute: GitHub cron lags badly at :00; the review routine fires at 12:00 and 16:00 UTC
   workflow_dispatch:
 
 permissions:

@@ -8,7 +8,7 @@ Reply to the Thursday issue email (or comment on the issue) with one command per
 closes the issue when nothing is left. Only comments from the repo owner are honored.
 
 ## Done 2026-09-17: automatic venue research
-Cloud routine `Mobile Bay Events: resolve review queue` (Thu 12:00 UTC) + `.github/workflows/apply-config.yml`.
+Cloud routine `Mobile Bay Events: resolve review queue` (Thu 12:00 and 16:00 UTC) + `.github/workflows/apply-config.yml`.
 If it misbehaves: claude.ai/code/routines -> the routine -> run log. Its commits are titled "review routine: ...".
 
 ## Also pending
