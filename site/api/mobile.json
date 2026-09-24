@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-09-24T15:45:24Z",
+ "generated": "2026-09-24T16:12:52Z",
  "events": [
   {
    "id": 153,
@@ -1209,6 +1209,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 381,
+   "series_slug": "free-pilates-class-at-dicks-house-of-sport",
+   "title": "Free Pilates Class at Dick’s House of Sport",
+   "start": "2026-09-29T17:30:00-05:00",
+   "end": "2026-09-29T18:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "dicks-house-of-sport-mobile",
+    "name": "DICK'S House of Sport (Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.dickssportinggoods.com/s/scheduling/f/ea9ce246-ee85-48f6-9808-9a91dd43fa09?s=1647",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 100,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -1472,34 +1504,38 @@
    "independent_source_count": 2
   },
   {
-   "id": 167,
-   "series_slug": "corey-o-brien",
-   "title": "Corey O'Brien",
-   "start": "2026-10-02T19:00:00-05:00",
-   "end": "2026-10-02T22:00:00-05:00",
+   "id": 383,
+   "series_slug": "fall-movies-in-the-park",
+   "title": "Fall Movies in the Park",
+   "start": "2026-10-02T18:00:00-05:00",
+   "end": "2026-10-02T21:00:00-05:00",
    "all_day": false,
-   "category": "arts",
+   "category": "family",
    "categories": [
+    "family",
     "arts"
    ],
    "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
+    "slug": "laun-park",
+    "name": "Laun Park",
     "city": "Mobile",
     "regions": [
      "mobile"
     ]
    },
-   "price": "$29.22-77.43",
-   "ticket_url": "https://www.ticketweb.com/event/corey-obrien-crescent-theater-tickets/14260114",
-   "info_url": "https://www.ticketweb.com/event/corey-obrien-crescent-theater-tickets/14260114",
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/fall-movies-in-the-park/",
    "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
+    "name": "The Mob Mom",
+    "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/fall-movies-in-the-park.jpg?fit=960%2C503&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -2516,6 +2552,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 386,
+   "series_slug": "greek-fest-mobile",
+   "title": "Greek Fest Mobile",
+   "start": "2026-10-15T00:00:00-05:00",
+   "end": "2026-10-15T23:59:59-05:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "annunciation-greek-orthodox-church",
+    "name": "Annunciation Greek Orthodox Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://greekfestmobile.com/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/greek-fest.webp?fit=1080%2C1350&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 328,
    "series_slug": "gaillard-builders-ribbon-cutting",
    "title": "Gaillard Builders Ribbon Cutting",
@@ -3244,6 +3314,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 387,
+   "series_slug": "fall-festival",
+   "title": "Fall Festival",
+   "start": "2026-10-24T18:00:00-05:00",
+   "end": "2026-10-24T20:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "lily-baptist-church",
+    "name": "Lily Baptist Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/fall-festival-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/fall-festival.jpg?fit=640%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 193,
    "series_slug": "black-and-gold-on-the-movie-screen",
    "title": "Black and Gold on the Movie Screen",
@@ -3273,6 +3378,38 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 388,
+   "series_slug": "cityfest-fall-family-festival",
+   "title": "CITYFEST Fall Family Festival",
+   "start": "2026-10-25T16:00:00-05:00",
+   "end": "2026-10-25T17:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "saraland-church",
+    "name": "Saraland Church",
+    "city": "Saraland",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/cityfest-fall-family-festival/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -3409,29 +3546,38 @@
    "independent_source_count": 1
   },
   {
-   "id": 333,
-   "series_slug": "coffee-with-the-chamber-calagaz-printing",
-   "title": "Coffee with the Chamber: Calagaz Printing",
-   "start": "2026-10-28T08:00:00-05:00",
-   "end": "2026-10-28T09:30:00-05:00",
+   "id": 389,
+   "series_slug": "trunk-or-treat-fall-festival",
+   "title": "Trunk or Treat/Fall Festival",
+   "start": "2026-10-28T17:30:00-05:00",
+   "end": "2026-10-28T19:00:00-05:00",
    "all_day": false,
-   "category": "community",
+   "category": "family",
    "categories": [
+    "family",
     "community"
    ],
    "venue": {
-    "name": "90 Springdale Blvd. Mobile AL 36606-3916"
+    "slug": "first-baptist-church-satsuma",
+    "name": "First Baptist Church of Satsuma",
+    "city": "Satsuma",
+    "regions": [
+     "mobile"
+    ]
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://my.mobilechamber.com/boacalendar/Details/coffee-with-the-chamber-calagaz-printing-1878118?sourceTypeId=Hub",
+   "info_url": "https://themobmom.com/event/trunk-or-treat-fall-festival/",
    "source": {
-    "name": "Mobile Chamber",
-    "tier": "A",
+    "name": "The Mob Mom",
+    "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/satsuma-fall-festival.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -3718,6 +3864,41 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 390,
+   "series_slug": "fall-festival-10175-celeste-rd-saraland-al",
+   "title": "Fall Festival",
+   "start": "2026-10-31T14:30:00-05:00",
+   "end": "2026-10-31T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "celeste-road-baptist-church",
+    "name": "Celeste Road Baptist Church",
+    "city": "Saraland",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/fall-festival-3/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/fall-festival-2.jpg?fit=1320%2C1664&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
