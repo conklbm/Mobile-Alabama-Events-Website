@@ -11,6 +11,31 @@
       "permanent": true
     },
     {
+      "source": "/events/fall-in-love-with-speech-honey-b-bloom-mommy-me-session-on-the(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/ribbon-cutting-advance-auto-parts(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/family-art(/)?",
+      "destination": "/venues/mobile-museum-of-art/",
+      "permanent": true
+    },
+    {
+      "source": "/events/business-after-hours-with-cgi(/)?",
+      "destination": "/venues/innovation-portal/",
+      "permanent": true
+    },
+    {
+      "source": "/events/tina-friml(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
