@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-09-26T14:15:29Z",
+ "generated": "2026-09-27T15:02:25Z",
  "events": [
   {
    "id": 73,
@@ -34,174 +34,6 @@
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 76,
-   "series_slug": "parents-night-out",
-   "title": "Parents Night Out!",
-   "start": "2026-09-25T17:30:00-05:00",
-   "end": "2026-09-25T20:30:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "food"
-   ],
-   "venue": {
-    "slug": "bloom-play-studio",
-    "name": "BLOOM Play Studio",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://themobmom.com/event/parents-night-out-4/",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/PNO-bloom-play.webp?fit=750%2C922&ssl=1",
-    "credit": "The Mob Mom"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 375,
-   "series_slug": "the-lightning-thief",
-   "title": "The Lightning Thief",
-   "start": "2026-09-25T19:00:00-05:00",
-   "end": "2026-09-25T21:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active"
-   ],
-   "venue": {
-    "slug": "joe-jefferson-playhouse",
-    "name": "Joe Jefferson Playhouse",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://themobmom.com/event/the-lightning-thief/",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/logolightingthief.webp?fit=567%2C720&ssl=1",
-    "credit": "The Mob Mom"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 376,
-   "series_slug": "a-year-with-frog-and-toad",
-   "title": "A Year with Frog and Toad",
-   "start": "2026-09-25T19:30:00-05:00",
-   "end": "2026-09-25T21:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "laidlaw-performing-arts-center",
-    "name": "Laidlaw Performing Arts Center",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://themobmom.com/event/a-year-with-frog-and-toad-2/",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/frogandtoad.png?fit=673%2C896&ssl=1",
-    "credit": "The Mob Mom"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 98,
-   "series_slug": "jar-of-sap-alice-in-chains-tribute",
-   "title": "Jar of Sap: Alice In Chains Unplugged Tribute",
-   "start": "2026-09-25T20:00:00-05:00",
-   "end": "2026-09-25T23:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$20.56-26.96",
-   "ticket_url": "https://www.ticketweb.com/event/jar-of-sap-alice-in-crescent-theater-tickets/14215074",
-   "info_url": "https://www.ticketweb.com/event/jar-of-sap-alice-in-crescent-theater-tickets/14215074",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/06/74_Edp.png",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
-  },
-  {
-   "id": 157,
-   "series_slug": "johnny-mullenax",
-   "title": "Johnny Mullenax",
-   "start": "2026-09-25T20:00:00-05:00",
-   "end": "2026-09-25T23:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "the-merry-widow",
-    "name": "The Merry Widow",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$21.19",
-   "ticket_url": "https://www.ticketweb.com/event/johnny-mullenax-the-merry-widow-tickets/14923573",
-   "info_url": "https://www.ticketweb.com/event/johnny-mullenax-the-merry-widow-tickets/14923573",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -239,36 +71,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 79,
-   "series_slug": "usa-health-mitchell-cancer-institute-go-run",
-   "title": "USA Health Mitchell Cancer Institute GO Run",
-   "start": "2026-09-26T08:00:00-05:00",
-   "end": "2026-09-26T10:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "name": ""
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://themobmom.com/event/usa-health-mitchell-cancer-institute-go-run/",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/GO-Run-scaled.webp?fit=2560%2C2560&ssl=1",
-    "credit": "The Mob Mom"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 80,
    "series_slug": "mobile-reptile-exotic-pet-expo",
    "title": "Mobile Reptile & Exotic Pet Expo",
@@ -299,37 +101,6 @@
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/pet-expo.jpg?fit=960%2C960&ssl=1",
     "credit": "The Mob Mom"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 82,
-   "series_slug": "search-and-rescue-instruction-program-for-kids",
-   "title": "Search and Rescue Instruction Program for Kids",
-   "start": "2026-09-26T11:00:00-05:00",
-   "end": "2026-09-26T12:00:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family"
-   ],
-   "venue": {
-    "slug": "blakeley-state-park",
-    "name": "Historic Blakeley State Park",
-    "city": "Spanish Fort",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.blakeleypark.com/Things-to-Do/Events/AgentType/View/PropertyID/282",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
    "curation_score": 1,
    "independent_source_count": 1
   },

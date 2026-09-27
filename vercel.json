@@ -36,6 +36,11 @@
       "permanent": true
     },
     {
+      "source": "/events/the-midnight-matinee-the-temple-of-boom(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
