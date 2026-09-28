@@ -41,6 +41,51 @@
       "permanent": true
     },
     {
+      "source": "/events/the-great-bellingrath-harvest(/)?",
+      "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
+      "source": "/events/naturenauts-stem-day(/)?",
+      "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
+      "source": "/events/little-tikes-jump(/)?",
+      "destination": "/venues/pump-it-up-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/kids-day-young-entrepreneur-showcase(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/dog-days-at-mbg(/)?",
+      "destination": "/venues/mobile-botanical-gardens/",
+      "permanent": true
+    },
+    {
+      "source": "/events/donuts-bubble-bash-jump(/)?",
+      "destination": "/venues/pump-it-up-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/art-of-the-paw(/)?",
+      "destination": "/venues/eastern-shore-art-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/austin-meade(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/lyfe-jennings(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true

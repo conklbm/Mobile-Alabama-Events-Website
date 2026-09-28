@@ -1,73 +1,7 @@
 {
  "region": "coastal",
- "generated": "2026-09-27T15:02:25Z",
+ "generated": "2026-09-28T18:01:27Z",
  "events": [
-  {
-   "id": 77,
-   "series_slug": "game-day-on-the-green-at-portside",
-   "title": "Game Day on The Green at Portside",
-   "start": "2026-09-26T00:00:00-05:00",
-   "end": "2026-09-26T23:59:59-05:00",
-   "all_day": true,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "family"
-   ],
-   "venue": {
-    "slug": "the-wharf-amphitheater",
-    "name": "The Wharf Amphitheater",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://alwharf.com/events/2026/09",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 99,
-   "series_slug": "gabriel-iglesias",
-   "title": "Gabriel Fluffy Iglesias: The 1976 Tour",
-   "start": "2026-09-26T20:00:00-05:00",
-   "end": "2026-09-26T23:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/gabriel-fluffy-iglesias-the-1976-tour-pensacola-florida-09-26-2026/event/1B006390CD61D0CB",
-   "info_url": "https://www.ticketmaster.com/gabriel-fluffy-iglesias-the-1976-tour-pensacola-florida-09-26-2026/event/1B006390CD61D0CB",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/09/IC_GabrielIglesias_0926_Pensacola_250x150-b77a26a3ea.webp",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
-  },
   {
    "id": 83,
    "series_slug": "lakeview-nature-walk",
