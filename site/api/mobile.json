@@ -1,41 +1,7 @@
 {
  "region": "mobile",
- "generated": "2026-09-28T18:01:27Z",
+ "generated": "2026-09-29T16:24:43Z",
  "events": [
-  {
-   "id": 73,
-   "series_slug": "fall-2026-statemint-mobile-pop-up",
-   "title": "Fall 2026 Statemint Mobile Pop Up",
-   "start": "2026-09-25T09:00:00-05:00",
-   "end": "2026-09-27T19:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "abba-shrine",
-    "name": "Abba Shrine Center",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://themobmom.com/event/fall-2026-statemint-mobile-pop-up/",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/statemint-pop-up.jpg?fit=960%2C300&ssl=1",
-    "credit": "The Mob Mom"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
   {
    "id": 85,
    "series_slug": "open-play-at-everhope",

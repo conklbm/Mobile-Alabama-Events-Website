@@ -76,12 +76,32 @@
       "permanent": true
     },
     {
+      "source": "/events/pop-and-jump(/)?",
+      "destination": "/venues/pump-it-up-mobile/",
+      "permanent": true
+    },
+    {
       "source": "/events/austin-meade(/)?",
       "destination": "/venues/the-merry-widow/",
       "permanent": true
     },
     {
       "source": "/events/lyfe-jennings(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/delta-discovery-cruise(/)?",
+      "destination": "/venues/five-rivers-delta-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/sunday-sunset-concert-series(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/morgan-wade-loves-insane-tour(/)?",
       "destination": "/venues/soul-kitchen/",
       "permanent": true
     },
