@@ -106,6 +106,11 @@
       "permanent": true
     },
     {
+      "source": "/events/story-time-at-everhope-baptist-church(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true

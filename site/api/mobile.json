@@ -1,76 +1,7 @@
 {
  "region": "mobile",
- "generated": "2026-09-29T16:24:43Z",
+ "generated": "2026-09-30T16:19:42Z",
  "events": [
-  {
-   "id": 85,
-   "series_slug": "open-play-at-everhope",
-   "title": "Open Play at EverHope",
-   "start": "2026-09-29T09:30:00-05:00",
-   "end": "2026-09-29T10:30:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "community"
-   ],
-   "venue": {
-    "slug": "everhope-baptist-church",
-    "name": "EverHope Baptist Church",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://themobmom.com/event/open-play-at-everhope-2/",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/Everhope-Baptsist-Storytime.jpg?fit=960%2C640&ssl=1",
-    "credit": "The Mob Mom"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 3,
-   "series_slug": "prototyping-lab-3d-modeling-workshop",
-   "title": "Prototyping Lab 3D Modeling Workshop",
-   "start": "2026-09-29T16:00:00-05:00",
-   "end": "2026-09-29T17:30:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "innovation-portal",
-    "name": "Innovation Portal",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.innovation-portal.com/event/prototyping-lab-3d-modeling-workshop-4/2026-09-29/",
-   "source": {
-    "name": "Innovation Portal",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-1-1.png",
-    "credit": "Innovation Portal"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
   {
    "id": 320,
    "series_slug": "young-professionals-of-mobile-2026-board-readiness-training",
@@ -100,38 +31,6 @@
    },
    "image": null,
    "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 381,
-   "series_slug": "free-pilates-class-at-dicks-house-of-sport",
-   "title": "Free Pilates Class at Dick’s House of Sport",
-   "start": "2026-09-29T17:30:00-05:00",
-   "end": "2026-09-29T18:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "dicks-house-of-sport-mobile",
-    "name": "DICK'S House of Sport (Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.dickssportinggoods.com/s/scheduling/f/ea9ce246-ee85-48f6-9808-9a91dd43fa09?s=1647",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
    "independent_source_count": 1
   },
   {
