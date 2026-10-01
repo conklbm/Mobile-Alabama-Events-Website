@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-10-01T12:25:59Z",
+ "generated": "2026-10-01T16:26:30Z",
  "events": [
   {
    "id": 165,
@@ -203,6 +203,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 408,
+   "series_slug": "zeke-buckhaults-the-crescent-theater-employees-showcase",
+   "title": "Zeke Buckhaults & The Crescent Theater Employees Showcase",
+   "start": "2026-10-02T19:00:00-05:00",
+   "end": "2026-10-02T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$14.41-61.61",
+   "ticket_url": "https://www.ticketweb.com/event/zeke-buckhaults-the-crescent-crescent-theater-tickets/14350084",
+   "info_url": "https://www.ticketweb.com/event/zeke-buckhaults-the-crescent-crescent-theater-tickets/14350084",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 384,
    "series_slug": "a-year-with-frog-and-toad",
    "title": "A Year with Frog and Toad",
@@ -333,6 +364,145 @@
    "independent_source_count": 1
   },
   {
+   "id": 431,
+   "series_slug": "djs-trade-show",
+   "title": "DJ’s Trade Show",
+   "start": "2026-10-03T09:00:00-05:00",
+   "end": "2026-10-03T17:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "family"
+   ],
+   "venue": {
+    "slug": "abba-shrine",
+    "name": "Abba Shrine Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/djs-trade-show/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/678479047_122097991346580782_8276800857665983461_n.jpg?fit=728%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 433,
+   "series_slug": "south-alabama-comic-con-2026",
+   "title": "South Alabama Comic Con 2026",
+   "start": "2026-10-03T10:00:00-05:00",
+   "end": "2026-10-04T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-convention-center",
+    "name": "Mobile Convention Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/south-alabama-comic-con-2026/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/641259566_122234737448099758_254628388203250343_n.jpg?fit=960%2C355&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 435,
+   "series_slug": "celebrate-250-mobile-community-event",
+   "title": "Celebrate 250 Mobile Community Event",
+   "start": "2026-10-03T12:00:00-05:00",
+   "end": "2026-10-03T16:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "music"
+   ],
+   "venue": {
+    "slug": "uss-alabama-battleship-park",
+    "name": "USS Alabama Battleship Memorial Park",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/celebrate-250-mobile-community-event/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/800924840_1523820326449014_5392848492437836740_n.jpg?fit=960%2C804&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 436,
+   "series_slug": "community-spirit-day",
+   "title": "Community Spirit Day",
+   "start": "2026-10-03T14:00:00-05:00",
+   "end": "2026-10-03T17:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "music"
+   ],
+   "venue": {
+    "slug": "lott-park",
+    "name": "W.O. Lott Park",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/community-spirit-day/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/758117960_1022874773845548_8541011926526044646_n.jpg?fit=495%2C640&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 169,
    "series_slug": "mike-goodwin-early-show",
    "title": "Mike Goodwin",
@@ -362,6 +532,40 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 437,
+   "series_slug": "abba-shrine-trunk-of-treat-indoor-event",
+   "title": "Abba Shrine Trunk of Treat Indoor Event",
+   "start": "2026-10-04T14:00:00-05:00",
+   "end": "2026-10-04T17:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "abba-shrine",
+    "name": "Abba Shrine Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/abba-shrine-trunk-of-treat-indoor-event/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/787558210_1372541074990118_3059719763171276968_n.jpg?fit=960%2C640&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -556,6 +760,32 @@
    "independent_source_count": 1
   },
   {
+   "id": 404,
+   "series_slug": "open-house-drury-plaza-hotel",
+   "title": "Open House Drury Plaza Hotel",
+   "start": "2026-10-07T11:00:00-05:00",
+   "end": "2026-10-07T13:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "812 West I-65 Service Rd S Mobile 36608"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/open-house-drury-plaza-hotel-1942910?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 324,
    "series_slug": "origin-bank-ribbon-cutting",
    "title": "Origin Bank Ribbon Cutting",
@@ -701,6 +931,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 405,
+   "series_slug": "royal-restrooms-ribbon-cutting",
+   "title": "Royal Restrooms Ribbon Cutting",
+   "start": "2026-10-08T11:30:00-05:00",
+   "end": "2026-10-08T12:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/royal-restrooms-ribbon-cutting-1868784?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 4,
    "series_slug": "prototyping-lab-open-house-night",
    "title": "Prototyping Lab Open House Night!",
@@ -767,37 +1028,6 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 175,
-   "series_slug": "stagner-s-showcase-feat-justin-stagner-friends",
-   "title": "Stagner's Showcase feat. Justin Stagner & Friends",
-   "start": "2026-10-08T19:00:00-05:00",
-   "end": "2026-10-08T22:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$14.41-50.31",
-   "ticket_url": "https://www.ticketweb.com/event/stagners-showcase-feat-justin-stagner-crescent-theater-tickets/15047863",
-   "info_url": "https://www.ticketweb.com/event/stagners-showcase-feat-justin-stagner-crescent-theater-tickets/15047863",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -895,6 +1125,72 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 409,
+   "series_slug": "big-deal-burlesque-presented-by-roxie-le-rouge",
+   "title": "BIG DEAL BURLESQUE Presented by Roxie Le Rouge",
+   "start": "2026-10-09T21:00:00-05:00",
+   "end": "2026-10-10T00:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "alabama-music-box",
+    "name": "Alabama Music Box",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$8.31-126.76",
+   "ticket_url": "https://www.ticketweb.com/event/big-deal-burlesque-presented-by-alabama-music-box-tickets/14351284",
+   "info_url": "https://www.ticketweb.com/event/big-deal-burlesque-presented-by-alabama-music-box-tickets/14351284",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 443,
+   "series_slug": "first-fairhopes-fall-festival",
+   "title": "First Fairhope’s Fall Festival",
+   "start": "2026-10-10T10:00:00-05:00",
+   "end": "2026-10-10T14:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/first-fairhopes-fall-festival/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/825340815_2143523053226085_8413162650108415021_n.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1408,6 +1704,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 448,
+   "series_slug": "haunted-hangout",
+   "title": "Haunted Hangout",
+   "start": "2026-10-16T19:30:00-05:00",
+   "end": "2026-10-16T21:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "food"
+   ],
+   "venue": {
+    "slug": "gulf-coast-exploreum",
+    "name": "Gulf Coast Exploreum Science Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/haunted-hangout/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/820393906_26346460921717624_5949793998327440470_n.jpg?fit=512%2C640&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 185,
    "series_slug": "danny-bedrosian-secret-army",
    "title": "Danny Bedrosian & Secret Army",
@@ -1468,6 +1799,40 @@
    },
    "image": {
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2025/09/pops-midtown-pumpkin-patch-2026.jpg?fit=742%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 452,
+   "series_slug": "38th-annual-jubilee-arts-festival",
+   "title": "38th Annual Jubilee Arts Festival",
+   "start": "2026-10-17T10:00:00-05:00",
+   "end": "2026-10-18T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "lott-park",
+    "name": "W.O. Lott Park",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/38th-annual-jubilee-arts-festival/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/742619946_1539315501461214_1852348507574913087_n.jpg?fit=500%2C500&ssl=1",
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
@@ -1570,6 +1935,37 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
+  },
+  {
+   "id": 410,
+   "series_slug": "halloween-bash-pop-punk-emo-night-mobile-by-punknites",
+   "title": "HALLOWEEN BASH – Pop Punk Emo Night Mobile by PunkNites",
+   "start": "2026-10-17T21:00:00-05:00",
+   "end": "2026-10-18T00:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$13.46",
+   "ticket_url": "https://www.ticketweb.com/event/halloween-bash-pop-punk-the-merry-widow-tickets/14352924",
+   "info_url": "https://www.ticketweb.com/event/halloween-bash-pop-punk-the-merry-widow-tickets/14352924",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 187,
@@ -1913,6 +2309,68 @@
    "independent_source_count": 1
   },
   {
+   "id": 175,
+   "series_slug": "stagner-s-showcase-feat-justin-stagner-friends",
+   "title": "Stagner's Showcase feat. Justin Stagner & Friends",
+   "start": "2026-10-22T19:00:00-05:00",
+   "end": "2026-10-22T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$14.41-50.31",
+   "ticket_url": "https://www.ticketweb.com/event/stagners-showcase-feat-justin-stagner-crescent-theater-tickets/15047863",
+   "info_url": "https://www.ticketweb.com/event/stagners-showcase-feat-justin-stagner-crescent-theater-tickets/15047863",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 411,
+   "series_slug": "laughs-for-vets-veterans-doing-comedy-for-veterans",
+   "title": "Laughs For Vets: Veterans Doing Comedy For Veterans",
+   "start": "2026-10-23T19:00:00-05:00",
+   "end": "2026-10-23T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$26.96-84.21",
+   "ticket_url": "https://www.ticketweb.com/event/laughs-for-vets-veterans-doing-crescent-theater-tickets/14350494",
+   "info_url": "https://www.ticketweb.com/event/laughs-for-vets-veterans-doing-crescent-theater-tickets/14350494",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 119,
    "series_slug": "jd-simo-w-luther-dickinson-black-joe-lewis-the-honeybears",
    "title": "JD SIMO w/ Luther Dickinson X Black Joe Lewis & The Honeybears",
@@ -1945,6 +2403,41 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
+  },
+  {
+   "id": 457,
+   "series_slug": "boo-bash-by-the-bay",
+   "title": "Boo Bash by the Bay",
+   "start": "2026-10-24T10:00:00-05:00",
+   "end": "2026-10-24T16:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "food"
+   ],
+   "venue": {
+    "slug": "uss-alabama-battleship-park",
+    "name": "USS Alabama Battleship Memorial Park",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/boo-bash-by-the-bay/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/795255000_846385275136938_492927056178177776_n.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 192,
@@ -2411,8 +2904,7 @@
    "all_day": false,
    "category": "community",
    "categories": [
-    "community",
-    "arts"
+    "community"
    ],
    "venue": {
     "slug": "battle-house-hotel",
@@ -2466,6 +2958,41 @@
     "credit": "Innovation Portal"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 459,
+   "series_slug": "harvest-jam",
+   "title": "Harvest Jam",
+   "start": "2026-10-30T16:00:00-05:00",
+   "end": "2026-10-30T19:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "music"
+   ],
+   "venue": {
+    "slug": "spanish-fort-town-center",
+    "name": "Spanish Fort Town Center",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/harvest-jam/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/10/811236032_1689315463197241_6476656330661725790_n.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -2811,6 +3338,63 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 412,
+   "series_slug": "rhett-miller-of-old-97-s",
+   "title": "RHETT MILLER OF OLD 97'S",
+   "start": "2026-11-04T20:00:00-06:00",
+   "end": "2026-11-04T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$34.06",
+   "ticket_url": "https://www.ticketweb.com/event/rhett-miller-of-old-97s-the-merry-widow-tickets/14338354",
+   "info_url": "https://www.ticketweb.com/event/rhett-miller-of-old-97s-the-merry-widow-tickets/14338354",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 406,
+   "series_slug": "adoptionrocks-ribbon-cutting",
+   "title": "AdoptionRocks Ribbon Cutting",
+   "start": "2026-11-05T16:00:00-06:00",
+   "end": "2026-11-05T18:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "6001 Grelot Rd STE H Mobile 36609"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/adoptionrocks-ribbon-cutting-1943644?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
     "redistributable": false
    },
    "image": null,
@@ -3529,6 +4113,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 413,
+   "series_slug": "justin-jeansonne",
+   "title": "Justin Jeansonne",
+   "start": "2026-11-13T20:00:00-06:00",
+   "end": "2026-11-13T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$18.61",
+   "ticket_url": "https://www.ticketweb.com/event/justin-jeansonne-the-merry-widow-tickets/14347034",
+   "info_url": "https://www.ticketweb.com/event/justin-jeansonne-the-merry-widow-tickets/14347034",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 209,
    "series_slug": "black-and-gold-on-the-movie-screen",
    "title": "Black and Gold on the Movie Screen",
@@ -3721,6 +4336,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 414,
+   "series_slug": "selwyn-birchwood",
+   "title": "Selwyn Birchwood",
+   "start": "2026-11-19T20:00:00-06:00",
+   "end": "2026-11-19T23:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$18.61",
+   "ticket_url": "https://www.ticketweb.com/event/selwyn-birchwood-the-merry-widow-tickets/14349824",
+   "info_url": "https://www.ticketweb.com/event/selwyn-birchwood-the-merry-widow-tickets/14349824",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 133,
    "series_slug": "robert-earl-keen",
    "title": "Robert Earl Keen",
@@ -3752,6 +4398,37 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 415,
+   "series_slug": "truett-beasley-comedy-hypnotist",
+   "title": "Truett Beasley: Comedy Hypnotist",
+   "start": "2026-11-20T19:00:00-06:00",
+   "end": "2026-11-20T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$20.56-61.61",
+   "ticket_url": "https://www.ticketweb.com/event/truett-beasley-comedy-hypnotist-crescent-theater-tickets/14344124",
+   "info_url": "https://www.ticketweb.com/event/truett-beasley-comedy-hypnotist-crescent-theater-tickets/14344124",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -4141,6 +4818,37 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 407,
+   "series_slug": "young-professionals-of-mobile-october-2026-lunch-and-learn",
+   "title": "Young Professionals of Mobile December 2026 Lunch and Learn",
+   "start": "2026-12-02T11:30:00-06:00",
+   "end": "2026-12-02T13:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/young-professionals-of-mobile-december-2026-lunch-and-learn-1685628?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
     "redistributable": false
    },
    "image": null,
@@ -5081,6 +5789,176 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-12-22/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 426,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-24T19:00:00-06:00",
+   "end": "2026-12-24T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2026-12-24/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 391,
+   "series_slug": "la-ai-meetup",
+   "title": "LA-AI Meetup",
+   "start": "2026-12-25T15:30:00-06:00",
+   "end": "2026-12-25T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/la-ai-meetup-2/2026-12-25/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2024/03/IP_Meetup-2-28-25-copy-scaled.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 416,
+   "series_slug": "black-and-gold-on-the-movie-screen-crescent-theater",
+   "title": "Black and Gold on the Movie Screen",
+   "start": "2026-12-27T12:00:00-06:00",
+   "end": "2026-12-27T15:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports",
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035653",
+   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035653",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 392,
+   "series_slug": "prototyping-lab-3d-modeling-workshop",
+   "title": "Prototyping Lab 3D Modeling Workshop",
+   "start": "2026-12-29T16:00:00-06:00",
+   "end": "2026-12-29T17:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/prototyping-lab-3d-modeling-workshop-4/2026-12-29/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-1-1.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 427,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-29T19:00:00-06:00",
+   "end": "2026-12-29T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-12-29/",
    "source": {
     "name": "92ZEW",
     "tier": "C",
