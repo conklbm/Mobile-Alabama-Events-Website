@@ -17,10 +17,13 @@ never_merge:
 # Confirm cancellation (occurrence id) — removes it from the site.
 cancelled:
   - 167   # Corey O'Brien, Crescent Theater: TicketWeb listing 404s (checked 2026-10-02)
+  - 348   # Orange Beach Fall Pop-Up Farmers Market: moved from Oct 4 to Oct 11 (weather)
+  - 326   # Infinity Bicycles Ribbon Cutting: chamber page now shows a different event
 
 # Clear a cancellation flag (occurrence id) — it's still happening.
 not_cancelled:
   - 333   # Coffee with the Chamber: Calagaz Printing still live on the chamber calendar (2026-10-02)
+  - 325   # StoryBrand Marketing #2: still live on the chamber calendar (2026-10-02)
 
 # Publish a held item as-is (occurrence id). Use when the venue is genuinely
 # unknown but the event is real — better to add an alias in venues.yaml.
