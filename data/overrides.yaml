@@ -15,11 +15,14 @@ never_merge:
   - [271, 269]   # Pensacola Invitational: 2-day package vs Saturday-only are different products
 
 # Confirm cancellation (occurrence id) — removes it from the site.
-cancelled: []
+cancelled:
+  - 167   # Corey O'Brien, Crescent Theater: TicketWeb listing 404s (checked 2026-10-02)
 
 # Clear a cancellation flag (occurrence id) — it's still happening.
-not_cancelled: []
+not_cancelled:
+  - 333   # Coffee with the Chamber: Calagaz Printing still live on the chamber calendar (2026-10-02)
 
 # Publish a held item as-is (occurrence id). Use when the venue is genuinely
 # unknown but the event is real — better to add an alias in venues.yaml.
-force_publish: []
+force_publish:
+  - 385   # Fall Brawl Festival: MOB Moms' own vendor market at 2700 Newman Rd; no named venue

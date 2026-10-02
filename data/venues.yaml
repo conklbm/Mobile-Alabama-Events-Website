@@ -970,3 +970,157 @@
   zip: "36571"
   regions: [mobile]
 
+
+- slug: graham-creek-nature-preserve
+  name: Graham Creek Nature Preserve
+  aliases: ["Graham Creek Nature Preserve", "Graham Creek Preserve", "Graham Creek"]
+  domains: []
+  address: 23030 Wolf Bay Dr
+  city: Foley
+  state: AL
+  zip: "36535"
+  regions: [coastal]
+  notes: "City of Foley's nature preserve: trails, disc golf, and a canoe launch on Graham Creek. Hosts seasonal family events like Spooky Express."
+
+- slug: baldwin-county-heritage-museum
+  name: Baldwin County Heritage Museum
+  aliases: ["Baldwin County Heritage Museum", "25521 US-98, Elberta, AL", "25521 US-98 Elberta", "25521 Hwy 98, Elberta, AL"]
+  domains: []
+  address: 25521 US-98
+  city: Elberta
+  state: AL
+  zip: "36530"
+  regions: [coastal]
+  notes: "Free museum on five acres: a 1909 church, blacksmith shop, schoolhouse, and period rooms. Open Wed–Sat 10–3."
+
+- slug: eslava-creek-resort
+  name: Eslava Creek Resort
+  aliases: ["Eslava Creek Resort", "Eslava Creek", "Freaky Creek"]
+  domains: []
+  address: 1363 E Riviera Dr
+  city: Mobile
+  state: AL
+  zip: "36605"
+  regions: [mobile]
+  notes: "Private creekside property in Mobile's Riviera neighborhood; runs the Haunted Trail on Freaky Creek each October. Kids admitted before 8 PM."
+
+- slug: loxley-municipal-park
+  name: Loxley Municipal Park
+  aliases: ["Loxley Municipal Park", "Loxley Park", "Loxley City Park"]
+  domains: []
+  address: N Hickory St
+  city: Loxley
+  state: AL
+  zip: "36551"
+  regions: [coastal]
+  notes: "Town park just off I-10 at Loxley; home of Food Truck Fridays (5–8 PM)."
+
+- slug: heritage-park-foley
+  name: Heritage Park (Foley)
+  aliases: ["Heritage Park (Foley)", "Heritage Park Foley", "Foley Heritage Park"]
+  domains: []
+  address: 200 N McKenzie St
+  city: Foley
+  state: AL
+  zip: "36535"
+  regions: [coastal]
+  notes: "Downtown Foley's event lawn beside the train depot; festivals like Tacos & Tequila set up here."
+
+- slug: american-autism-rehabilitation-center
+  name: American Autism & Rehabilitation Center
+  aliases: ["American Autism and Rehabilitation Center", "American Autism & Rehabilitation Center", "AARC", "AARC Daphne"]
+  domains: []
+  address: 8909 Rand Ave
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "ABA therapy and rehab center in Daphne. Its events are built for kids with special needs and their families."
+
+- slug: baldwin-county-bicentennial-park
+  name: Baldwin County Bicentennial Park
+  aliases: ["Bicentennial Park", "Baldwin County Bicentennial Park", "Historic Bicentennial Park", "Bicentennial Park Stockton"]
+  domains: []
+  address: 51233 State Hwy 225
+  city: Stockton
+  state: AL
+  zip: "36579"
+  regions: [mobile]
+  notes: "County-run living-history park on Hwy 225, 1.5 miles north of I-65. Home of Olde Time Days each October."
+
+- slug: environmental-studies-center
+  name: Environmental Studies Center
+  aliases: ["Environmental Studies Center", "Mobile Environmental Studies Center", "MCPSS Environmental Studies Center"]
+  domains: []
+  address: 6101 Girby Rd
+  city: Mobile
+  state: AL
+  zip: "36693"
+  regions: [mobile]
+  notes: "Mobile County Public Schools' 500-acre outdoor classroom with live animals and trails; opens to the public for weekend programs."
+
+- slug: langan-park
+  name: Langan Municipal Park
+  aliases: ["Langan Park", "Langan Municipal Park", "Mobile Municipal Park", "Municipal Park Mobile"]
+  domains: []
+  address: 4901 Zeigler Blvd
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "Mobile's big west-side park: lake, walking trails, disc golf, ball fields, and pavilions."
+
+- slug: magnolia-springs-fire-department
+  name: Magnolia Springs Volunteer Fire Department
+  aliases: ["14809 Gates Avenue", "14809 Gates Ave", "Magnolia Springs Volunteer Fire Department", "Magnolia Springs Fire Department", "Magnolia Springs VFD"]
+  domains: []
+  address: 14809 Gates Ave
+  city: Magnolia Springs
+  state: AL
+  zip: "36555"
+  regions: [coastal]
+  notes: "Volunteer fire station under the oaks; its October Firefighter Festival is the department's main fundraiser. Free parking on site."
+
+- slug: alabama-gulf-coast-zoo
+  name: Alabama Gulf Coast Zoo
+  aliases: ["Alabama Gulf Coast Zoo", "Gulf Coast Zoo", "The Zoo Gulf Shores"]
+  domains: []
+  address: 20499 Oak Rd E
+  city: Gulf Shores
+  state: AL
+  zip: "36542"
+  regions: [coastal]
+  notes: "Inland zoo off Oak Road with animal encounters; hosts Boo at the Zoo in October."
+
+- slug: the-patch-lillian-cattle-company
+  name: The Patch by Lillian Cattle Company
+  aliases: ["The Patch by Lillian Cattle Company", "Lillian Cattle Company", "Lillian Cattle Co"]
+  domains: ["lilliancattlecompany.com"]
+  address: 14325 County Rd 91
+  city: Elberta
+  state: AL
+  zip: "36530"
+  regions: [coastal]
+  notes: "Fourth-generation cattle farm near Lillian. Fall pumpkin patch with hayrides, two mazes, and a corn pit."
+
+- slug: dumas-wesley-community-center
+  name: Dumas Wesley Community Center
+  aliases: ["Dumas Wesley Community Center", "Dumas Wesley", "Dumas-Wesley Community Center"]
+  domains: []
+  address: 126 Mobile St
+  city: Mobile
+  state: AL
+  zip: "36607"
+  regions: [mobile]
+  notes: "Crichton-area nonprofit running family services and a shelter; hosts community events like its annual Trunk or Treat."
+
+- slug: glazed-doughnuts-daphne
+  name: Glazed Doughnuts (Daphne)
+  aliases: ["Glazed Doughnuts", "Glazed Donuts", "Glazed Doughnuts Daphne"]
+  domains: []
+  address: 2200 US-98, Suite 5A
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "Family-owned doughnut shop on Hwy 98 in Daphne, open early (5 AM)."
