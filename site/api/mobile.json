@@ -1,69 +1,7 @@
 {
  "region": "mobile",
- "generated": "2026-10-01T16:56:52Z",
+ "generated": "2026-10-02T15:46:19Z",
  "events": [
-  {
-   "id": 165,
-   "series_slug": "crescent-comedy-workshop",
-   "title": "Crescent Comedy Chaos",
-   "start": "2026-09-30T20:00:00-05:00",
-   "end": "2026-09-30T23:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15039953",
-   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15039953",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 166,
-   "series_slug": "struggle-jennings",
-   "title": "Struggle Jennings",
-   "start": "2026-09-30T20:00:00-05:00",
-   "end": "2026-09-30T23:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "soul-kitchen",
-    "name": "Soul Kitchen Music Hall",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$33.34-67.57",
-   "ticket_url": "https://www.ticketweb.com/event/struggle-jennings-soul-kitchen-tickets/14836023",
-   "info_url": "https://www.ticketweb.com/event/struggle-jennings-soul-kitchen-tickets/14836023",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
   {
    "id": 101,
    "series_slug": "beer-bbq-bingo",
@@ -874,63 +812,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 325,
-   "series_slug": "what-story-does-your-website-tell",
-   "title": "What Story Does Your Website Tell?",
-   "start": "2026-10-08T08:30:00-05:00",
-   "end": "2026-10-08T10:30:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "mobile-chamber",
-    "name": "Mobile Chamber",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://my.mobilechamber.com/boacalendar/Details/what-story-does-your-website-tell-1704074?sourceTypeId=Hub",
-   "source": {
-    "name": "Mobile Chamber",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 326,
-   "series_slug": "infinity-bicycles-ribbon-cutting",
-   "title": "Infinity Bicycles Ribbon Cutting",
-   "start": "2026-10-08T11:30:00-05:00",
-   "end": "2026-10-08T12:30:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "name": "915 Hillcrest Road Mobile"
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://my.mobilechamber.com/boacalendar/Details/infinity-bicycles-ribbon-cutting-1868784?sourceTypeId=Hub",
-   "source": {
-    "name": "Mobile Chamber",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 405,
    "series_slug": "royal-restrooms-ribbon-cutting",
    "title": "Royal Restrooms Ribbon Cutting",
@@ -1026,6 +907,41 @@
    "image": {
     "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
     "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 438,
+   "series_slug": "aarc-fall-festival",
+   "title": "AARC Fall Festival",
+   "start": "2026-10-09T16:00:00-05:00",
+   "end": "2026-10-09T18:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "american-autism-rehabilitation-center",
+    "name": "American Autism & Rehabilitation Center",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/aarc-fall-festival/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/10/805905876_2018478612657855_4465708229474343847_n.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
    },
    "curation_score": 1,
    "independent_source_count": 1
@@ -1159,6 +1075,104 @@
    "independent_source_count": 1
   },
   {
+   "id": 441,
+   "series_slug": "olde-time-days",
+   "title": "Olde Time Days",
+   "start": "2026-10-10T09:00:00-05:00",
+   "end": "2026-10-10T16:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "baldwin-county-bicentennial-park",
+    "name": "Baldwin County Bicentennial Park",
+    "city": "Stockton",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/olde-time-days-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/810813796_940515631887694_5553468209548068168_n.jpg?fit=519%2C463&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 385,
+   "series_slug": "fall-brawl-festival",
+   "title": "Fall Brawl Festival",
+   "start": "2026-10-10T09:30:00-05:00",
+   "end": "2026-10-10T14:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "name": "2700 Newman Road – Mobile, Al"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/fall-brawl-festival/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/fall-brawl.jpg?fit=720%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 442,
+   "series_slug": "creepy-crawlers-at-the-esc",
+   "title": "Creepy Crawlers at the ESC",
+   "start": "2026-10-10T10:00:00-05:00",
+   "end": "2026-10-10T14:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "environmental-studies-center",
+    "name": "Environmental Studies Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$3",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/creepy-crawlers-at-the-esc/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/804365639_1062681869851623_6764256648866796863_n.jpg?fit=621%2C480&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 443,
    "series_slug": "first-fairhopes-fall-festival",
    "title": "First Fairhope’s Fall Festival",
@@ -1188,6 +1202,41 @@
    },
    "image": {
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/825340815_2143523053226085_8413162650108415021_n.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 444,
+   "series_slug": "trail-ride-turn-up",
+   "title": "Trail Ride Turn Up",
+   "start": "2026-10-10T18:00:00-05:00",
+   "end": "2026-10-10T20:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "family"
+   ],
+   "venue": {
+    "slug": "langan-park",
+    "name": "Langan Municipal Park",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/trail-ride-turn-up/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/819673299_1713134876432609_7498201816839182849_n.jpg?fit=512%2C640&ssl=1",
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
@@ -1569,6 +1618,41 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 445,
+   "series_slug": "haunted-trail-on-freaky-creek",
+   "title": "Haunted Trail on Freaky Creek",
+   "start": "2026-10-15T18:00:00-05:00",
+   "end": "2026-10-18T22:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "family"
+   ],
+   "venue": {
+    "slug": "eslava-creek-resort",
+    "name": "Eslava Creek Resort",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/haunted-trail-on-freaky-creek/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/821523563_965809536577945_863831570543388947_n.jpg?fit=526%2C789&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -2274,6 +2358,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 454,
+   "series_slug": "haunted-trail-on-freaky-creek",
+   "title": "Haunted Trail and Freaky Creek",
+   "start": "2026-10-22T18:00:00-05:00",
+   "end": "2026-10-25T22:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "family"
+   ],
+   "venue": {
+    "slug": "eslava-creek-resort",
+    "name": "Eslava Creek Resort",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/haunted-trail-and-freaky-creek/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/821523563_965809536577945_863831570543388947_n.jpg?fit=526%2C789&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 118,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -2703,6 +2822,32 @@
    "independent_source_count": 1
   },
   {
+   "id": 333,
+   "series_slug": "coffee-with-the-chamber-calagaz-printing",
+   "title": "Coffee with the Chamber: Calagaz Printing",
+   "start": "2026-10-28T08:00:00-05:00",
+   "end": "2026-10-28T09:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "90 Springdale Blvd. Mobile AL 36606-3916"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/coffee-with-the-chamber-calagaz-printing-1878118?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 389,
    "series_slug": "trunk-or-treat-fall-festival",
    "title": "Trunk or Treat/Fall Festival",
@@ -2766,6 +2911,40 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 458,
+   "series_slug": "5th-annual-trunk-or-treat",
+   "title": "5th Annual Trunk or Treat",
+   "start": "2026-10-29T16:00:00-05:00",
+   "end": "2026-10-29T17:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "dumas-wesley-community-center",
+    "name": "Dumas Wesley Community Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/5th-annual-trunk-or-treat/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/799869149_1081762127967962_338765855383476077_n.jpg?fit=526%2C681&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -3055,6 +3234,41 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 460,
+   "series_slug": "spooky-celebrations",
+   "title": "Spooky Celebrations",
+   "start": "2026-10-31T09:00:00-05:00",
+   "end": "2026-10-31T23:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "glazed-doughnuts-daphne",
+    "name": "Glazed Doughnuts (Daphne)",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/spooky-celebrations/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/825340470_1607002960927886_5983778824215698171_n.jpg?fit=526%2C526&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {

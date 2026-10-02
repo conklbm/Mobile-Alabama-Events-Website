@@ -1,71 +1,7 @@
 {
  "region": "coastal",
- "generated": "2026-10-01T16:56:52Z",
+ "generated": "2026-10-02T15:46:19Z",
  "events": [
-  {
-   "id": 286,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-10-01T07:20:00-05:00",
-   "end": "2026-10-01T08:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9154",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 89,
-   "series_slug": "eco-art-sea-salt-bath-products",
-   "title": "Eerie Sea Salt Bath Products",
-   "start": "2026-10-01T10:00:00-05:00",
-   "end": "2026-10-01T11:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "arts"
-   ],
-   "venue": {
-    "slug": "gulf-state-park",
-    "name": "Gulf State Park",
-    "city": "Gulf Shores",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
   {
    "id": 287,
    "series_slug": "an-evening-of-smooth-jazz-under-the-stars",
@@ -130,6 +66,110 @@
    "independent_source_count": 1
   },
   {
+   "id": 428,
+   "series_slug": "halloween-haunted-forest-pirates-of-the-cursed-forest",
+   "title": "Halloween Haunted Forest – Pirates of the Cursed Forest",
+   "start": "2026-10-02T17:00:00-05:00",
+   "end": "2026-10-03T19:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "active"
+   ],
+   "venue": {
+    "slug": "baldwin-county-heritage-museum",
+    "name": "Baldwin County Heritage Museum",
+    "city": "Elberta",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "$10",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/halloween-haunted-forest-pirates-of-the-cursed-forest/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/700908125_122112230865122273_1908715392812115670_n.jpg?fit=960%2C400&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 429,
+   "series_slug": "food-truck-friday",
+   "title": "Food Truck Friday",
+   "start": "2026-10-02T17:00:00-05:00",
+   "end": "2026-10-02T20:00:00-05:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food"
+   ],
+   "venue": {
+    "slug": "loxley-municipal-park",
+    "name": "Loxley Municipal Park",
+    "city": "Loxley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/food-truck-friday-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/825329679_3226287650895315_6163573319795719413_n.jpg?fit=500%2C600&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 430,
+   "series_slug": "spooky-express",
+   "title": "Spooky Express",
+   "start": "2026-10-02T18:00:00-05:00",
+   "end": "2026-10-03T20:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "active"
+   ],
+   "venue": {
+    "slug": "graham-creek-nature-preserve",
+    "name": "Graham Creek Nature Preserve",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "$5",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/spooky-express/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/825278329_1592481525761724_6977617766146394665_n.jpg?fit=1545%2C1999&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 347,
    "series_slug": "gentle-stretch-yoga",
    "title": "Yoga",
@@ -159,6 +199,75 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 432,
+   "series_slug": "pumpkin-play-day",
+   "title": "Pumpkin Play Day",
+   "start": "2026-10-03T10:00:00-05:00",
+   "end": "2026-10-03T12:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "graham-creek-nature-preserve",
+    "name": "Graham Creek Nature Preserve",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/pumpkin-play-day/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/828495901_1649069306817414_3227296885973618145_n.jpg?fit=699%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 434,
+   "series_slug": "tacos-tequila-festival",
+   "title": "Tacos & Tequila Festival",
+   "start": "2026-10-03T10:00:00-05:00",
+   "end": "2026-10-04T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "heritage-park-foley",
+    "name": "Heritage Park (Foley)",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "$5",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/tacos-tequila-festival/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/789540172_122098520949460228_5485408127624968906_n.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -253,38 +362,6 @@
     "name": "Ticketmaster",
     "tier": "B",
     "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 348,
-   "series_slug": "fall-pop-up-farmers-market",
-   "title": "Fall Pop-Up Farmers Market",
-   "start": "2026-10-04T10:00:00-05:00",
-   "end": "2026-10-04T14:00:00-05:00",
-   "all_day": false,
-   "category": "food",
-   "categories": [
-    "food",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9632",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
    },
    "image": null,
    "curation_score": 0,
@@ -740,6 +817,76 @@
    "independent_source_count": 1
   },
   {
+   "id": 439,
+   "series_slug": "pirates-of-the-cursed-forest",
+   "title": "Pirates of the Cursed Forest",
+   "start": "2026-10-09T18:00:00-05:00",
+   "end": "2026-10-10T21:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "active"
+   ],
+   "venue": {
+    "slug": "baldwin-county-heritage-museum",
+    "name": "Baldwin County Heritage Museum",
+    "city": "Elberta",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "$10",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/pirates-of-the-cursed-forest-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/828572958_1421305883543842_1085469292495177564_n.jpg?fit=1405%2C1874&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 440,
+   "series_slug": "spooky-express",
+   "title": "Spooky Express",
+   "start": "2026-10-09T18:00:00-05:00",
+   "end": "2026-10-10T20:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "active"
+   ],
+   "venue": {
+    "slug": "graham-creek-nature-preserve",
+    "name": "Graham Creek Nature Preserve",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "$5",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/spooky-express-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/825278329_1592481525761724_6977617766146394665_n.jpg?fit=1545%2C1999&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 110,
    "series_slug": "daniel-tosh",
    "title": "Daniel Tosh",
@@ -803,6 +950,36 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 385,
+   "series_slug": "fall-brawl-festival",
+   "title": "Fall Brawl Festival",
+   "start": "2026-10-10T09:30:00-05:00",
+   "end": "2026-10-10T14:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "name": "2700 Newman Road – Mobile, Al"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/fall-brawl-festival/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/fall-brawl.jpg?fit=720%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1092,8 +1269,8 @@
    "id": 402,
    "series_slug": "indoor-cycling",
    "title": "Indoor Cycling",
-   "start": "2026-10-13T07:20:00-05:00",
-   "end": "2026-10-13T08:00:00-05:00",
+   "start": "2026-10-13T17:00:00-05:00",
+   "end": "2026-10-13T18:00:00-05:00",
    "all_day": false,
    "category": "active",
    "categories": [
@@ -1184,6 +1361,76 @@
    "independent_source_count": 1
   },
   {
+   "id": 446,
+   "series_slug": "pirates-of-the-cursed-forest",
+   "title": "Pirates of the Cursed Forest",
+   "start": "2026-10-16T17:00:00-05:00",
+   "end": "2026-10-17T21:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "active"
+   ],
+   "venue": {
+    "slug": "baldwin-county-heritage-museum",
+    "name": "Baldwin County Heritage Museum",
+    "city": "Elberta",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "$10",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/pirates-of-the-cursed-forest-3/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/828572958_1421305883543842_1085469292495177564_n.jpg?fit=1405%2C1874&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 447,
+   "series_slug": "spooky-express",
+   "title": "Spooky Express",
+   "start": "2026-10-16T18:00:00-05:00",
+   "end": "2026-10-17T20:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "active"
+   ],
+   "venue": {
+    "slug": "graham-creek-nature-preserve",
+    "name": "Graham Creek Nature Preserve",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "$5",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/spooky-express-3/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/825278329_1592481525761724_6977617766146394665_n.jpg?fit=1545%2C1999&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 241,
    "series_slug": "nirvanna-tribute-to-nirvana",
    "title": "Nirvanna - Tribute to Nirvana",
@@ -1212,6 +1459,109 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 449,
+   "series_slug": "magnolia-springs-firefighter-festival",
+   "title": "Magnolia Springs Firefighter Festival",
+   "start": "2026-10-17T08:00:00-05:00",
+   "end": "2026-10-17T16:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "magnolia-springs-fire-department",
+    "name": "Magnolia Springs Volunteer Fire Department",
+    "city": "Magnolia Springs",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/magnolia-springs-firefighter-festival-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/827636766_1137852008808599_7001283227257118725_n.jpg?fit=526%2C526&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 450,
+   "series_slug": "2026-boo-at-the-zoo",
+   "title": "2026 Boo at the Zoo",
+   "start": "2026-10-17T09:00:00-05:00",
+   "end": "2026-10-17T12:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "alabama-gulf-coast-zoo",
+    "name": "Alabama Gulf Coast Zoo",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/2026-boo-at-the-zoo/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/748534142_1508858031275517_6565997558931359282_n.jpg?fit=960%2C503&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 451,
+   "series_slug": "national-pumpkin-day-celebration",
+   "title": "National Pumpkin Day Celebration",
+   "start": "2026-10-17T10:00:00-05:00",
+   "end": "2026-10-17T14:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "the-patch-lillian-cattle-company",
+    "name": "The Patch by Lillian Cattle Company",
+    "city": "Elberta",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/national-pumpkin-day-celebration/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/753260176_1062844032758704_2826402060766106442_n.jpg?fit=960%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1501,6 +1851,76 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 455,
+   "series_slug": "pirates-of-the-cursed-family-fun-night",
+   "title": "Pirates of the Cursed – Family Fun Night",
+   "start": "2026-10-23T17:00:00-05:00",
+   "end": "2026-10-23T21:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "active"
+   ],
+   "venue": {
+    "slug": "baldwin-county-heritage-museum",
+    "name": "Baldwin County Heritage Museum",
+    "city": "Elberta",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "$10",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/pirates-of-the-cursed-family-fun-night/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/828572958_1421305883543842_1085469292495177564_n.jpg?fit=1405%2C1874&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 456,
+   "series_slug": "spooky-express",
+   "title": "Spooky Express",
+   "start": "2026-10-23T18:00:00-05:00",
+   "end": "2026-10-24T20:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "active"
+   ],
+   "venue": {
+    "slug": "graham-creek-nature-preserve",
+    "name": "Graham Creek Nature Preserve",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "$5",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/spooky-express-4/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/825278329_1592481525761724_6977617766146394665_n.jpg?fit=1545%2C1999&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -3056,8 +3476,8 @@
    "id": 418,
    "series_slug": "ballet-pensacola-presents-the-nutcracker",
    "title": "Ballet Pensacola Presents The Nutcracker",
-   "start": "2026-12-19T13:30:00-06:00",
-   "end": "2026-12-19T16:30:00-06:00",
+   "start": "2026-12-19T19:00:00-06:00",
+   "end": "2026-12-19T22:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
