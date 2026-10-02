@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-10-02T15:46:19Z",
+ "generated": "2026-10-02T15:48:04Z",
  "events": [
   {
    "id": 101,
@@ -805,6 +805,37 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 325,
+   "series_slug": "what-story-does-your-website-tell",
+   "title": "What Story Does Your Website Tell? StoryBrand Marketing #2",
+   "start": "2026-10-08T08:30:00-05:00",
+   "end": "2026-10-08T10:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-chamber",
+    "name": "Mobile Chamber",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/what-story-does-your-website-tell-1704074?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
     "redistributable": false
    },
    "image": null,
