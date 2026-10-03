@@ -111,6 +111,41 @@
       "permanent": true
     },
     {
+      "source": "/events/fall-into-fun-weekly-themed-open-play-session-ages-1-with-bloom-play(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/ribbon-cutting-coastal-alabama-hearing(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/make-take-art(/)?",
+      "destination": "/venues/mobile-museum-of-art/",
+      "permanent": true
+    },
+    {
+      "source": "/events/jason-isbell-the-400-unit(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/downtown-get-down(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/jason-isbell-the-400-unit-halstead-amphitheater(/)?",
+      "destination": "/venues/halstead-amphitheater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/yes-daddy-plus-marla-the-singers-plus-roman-gabriel-todd-and-27-reeves(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
