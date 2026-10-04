@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-10-03T14:36:39Z",
+ "generated": "2026-10-04T15:11:59Z",
  "events": [
   {
    "id": 428,
@@ -38,40 +38,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 429,
-   "series_slug": "food-truck-friday",
-   "title": "Food Truck Friday",
-   "start": "2026-10-02T17:00:00-05:00",
-   "end": "2026-10-02T20:00:00-05:00",
-   "all_day": false,
-   "category": "food",
-   "categories": [
-    "food"
-   ],
-   "venue": {
-    "slug": "loxley-municipal-park",
-    "name": "Loxley Municipal Park",
-    "city": "Loxley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://themobmom.com/event/food-truck-friday-2/",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/825329679_3226287650895315_6163573319795719413_n.jpg?fit=500%2C600&ssl=1",
-    "credit": "The Mob Mom"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 430,
    "series_slug": "spooky-express",
    "title": "Spooky Express",
@@ -101,72 +67,6 @@
    },
    "image": {
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/825278329_1592481525761724_6977617766146394665_n.jpg?fit=1545%2C1999&ssl=1",
-    "credit": "The Mob Mom"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 347,
-   "series_slug": "gentle-stretch-yoga",
-   "title": "Yoga",
-   "start": "2026-10-03T10:00:00-05:00",
-   "end": "2026-10-03T11:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8716",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 432,
-   "series_slug": "pumpkin-play-day",
-   "title": "Pumpkin Play Day",
-   "start": "2026-10-03T10:00:00-05:00",
-   "end": "2026-10-03T12:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "graham-creek-nature-preserve",
-    "name": "Graham Creek Nature Preserve",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "Free",
-   "ticket_url": "",
-   "info_url": "https://themobmom.com/event/pumpkin-play-day/",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/828495901_1649069306817414_3227296885973618145_n.jpg?fit=699%2C540&ssl=1",
     "credit": "The Mob Mom"
    },
    "curation_score": 1,

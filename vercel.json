@@ -146,6 +146,31 @@
       "permanent": true
     },
     {
+      "source": "/events/open-jump-7-special-pricing(/)?",
+      "destination": "/venues/pump-it-up-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/parents-night-out(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/jar-of-sap-alice-in-chains-tribute(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/johnny-mullenax(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/usa-health-mitchell-cancer-institute-go-run(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
