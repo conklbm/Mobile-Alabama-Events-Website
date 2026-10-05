@@ -166,8 +166,43 @@
       "permanent": true
     },
     {
+      "source": "/events/scarecrows-in-the-gardens(/)?",
+      "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
       "source": "/events/usa-health-mitchell-cancer-institute-go-run(/)?",
       "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/search-and-rescue-instruction-program-for-kids(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-comedy-battle-royale-presented-by-high-5-printing(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/the-black-jacket-symphony-presents-def-leppard-s-hysteria(/)?",
+      "destination": "/venues/saenger-theatre/",
+      "permanent": true
+    },
+    {
+      "source": "/events/jason-carter-band(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/r-b-only-live-mobile-al(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-roast-league-comedians-fight-with-words(/)?",
+      "destination": "/venues/downtown-mobile/",
       "permanent": true
     },
     {
