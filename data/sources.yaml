@@ -184,3 +184,18 @@
   config:
     path: data/manual/events.csv
     scanned_pages: [Facebook Events tab, VisitMobile, Downtown Mobile Alliance, Lagniappe, City of Mobile, Mobile Parks & Rec]
+
+- id: alabama-contemporary
+  name: Alabama Contemporary Art Center
+  url: https://www.alabamacontemporary.org/events/
+  collector_type: ics
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["Alabama Contemporary", "ACAC"]
+  license_notes: "Public iCal feed (WordPress Events Manager). Organizer's own calendar. Link back to listing."
+  redistributable: false
+  expected_min_events: 2
+  config:
+    feed_url: https://www.alabamacontemporary.org/events.ics
+    max_days: 7   # skip months-long exhibitions

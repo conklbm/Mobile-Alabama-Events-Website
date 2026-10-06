@@ -1124,3 +1124,25 @@
   zip: "36526"
   regions: [mobile]
   notes: "Family-owned doughnut shop on Hwy 98 in Daphne, open early (5 AM)."
+
+- slug: ac-satellite
+  name: AC Satellite
+  aliases: ["AC Satellite", "Alabama Contemporary Satellite", "561 St. Francis St", "561 St Francis St"]
+  domains: []
+  address: 561 St Francis St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Alabama Contemporary's converted warehouse studio downtown: artist residencies, classes, and pop-up shows on Artwalk nights while its Conti Street galleries are redeveloped."
+
+- slug: cedar-street-social-club
+  name: Cedar Street Social Club
+  aliases: ["Cedar Street Social Club", "Cedar Street Social", "Cedar St Social Club", "4 N Cedar St"]
+  domains: []
+  address: 4 N Cedar St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Cocktail lounge in the Central Business District, known for live shows and dancing."

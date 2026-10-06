@@ -48,9 +48,9 @@ class GrowthZoneCollector(Collector):
                 continue
             for ev in events:
                 ev.external_id = f"{slug}:{ev.start_local.date().isoformat()}"
-                # the ICS LOCATION is an address, not a name; keep it where the resolver looks for addresses
-                if ev.venue_name and not ev.venue_address and re.match(r"^\d", ev.venue_name):
-                    ev.venue_address, ev.venue_name = ev.venue_name, ""
+                # the ICS LOCATION is an address, not a name (parse already copied it to venue_address)
+                if re.match(r"^\d", ev.venue_name):
+                    ev.venue_name = ""
                 if not ev.info_url or ev.info_url == self.source["url"]:
                     ev.info_url = urljoin(listing, f"{base_path}/Details/{slug}")
                 out.append(ev)

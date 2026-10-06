@@ -50,3 +50,29 @@ def test_jsonld_extract_handles_graph_lists_and_subtypes():
       <script type='application/ld+json'>[{"@type":["Event"],"name":"Fest","startDate":"2026-10-02"}]</script></html>"""
     found = extract_events(html)
     assert sorted(i["name"] for i in found) == ["Fest", "Show"]
+
+
+def test_ics_skips_long_spans_and_passes_location_as_address():
+    from pipeline.collectors.ics import IcsCollector
+
+    ics = """BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:6@example.org
+DTSTART;TZID=America/Chicago;VALUE=DATE:20261001
+DTEND;TZID=America/Chicago;VALUE=DATE:20270212
+SUMMARY:Months-long exhibition
+END:VEVENT
+BEGIN:VEVENT
+UID:7@example.org
+DTSTART;TZID=America/Chicago:20261015T180000
+DTEND;TZID=America/Chicago:20261015T200000
+SUMMARY:Panel talk
+LOCATION:Mobile Museum of Art, 4850 Museum Drive, Mobile, AL
+END:VEVENT
+END:VCALENDAR
+"""
+    c = IcsCollector({"id": "t", "url": "https://example.org", "config": {"max_days": 7}}, session=None)
+    evs = c.parse(ics, date(2026, 10, 1), date(2027, 3, 1))
+    assert [e.title for e in evs] == ["Panel talk"]
+    assert evs[0].venue_address == "Mobile Museum of Art, 4850 Museum Drive, Mobile, AL"

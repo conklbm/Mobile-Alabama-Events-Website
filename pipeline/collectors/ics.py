@@ -34,6 +34,8 @@ class IcsCollector(Collector):
             raise CollectorError(f"ICS parse error: {e}") from e
         tzname = self.cfg.get("timezone") or DEFAULT_TZ
         z = ZoneInfo(tzname)
+        # exhibitions run for months; a day-by-day calendar has nowhere to put them
+        max_days = self.cfg.get("max_days")
         out: list[RawEvent] = []
         for ev in recurring_ical_events.of(cal).between(start, end):
             title = clean_title(str(ev.get("SUMMARY", "")))
@@ -58,7 +60,10 @@ class IcsCollector(Collector):
                 e = None
                 if isinstance(dtend, datetime):
                     e = (dtend if dtend.tzinfo else dtend.replace(tzinfo=z)).astimezone(z)
+            if max_days and e and (e - s).days > max_days:
+                continue
             uid = str(ev.get("UID", "")) or title
+            location = strip_html(str(ev.get("LOCATION", "")))
             out.append(RawEvent(
                 source_id=self.source["id"],
                 external_id=f"{uid}:{s.date().isoformat()}",
@@ -68,8 +73,8 @@ class IcsCollector(Collector):
                 timezone=tzname,
                 all_day=all_day,
                 date_confident=True,
-                venue_name=strip_html(str(ev.get("LOCATION", ""))),
-                venue_address="",
+                venue_name=location,
+                venue_address=location,  # "Venue, 123 Street, City" -> the resolver finds the embedded venue name
                 description=strip_html(str(ev.get("DESCRIPTION", ""))),
                 info_url=str(ev.get("URL", "")) or self.source["url"],
                 raw={k: str(v) for k, v in ev.items()},
