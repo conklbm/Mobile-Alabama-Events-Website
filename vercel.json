@@ -146,6 +146,11 @@
       "permanent": true
     },
     {
+      "source": "/events/fall-2026-statemint-mobile-pop-up(/)?",
+      "destination": "/venues/abba-shrine/",
+      "permanent": true
+    },
+    {
       "source": "/events/open-jump-7-special-pricing(/)?",
       "destination": "/venues/pump-it-up-mobile/",
       "permanent": true
@@ -153,6 +158,11 @@
     {
       "source": "/events/parents-night-out(/)?",
       "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/the-lightning-thief(/)?",
+      "destination": "/venues/joe-jefferson-playhouse/",
       "permanent": true
     },
     {
@@ -173,6 +183,11 @@
     {
       "source": "/events/usa-health-mitchell-cancer-institute-go-run(/)?",
       "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-reptile-exotic-pet-expo(/)?",
+      "destination": "/venues/the-grounds/",
       "permanent": true
     },
     {
