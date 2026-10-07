@@ -36,11 +36,21 @@ class IcsCollector(Collector):
         z = ZoneInfo(tzname)
         # exhibitions run for months; a day-by-day calendar has nowhere to put them
         max_days = self.cfg.get("max_days")
+        # e.g. a team schedule: keep home games only ("vs", played in Mobile)
+        title_any = [t.lower() for t in self.cfg.get("title_includes", [])]
+        where_any = [w.lower() for w in self.cfg.get("location_includes", [])]
+        renames = self.cfg.get("title_replace", {})
         out: list[RawEvent] = []
         for ev in recurring_ical_events.of(cal).between(start, end):
             title = clean_title(str(ev.get("SUMMARY", "")))
             if not title:
                 continue
+            if title_any and not any(t in title.lower() for t in title_any):
+                continue
+            if where_any and not any(w in str(ev.get("LOCATION", "")).lower() for w in where_any):
+                continue
+            for old, new in renames.items():
+                title = title.replace(old, new)
             dtstart = ev.get("DTSTART").dt if ev.get("DTSTART") else None
             dtend = ev.get("DTEND").dt if ev.get("DTEND") else None
             if dtstart is None:

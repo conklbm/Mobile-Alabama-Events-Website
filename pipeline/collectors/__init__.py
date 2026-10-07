@@ -2,6 +2,7 @@
 
 from .base import Collector, CollectorError, make_session
 from .civicplus_rss import CivicPlusRssCollector
+from .duda import DudaCollectionCollector
 from .govcal import GovCalCollector
 from .growthzone import GrowthZoneCollector
 from .ics import IcsCollector
@@ -21,6 +22,7 @@ COLLECTORS: dict[str, type[Collector]] = {
     ManualCollector.collector_type: ManualCollector,
     GovCalCollector.collector_type: GovCalCollector,
     ZewRundownCollector.collector_type: ZewRundownCollector,
+    DudaCollectionCollector.collector_type: DudaCollectionCollector,
 }
 
 __all__ = ["COLLECTORS", "Collector", "CollectorError", "make_session"]

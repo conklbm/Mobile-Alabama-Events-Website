@@ -7,6 +7,37 @@ All statuses below were probed live on this date. Re-verify before build.
 
 ---
 
+## Re-probed 2026-10-07 — read this first
+
+Several "hard" sources below turned out to have structured data behind their JavaScript. **Before calling a
+source unpullable, read the site's own JS for the URL its calendar loads.** Now built:
+
+| Source | How | Collector |
+|---|---|---|
+| City of Mobile, Mobile County | `assets/includes/ajax/json.php?type=events` behind their calendars | `govcal_json` |
+| 92ZEW Weekend Rundown | WP REST posts, one event per paragraph | `zew_rundown` (+ Friday run) |
+| USS Alabama, Mobile Museum of Art, Bellingrath, Exploreum, Downtown Mobile Alliance | The Events Calendar API | `tribe_api` |
+| Alabama Contemporary | Events Manager `/events.ics` | `ics` |
+| South Alabama athletics | Sidearm `calendar.ashx/calendar.ics`, home games only | `ics` |
+| Eastern Shore Chamber | GrowthZone classic layout, month pages | `growthzone` (`layout: classic`) |
+| Visit Mobile (mobile.org) | sitemap → event pages with Event JSON-LD (REST API is Akamai-blocked) | `jsonld` (`sitemap:`) |
+| Mobile Arts Council, Eastern Shore Art Center | Duda `/rts/collections/public/<alias>/runtime/collection/<name>/data` | `duda_collection` |
+
+**Ready but coastal** (not shown on the Mobile site under current region rules): Visit Foley (Tribe, includes OWA),
+Flora-Bama (Tockify ICS), South Baldwin Chamber and Perdido Key Chamber (GrowthZone), Visit Pensacola (Craft CMS
+listing → JSON-LD), gulfshores.com (Drupal listing cards), Gulf State Park (HTML).
+
+**Skipped on purpose:** Mobile Public Library (LibraryMarket JSON works, but ~350 routine branch programs);
+Lagniappe (evvnt widget, mostly re-syndicated Bandsintown, robots 403); Regions Arena RSS (Ticketmaster covers it).
+
+**Still not viable:** WKRG, OWA, City of Fairhope (403 to bots — do not work around); Pensacola Saenger (403);
+Dauphin Island and The Grounds (Wix widgets need a signed session); Callaghan's (Elfsight, robots disallows);
+The Hangout (no dates); Blue Gill (schedule is a JPG); Playhouse in the Park, History Museum (no calendar);
+Mobile Botanical Gardens (Shopify, dates in prose); The Wharf (season over; Ticketmaster covers it).
+
+**Moved/dead:** mobilecivicctr.com and mobilesaenger.com → regionsarena.com; mplonline.org → mobilepubliclibrary.org
+(EventKeeper gone); gulfshores.com and visitpensacola.com are no longer Simpleview; visitperdido.com → perdidochamber.com.
+
 ## TIER 1 — Structured data, no browser needed
 
 These return machine-readable JSON, ICS, or RSS. Build these first.

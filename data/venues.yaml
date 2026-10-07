@@ -1181,7 +1181,7 @@
 
 - slug: cathedral-basilica-of-the-immaculate-conception
   name: Cathedral-Basilica of the Immaculate Conception
-  aliases: ["Cathedral-Basilica of the Immaculate Conception"]
+  aliases: ["Cathedral-Basilica of the Immaculate Conception", "Cathedral of the Immaculate Conception"]
   domains: []
   address: "2 S. Claiborne St."
   city: Mobile
@@ -1241,7 +1241,7 @@
 
 - slug: heron-lakes-country-club
   name: Heron Lakes Country Club
-  aliases: ["Heron Lakes Country Club"]
+  aliases: ["Heron Lakes Country Club", "3851 Government Blvd"]
   domains: []
   address: "3851 Government Blvd"
   city: Mobile
@@ -1291,7 +1291,7 @@
 
 - slug: fort-whiting-auditorium
   name: Fort Whiting Auditorium
-  aliases: ["Fort Whiting Auditorium"]
+  aliases: ["Fort Whiting Auditorium", "Fort Whiting"]
   domains: []
   address: "1630 S. Broad St."
   city: Mobile
@@ -1361,7 +1361,7 @@
 
 - slug: historic-avenue-cultural-center
   name: Historic Avenue Cultural Center
-  aliases: ["Historic Avenue Cultural Center"]
+  aliases: ["Historic Avenue Cultural Center", "564 Dr. Martin Luther King Jr. Ave"]
   domains: []
   address: "564 Dr. Martin Luther King Jr. Ave."
   city: Mobile
@@ -1371,7 +1371,7 @@
 
 - slug: university-of-south-alabama-student-center
   name: University of South Alabama Student Center
-  aliases: ["USA Student Center Ballroom", "University of South Alabama Student Center"]
+  aliases: ["USA Student Center Ballroom", "University of South Alabama Student Center", "USA Student Center"]
   domains: []
   address: "350 Student Center Circle"
   city: Mobile
@@ -1531,7 +1531,7 @@
 
 - slug: medal-of-honor-park
   name: Medal of Honor Park
-  aliases: ["Medal of Honor Park"]
+  aliases: ["Medal of Honor Park", "1711 Hillcrest Rd", "1711 Hillcrest Road"]
   domains: []
   address: "1711 Hillcrest Road"
   city: Mobile
@@ -1658,3 +1658,160 @@
   state: AL
   zip: "36609"
   regions: [mobile]
+
+# --- South Alabama athletics (names as the Jaguars' schedule feed writes them) ---
+
+- slug: usa-the-cage
+  name: The Cage (South Alabama Soccer & Track)
+  aliases: ["The Cage", "Mobile, AL, The Cage", "South Alabama Soccer Complex"]
+  domains: []
+  address: University of South Alabama campus
+  city: Mobile
+  state: AL
+  zip: "36688"
+  regions: [mobile]
+  notes: "South Alabama's soccer and track stadium on the main campus."
+
+- slug: usa-jaguar-gym
+  name: Jaguar Gym (South Alabama)
+  aliases: ["Jag Gym", "Jaguar Gym", "Jag Gym - Mobile, AL"]
+  domains: []
+  address: University of South Alabama campus
+  city: Mobile
+  state: AL
+  zip: "36688"
+  regions: [mobile]
+  notes: "Home court for South Alabama volleyball."
+
+- slug: usa-jaguar-field
+  name: Jaguar Field (South Alabama Softball)
+  aliases: ["Jaguar Field", "Jaguar Field - Mobile, AL"]
+  domains: []
+  address: University of South Alabama campus
+  city: Mobile
+  state: AL
+  zip: "36688"
+  regions: [mobile]
+  notes: "South Alabama's softball field."
+
+# --- seeded 2026-10-08 from addresses in Visit Mobile, Eastern Shore Chamber, DMA, Mobile Arts Council ---
+
+- slug: conde-charlotte-museum-house
+  name: Condé-Charlotte Museum House
+  aliases: ["Conde-Charlotte House Museum", "Conde-Charlotte Museum House", "Condé-Charlotte House", "Condé-Charlotte Museum House"]
+  domains: []
+  address: 104 Theatre St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: the-haunted-book-shop
+  name: The Haunted Book Shop
+  aliases: ["Haunted Book Shop", "Haunted Bookshop", "The Haunted Book Shop"]
+  domains: []
+  address: 9 S Joachim St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: community-foundation-of-south-alabama
+  name: Community Foundation of South Alabama
+  aliases: ["Community Foundation of South Alabama"]
+  domains: []
+  address: 212 St Joseph St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: urban-emporium
+  name: Urban Emporium
+  aliases: ["Urban Emporium"]
+  domains: []
+  address: 300 Conti St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: sophiella-gallery
+  name: Sophiella Gallery
+  aliases: ["Sophiella Gallery"]
+  domains: []
+  address: 111 Dauphin St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: love-and-adventure-studios
+  name: Love and Adventure Studios
+  aliases: ["Love & Adventure Studios", "Love and Adventure Studios"]
+  domains: []
+  address: 224 Dauphin St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: demaiz-taco-cantina
+  name: deMaiz Taco Cantina
+  aliases: ["deMaiz", "deMaiz Taco Cantina"]
+  domains: []
+  address: 9124 Cottage Hill Rd, Suite 110
+  city: Mobile
+  state: AL
+  zip: "36695"
+  regions: [mobile]
+
+- slug: hatcher-farms-venue
+  name: Hatcher Farms Venue
+  aliases: ["Hatcher Farms", "Hatcher Farms Venue"]
+  domains: []
+  address: 10780 Jeff Hamilton Rd
+  city: Mobile
+  state: AL
+  zip: "36695"
+  regions: [mobile]
+
+- slug: daphne-public-library
+  name: Daphne Public Library
+  aliases: ["Daphne Library", "Daphne Public Library"]
+  domains: []
+  address: 2607 US Hwy 98
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+
+- slug: hot-wheels-skating-rink
+  name: Hot Wheels Skating Rink
+  aliases: ["Hot Wheels Skating Center", "Hot Wheels Skating Rink"]
+  domains: []
+  address: 616 Whispering Pines Rd
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+
+- slug: the-waterfront-restaurant-daphne
+  name: The Waterfront Restaurant (Daphne)
+  aliases: ["The Waterfront Restaurant", "The Waterfront Restaurant (Daphne)", "Waterfront Restaurant Daphne"]
+  domains: []
+  address: 1 Yacht Club Dr
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+
+- slug: brandon-styles-theater
+  name: Brandon Styles Theater
+  aliases: ["Brandon Styles Theater", "Brandon Styles Theatre", "Brandon Styles Variety Theater"]
+  domains: []
+  address: 1501 S OWA Blvd
+  city: Foley
+  state: AL
+  zip: "36535"
+  regions: [coastal]

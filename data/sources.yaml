@@ -266,3 +266,152 @@
     # ...and dropped if it names one of these (Mississippi Coast shows, away games on TV)
     away_places: [biloxi, gautier, gulfport, ocean springs, pascagoula, mississippi, ", ms", tuscaloosa, starkville,
                   knoxville, tallahassee, baton rouge, new orleans, birmingham, montgomery, auburn]
+
+- id: mobile-museum-of-art
+  name: Mobile Museum of Art
+  url: https://www.mobilemuseumofart.com
+  collector_type: tribe_api
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["Mobile Museum of Art", "MMoA"]
+  license_notes: "Public WP REST endpoint (The Events Calendar). The museum's own calendar. Link back to listing."
+  redistributable: false
+  expected_min_events: 10
+  config:
+    default_venue: mobile-museum-of-art   # listings carry no venue; they're at the museum
+    skip_titles: ["closed to the public", "private event"]
+
+- id: bellingrath
+  name: Bellingrath Gardens and Home
+  url: https://bellingrath.org
+  collector_type: tribe_api
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["Bellingrath"]
+  license_notes: "Public WP REST endpoint (The Events Calendar). The gardens' own calendar. Link back to listing."
+  redistributable: false
+  expected_min_events: 3
+  config:
+    default_venue: bellingrath-gardens
+    skip_titles: ["members.? morning coffee", "closed"]
+
+- id: exploreum
+  name: Gulf Coast Exploreum
+  url: https://www.exploreum.com
+  collector_type: tribe_api
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["Exploreum"]
+  license_notes: "Public WP REST endpoint (The Events Calendar). The museum's own calendar. Link back to listing."
+  redistributable: false
+  expected_min_events: 1
+  config:
+    default_venue: gulf-coast-exploreum
+
+- id: downtown-mobile-alliance
+  name: Downtown Mobile Alliance
+  url: https://downtownmobile.org
+  collector_type: tribe_api
+  tier: C
+  curated: true
+  regions: [mobile]
+  brand_tokens: ["Downtown Mobile Alliance"]
+  license_notes: "Public WP REST endpoint (The Events Calendar). Downtown events picked by the Alliance. Link back to listing."
+  redistributable: false
+  expected_min_events: 2
+
+- id: eastern-shore-chamber
+  name: Eastern Shore Chamber of Commerce
+  url: https://business.eschamber.com/events/calendar
+  collector_type: growthzone
+  tier: C
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["Eastern Shore Chamber"]
+  license_notes: "Public GrowthZone calendar (classic layout), one iCal per event. Member and community events for Daphne, Fairhope, Spanish Fort. Link back to listing."
+  redistributable: false
+  expected_min_events: 30
+  config:
+    listing_url: https://business.eschamber.com/events/calendar
+    layout: classic
+    months: 3
+    max_events: 300
+    max_days: 7   # exhibitions listed by members run for months
+    # chamber business and weekly bar nights, not things a resident plans around
+    skip_titles: ["ribbon cutting", "\\bmeeting\\b", "business after hours", "chamber 101", "young professionals",
+                  "coffee club", "morning marketing", "remote office", "masterclass", "real estate forum",
+                  "financial education", "customer appreciation", "^cancel+ed",
+                  "every (monday|tuesday|wednesday|thursday|friday|saturday|sunday)"]
+
+- id: usa-athletics
+  name: South Alabama Athletics
+  url: https://usajaguars.com/calendar.aspx
+  collector_type: ics
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["South Alabama", "Jaguars"]
+  license_notes: "Public Sidearm Sports iCal. The athletics department's own schedule. Link back."
+  redistributable: false
+  expected_min_events: 0   # no home games some months
+  config:
+    feed_url: https://usajaguars.com/calendar.ashx/calendar.ics
+    title_includes: [" vs "]          # home games only ("vs"; away games read "at")
+    location_includes: ["mobile"]     # ...and neutral-site "vs" games elsewhere drop out
+    title_replace: {"University of South Alabama ": "South Alabama "}
+
+- id: visit-mobile
+  name: Visit Mobile
+  url: https://www.mobile.org/events/
+  collector_type: jsonld
+  tier: C
+  curated: true
+  regions: [mobile]
+  brand_tokens: ["Visit Mobile"]
+  license_notes: "Public event pages with schema.org Event JSON-LD, found through the site's sitemap. robots.txt allows /, Crawl-delay 2 (honored). Link back to listing."
+  redistributable: false
+  expected_min_events: 20
+  config:
+    sitemap: https://www.mobile.org/sitemap.xml
+    follow_pattern: "/event/"
+    max_follow: 400
+    delay: 2
+    max_days: 7
+
+- id: mobile-arts-council
+  name: Mobile Arts Council community calendar
+  url: https://www.mobilearts.org/community-calendar
+  collector_type: duda_collection
+  tier: C
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["Mobile Arts Council"]
+  license_notes: "Public Duda collection behind the community calendar (organizer-submitted form). We read only title, date, time, place, organizer and category, never the contact column. Link back to the calendar."
+  redistributable: false
+  expected_min_events: 5
+  config:
+    collection_url: https://www.mobilearts.org/rts/collections/public/eacd2e2c/runtime/collection/Event%20Information%20(Responses)/data
+    fields: {title: "Event Title", start_date: "Event Start Date", start_time: "Event Start Time", address: "Event Location",
+             organizer: "Organization Name", categories: "Event Catergory"}
+
+- id: eastern-shore-art-center
+  name: Eastern Shore Art Center
+  url: https://www.esartcenter.org/events
+  collector_type: duda_collection
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["Eastern Shore Art Center", "ESAC"]
+  license_notes: "Public Duda collection mirroring the center's NeonCRM events. The center's own classes and events. Link back to the registration page."
+  redistributable: false
+  expected_min_events: 5
+  config:
+    collection_url: https://www.esartcenter.org/rts/collections/public/296cac2b/runtime/collection/crm-events/data
+    require: {"Event Web Publish": "Yes"}
+    category_sep: "||"
+    fields: {title: "Event Name", start_date: "Event Start Date", start_time: "Event Start Time", end_date: "Event End Date",
+             end_time: "Event End Time", venue: "Event Location Name", address: "Full Street Address (F)", city: "City",
+             description: "Event Description", url: "Event Details URL", categories: "Event Category Name"}

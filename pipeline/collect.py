@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 import sqlite3
 import traceback
 from dataclasses import asdict
@@ -59,6 +60,9 @@ def collect(conn: sqlite3.Connection, run_id: int, only: list[str] | None = None
         except Exception as e:  # a broken parser must not take the run down
             events, status, error = [], "failed", f"{type(e).__name__}: {e}"
             log.error("%s crashed:\n%s", sid, traceback.format_exc())
+        # per-source title filters ("Museum closed: private event", chamber ribbon cuttings)
+        skip = [re.compile(p, re.I) for p in (src.get("config") or {}).get("skip_titles", [])]
+        events = [ev for ev in events if not any(p.search(ev.title) for p in skip)]
         pulled_at = db.now_iso()
         with db.tx(conn):
             for ev in events:

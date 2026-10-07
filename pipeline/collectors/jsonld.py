@@ -5,12 +5,16 @@ config:
   pages: [url, ...]
   follow_pattern: "/event/"   # optional substring; links containing it get fetched
   max_follow: 40
+  sitemap: https://www.mobile.org/sitemap.xml   # optional: detail pages listed here (matching follow_pattern)
+  delay: 2                    # seconds between requests (honor the site's robots.txt Crawl-delay)
+  max_days: 7                 # skip runs longer than this (exhibitions, season-long series)
 """
 
 from __future__ import annotations
 
 import json
 import re
+import time
 from datetime import date, datetime
 from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
@@ -20,7 +24,7 @@ from bs4 import BeautifulSoup
 from ..dates import DEFAULT_TZ, parse_local
 from ..models import RawEvent
 from ..text import clean_title, strip_html
-from .base import Collector, log
+from .base import Collector, CollectorError, log
 
 _LD_RE = re.compile(r"<script[^>]*type=[\"']application/ld\+json[\"'][^>]*>(.*?)</script>", re.S | re.I)
 
@@ -58,19 +62,28 @@ class JsonLdCollector(Collector):
     collector_type = "jsonld"
 
     def fetch(self, start: date, end: date) -> list[RawEvent]:
-        pages = list(self.cfg.get("pages") or [self.source["url"]])
         pattern = self.cfg.get("follow_pattern")
         max_follow = int(self.cfg.get("max_follow", 40))
+        delay = float(self.cfg.get("delay", 0))
+        max_days = self.cfg.get("max_days")
         seen_urls: set[str] = set()
         seen_ids: set[str] = set()
         out: list[RawEvent] = []
-        queue = [(p, True) for p in pages]
+        if self.cfg.get("sitemap"):
+            locs = re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", self.get_text(self.cfg["sitemap"]))
+            queue = [(u, False) for u in locs if not pattern or pattern in u][:max_follow]
+            if not queue:
+                raise CollectorError(f"no {pattern} URLs in {self.cfg['sitemap']} (sitemap changed?)")
+        else:
+            queue = [(p, True) for p in (self.cfg.get("pages") or [self.source["url"]])]
         followed = 0
         while queue:
             url, is_listing = queue.pop(0)
             if url in seen_urls:
                 continue
             seen_urls.add(url)
+            if delay and len(seen_urls) > 1:
+                time.sleep(delay)
             try:
                 html = self.get_text(url)
             except Exception as e:
@@ -78,6 +91,8 @@ class JsonLdCollector(Collector):
                 continue
             for item in extract_events(html):
                 ev = self._convert(item, url)
+                if ev and max_days and ev.end_local and (ev.end_local.date() - ev.start_local.date()).days > int(max_days):
+                    continue
                 if ev and start <= ev.start_local.date() <= end and ev.external_id not in seen_ids:
                     seen_ids.add(ev.external_id)
                     out.append(ev)
