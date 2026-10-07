@@ -124,6 +124,7 @@ def process(conn: sqlite3.Connection, run_id: int, source_results: dict[str, dic
 
     created: set[int] = set()
     touched: set[int] = set()
+    moved: set[int] = set()  # occurrences whose (day, venue) bucket changed after creation
     now = db.now_iso()
     stats = defaultdict(int)
 
@@ -141,7 +142,8 @@ def process(conn: sqlite3.Connection, run_id: int, source_results: dict[str, dic
                 "SELECT * FROM occurrence_sources WHERE source_id=? AND external_id=?", (ev.source_id, ev.external_id)
             ).fetchone()
             if existing:
-                _refresh(conn, existing, n, venue_id, raw_pull_id, now, sources)
+                if _refresh(conn, existing, n, venue_id, raw_pull_id, now, sources):
+                    moved.add(existing["occurrence_id"])
                 touched.add(existing["occurrence_id"])
                 stats["refreshed"] += 1
                 continue
@@ -174,7 +176,10 @@ def process(conn: sqlite3.Connection, run_id: int, source_results: dict[str, dic
                 stats["source_cancelled"] += 1
             touched.add(oid)
 
-        stats["re_resolved"] = _reresolve_unknown_venues(conn, resolver, venue_ids, now)
+        reresolved = _reresolve_unknown_venues(conn, resolver, venue_ids, now)
+        stats["re_resolved"] = len(reresolved)
+        # dedup only ran at creation; an event that just got its venue (or a new date) may duplicate one already there
+        stats["merged_late"] = _dedup_moved(conn, moved | reresolved, occ_matcher, now)
         _apply_overrides(conn, series_matcher, now)
         scoring.rescore(conn)
         _assign_images(conn, sources)
@@ -190,7 +195,8 @@ def process(conn: sqlite3.Connection, run_id: int, source_results: dict[str, dic
 
 # ---------- helpers ----------
 
-def _refresh(conn, existing, n, venue_id, raw_pull_id, now, sources) -> None:
+def _refresh(conn, existing, n, venue_id, raw_pull_id, now, sources) -> bool:
+    """Update an occurrence from a re-pulled record. True when its (day, venue) bucket changed."""
     conn.execute(
         """UPDATE occurrence_sources SET last_seen=?, consecutive_misses=0, source_url=?, origin_url=?, origin_tier=?,
            image_url=?, raw_pull_id=? WHERE id=?""",
@@ -198,7 +204,8 @@ def _refresh(conn, existing, n, venue_id, raw_pull_id, now, sources) -> None:
     )
     occ = conn.execute("SELECT * FROM occurrences WHERE id=?", (existing["occurrence_id"],)).fetchone()
     if not occ:
-        return
+        return False
+    moved = False
     primary = scoring.primary_source(conn, occ["id"])
     if primary and primary["source_id"] == existing["source_id"]:
         # the best source's dates win; a moved event moves
@@ -210,7 +217,9 @@ def _refresh(conn, existing, n, venue_id, raw_pull_id, now, sources) -> None:
                    WHERE id=?""",
                 (n["start_utc"], n["end_utc"], n["local_day"], n["all_day"], n["time_tba"], n["date_confident"], n["title"], n["title_key"], now, occ["id"]),
             )
+            moved = occ["local_day"] != n["local_day"]
     if occ["venue_id"] is None and venue_id is not None:
+        moved = True
         conn.execute("UPDATE occurrences SET venue_id=?, venue_key=?, city=?, regions=?, updated_at=? WHERE id=?",
                      (venue_id, n["venue_key"], n["city"], db.j(n["regions"]), now, occ["id"]))
         conn.execute("UPDATE series SET venue_id=?, venue_key=? WHERE id=? AND venue_id IS NULL", (venue_id, n["venue_key"], occ["series_id"]))
@@ -218,6 +227,7 @@ def _refresh(conn, existing, n, venue_id, raw_pull_id, now, sources) -> None:
         conn.execute("UPDATE occurrences SET description=? WHERE id=?", (n["description"], occ["id"]))
     if n["cancelled"] and occ["status"] in ("active", "flagged_cancelled"):
         conn.execute("UPDATE occurrences SET status='cancelled', updated_at=? WHERE id=?", (now, occ["id"]))
+    return moved
 
 
 def _merge_into(conn, oid, n, matcher: Matcher, now) -> None:
@@ -266,9 +276,9 @@ def _find_or_create_series(conn, n, venue_id, matcher: Matcher, now) -> int:
     return cur.lastrowid
 
 
-def _reresolve_unknown_venues(conn, resolver: VenueResolver, venue_ids: dict, now) -> int:
-    """The alias map grew since last run; unknown venues get another shot."""
-    n = 0
+def _reresolve_unknown_venues(conn, resolver: VenueResolver, venue_ids: dict, now) -> set[int]:
+    """The alias map grew since last run; unknown venues get another shot. Returns the ids that resolved."""
+    done: set[int] = set()
     for occ in conn.execute("SELECT id, venue_name_raw, series_id FROM occurrences WHERE venue_id IS NULL AND start_utc >= datetime('now','-1 day')").fetchall():
         vm = resolver.resolve(occ["venue_name_raw"], occ["venue_name_raw"])
         if not vm:
@@ -279,8 +289,57 @@ def _reresolve_unknown_venues(conn, resolver: VenueResolver, venue_ids: dict, no
         conn.execute("UPDATE occurrences SET venue_id=?, venue_key=?, city=?, regions=?, updated_at=? WHERE id=?",
                      (vid, f"v:{vm.slug}", vm.city, db.j(vm.regions), now, occ["id"]))
         conn.execute("UPDATE series SET venue_id=?, venue_key=? WHERE id=? AND venue_id IS NULL", (vid, f"v:{vm.slug}", occ["series_id"]))
-        n += 1
-    return n
+        done.add(occ["id"])
+    return done
+
+
+def _occ_rank(conn, oid: int) -> tuple:
+    p = scoring.primary_source(conn, oid)
+    if not p:
+        return (9, 9)
+    return (TIER_RANK.get("A" if p["origin_tier"] == "A" else p["tier"], 9), 0 if p["curated"] else 1)
+
+
+def _dedup_moved(conn, oids: set[int], matcher: Matcher, now) -> int:
+    """Re-run dedup for occurrences that changed bucket. A match merges into the better-ranked record;
+    a near-match is flagged for review. never_merge pairs are left alone."""
+    never = {frozenset(int(x) for x in p) for p in config.overrides().get("never_merge", []) if p and len(p) == 2}
+    merged = 0
+    for oid in sorted(oids):
+        occ = conn.execute("SELECT id, title_key, local_day, venue_key FROM occurrences WHERE id=? AND status!='cancelled'", (oid,)).fetchone()
+        if not occ:
+            continue  # merged away earlier in this loop, or cancelled
+        cands = [dict(r) for r in conn.execute(
+            "SELECT id, title_key, local_day, venue_key FROM occurrences WHERE local_day=? AND venue_key=? AND id!=? AND status!='cancelled'",
+            (occ["local_day"], occ["venue_key"], oid),
+        ) if frozenset((oid, r["id"])) not in never]
+        res = matcher.best(dict(occ), cands)
+        if res.decision == "match":
+            keep, drop = sorted((oid, res.candidate["id"]), key=lambda i: (_occ_rank(conn, i), i))
+            rows = []
+            for i in (keep, drop):
+                r = dict(conn.execute("SELECT description, price, ticket_url FROM occurrences WHERE id=?", (i,)).fetchone())
+                r["rank"] = _occ_rank(conn, i)
+                rows.append(r)
+            best = matcher.merge(rows)  # longest description, first non-empty price and ticket link
+            conn.execute("UPDATE occurrences SET description=?, price=?, ticket_url=?, updated_at=? WHERE id=?",
+                         (best["description"] or "", best["price"] or "", best["ticket_url"] or "", now, keep))
+            _merge_occurrences(conn, keep, drop, now)
+            merged += 1
+        elif res.decision == "ambiguous":
+            conn.execute("UPDATE occurrences SET match_ambiguous=1, match_candidate_id=?, updated_at=? WHERE id=?",
+                         (res.candidate["id"], now, oid))
+    return merged
+
+
+def _merge_occurrences(conn, keep: int, drop: int, now) -> None:
+    """Fold drop into keep: its sources move over, its review rows close, the record goes."""
+    conn.execute("UPDATE OR IGNORE occurrence_sources SET occurrence_id=? WHERE occurrence_id=?", (keep, drop))
+    conn.execute("DELETE FROM occurrence_sources WHERE occurrence_id=?", (drop,))
+    conn.execute("UPDATE review_queue SET resolved_at=? WHERE occurrence_id=? AND resolved_at IS NULL", (now, drop))
+    conn.execute("DELETE FROM review_queue WHERE occurrence_id=?", (drop,))
+    conn.execute("DELETE FROM occurrences WHERE id=?", (drop,))
+    conn.execute("UPDATE occurrences SET match_ambiguous=0, match_candidate_id=NULL, updated_at=? WHERE id=?", (now, keep))
 
 
 def _apply_overrides(conn, series_matcher: Matcher, now) -> None:
@@ -293,12 +352,7 @@ def _apply_overrides(conn, series_matcher: Matcher, now) -> None:
             continue
         if not conn.execute("SELECT 1 FROM occurrences WHERE id=?", (keep,)).fetchone():
             continue
-        conn.execute("UPDATE OR IGNORE occurrence_sources SET occurrence_id=? WHERE occurrence_id=?", (keep, drop))
-        conn.execute("DELETE FROM occurrence_sources WHERE occurrence_id=?", (drop,))
-        conn.execute("UPDATE review_queue SET resolved_at=? WHERE occurrence_id=? AND resolved_at IS NULL", (now, drop))
-        conn.execute("DELETE FROM review_queue WHERE occurrence_id=?", (drop,))
-        conn.execute("DELETE FROM occurrences WHERE id=?", (drop,))
-        conn.execute("UPDATE occurrences SET match_ambiguous=0, match_candidate_id=NULL, updated_at=? WHERE id=?", (now, keep))
+        _merge_occurrences(conn, keep, drop, now)
     for oid, slug in (ov.get("attach_to_series") or {}).items():
         srow = conn.execute("SELECT id FROM series WHERE slug=?", (slug,)).fetchone()
         if srow:

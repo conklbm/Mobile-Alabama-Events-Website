@@ -134,3 +134,46 @@ def test_unknown_venue_resolves_after_alias_added(conn, monkeypatch):
     run(conn, [ev("mobilesymphony", "s1", "Show", "Brand New Hall")], ok(mobilesymphony=1))
     assert conn.execute("SELECT venue_id FROM occurrences").fetchone()["venue_id"] is not None
     assert not any(r["venue_unknown"] for r in review.open_items(conn))
+
+
+def _tosh_pair():
+    return [ev("92zew", "z1", "Daniel Tosh", "Brand New Hall"),
+            ev("ticketmaster", "t1", "Daniel Tosh: My First Farewell Tour", "Saenger Theatre", ticket_url="https://tm.test/t1")]
+
+
+def _teach_alias(monkeypatch):
+    from pipeline import config
+    venues = [dict(v) for v in config.venues()]
+    venues[0] = {**venues[0], "aliases": [*venues[0]["aliases"], "Brand New Hall"]}  # venues[0] is the Saenger
+    monkeypatch.setattr(config, "venues", lambda: venues)
+
+
+@pytest.mark.parametrize("second_pull", ["both", "ticketmaster_only"])
+def test_late_venue_resolution_merges_into_existing_event(conn, monkeypatch, second_pull):
+    # 92ZEW's copy lands at an unknown venue, so dedup can't see Ticketmaster's copy at the Saenger
+    run(conn, _tosh_pair(), ok(**{"92zew": 1, "ticketmaster": 1}))
+    assert conn.execute("SELECT COUNT(*) FROM occurrences").fetchone()[0] == 2
+    _teach_alias(monkeypatch)
+    # re-pulled (venue set by _refresh) or not (venue set by the re-resolve pass): either way they merge
+    events = _tosh_pair() if second_pull == "both" else _tosh_pair()[1:]
+    _, out = run(conn, events, ok(**({"92zew": 1, "ticketmaster": 1} if second_pull == "both" else {"ticketmaster": 1})))
+    rows = conn.execute("SELECT * FROM occurrences").fetchall()
+    assert len(rows) == 1 and out["stats"]["merged_late"] == 1
+    assert rows[0]["title_raw"] == "Daniel Tosh: My First Farewell Tour"   # the better-ranked (Ticketmaster) record survives
+    assert rows[0]["ticket_url"] == "https://tm.test/t1"
+    assert {r["source_id"] for r in conn.execute("SELECT source_id FROM occurrence_sources")} == {"92zew", "ticketmaster"}
+    # strict mode still holds a brand-new store's items; what matters is no venue or duplicate question is left
+    assert not any(r["venue_unknown"] or r["match_ambiguous"] for r in review.open_items(conn))
+
+
+def test_late_venue_resolution_respects_never_merge(conn, monkeypatch):
+    from pipeline import config
+    run(conn, _tosh_pair(), ok(**{"92zew": 1, "ticketmaster": 1}))
+    ids = [r["id"] for r in conn.execute("SELECT id FROM occurrences ORDER BY id")]
+    ov = dict(config.overrides())
+    ov["never_merge"] = [ids]
+    monkeypatch.setattr(config, "overrides", lambda: ov)
+    _teach_alias(monkeypatch)
+    _, out = run(conn, _tosh_pair(), ok(**{"92zew": 1, "ticketmaster": 1}))
+    assert conn.execute("SELECT COUNT(*) FROM occurrences").fetchone()[0] == 2 and out["stats"]["merged_late"] == 0
+    assert not conn.execute("SELECT 1 FROM occurrences WHERE match_ambiguous=1").fetchone()
