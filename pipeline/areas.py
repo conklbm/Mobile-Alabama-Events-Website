@@ -44,22 +44,35 @@ def ring_of(area: str | None) -> str | None:
     return ((config.settings().get("areas") or {}).get(area) or {}).get("ring") if area else None
 
 
-def is_draw(title: str, source_ids) -> bool:
-    """Worth an hour's drive: a draw source or a festival-type title, and not on the never list."""
+def _area_rule(area: str | None) -> dict:
+    return ((config.settings().get("outer_ring") or {}).get("areas") or {}).get(area) or {}
+
+
+def is_draw(title: str, source_ids, area: str | None = None, venue_slug: str | None = None) -> bool:
+    """Worth an hour's drive: a draw source or a festival-type title, and not on the never list.
+    An area can tighten this: draw sources count only at its big venues, plus its own never list."""
     sources, words, never = _outer()
-    if never and never.search(title or ""):
+    rule = _area_rule(area)
+    title = title or ""
+    if (never and never.search(title)) or (rule.get("never") and re.search(rule["never"], title, re.I)):
         return False
-    return bool(set(source_ids) & sources) or bool(words and words.search(title or ""))
+    if words and words.search(title):
+        return True
+    if not set(source_ids) & sources:
+        return False
+    return "venues" not in rule or venue_slug in rule["venues"]
 
 
-def shows_on_site(region: str, regions: list[str], city: str | None, title: str, source_ids) -> bool:
+def shows_on_site(region: str, regions: list[str], city: str | None, title: str, source_ids,
+                  venue_slug: str | None = None) -> bool:
     if region != (config.settings().get("publish") or {}).get("region", "mobile"):
         return region in regions  # the rings belong to the Mobile site; other feeds keep plain region tags
-    ring = ring_of(area_of(city))
+    area = area_of(city)
+    ring = ring_of(area)
     if ring == "core":
         return True
     if ring == "outer":
-        return is_draw(title, source_ids)
+        return is_draw(title, source_ids, area, venue_slug)
     return region in regions
 
 

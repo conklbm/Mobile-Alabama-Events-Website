@@ -65,6 +65,12 @@ outer_ring:
   # sources whose outer-ring events always count: ticketed shows and editors' picks
   draw_sources: [ticketmaster, 92zew, 92zew-rundown, flora-bama-events]
   # ...plus any title that reads like an event people drive for
-  draw_words: "festival|\bfest\b|\bfair\b|parade|fireworks|rodeo|air show|regatta|mardi gras|tree lighting|marathon|triathlon|concert"
+  # (single quotes: YAML double quotes would turn \b into a backspace)
+  draw_words: 'festival|\bfest\b|\bfair\b|parade|fireworks|rodeo|air show|regatta|mardi gras|tree lighting|marathon|triathlon|concert'
   # ...minus venue housekeeping that rides along with a draw source
   never: "public (ice )?skating|after game skate|parking pass|season tickets?"
+  # per-area tightening (Brooks 2026-10-07: "Pensacola, the biggest events only")
+  areas:
+    pensacola:
+      venues: [pensacola-bay-center, pensacola-saenger]   # ticketed shows count only at the arena and the Saenger
+      never: 'tribute|\blegacy\b|rumours of|fab four|ice flyers|green room|package|saturday only|sunday only|ballet pensacola|pensacola symphony|pensacola opera'

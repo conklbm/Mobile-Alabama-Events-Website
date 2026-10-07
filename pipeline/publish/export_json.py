@@ -30,7 +30,8 @@ def export(conn: sqlite3.Connection, out: Path | None = None, regions: tuple[str
         for r in rows:
             v = venues.get(r["venue_id"]) if r["venue_id"] else None
             sids = [x[0] for x in conn.execute("SELECT source_id FROM occurrence_sources WHERE occurrence_id=?", (r["id"],))]
-            if not areas.shows_on_site(region, db.uj(r["regions"]), (v["city"] if v else r["city"]) or "", r["title_raw"], sids):
+            if not areas.shows_on_site(region, db.uj(r["regions"]), (v["city"] if v else r["city"]) or "", r["title_raw"], sids,
+                                       v["slug"] if v else None):
                 continue  # same rule as the site: the Mobile feed carries the outer ring's draws only
             p = primary_source(conn, r["id"])
             src = sources.get(p["source_id"]) if p else None

@@ -29,6 +29,7 @@ def evaluate(conn: sqlite3.Connection, run_id: int, source_results: dict[str, di
     venue_optional = {r["id"] for r in conn.execute("SELECT id, config FROM sources") if (db.uj(r["config"], {}) or {}).get("venue_optional")}
     forced = {int(x) for x in ov.get("force_publish", [])}
     site_region = (config.settings().get("publish") or {}).get("region", "mobile")
+    venue_slugs = {r["id"]: r["slug"] for r in conn.execute("SELECT id, slug FROM venues")}
     now = db.now_iso()
     counts = defaultdict(int)
     occs = conn.execute(
@@ -66,7 +67,8 @@ def evaluate(conn: sqlite3.Connection, run_id: int, source_results: dict[str, di
 
         decided = occ["id"] in forced or occ["approved"]
         # an outer-ring event that isn't a draw never reaches the site: hold it, but don't ask anyone about it
-        on_site = areas.shows_on_site(site_region, db.uj(occ["regions"]), occ["city"], occ["title_raw"], [s["source_id"] for s in srcs])
+        on_site = areas.shows_on_site(site_region, db.uj(occ["regions"]), occ["city"], occ["title_raw"], [s["source_id"] for s in srcs],
+                                      venue_slugs.get(occ["venue_id"]))
         needs_queue = ((blocking and occ["status"] != "cancelled" and not decided) or strict_hold) and on_site
         open_row = conn.execute(
             "SELECT id FROM review_queue WHERE occurrence_id=? AND resolved_at IS NULL", (occ["id"],)

@@ -25,3 +25,24 @@ def test_shows_on_site_by_ring():
     assert show("mobile", ["mobile"], "", "Unknown place", ["92zew"])                         # no area: region tags decide
     assert not show("mobile", ["coastal"], "Somewhere", "Thing", ["x"])
     assert show("coastal", ["coastal"], "Orange Beach", "Yoga", ["x"])                       # other feeds ignore the rings
+
+
+def test_pensacola_only_its_biggest_nights():
+    show = lambda title, src, venue: areas.shows_on_site("mobile", ["coastal"], "Pensacola", title, src, venue)  # noqa: E731
+    assert show("Jim Gaffigan: Everything is Wonderful!", ["ticketmaster"], "pensacola-bay-center")
+    assert show("Daniel Tosh: My First Farewell Tour", ["ticketmaster"], "pensacola-saenger")
+    assert not show("Saosin", ["ticketmaster"], "vinyl-music-hall")                                  # club show
+    assert not show("Pensacola Ice Flyers vs. Macon Mayhem", ["ticketmaster"], "pensacola-bay-center")
+    assert not show("The Billy Joel Legacy: Celebrating The Piano Man", ["ticketmaster"], "pensacola-saenger")
+    assert not show("Kenny G-Green Room Lounge", ["ticketmaster"], "pensacola-saenger")
+    assert show("Pensacola Seafood Festival", ["visit-pensacola"], None)                              # festivals still count
+    # the Baldwin coast keeps the looser rule
+    assert areas.shows_on_site("mobile", ["coastal"], "Orange Beach", "Some Band", ["ticketmaster"], "the-wharf-amphitheater")
+
+
+def test_settings_regexes_survive_yaml():
+    # YAML double quotes turn \b into a backspace; the patterns must arrive intact
+    from pipeline import config
+    o = config.settings()["outer_ring"]
+    for pattern in [o["draw_words"], o["never"], *[a.get("never", "") for a in o.get("areas", {}).values()]]:
+        assert not any(ord(c) < 32 for c in pattern), pattern

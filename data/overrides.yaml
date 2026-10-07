@@ -3,7 +3,9 @@
 
 # Force two occurrences to merge (by occurrence id from the review issue).
 # The first id wins field conflicts.
-merge: []
+merge:
+  - [235, 108]   # Postmodern Jukebox, Pensacola Saenger: Ticketmaster + 92ZEW (92ZEW's venue was resolved after TM's copy existed)
+  - [236, 110]   # Daniel Tosh, Pensacola Saenger: same story
 #  - [1234, 5678]
 
 # Force an occurrence onto a series (by occurrence id -> series slug).

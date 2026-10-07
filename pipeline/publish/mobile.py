@@ -75,7 +75,8 @@ class Site:
         for r in rows:
             v = self._occ_view(r)
             # core ring: everything; outer ring (Baldwin coast, Pensacola): only what's worth the drive
-            if areas.shows_on_site(self.region, db.uj(r["regions"]), v["city"], r["title_raw"], v["source_ids"]):
+            if areas.shows_on_site(self.region, db.uj(r["regions"]), v["city"], r["title_raw"], v["source_ids"],
+                                   v["venue"]["slug"] if v["venue"] else None):
                 out.append(v)
         return out
 
