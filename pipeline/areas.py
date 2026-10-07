@@ -58,9 +58,13 @@ def is_draw(title: str, source_ids, area: str | None = None, venue_slug: str | N
         return False
     if words and words.search(title):
         return True
-    if not set(source_ids) & sources:
+    hits = set(source_ids) & sources
+    if not hits:
         return False
-    return "venues" not in rule or venue_slug in rule["venues"]
+    if "venues" not in rule or venue_slug in rule["venues"]:
+        return True
+    # the venue limit tames ticketing feeds; curated festival lists still count anywhere
+    return bool(hits - set(rule.get("venues_apply_to", sources)))
 
 
 def shows_on_site(region: str, regions: list[str], city: str | None, title: str, source_ids,

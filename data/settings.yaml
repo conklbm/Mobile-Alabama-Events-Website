@@ -63,7 +63,7 @@ areas:
 
 outer_ring:
   # sources whose outer-ring events always count: ticketed shows and editors' picks
-  draw_sources: [ticketmaster, 92zew, 92zew-rundown, flora-bama-events]
+  draw_sources: [ticketmaster, 92zew, 92zew-rundown, flora-bama-events, gulfshores-festivals]
   # ...plus any title that reads like an event people drive for
   # (single quotes: YAML double quotes would turn \b into a backspace)
   draw_words: 'festival|\bfest\b|\bfair\b|parade|fireworks|rodeo|air show|regatta|mardi gras|tree lighting|marathon|triathlon|concert'
@@ -73,4 +73,5 @@ outer_ring:
   areas:
     pensacola:
       venues: [pensacola-bay-center, pensacola-saenger]   # ticketed shows count only at the arena and the Saenger
+      venues_apply_to: [ticketmaster, 92zew, 92zew-rundown]   # festival lists (Flora-Bama, gulfshores.com) count anywhere
       never: 'tribute|\blegacy\b|rumours of|fab four|ice flyers|green room|package|saturday only|sunday only|ballet pensacola|pensacola symphony|pensacola opera'

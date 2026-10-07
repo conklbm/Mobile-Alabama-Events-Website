@@ -23,9 +23,16 @@ source unpullable, read the site's own JS for the URL its calendar loads.** Now 
 | Visit Mobile (mobile.org) | sitemap → event pages with Event JSON-LD (REST API is Akamai-blocked) | `jsonld` (`sitemap:`) |
 | Mobile Arts Council, Eastern Shore Art Center | Duda `/rts/collections/public/<alias>/runtime/collection/<name>/data` | `duda_collection` |
 
-**Ready but coastal** (not shown on the Mobile site under current region rules): Visit Foley (Tribe, includes OWA),
-Flora-Bama (Tockify ICS), South Baldwin Chamber and Perdido Key Chamber (GrowthZone), Visit Pensacola (Craft CMS
-listing → JSON-LD), gulfshores.com (Drupal listing cards), Gulf State Park (HTML).
+**Outer ring, built 2026-10-07/08** (see settings.yaml `outer_ring`): Visit Foley (Tribe, `only_draws`), Flora-Bama
+annual events (Tockify `fbevents` ICS; the nightly live-music feed is left out on purpose), gulfshores.com festivals
+(`gulfshores_festivals`: the annual-festivals listing cards for dates, each event page's PostalAddress for the town;
+Crawl-delay 5).
+
+**Outer ring, not built:** Visit Pensacola — its category filter is ignored, so finding festivals means crawling 80+
+listing pages weekly, and the site dropped our connections during testing; event-page JSON-LD dates are wrong for
+recurring events. Pensacola's big nights come from Ticketmaster (Bay Center + Saenger only), 92ZEW, the Rundown,
+Flora-Bama and gulfshores.com. South Baldwin and Perdido Key chambers, Gulf State Park: mostly local minutiae the
+outer-ring rule would drop anyway.
 
 **Skipped on purpose:** Mobile Public Library (LibraryMarket JSON works, but ~350 routine branch programs);
 Lagniappe (evvnt widget, mostly re-syndicated Bandsintown, robots 403); Regions Arena RSS (Ticketmaster covers it).

@@ -46,3 +46,10 @@ def test_settings_regexes_survive_yaml():
     o = config.settings()["outer_ring"]
     for pattern in [o["draw_words"], o["never"], *[a.get("never", "") for a in o.get("areas", {}).values()]]:
         assert not any(ord(c) < 32 for c in pattern), pattern
+
+
+def test_pensacola_venue_limit_applies_to_ticketing_feeds_not_festival_lists():
+    show = lambda title, src, venue: areas.shows_on_site("mobile", ["coastal"], "Perdido Key", title, src, venue)  # noqa: E731
+    assert show("Flora-Bama Polar Bear Dip", ["gulfshores-festivals"], "flora-bama")
+    assert show("Santa Drop", ["flora-bama-events"], "flora-bama")
+    assert not show("Some Band", ["ticketmaster"], "flora-bama")

@@ -445,3 +445,20 @@
   expected_min_events: 1
   config:
     feed_url: https://tockify.com/api/feeds/ics/fbevents
+
+- id: gulfshores-festivals
+  name: Gulf Shores & Orange Beach Tourism (festivals)
+  url: https://www.gulfshores.com
+  collector_type: gulfshores_festivals
+  tier: C
+  curated: true
+  regions: [coastal]
+  brand_tokens: ["Gulf Shores & Orange Beach Tourism"]
+  license_notes: "Server-rendered festivals listing plus each event page's address block. robots.txt Crawl-delay 5 (honored). Link back to the event page."
+  redistributable: false
+  expected_min_events: 3
+  config:
+    listing_url: https://www.gulfshores.com/events-calendar/annual-festivals/
+    max_pages: 10
+    delay: 5
+    max_days: 7

@@ -620,7 +620,7 @@
 
 - slug: orange-beach-event-center
   name: Orange Beach Event Center
-  aliases: ["Orange Beach Event Center", "Event Center at The Wharf", "The Wharf Event Center"]
+  aliases: ["Orange Beach Event Center", "Event Center at The Wharf", "The Wharf Event Center", "Orange Beach Event Center at The Wharf"]
   domains: []
   address: 4671 Wharf Pkwy W
   city: Orange Beach
@@ -1815,3 +1815,71 @@
   state: AL
   zip: "36535"
   regions: [coastal]
+
+# --- seeded 2026-10-08 from gulfshores.com's address blocks ---
+
+- slug: lulus-gulf-shores
+  name: "LuLu's Gulf Shores"
+  aliases: ["LuLu's", "LuLu's Gulf Shores", "Lucy Buffett's LuLu's", "Lulus Gulf Shores"]
+  domains: []
+  address: 200 E 25th Ave
+  city: Gulf Shores
+  state: AL
+  zip: "36542"
+  regions: [coastal]
+  notes: "Lucy Buffett's waterfront restaurant on the Intracoastal Waterway; hosts the Christmas Lighted Boat Parade and Noon Year's Eve."
+
+- slug: coastal-orange-beach
+  name: COASTAL Orange Beach
+  aliases: ["COASTAL Orange Beach", "Coastal Orange Beach"]
+  domains: []
+  address: 25722 Perdido Beach Blvd
+  city: Orange Beach
+  state: AL
+  zip: "36561"
+  regions: [coastal]
+  notes: "Beachfront restaurant and event lawn on Perdido Beach Blvd; home of the annual Gumbo Festival."
+
+- slug: naval-air-station-pensacola
+  name: Naval Air Station Pensacola
+  aliases: ["NAS Pensacola", "Naval Air Station Pensacola", "Skyhawk Dr"]
+  domains: []
+  address: Skyhawk Dr
+  city: Pensacola
+  state: FL
+  zip: "32508"
+  regions: [coastal]
+  notes: "Home of the Blue Angels. Base access rules change for public events; check the event page before you go."
+
+- slug: stapleton-school
+  name: Stapleton School
+  aliases: ["Stapleton Elementary School", "Stapleton School"]
+  domains: []
+  address: 35480 Harriot Ave
+  city: Stapleton
+  state: AL
+  zip: "36578"
+  regions: [mobile]
+  notes: "North Baldwin school grounds; hosts the Stapleton Bluegrass Festival."
+
+- slug: elberta-town-park
+  name: Elberta Town Park
+  aliases: ["Elberta Park", "Elberta Town Park"]
+  domains: []
+  address: 13052 Main St
+  city: Elberta
+  state: AL
+  zip: "36530"
+  regions: [coastal]
+  notes: "Town park off Main Street; home of the twice-yearly German Sausage Festival."
+
+- slug: orange-beach-sportsplex
+  name: Orange Beach Sportsplex
+  aliases: ["Orange Beach Sports Complex", "Orange Beach Sportsplex"]
+  domains: []
+  address: 4385 William Silvers Pkwy
+  city: Orange Beach
+  state: AL
+  zip: "36561"
+  regions: [coastal]
+  notes: "City sports complex; start and finish for the Coastal Half Marathon."

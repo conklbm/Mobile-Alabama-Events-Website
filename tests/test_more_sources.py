@@ -119,3 +119,36 @@ def test_duda_neon_times_and_publish_flag():
     (ev,) = DudaCollectionCollector(src, session=None).parse(rows, *WINDOW)
     assert (ev.start_local.hour, ev.end_local.hour) == (10, 12)
     assert ev.venue_address.startswith("Eastern Shore Art Center (Studio 5), ") and ev.categories == ["Teen", "Mixed Media"]
+
+
+# ---------- gulfshores.com festivals ----------
+
+GS_LISTING = """
+<h3> <a href="/events-calendar/annual-events-and-festivals/shrimp-fest/" rel="bookmark"><span>The Annual Shrimp Festival</span> </a> </h3>
+<div class="event-venue">Gulf Shores Main Public Beach</div>
+<div class="date-small"> <span class="start">October 8, 2026</span> <span>-</span> <span class="end">October 11, 2026</span> </div>
+<div class="featured-info"><div class="field field--name-body"> <p>Savor fresh seafood...</p></div></div>
+<h3> <a href="/events-calendar/annual-events-and-festivals/sausage-fest/" rel="bookmark"><span>German Sausage Festival</span> </a> </h3>
+<div class="event-venue">Elberta Town Park</div>
+<div class="date-small"> <span class="start">October 31, 2026</span> </div>
+<h3> <a href="/events-calendar/annual-events-and-festivals/winter-lights/" rel="bookmark"><span>Winter Lights</span> </a> </h3>
+<div class="event-venue">The Wharf</div>
+<div class="date-small"> <span class="start">November 20, 2026</span> <span>-</span> <span class="end">January 3, 2027</span> </div>
+"""
+GS_DETAIL = ('<script type="application/ld+json">{"@type":"Event","name":"x","startDate":"Thu, 10/08/2025 - 05:00"}</script>'
+             '<script type="application/ld+json">{"@type":"TouristDestination","address":{"@type":"PostalAddress",'
+             '"streetAddress":"101 Gulf Shores Pkwy","addressLocality":"Gulf Shores ","postalCode":"36542"}}</script>')
+
+
+def test_gulfshores_cards_give_dates_and_detail_pages_give_the_town(monkeypatch):
+    from pipeline.collectors.gulfshores import GulfShoresCollector
+    c = GulfShoresCollector({"id": "gs", "url": "https://www.gulfshores.com", "config": {
+        "listing_url": "https://www.gulfshores.com/events-calendar/annual-festivals/", "delay": 0, "max_days": 7}}, session=None)
+    pages = {"https://www.gulfshores.com/events-calendar/annual-festivals/": GS_LISTING}
+    monkeypatch.setattr(c, "get_text", lambda url, params=None: pages.get(url, GS_DETAIL if "/events-calendar/annual-events" in url else ""))
+    evs = {e.title: e for e in c.fetch(*WINDOW)}
+    assert set(evs) == {"The Annual Shrimp Festival", "German Sausage Festival"}   # the 6-week light show is skipped
+    shrimp = evs["The Annual Shrimp Festival"]
+    assert (shrimp.start_local.day, shrimp.end_local.day, shrimp.all_day) == (8, 11, True)   # card dates, not the stale JSON-LD
+    assert shrimp.city == "Gulf Shores" and shrimp.venue_address == "Gulf Shores Main Public Beach, 101 Gulf Shores Pkwy, Gulf Shores"
+    assert shrimp.info_url == "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/shrimp-fest/"

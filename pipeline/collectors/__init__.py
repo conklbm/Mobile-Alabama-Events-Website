@@ -5,6 +5,7 @@ from .civicplus_rss import CivicPlusRssCollector
 from .duda import DudaCollectionCollector
 from .govcal import GovCalCollector
 from .growthzone import GrowthZoneCollector
+from .gulfshores import GulfShoresCollector
 from .ics import IcsCollector
 from .jsonld import JsonLdCollector
 from .manual import ManualCollector
@@ -23,6 +24,7 @@ COLLECTORS: dict[str, type[Collector]] = {
     GovCalCollector.collector_type: GovCalCollector,
     ZewRundownCollector.collector_type: ZewRundownCollector,
     DudaCollectionCollector.collector_type: DudaCollectionCollector,
+    GulfShoresCollector.collector_type: GulfShoresCollector,
 }
 
 __all__ = ["COLLECTORS", "Collector", "CollectorError", "make_session"]
