@@ -100,3 +100,32 @@ def is_free_price(price: str | None) -> bool:
         return False
     p = price.strip().lower()
     return p in {"free", "$0", "0", "$0.00", "no cover", "free admission"} or p.startswith("free")
+
+
+_SMALL_WORDS = {"a", "an", "and", "as", "at", "by", "for", "from", "in", "of", "on", "or", "the", "to", "vs", "with"}
+# all-caps words that should stay that way when a shouted title is tamed
+_KEEP_UPPER = {"USA", "ULM", "UWF", "USS", "OWA", "MOWA", "BBQ", "DJ", "LODA", "MLK", "YMCA", "NAACP", "ESC", "AARC",
+               "II", "III", "IV", "TV", "VIP", "UAB", "LSU", "SEC", "NFL", "MMA", "STEM"}
+
+
+def tame_caps(s: str | None) -> str:
+    """'JAMEY JOHNSON with special guest THEO LAWRENCE' -> 'Jamey Johnson with Special Guest Theo Lawrence'.
+    Only touches titles that are mostly capitals; mixed-case titles pass through unchanged."""
+    s = flatten(s)
+    letters = [c for c in s if c.isalpha()]
+    if not letters or sum(c.isupper() for c in letters) / len(letters) < 0.5:
+        return s
+    out: list[str] = []
+    for i, word in enumerate(s.split(" ")):
+        core = word.strip("\"'()[]:,.!?")
+        first = i == 0 or out[-1].endswith(":")
+        if core.upper() in _KEEP_UPPER or ("&" in core and len(core) <= 4):  # R&B, A&M
+            out.append(word.upper())
+        elif any(c.isdigit() for c in core):
+            # 10TH -> 10th, but BFM5K / 5K stay as written
+            out.append(word.lower() if re.fullmatch(r"\d+(st|nd|rd|th)", core, re.I) else word)
+        elif not first and core.lower() in _SMALL_WORDS:
+            out.append(word.lower())
+        else:
+            out.append(re.sub(r"[^\W\d_]+(?:['’][^\W\d_]+)*", lambda m: m[0][:1].upper() + m[0][1:].lower(), word))
+    return " ".join(out)

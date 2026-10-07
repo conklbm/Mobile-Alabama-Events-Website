@@ -2,12 +2,14 @@
 
 from .base import Collector, CollectorError, make_session
 from .civicplus_rss import CivicPlusRssCollector
+from .govcal import GovCalCollector
 from .growthzone import GrowthZoneCollector
 from .ics import IcsCollector
 from .jsonld import JsonLdCollector
 from .manual import ManualCollector
 from .ticketmaster import TicketmasterCollector
 from .tribe import TribeCollector
+from .zew_rundown import ZewRundownCollector
 
 COLLECTORS: dict[str, type[Collector]] = {
     TribeCollector.collector_type: TribeCollector,
@@ -17,6 +19,8 @@ COLLECTORS: dict[str, type[Collector]] = {
     IcsCollector.collector_type: IcsCollector,
     JsonLdCollector.collector_type: JsonLdCollector,
     ManualCollector.collector_type: ManualCollector,
+    GovCalCollector.collector_type: GovCalCollector,
+    ZewRundownCollector.collector_type: ZewRundownCollector,
 }
 
 __all__ = ["COLLECTORS", "Collector", "CollectorError", "make_session"]

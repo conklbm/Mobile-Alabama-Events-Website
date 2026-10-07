@@ -199,3 +199,70 @@
   config:
     feed_url: https://www.alabamacontemporary.org/events.ics
     max_days: 7   # skip months-long exhibitions
+
+- id: city-of-mobile
+  name: City of Mobile
+  url: https://www.cityofmobile.gov/events/
+  collector_type: govcal_json
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["City of Mobile"]
+  license_notes: "Public JSON behind the city's events calendar (assets/includes/ajax/json.php). City-produced events. Link back to the event page."
+  redistributable: false
+  expected_min_events: 1
+  config:
+    site: https://www.cityofmobile.gov/events/
+
+- id: mobile-county
+  name: Mobile County community calendar
+  url: https://www.mobilecountyal.gov/community_events/
+  collector_type: govcal_json
+  tier: C
+  curated: true
+  regions: [mobile]
+  brand_tokens: ["Mobile County"]
+  license_notes: "Public JSON behind the county's community calendar (same CMS as the city). County staff post community events. Link back to the event page."
+  redistributable: false
+  expected_min_events: 40
+  config:
+    site: https://www.mobilecountyal.gov/community_events/
+    detail_base: https://www.mobilecountyal.gov/community_events/events/
+    max_days: 10   # skip month-long runs (haunted houses, 6-week classes); weekly markets are expanded
+
+- id: uss-alabama
+  name: USS ALABAMA Battleship Memorial Park
+  url: https://www.ussalabama.com
+  collector_type: tribe_api
+  tier: A
+  curated: false
+  regions: [mobile]
+  brand_tokens: ["USS ALABAMA", "Battleship"]
+  license_notes: "Public WP REST endpoint (The Events Calendar). The park's own calendar. Link back to listing."
+  redistributable: false
+  expected_min_events: 2
+  config:
+    default_venue: uss-alabama-battleship-park
+
+- id: 92zew-rundown
+  name: 92ZEW Weekend Rundown
+  url: https://92zew.net
+  collector_type: zew_rundown
+  tier: C
+  curated: true
+  regions: [mobile]
+  brand_tokens: ["92ZEW", "92 ZEW", "ZEW"]
+  license_notes: "Public WP REST posts. Editor's weekend picks; we take date, time and place, write nothing from the prose beyond the item's own description, and link back."
+  redistributable: false
+  expected_min_events: 0   # Thursday's run can land before that week's post
+  config:
+    posts: 3
+    # an item is kept only if its place names one of these (or names a venue after "@")
+    local_places: [mobile, daphne, fairhope, spanish fort, foley, orange beach, gulf shores, robertsdale, loxley,
+                   stockton, theodore, mt. vernon, mount vernon, irvington, chickasaw, saraland, satsuma, semmes,
+                   pensacola, dauphin island, bayou la batre, grand bay, citronelle, magnolia springs, elberta,
+                   silverhill, summerdale, bay minette, wilmer, eight mile, prichard, point clear, montrose, malbis,
+                   perdido, lillian, owa, the wharf, causeway, usa campus, hancock whitney, hancock-whitney, bellingrath]
+    # ...and dropped if it names one of these (Mississippi Coast shows, away games on TV)
+    away_places: [biloxi, gautier, gulfport, ocean springs, pascagoula, mississippi, ", ms", tuscaloosa, starkville,
+                  knoxville, tallahassee, baton rouge, new orleans, birmingham, montgomery, auburn]

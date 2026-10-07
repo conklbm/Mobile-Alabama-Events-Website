@@ -245,7 +245,7 @@
 
 - slug: uss-alabama-battleship-park
   name: USS Alabama Battleship Memorial Park
-  aliases: ["USS Alabama Battleship Memorial Park", "USS Alabama", "Battleship Park", "Battleship Memorial Park", "USS Alabama Battleship Park"]
+  aliases: ["USS Alabama Battleship Memorial Park", "USS Alabama", "Battleship Park", "Battleship Memorial Park", "USS Alabama Battleship Park", "Aircraft Pavilion", "Recreational Area"]  # last two: on-site areas named by ussalabama.com
   domains: ["ussalabama.com"]
   address: 2703 Battleship Pkwy
   city: Mobile
@@ -691,7 +691,7 @@
 
 - slug: national-maritime-museum
   name: National Maritime Museum of the Gulf of Mexico
-  aliases: ["The National Maritime Museum of the Gulf of Mexico", "National Maritime Museum of the Gulf of Mexico", "GulfQuest", "Gulfquest National Maritime Museum", "GulfQuest Maritime Museum"]
+  aliases: ["The National Maritime Museum of the Gulf of Mexico", "National Maritime Museum of the Gulf of Mexico", "GulfQuest", "Gulfquest National Maritime Museum", "GulfQuest Maritime Museum", "National Maritime Museum of the Gulf"]
   domains: ["gulfquest.org"]
   address: 155 S Water St
   city: Mobile
@@ -1146,3 +1146,515 @@
   zip: "36602"
   regions: [mobile]
   notes: "Cocktail lounge in the Central Business District, known for live shows and dancing."
+
+# --- seeded 2026-10-07 from the Mobile County community calendar's own addresses ---
+
+- slug: monroes-pub-patio
+  name: "Monroe's Pub & Patio"
+  aliases: ["Monroe's Pub & Patio"]
+  domains: []
+  address: "1455 Monroe St."
+  city: Mobile
+  state: AL
+  zip: "36604"
+  regions: [mobile]
+
+- slug: murphy-high-school
+  name: Murphy High School
+  aliases: ["Murphy High School"]
+  domains: []
+  address: "100 South Carlen St"
+  city: Mobile
+  state: AL
+  zip: "36606"
+  regions: [mobile]
+
+- slug: the-peoples-room-of-mobile
+  name: "The People's Room of Mobile"
+  aliases: ["The People's Room of Mobile"]
+  domains: []
+  address: "78 St. Francis St."
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: cathedral-basilica-of-the-immaculate-conception
+  name: Cathedral-Basilica of the Immaculate Conception
+  aliases: ["Cathedral-Basilica of the Immaculate Conception"]
+  domains: []
+  address: "2 S. Claiborne St."
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: steele-creek-lodge
+  name: Steele Creek Lodge
+  aliases: ["Steele Creek Lodge"]
+  domains: []
+  address: "368 Juniper Ave."
+  city: Satsuma
+  state: AL
+  zip: "36572"
+  regions: [mobile]
+
+- slug: habitat-for-humanity-of-southwest-alabama
+  name: Habitat for Humanity of Southwest Alabama
+  aliases: ["Habitat for Humanity of Southwest Alabama"]
+  domains: []
+  address: "3712 Airport Blvd."
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+
+- slug: goodwill-easter-seals
+  name: Goodwill Easter Seals
+  aliases: ["Goodwill Easter Seals"]
+  domains: []
+  address: "2440 Gordon Smith Drive"
+  city: Mobile
+  state: AL
+  zip: "36617"
+  regions: [mobile]
+
+- slug: crown-hall
+  name: Crown Hall
+  aliases: ["Crown Hall", "Crown Hall by Bay Gourmet"]
+  domains: []
+  address: "653 St. Louis St."
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: escatawpa-hollow-park-campground
+  name: Escatawpa Hollow Park & Campground
+  aliases: ["Escatawpa Hollow Park & Campground"]
+  domains: []
+  address: "15551-B Moffett Road"
+  city: Wilmer
+  state: AL
+  zip: "36587"
+  regions: [mobile]
+
+- slug: heron-lakes-country-club
+  name: Heron Lakes Country Club
+  aliases: ["Heron Lakes Country Club"]
+  domains: []
+  address: "3851 Government Blvd"
+  city: Mobile
+  state: AL
+  zip: "36693"
+  regions: [mobile]
+
+- slug: university-of-south-alabama-marx-library
+  name: University of South Alabama Marx Library
+  aliases: ["University of South Alabama Marx Library"]
+  domains: []
+  address: "5901 USA N. Drive #300"
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+
+- slug: bayou-la-batre-community-center
+  name: Bayou La Batre Community Center
+  aliases: ["Bayou La Batre Community Center"]
+  domains: []
+  address: "12745 Padgett Switch Road"
+  city: Irvington
+  state: AL
+  zip: "36544"
+  regions: [mobile]
+
+- slug: topgolf
+  name: Topgolf
+  aliases: ["Topgolf"]
+  domains: []
+  address: "250 Satchel Paige Drive"
+  city: Mobile
+  state: AL
+  zip: "36606"
+  regions: [mobile]
+
+- slug: university-of-south-alabama-sga-pavilion
+  name: University of South Alabama SGA Pavilion
+  aliases: ["University of South Alabama SGA Pavilion"]
+  domains: []
+  address: "6341 John Counts Drive"
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+
+- slug: fort-whiting-auditorium
+  name: Fort Whiting Auditorium
+  aliases: ["Fort Whiting Auditorium"]
+  domains: []
+  address: "1630 S. Broad St."
+  city: Mobile
+  state: AL
+  zip: "36605"
+  regions: [mobile]
+
+- slug: outback-steakhouse
+  name: Outback Steakhouse
+  aliases: ["Outback Steakhouse"]
+  domains: []
+  address: "4017 Airport Blvd."
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+
+- slug: mobay-beignet-co
+  name: "Mo'Bay Beignet Co."
+  aliases: ["Mo'Bay Beignet Co."]
+  domains: []
+  address: "451 Dauphin St."
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: coastal-makers-art-studio
+  name: Coastal Makers Art Studio
+  aliases: ["Coastal Makers Art Studio"]
+  domains: []
+  address: "63 N. Florida St."
+  city: Mobile
+  state: AL
+  zip: "36607"
+  regions: [mobile]
+
+- slug: chickasabogue-park
+  name: Chickasabogue Park
+  aliases: ["Chickasabogue Park"]
+  domains: []
+  address: "750 Aldock Road"
+  city: Eight Mile
+  state: AL
+  zip: "36613"
+  regions: [mobile]
+
+- slug: semmes-regional-library
+  name: Semmes Regional Library
+  aliases: ["Semmes Regional Library"]
+  domains: []
+  address: "9150 Moffett Road"
+  city: Semmes
+  state: AL
+  zip: "36575"
+  regions: [mobile]
+
+- slug: bragg-mitchell-mansion
+  name: Bragg-Mitchell Mansion
+  aliases: ["Bragg-Mitchell Mansion"]
+  domains: []
+  address: "1906 Springhill Ave."
+  city: Mobile
+  state: AL
+  zip: "36607"
+  regions: [mobile]
+
+- slug: historic-avenue-cultural-center
+  name: Historic Avenue Cultural Center
+  aliases: ["Historic Avenue Cultural Center"]
+  domains: []
+  address: "564 Dr. Martin Luther King Jr. Ave."
+  city: Mobile
+  state: AL
+  zip: "36603"
+  regions: [mobile]
+
+- slug: university-of-south-alabama-student-center
+  name: University of South Alabama Student Center
+  aliases: ["USA Student Center Ballroom", "University of South Alabama Student Center"]
+  domains: []
+  address: "350 Student Center Circle"
+  city: Mobile
+  state: AL
+  zip: "36688"
+  regions: [mobile]
+
+- slug: saraland-public-library
+  name: Saraland Public Library
+  aliases: ["Saraland Public Library"]
+  domains: []
+  address: "111 Saraland Loop"
+  city: Saraland
+  state: AL
+  zip: "36571"
+  regions: [mobile]
+
+- slug: university-of-south-alabamas-archaeology-museum
+  name: "University of South Alabama's Archaeology Museum"
+  aliases: ["University of South Alabama Archaeology Museum", "University of South Alabama's Archaeology Museum"]
+  domains: []
+  address: "6050 USA S. Drive"
+  city: Mobile
+  state: AL
+  zip: "36688"
+  regions: [mobile]
+
+- slug: theodore-oaks-branch-library
+  name: Theodore Oaks Branch Library
+  aliases: ["Theodore Oaks Branch Library"]
+  domains: []
+  address: "5808 Highway 90 West, Suite E"
+  city: Mobile
+  state: AL
+  zip: "36582"
+  regions: [mobile]
+
+- slug: vandals-street-kitchen
+  name: Vandals Street Kitchen
+  aliases: ["Vandals Street Kitchen"]
+  domains: []
+  address: "6601 Airport Blvd."
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+
+- slug: central-midtown
+  name: Central Midtown
+  aliases: ["Central Midtown"]
+  domains: []
+  address: "1260 Dauphin St."
+  city: Mobile
+  state: AL
+  zip: "36604"
+  regions: [mobile]
+
+- slug: dedicated-dentist-inc
+  name: Dedicated Dentist Inc.
+  aliases: ["Dedicated Dentist Inc."]
+  domains: []
+  address: "6309 Piccadilly Square"
+  city: Mobile
+  state: AL
+  zip: "36609"
+  regions: [mobile]
+
+- slug: semmes-walking-trail
+  name: Semmes Walking Trail
+  aliases: ["Semmes Walking Trail"]
+  domains: []
+  address: "10141 Moffett Road"
+  city: Semmes
+  state: AL
+  zip: "36575"
+  regions: [mobile]
+
+- slug: west-regional-library
+  name: West Regional Library
+  aliases: ["West Regional Library"]
+  domains: []
+  address: "5555 Grelot Road"
+  city: Mobile
+  state: AL
+  zip: "36609"
+  regions: [mobile]
+
+- slug: st-pius-x-catholic-church
+  name: St. Pius X Catholic Church
+  aliases: ["St. Pius X Catholic Church"]
+  domains: []
+  address: "217 S. Sage Ave."
+  city: Mobile
+  state: AL
+  zip: "36606"
+  regions: [mobile]
+
+- slug: creekside-rv-park
+  name: Creekside RV Park
+  aliases: ["Creekside RV Park"]
+  domains: []
+  address: "9560 Grand Bay-Wilmer Road"
+  city: Grand Bay
+  state: AL
+  zip: "36541"
+  regions: [mobile]
+
+- slug: the-blind-mule
+  name: The Blind Mule
+  aliases: ["The Blind Mule"]
+  domains: []
+  address: "57 N. Claiborne St."
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: chickasaw-civic-theatre
+  name: Chickasaw Civic Theatre
+  aliases: ["Chickasaw Civic Theatre"]
+  domains: []
+  address: "801 Iroquois St."
+  city: Chickasaw
+  state: AL
+  zip: "36611"
+  regions: [mobile]
+
+- slug: sacred-heart-residence
+  name: Sacred Heart Residence
+  aliases: ["Sacred Heart Residence"]
+  domains: []
+  address: "1655 McGill Ave."
+  city: Mobile
+  state: AL
+  zip: "36604"
+  regions: [mobile]
+
+- slug: spanish-plaza-park
+  name: Spanish Plaza Park
+  aliases: ["Spanish Plaza Park"]
+  domains: []
+  address: "401 Government St."
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: the-frenchmen
+  name: The Frenchmen
+  aliases: ["The Frenchmen"]
+  domains: []
+  address: "222 Dauphin St."
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: medal-of-honor-park
+  name: Medal of Honor Park
+  aliases: ["Medal of Honor Park"]
+  domains: []
+  address: "1711 Hillcrest Road"
+  city: Mobile
+  state: AL
+  zip: "36609"
+  regions: [mobile]
+
+- slug: las-floriditas
+  name: Las Floriditas
+  aliases: ["Las Floriditas"]
+  domains: []
+  address: "107 St. Francis St."
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: riverview-plaza
+  name: Riverview Plaza
+  aliases: ["Riverview Plaza"]
+  domains: []
+  address: "64 S. Water St."
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: providence-presbyterian-church
+  name: Providence Presbyterian Church
+  aliases: ["Providence Presbyterian Church"]
+  domains: []
+  address: "2320 Schillinger Road S."
+  city: Mobile
+  state: AL
+  zip: "36695"
+  regions: [mobile]
+
+- slug: cooper-riverside-park
+  name: Cooper Riverside Park
+  aliases: ["Cooper Riverside Park"]
+  domains: []
+  address: "101 S. Water St."
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: the-pillars-mobile
+  name: The Pillars Mobile
+  aliases: ["The Pillars Mobile"]
+  domains: []
+  address: "1757 Government St."
+  city: Mobile
+  state: AL
+  zip: "36604"
+  regions: [mobile]
+
+- slug: mobile-mystics-float-barn
+  name: Mobile Mystics Float Barn
+  aliases: ["Mobile Mystics Float Barn"]
+  domains: []
+  address: "659 St. Anthony St."
+  city: Mobile
+  state: AL
+  zip: "36603"
+  regions: [mobile]
+
+- slug: dees-pecan-co
+  name: Dees Pecan Co.
+  aliases: ["Dees Pecan Co."]
+  domains: []
+  address: "5960 Dawes Road"
+  city: Grand Bay
+  state: AL
+  zip: "36541"
+  regions: [mobile]
+
+- slug: citronelle-main-street
+  name: Citronelle Main Street
+  aliases: ["Citronelle Main Street"]
+  domains: []
+  address: "19135 Main St."
+  city: Citronelle
+  state: AL
+  zip: "36522"
+  regions: [mobile]
+
+- slug: somerby-of-mobile
+  name: Somerby of Mobile
+  aliases: ["Somerby of Mobile"]
+  domains: []
+  address: "901 Somerby Drive"
+  city: Mobile
+  state: AL
+  zip: "36695"
+  regions: [mobile]
+
+- slug: cox-deasy-cottage-at-historic-oakleigh
+  name: Cox-Deasy Cottage at Historic Oakleigh
+  aliases: ["Cox-Deasy Cottage", "Cox-Deasy Cottage at Historic Oakleigh", "Historic Oakleigh, Cox-Deasy Cottage"]
+  domains: []
+  address: "350 Oakleigh Place"
+  city: Mobile
+  state: AL
+  zip: "36604"
+  regions: [mobile]
+
+- slug: mary-g-montgomery-high-school
+  name: Mary G. Montgomery High School
+  aliases: ["Mary G. Montgomery High School"]
+  domains: []
+  address: "4275 Snow Road N."
+  city: Semmes
+  state: AL
+  zip: "36575"
+  regions: [mobile]
+
+- slug: mobile-flea-market
+  name: Mobile Flea Market
+  aliases: ["Mobile Flea Market"]
+  domains: []
+  address: "401 Schillinger Road N."
+  city: Mobile
+  state: AL
+  zip: "36609"
+  regions: [mobile]
