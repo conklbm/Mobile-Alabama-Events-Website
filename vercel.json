@@ -61,13 +61,13 @@
       "permanent": true
     },
     {
-      "source": "/events/can-t-feel-my-face-2010s-dance-party-18-and-over(/)?",
-      "destination": "/",
+      "source": "/events/the-great-bellingrath-harvest(/)?",
+      "destination": "/venues/bellingrath-gardens/",
       "permanent": true
     },
     {
-      "source": "/events/the-great-bellingrath-harvest(/)?",
-      "destination": "/venues/bellingrath-gardens/",
+      "source": "/events/6th-annual-orange-beach-freedom-fest(/)?",
+      "destination": "/venues/orange-beach-city-hall/",
       "permanent": true
     },
     {
@@ -123,11 +123,6 @@
     {
       "source": "/events/lyfe-jennings(/)?",
       "destination": "/venues/soul-kitchen/",
-      "permanent": true
-    },
-    {
-      "source": "/events/gasolina-reggaeton-party(/)?",
-      "destination": "/venues/vinyl-music-hall/",
       "permanent": true
     },
     {

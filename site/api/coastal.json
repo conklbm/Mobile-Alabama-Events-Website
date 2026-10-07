@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-10-07T21:17:27Z",
+ "generated": "2026-10-07T21:30:52Z",
  "events": [
   {
    "id": 352,
@@ -99,41 +99,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 108,
-   "series_slug": "postmodern-jukebox-the-future-is-vintage-world-tour",
-   "title": "Postmodern Jukebox: The Future Is Vintage World Tour",
-   "start": "2026-10-08T20:00:00-05:00",
-   "end": "2026-10-08T23:00:00-05:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/scott-bradlees-postmodern-jukebox-the-future-is-vintage-world-tour/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/05/postmodern-jukebox-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 235,
    "series_slug": "scott-bradlee-s-postmodern-jukebox-the-future-is-vintage-world-tour",
    "title": "Scott Bradlee's Postmodern Jukebox: The Future Is Vintage World Tour",
@@ -160,9 +125,12 @@
     "tier": "B",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/postmodern-jukebox-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 395,
@@ -267,41 +235,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 110,
-   "series_slug": "daniel-tosh",
-   "title": "Daniel Tosh",
-   "start": "2026-10-09T19:00:00-05:00",
-   "end": "2026-10-09T22:00:00-05:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/daniel-tosh/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/05/Tosh.png",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 236,
    "series_slug": "daniel-tosh-my-first-farewell-tour",
    "title": "Daniel Tosh: My First Farewell Tour",
@@ -328,9 +261,12 @@
     "tier": "B",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/Tosh.png",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 385,

@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-10-07T21:17:26Z",
+ "generated": "2026-10-07T21:30:52Z",
  "events": [
   {
    "id": 106,
@@ -377,41 +377,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 108,
-   "series_slug": "postmodern-jukebox-the-future-is-vintage-world-tour",
-   "title": "Postmodern Jukebox: The Future Is Vintage World Tour",
-   "start": "2026-10-08T20:00:00-05:00",
-   "end": "2026-10-08T23:00:00-05:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/scott-bradlees-postmodern-jukebox-the-future-is-vintage-world-tour/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/05/postmodern-jukebox-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 235,
    "series_slug": "scott-bradlee-s-postmodern-jukebox-the-future-is-vintage-world-tour",
    "title": "Scott Bradlee's Postmodern Jukebox: The Future Is Vintage World Tour",
@@ -438,9 +403,12 @@
     "tier": "B",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/postmodern-jukebox-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 438,
@@ -506,41 +474,6 @@
    },
    "image": {
     "url": "https://92zew.net/wp-content/uploads/2026/06/artwalk-logo-512-x-442-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 110,
-   "series_slug": "daniel-tosh",
-   "title": "Daniel Tosh",
-   "start": "2026-10-09T19:00:00-05:00",
-   "end": "2026-10-09T22:00:00-05:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/daniel-tosh/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/05/Tosh.png",
     "credit": "92ZEW"
    },
    "curation_score": 1,
@@ -667,9 +600,12 @@
     "tier": "B",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/Tosh.png",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 441,
@@ -1414,37 +1350,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 239,
-   "series_slug": "machine-girl",
-   "title": "Machine Girl",
-   "start": "2026-10-15T19:00:00-05:00",
-   "end": "2026-10-15T22:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "vinyl-music-hall",
-    "name": "Vinyl Music Hall",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ8kF",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ8kF",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 113,
    "series_slug": "sister-hazel",
    "title": "Sister Hazel",
@@ -1566,37 +1471,6 @@
    "price": "$18.61",
    "ticket_url": "https://www.ticketweb.com/event/danny-bedrosian-secret-army-the-merry-widow-tickets/15031393",
    "info_url": "https://www.ticketweb.com/event/danny-bedrosian-secret-army-the-merry-widow-tickets/15031393",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 241,
-   "series_slug": "nirvanna-tribute-to-nirvana",
-   "title": "Nirvanna - Tribute to Nirvana",
-   "start": "2026-10-16T20:00:00-05:00",
-   "end": "2026-10-16T23:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "vinyl-music-hall",
-    "name": "Vinyl Music Hall",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbI",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbI",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -1733,38 +1607,6 @@
    "price": "$33.36-84.21",
    "ticket_url": "https://www.ticketweb.com/event/amber-wallin-crescent-theater-tickets/14963863",
    "info_url": "https://www.ticketweb.com/event/amber-wallin-crescent-theater-tickets/14963863",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 242,
-   "series_slug": "pensacola-ice-flyers-vs-birmingham-bulls",
-   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
-   "start": "2026-10-17T19:05:00-05:00",
-   "end": "2026-10-17T22:05:00-05:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-10-17-2026/event/1B00650D855162C3",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-10-17-2026/event/1B00650D855162C3",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -1966,37 +1808,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 244,
-   "series_slug": "the-billy-joel-legacy-celebrating-the-piano-man",
-   "title": "The Billy Joel Legacy: Celebrating The Piano Man",
-   "start": "2026-10-18T19:00:00-05:00",
-   "end": "2026-10-18T22:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/the-billy-joel-legacy-celebrating-the-pensacola-florida-10-18-2026/event/1B0064DEE757F246",
-   "info_url": "https://www.ticketmaster.com/the-billy-joel-legacy-celebrating-the-pensacola-florida-10-18-2026/event/1B0064DEE757F246",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 188,
    "series_slug": "great-lake-swimmers",
    "title": "GREAT LAKE SWIMMERS",
@@ -2177,37 +1988,6 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/sonic-live-in-concert-mobile-alabama-10-20-2026/event/1B0064ABBA09DAC5",
    "info_url": "https://www.ticketmaster.com/sonic-live-in-concert-mobile-alabama-10-20-2026/event/1B0064ABBA09DAC5",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 245,
-   "series_slug": "rumours-of-fleetwood-mac",
-   "title": "Rumours of Fleetwood Mac",
-   "start": "2026-10-20T19:30:00-05:00",
-   "end": "2026-10-20T22:30:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/rumours-of-fleetwood-mac-pensacola-florida-10-20-2026/event/1B00650EDAF69B61",
-   "info_url": "https://www.ticketmaster.com/rumours-of-fleetwood-mac-pensacola-florida-10-20-2026/event/1B00650EDAF69B61",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -2667,69 +2447,6 @@
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 248,
-   "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
-   "title": "Pensacola Ice Flyers vs. Huntsville Havoc",
-   "start": "2026-10-24T19:05:00-05:00",
-   "end": "2026-10-24T22:05:00-05:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-24-2026/event/1B00650D855562DB",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-24-2026/event/1B00650D855562DB",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 295,
-   "series_slug": "red-not-chili-peppers",
-   "title": "Red Not Chili Peppers",
-   "start": "2026-10-24T20:00:00-05:00",
-   "end": "2026-10-24T23:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "vinyl-music-hall",
-    "name": "Vinyl Music Hall",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvZ7-",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvZ7-",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -3245,37 +2962,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 251,
-   "series_slug": "the-linda-lindas",
-   "title": "The Linda Lindas",
-   "start": "2026-10-29T19:30:00-05:00",
-   "end": "2026-10-29T22:30:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "the-handlebar-pensacola",
-    "name": "The Handlebar",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jo8b",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jo8b",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 335,
    "series_slug": "2026-eagle-awards",
    "title": "2026 Eagle Awards",
@@ -3373,38 +3059,6 @@
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 252,
-   "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
-   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
-   "start": "2026-10-30T19:05:00-05:00",
-   "end": "2026-10-30T22:05:00-05:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-30-2026/event/1B00650D855A62E2",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-10-30-2026/event/1B00650D855A62E2",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -3540,37 +3194,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 253,
-   "series_slug": "saosin",
-   "title": "Saosin",
-   "start": "2026-10-31T19:00:00-05:00",
-   "end": "2026-10-31T22:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "vinyl-music-hall",
-    "name": "Vinyl Music Hall",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbt",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbt",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 198,
    "series_slug": "nosferatu-live-improvised-score-feat-mike-dillon-chris-baby-spies",
    "title": "Nosferatu Live Improvised Score feat. Mike Dillon, Chris “Baby” Spies, Brian Haas & James Singleton",
@@ -3654,38 +3277,6 @@
    "price": "$18.61",
    "ticket_url": "https://www.ticketweb.com/event/jacob-brock-and-his-night-the-merry-widow-tickets/14336054",
    "info_url": "https://www.ticketweb.com/event/jacob-brock-and-his-night-the-merry-widow-tickets/14336054",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 254,
-   "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
-   "title": "Pensacola Ice Flyers vs. Birmingham Bulls",
-   "start": "2026-11-01T16:05:00-06:00",
-   "end": "2026-11-01T19:05:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-01-2026/event/1B00650D855F62FB",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-11-01-2026/event/1B00650D855F62FB",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -3848,37 +3439,6 @@
    "source": {
     "name": "Mobile Chamber",
     "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 255,
-   "series_slug": "pensacola-opera-rock-the-runway",
-   "title": "Pensacola Opera-Rock the Runway",
-   "start": "2026-11-04T19:00:00-06:00",
-   "end": "2026-11-04T22:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-operarock-the-runway-pensacola-florida-11-04-2026/event/1B006518E4272C06",
-   "info_url": "https://www.ticketmaster.com/pensacola-operarock-the-runway-pensacola-florida-11-04-2026/event/1B006518E4272C06",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
     "redistributable": false
    },
    "image": null,
@@ -4171,37 +3731,6 @@
    "independent_source_count": 2
   },
   {
-   "id": 299,
-   "series_slug": "lupe-fiasco",
-   "title": "Lupe Fiasco",
-   "start": "2026-11-06T20:00:00-06:00",
-   "end": "2026-11-06T23:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "vinyl-music-hall",
-    "name": "Vinyl Music Hall",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZSqY",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZSqY",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 15,
    "series_slug": "beethoven-blue-jeans",
    "title": "Beethoven & Blue Jeans",
@@ -4235,38 +3764,6 @@
    },
    "curation_score": 0,
    "independent_source_count": 0
-  },
-  {
-   "id": 256,
-   "series_slug": "pensacola-symphony-orchestra-opening-night",
-   "title": "Pensacola Symphony Orchestra: Mozart & Bizet",
-   "start": "2026-11-07T19:30:00-06:00",
-   "end": "2026-11-07T22:30:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "music"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-mozart-bizet-pensacola-florida-11-07-2026/event/1B00649911D5E309",
-   "info_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-mozart-bizet-pensacola-florida-11-07-2026/event/1B00649911D5E309",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
   },
   {
    "id": 203,
@@ -4489,37 +3986,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 257,
-   "series_slug": "hawthorne-heights-w-letlive",
-   "title": "Hawthorne Heights w/ Letlive",
-   "start": "2026-11-10T19:00:00-06:00",
-   "end": "2026-11-10T22:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "vinyl-music-hall",
-    "name": "Vinyl Music Hall",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x_bf",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x_bf",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 8,
    "series_slug": "enrg-entrepreneurial-network-resource-group",
    "title": "ENRG (Entrepreneurial Network Resource Group)",
@@ -4550,37 +4016,6 @@
     "url": "https://www.innovation-portal.com/wp-content/uploads/2024/12/enrg-2025-horizontal.png",
     "credit": "Innovation Portal"
    },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 258,
-   "series_slug": "fortunate-youth-w-kash-d-out",
-   "title": "Fortunate Youth w/ Kash'd Out",
-   "start": "2026-11-11T19:00:00-06:00",
-   "end": "2026-11-11T22:00:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family"
-   ],
-   "venue": {
-    "slug": "vinyl-music-hall",
-    "name": "Vinyl Music Hall",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J8pv",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J8pv",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -4849,38 +4284,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 260,
-   "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
-   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
-   "start": "2026-11-13T19:05:00-06:00",
-   "end": "2026-11-13T22:05:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-13-2026/event/1B00650D85646303",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-13-2026/event/1B00650D85646303",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 208,
    "series_slug": "comedy-shorts-3-short-shows-one-low-price",
    "title": "Comedy Shorts: 3 Short Shows, One Low Price",
@@ -4996,69 +4399,6 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/nephew-tommys-black-tie-house-party-pensacola-florida-11-14-2026/event/1B0064FE0C308B62",
    "info_url": "https://www.ticketmaster.com/nephew-tommys-black-tie-house-party-pensacola-florida-11-14-2026/event/1B0064FE0C308B62",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 262,
-   "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
-   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
-   "start": "2026-11-14T19:05:00-06:00",
-   "end": "2026-11-14T22:05:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-14-2026/event/1B00650D85696307",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-11-14-2026/event/1B00650D85696307",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 263,
-   "series_slug": "chrissy-chlapecka",
-   "title": "Chrissy Chlapecka",
-   "start": "2026-11-14T20:00:00-06:00",
-   "end": "2026-11-14T23:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "the-handlebar-pensacola",
-    "name": "The Handlebar",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J737",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J737",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -5292,68 +4632,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 265,
-   "series_slug": "ive-got-a-fire-tour-with-pat-barrett-pensacola-fl",
-   "title": "I’ve Got A Fire Tour with Pat Barrett - Pensacola, FL",
-   "start": "2026-11-19T19:00:00-06:00",
-   "end": "2026-11-19T22:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "marcus-pointe-baptist-church",
-    "name": "Marcus Pointe Baptist Church",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "$27.62-86.33",
-   "ticket_url": "https://www.ticketweb.com/event/ive-got-a-fire-tour-marcus-pointe-baptist-church-tickets/14873713",
-   "info_url": "https://www.ticketweb.com/event/ive-got-a-fire-tour-marcus-pointe-baptist-church-tickets/14873713",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 266,
-   "series_slug": "the-fab-four-tribute-to-the-beatles-a-hard-day-s-night",
-   "title": "The Fab Four: Tribute to the Beatles' A Hard Day's Night",
-   "start": "2026-11-19T19:30:00-06:00",
-   "end": "2026-11-19T22:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/the-fab-four-tribute-to-the-pensacola-florida-11-19-2026/event/1B00646CBF6AF36C",
-   "info_url": "https://www.ticketmaster.com/the-fab-four-tribute-to-the-pensacola-florida-11-19-2026/event/1B00646CBF6AF36C",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 414,
    "series_slug": "selwyn-birchwood",
    "title": "Selwyn Birchwood",
@@ -5450,37 +4728,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 267,
-   "series_slug": "evan-honer",
-   "title": "Evan Honer",
-   "start": "2026-11-20T20:00:00-06:00",
-   "end": "2026-11-20T23:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "vinyl-music-hall",
-    "name": "Vinyl Music Hall",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbY",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PIbY",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 268,
    "series_slug": "derek-hough-dance-for-the-holidays",
    "title": "Derek Hough: Dance For The Holidays",
@@ -5533,68 +4780,6 @@
    "price": "$22.09",
    "ticket_url": "https://www.ticketweb.com/event/blake-lambert-soul-kitchen-tickets/15033363",
    "info_url": "https://www.ticketweb.com/event/blake-lambert-soul-kitchen-tickets/15033363",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 271,
-   "series_slug": "pensacola-invitational-2-day-package",
-   "title": "Pensacola Invitational 2-Day Package",
-   "start": "2026-11-21T00:00:00-06:00",
-   "end": "2026-11-21T23:59:59-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-invitational-2day-package-pensacola-florida-11-21-2026/event/1B00651CE1024DF9",
-   "info_url": "https://www.ticketmaster.com/pensacola-invitational-2day-package-pensacola-florida-11-21-2026/event/1B00651CE1024DF9",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 269,
-   "series_slug": "pensacola-invitational-saturday-only",
-   "title": "Pensacola Invitational Saturday Only",
-   "start": "2026-11-21T16:00:00-06:00",
-   "end": "2026-11-21T19:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-invitational-saturday-only-pensacola-florida-11-21-2026/event/1B00651CDF20421E",
-   "info_url": "https://www.ticketmaster.com/pensacola-invitational-saturday-only-pensacola-florida-11-21-2026/event/1B00651CDF20421E",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -5700,38 +4885,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 272,
-   "series_slug": "pensacola-invitational-saturday-only",
-   "title": "Pensacola Invitational Sunday Only",
-   "start": "2026-11-22T14:00:00-06:00",
-   "end": "2026-11-22T17:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "food"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-invitational-sunday-only-pensacola-florida-11-22-2026/event/1B00651CDF264245",
-   "info_url": "https://www.ticketmaster.com/pensacola-invitational-sunday-only-pensacola-florida-11-22-2026/event/1B00651CDF264245",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 10,
    "series_slug": "prototyping-lab-3d-modeling-workshop",
    "title": "Prototyping Lab 3D Modeling Workshop",
@@ -5798,38 +4951,6 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 273,
-   "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
-   "title": "Pensacola Ice Flyers vs. Huntsville Havoc",
-   "start": "2026-11-25T19:05:00-06:00",
-   "end": "2026-11-25T22:05:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-11-25-2026/event/1B00650D856E630C",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-11-25-2026/event/1B00650D856E630C",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -5923,38 +5044,6 @@
    "price": "$19.47",
    "ticket_url": "https://www.ticketweb.com/event/ryan-dyer-soul-kitchen-tickets/14312784",
    "info_url": "https://www.ticketweb.com/event/ryan-dyer-soul-kitchen-tickets/14312784",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 274,
-   "series_slug": "pensacola-ice-flyers-vs-birmingham-bulls",
-   "title": "Pensacola Ice Flyers vs. Birmingham Bulls",
-   "start": "2026-11-28T19:05:00-06:00",
-   "end": "2026-11-28T22:05:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-11-28-2026/event/1B00650D85736317",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-11-28-2026/event/1B00650D85736317",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -6382,38 +5471,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 278,
-   "series_slug": "pensacola-ice-flyers-vs-birmingham-bulls",
-   "title": "Pensacola Ice Flyers vs. Birmingham Bulls",
-   "start": "2026-12-05T19:05:00-06:00",
-   "end": "2026-12-05T22:05:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-12-05-2026/event/1B00650D8578631B",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-12-05-2026/event/1B00650D8578631B",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 215,
    "series_slug": "get-the-led-out",
    "title": "Get the Led Out",
@@ -6477,37 +5534,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 280,
-   "series_slug": "kenny-g-green-room-lounge",
-   "title": "Kenny G-Green Room Lounge",
-   "start": "2026-12-05T19:30:00-06:00",
-   "end": "2026-12-05T22:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/kenny-ggreen-room-lounge-pensacola-florida-12-05-2026/event/1B00651CD8FD200D",
-   "info_url": "https://www.ticketmaster.com/kenny-ggreen-room-lounge-pensacola-florida-12-05-2026/event/1B00651CD8FD200D",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 216,
    "series_slug": "black-and-gold-on-the-movie-screen",
    "title": "Black and Gold on the Movie Screen",
@@ -6530,37 +5556,6 @@
    "price": "$2.06",
    "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035583",
    "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035583",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 281,
-   "series_slug": "keller-williams",
-   "title": "Keller Williams",
-   "start": "2026-12-06T19:00:00-06:00",
-   "end": "2026-12-06T22:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "vinyl-music-hall",
-    "name": "Vinyl Music Hall",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pb13",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pb13",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -7292,37 +6287,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 417,
-   "series_slug": "ballet-pensacola-presents-the-nutcracker",
-   "title": "Ballet Pensacola Presents The Nutcracker",
-   "start": "2026-12-18T19:00:00-06:00",
-   "end": "2026-12-18T22:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/ballet-pensacola-presents-the-nutcracker-pensacola-florida-12-18-2026/event/1B00653B1DDE8A47",
-   "info_url": "https://www.ticketmaster.com/ballet-pensacola-presents-the-nutcracker-pensacola-florida-12-18-2026/event/1B00653B1DDE8A47",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 369,
    "series_slug": "white-tie-rock-ensemble-rock-the-80-s",
    "title": "White Tie Rock Ensemble: A White Tie Christmas!",
@@ -7376,69 +6340,6 @@
    "price": "$38.45-94.38",
    "ticket_url": "https://www.ticketweb.com/event/darren-knight-aka-southern-mama-crescent-theater-tickets/15046103",
    "info_url": "https://www.ticketweb.com/event/darren-knight-aka-southern-mama-crescent-theater-tickets/15046103",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 418,
-   "series_slug": "ballet-pensacola-presents-the-nutcracker",
-   "title": "Ballet Pensacola Presents The Nutcracker",
-   "start": "2026-12-19T19:00:00-06:00",
-   "end": "2026-12-19T22:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/ballet-pensacola-presents-the-nutcracker-pensacola-florida-12-19-2026/event/1B00653B1E8D8C22",
-   "info_url": "https://www.ticketmaster.com/ballet-pensacola-presents-the-nutcracker-pensacola-florida-12-19-2026/event/1B00653B1E8D8C22",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 370,
-   "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
-   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
-   "start": "2026-12-19T19:05:00-06:00",
-   "end": "2026-12-19T22:05:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-12-19-2026/event/1B00650D857D6321",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-12-19-2026/event/1B00650D857D6321",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -7512,37 +6413,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 419,
-   "series_slug": "ballet-pensacola-presents-the-nutcracker",
-   "title": "Ballet Pensacola Presents The Nutcracker",
-   "start": "2026-12-20T13:30:00-06:00",
-   "end": "2026-12-20T16:30:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/ballet-pensacola-presents-the-nutcracker-pensacola-florida-12-20-2026/event/1B00653B1FB39033",
-   "info_url": "https://www.ticketmaster.com/ballet-pensacola-presents-the-nutcracker-pensacola-florida-12-20-2026/event/1B00653B1FB39033",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 373,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -7578,37 +6448,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 420,
-   "series_slug": "jim-brickman-green-room-lounge",
-   "title": "Jim Brickman-Green Room Lounge",
-   "start": "2026-12-23T19:00:00-06:00",
-   "end": "2026-12-23T22:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/jim-brickmangreen-room-lounge-pensacola-florida-12-23-2026/event/1B006522C5D1CF99",
-   "info_url": "https://www.ticketmaster.com/jim-brickmangreen-room-lounge-pensacola-florida-12-23-2026/event/1B006522C5D1CF99",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 421,
    "series_slug": "jim-brickman-a-christmas-celebration",
    "title": "Jim Brickman: A Christmas Celebration",
@@ -7630,38 +6469,6 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/jim-brickman-a-christmas-celebration-pensacola-florida-12-23-2026/event/1B00651BE3F0C184",
    "info_url": "https://www.ticketmaster.com/jim-brickman-a-christmas-celebration-pensacola-florida-12-23-2026/event/1B00651BE3F0C184",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 422,
-   "series_slug": "pensacola-ice-flyers-vs-athens-rock-lobsters",
-   "title": "Pensacola Ice Flyers vs. Athens Rock Lobsters",
-   "start": "2026-12-23T19:05:00-06:00",
-   "end": "2026-12-23T22:05:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-athens-rock-pensacola-florida-12-23-2026/event/1B00650D8583632A",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-athens-rock-pensacola-florida-12-23-2026/event/1B00650D8583632A",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -7741,38 +6548,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 423,
-   "series_slug": "pensacola-ice-flyers-vs-athens-rock-lobsters",
-   "title": "Pensacola Ice Flyers vs. Athens Rock Lobsters",
-   "start": "2026-12-26T19:05:00-06:00",
-   "end": "2026-12-26T22:05:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-athens-rock-pensacola-florida-12-26-2026/event/1B00650D858A633F",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-athens-rock-pensacola-florida-12-26-2026/event/1B00650D858A633F",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 416,
    "series_slug": "black-and-gold-on-the-movie-screen-crescent-theater",
    "title": "Black and Gold on the Movie Screen",
@@ -7795,38 +6570,6 @@
    "price": "$2.06",
    "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035653",
    "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035653",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 424,
-   "series_slug": "pensacola-ice-flyers-vs-athens-rock-lobsters",
-   "title": "Pensacola Ice Flyers vs. Athens Rock Lobsters",
-   "start": "2026-12-27T16:05:00-06:00",
-   "end": "2026-12-27T19:05:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-athens-rock-pensacola-florida-12-27-2026/event/1B00650D85906358",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-athens-rock-pensacola-florida-12-27-2026/event/1B00650D85906358",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
