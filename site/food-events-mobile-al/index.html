@@ -52,20 +52,41 @@
 
   
   <div class="filters" data-filters role="group" aria-label="Filter by category">
-    <button type="button" class="pill pill-all" data-cat="all" aria-pressed="true">All <span class="count">26</span></button>
+    <button type="button" class="pill pill-all" data-cat="all" aria-pressed="true">All <span class="count">31</span></button>
     
     
     <button type="button" class="pill pill-family" data-cat="family" aria-pressed="false">Family &amp; Kids <span class="count">2</span></button>
     
     
-    <button type="button" class="pill pill-food" data-cat="food" aria-pressed="false">Food &amp; Drink <span class="count">26</span></button>
+    <button type="button" class="pill pill-food" data-cat="food" aria-pressed="false">Food &amp; Drink <span class="count">31</span></button>
+    
+    
+    <button type="button" class="pill pill-sports" data-cat="sports" aria-pressed="false">Sports <span class="count">4</span></button>
+    
+    
+    <button type="button" class="pill pill-community" data-cat="community" aria-pressed="false">Community <span class="count">1</span></button>
     
     
     <button type="button" class="pill pill-nightlife" data-cat="nightlife" aria-pressed="false">Nightlife <span class="count">24</span></button>
     
     
+    <button type="button" class="pill pill-free" data-free="1" aria-pressed="false">Free <span class="count">1</span></button>
+  </div>
+  
+  
+  <div class="filters filters-area" data-areas role="group" aria-label="Filter by area">
+    
+    
+    <button type="button" class="pill pill-area" data-area="mobile" data-label="Mobile" aria-pressed="false">Mobile <span class="count">26</span></button>
+    
+    
+    <button type="button" class="pill pill-area" data-area="baldwin-coast" data-label="Baldwin Coast" aria-pressed="false">Baldwin Coast <span class="count">1</span></button>
+    
+    
+    <button type="button" class="pill pill-area" data-area="pensacola" data-label="Pensacola" aria-pressed="false">Pensacola <span class="count">4</span></button>
     
   </div>
+  
   <p class="filter-status" data-filter-status hidden>Showing: <span data-filter-status-text></span> <button type="button" class="linkish" data-filter-reset>Clear</button></p>
   <p class="empty" data-filter-empty hidden>Nothing matches those filters. <button type="button" class="linkish" data-filter-reset>Show everything</button></p>
   
@@ -73,7 +94,16 @@
     
     <section class="day" data-day="2026-10-08">
       <h2 class="day-h">Thursday, October 8</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-10-08T22:00:00-05:00">
+      <ul class="rows"><li class="row" data-cat="food community" data-free="1" data-area="baldwin-coast" data-end="2026-10-11T17:00:00-05:00">
+  <a class="row-link" href="/events/53rd-annual-national-shrimp-festival/">
+    <span class="row-time">10 am</span>
+    <span class="row-main">
+      <span class="row-title">53rd Annual National Shrimp Festival</span>
+      <span class="row-sub">Gulf Place, Gulf Shores · Free</span>
+    </span>
+  </a>
+  <span class="row-tags"><button type="button" class="tag tag-food row-tag" data-tag="food" title="Show Food &amp; Drink events">Food &amp; Drink</button><button type="button" class="tag tag-community row-tag" data-tag="community" title="Show Community events">Community</button></span>
+</li><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-10-08T22:00:00-05:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -85,9 +115,23 @@
 </li></ul>
     </section>
     
+    <section class="day" data-day="2026-10-10">
+      <h2 class="day-h">Saturday, October 10</h2>
+      <ul class="rows"><li class="row" data-cat="sports food" data-free="0" data-area="pensacola" data-end="2026-10-10T20:00:00-05:00">
+  <a class="row-link" href="/events/southern-tip-off-florida-state-vs-mississippi-state/">
+    <span class="row-time">5 pm</span>
+    <span class="row-main">
+      <span class="row-title">Southern Tip-Off - Florida State vs. Mississippi State</span>
+      <span class="row-sub">Pensacola Bay Center, Pensacola</span>
+    </span>
+  </a>
+  <span class="row-tags"><button type="button" class="tag tag-sports row-tag" data-tag="sports" title="Show Sports events">Sports</button><button type="button" class="tag tag-food row-tag" data-tag="food" title="Show Food &amp; Drink events">Food &amp; Drink</button></span>
+</li></ul>
+    </section>
+    
     <section class="day" data-day="2026-10-13">
       <h2 class="day-h">Tuesday, October 13</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-10-13T22:00:00-05:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-10-13T22:00:00-05:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -101,7 +145,7 @@
     
     <section class="day" data-day="2026-10-15">
       <h2 class="day-h">Thursday, October 15</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-10-15T22:00:00-05:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-10-15T22:00:00-05:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -115,7 +159,7 @@
     
     <section class="day" data-day="2026-10-16">
       <h2 class="day-h">Friday, October 16</h2>
-      <ul class="rows"><li class="row" data-cat="family food" data-free="0" data-end="2026-10-16T21:30:00-05:00">
+      <ul class="rows"><li class="row" data-cat="family food" data-free="0" data-area="mobile" data-end="2026-10-16T21:30:00-05:00">
   <a class="row-link" href="/events/haunted-hangout/">
     <span class="row-time">7:30 pm</span>
     <span class="row-main">
@@ -129,7 +173,7 @@
     
     <section class="day" data-day="2026-10-20">
       <h2 class="day-h">Tuesday, October 20</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-10-20T22:00:00-05:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-10-20T22:00:00-05:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -143,7 +187,7 @@
     
     <section class="day" data-day="2026-10-22">
       <h2 class="day-h">Thursday, October 22</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-10-22T22:00:00-05:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-10-22T22:00:00-05:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -157,7 +201,7 @@
     
     <section class="day" data-day="2026-10-24">
       <h2 class="day-h">Saturday, October 24</h2>
-      <ul class="rows"><li class="row" data-cat="family food" data-free="0" data-end="2026-10-24T16:00:00-05:00">
+      <ul class="rows"><li class="row" data-cat="family food" data-free="0" data-area="mobile" data-end="2026-10-24T16:00:00-05:00">
   <a class="row-link" href="/events/boo-bash-by-the-bay/">
     <span class="row-time">10 am</span>
     <span class="row-main">
@@ -171,7 +215,7 @@
     
     <section class="day" data-day="2026-10-27">
       <h2 class="day-h">Tuesday, October 27</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-10-27T22:00:00-05:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-10-27T22:00:00-05:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -185,7 +229,7 @@
     
     <section class="day" data-day="2026-10-29">
       <h2 class="day-h">Thursday, October 29</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-10-29T22:00:00-05:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-10-29T22:00:00-05:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -199,7 +243,7 @@
     
     <section class="day" data-day="2026-11-03">
       <h2 class="day-h">Tuesday, November 3</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-11-03T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-11-03T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -213,7 +257,7 @@
     
     <section class="day" data-day="2026-11-05">
       <h2 class="day-h">Thursday, November 5</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-11-05T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-11-05T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -227,7 +271,7 @@
     
     <section class="day" data-day="2026-11-10">
       <h2 class="day-h">Tuesday, November 10</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-11-10T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-11-10T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -241,7 +285,7 @@
     
     <section class="day" data-day="2026-11-12">
       <h2 class="day-h">Thursday, November 12</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-11-12T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-11-12T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -250,12 +294,21 @@
     </span>
   </a>
   <span class="row-tags"><button type="button" class="tag tag-nightlife row-tag" data-tag="nightlife" title="Show Nightlife events">Nightlife</button><button type="button" class="tag tag-food row-tag" data-tag="food" title="Show Food &amp; Drink events">Food &amp; Drink</button></span>
+</li><li class="row" data-cat="sports food" data-free="0" data-area="pensacola" data-end="2026-11-12T22:00:00-06:00">
+  <a class="row-link" href="/events/coastal-classic-loyola-marymount-university-vs-south-alabama/">
+    <span class="row-time">7 pm</span>
+    <span class="row-main">
+      <span class="row-title">Coastal Classic - Loyola Marymount University vs. South Alabama</span>
+      <span class="row-sub">Pensacola Bay Center, Pensacola</span>
+    </span>
+  </a>
+  <span class="row-tags"><button type="button" class="tag tag-sports row-tag" data-tag="sports" title="Show Sports events">Sports</button><button type="button" class="tag tag-food row-tag" data-tag="food" title="Show Food &amp; Drink events">Food &amp; Drink</button></span>
 </li></ul>
     </section>
     
     <section class="day" data-day="2026-11-17">
       <h2 class="day-h">Tuesday, November 17</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-11-17T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-11-17T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -269,7 +322,7 @@
     
     <section class="day" data-day="2026-11-19">
       <h2 class="day-h">Thursday, November 19</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-11-19T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-11-19T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -281,9 +334,23 @@
 </li></ul>
     </section>
     
+    <section class="day" data-day="2026-11-22">
+      <h2 class="day-h">Sunday, November 22</h2>
+      <ul class="rows"><li class="row" data-cat="sports food" data-free="0" data-area="pensacola" data-end="2026-11-22T17:00:00-06:00">
+  <a class="row-link" href="/events/pensacola-invitational-saturday-only/">
+    <span class="row-time">2 pm</span>
+    <span class="row-main">
+      <span class="row-title">Pensacola Invitational Sunday Only</span>
+      <span class="row-sub">Pensacola Bay Center, Pensacola</span>
+    </span>
+  </a>
+  <span class="row-tags"><button type="button" class="tag tag-sports row-tag" data-tag="sports" title="Show Sports events">Sports</button><button type="button" class="tag tag-food row-tag" data-tag="food" title="Show Food &amp; Drink events">Food &amp; Drink</button></span>
+</li></ul>
+    </section>
+    
     <section class="day" data-day="2026-11-24">
       <h2 class="day-h">Tuesday, November 24</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-11-24T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-11-24T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -297,7 +364,7 @@
     
     <section class="day" data-day="2026-11-26">
       <h2 class="day-h">Thursday, November 26</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-11-26T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-11-26T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -309,9 +376,23 @@
 </li></ul>
     </section>
     
+    <section class="day" data-day="2026-11-29">
+      <h2 class="day-h">Sunday, November 29</h2>
+      <ul class="rows"><li class="row" data-cat="sports food" data-free="0" data-area="pensacola" data-end="2026-11-29T17:00:00-06:00">
+  <a class="row-link" href="/events/battle-at-the-bay-florida-state-vs-university-of-west-florida/">
+    <span class="row-time">2 pm</span>
+    <span class="row-main">
+      <span class="row-title">Battle at the Bay - Florida State vs. University of West Florida</span>
+      <span class="row-sub">Pensacola Bay Center, Pensacola</span>
+    </span>
+  </a>
+  <span class="row-tags"><button type="button" class="tag tag-sports row-tag" data-tag="sports" title="Show Sports events">Sports</button><button type="button" class="tag tag-food row-tag" data-tag="food" title="Show Food &amp; Drink events">Food &amp; Drink</button></span>
+</li></ul>
+    </section>
+    
     <section class="day" data-day="2026-12-01">
       <h2 class="day-h">Tuesday, December 1</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-12-01T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-12-01T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -325,7 +406,7 @@
     
     <section class="day" data-day="2026-12-03">
       <h2 class="day-h">Thursday, December 3</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-12-03T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-12-03T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -339,7 +420,7 @@
     
     <section class="day" data-day="2026-12-08">
       <h2 class="day-h">Tuesday, December 8</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-12-08T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-12-08T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -353,7 +434,7 @@
     
     <section class="day" data-day="2026-12-10">
       <h2 class="day-h">Thursday, December 10</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-12-10T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-12-10T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -367,7 +448,7 @@
     
     <section class="day" data-day="2026-12-15">
       <h2 class="day-h">Tuesday, December 15</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-12-15T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-12-15T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -381,7 +462,7 @@
     
     <section class="day" data-day="2026-12-17">
       <h2 class="day-h">Thursday, December 17</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-12-17T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-12-17T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -395,7 +476,7 @@
     
     <section class="day" data-day="2026-12-22">
       <h2 class="day-h">Tuesday, December 22</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-12-22T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-12-22T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -409,7 +490,7 @@
     
     <section class="day" data-day="2026-12-24">
       <h2 class="day-h">Thursday, December 24</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-12-24T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-12-24T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -423,7 +504,7 @@
     
     <section class="day" data-day="2026-12-29">
       <h2 class="day-h">Tuesday, December 29</h2>
-      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-end="2026-12-29T22:00:00-06:00">
+      <ul class="rows"><li class="row" data-cat="nightlife food" data-free="0" data-area="mobile" data-end="2026-12-29T22:00:00-06:00">
   <a class="row-link" href="/events/beer-bbq-bingo/">
     <span class="row-time">7 pm</span>
     <span class="row-main">
@@ -480,25 +561,31 @@
     return;
   }
   var KEY = 'mbe.filters', items = document.querySelectorAll('[data-cat]:not(button)');
-  var state = { cats: [], free: false };
+  var areaBar = document.querySelector('[data-areas]');
+  var state = { cats: [], free: false, areas: [] };
   try { state = Object.assign(state, JSON.parse(sessionStorage.getItem(KEY) || '{}')); } catch (e) {}
+  if (!areaBar) state.areas = [];
+  function none() { return !state.cats.length && !state.free && !state.areas.length; }
   function apply() {
     var any = false;
     items.forEach(function (el) {
       var mine = (el.dataset.cat || '').split(' ');
-      var ok = (!state.cats.length || state.cats.some(function (c) { return mine.indexOf(c) > -1; })) && (!state.free || el.dataset.free === '1');
+      var ok = (!state.cats.length || state.cats.some(function (c) { return mine.indexOf(c) > -1; })) && (!state.free || el.dataset.free === '1')
+        && (!state.areas.length || state.areas.indexOf(el.dataset.area) > -1);
       el.hidden = !ok; if (ok) any = true;
     });
     document.querySelectorAll('.day, [data-featured]').forEach(function (sec) { sec.hidden = !sec.querySelector('[data-cat]:not([hidden])'); });
     bar.querySelectorAll('button').forEach(function (b) {
-      var on = b.dataset.cat === 'all' ? (!state.cats.length && !state.free) : (b.dataset.free ? state.free : state.cats.indexOf(b.dataset.cat) > -1);
+      var on = b.dataset.cat === 'all' ? none() : (b.dataset.free ? state.free : state.cats.indexOf(b.dataset.cat) > -1);
       b.setAttribute('aria-pressed', on ? 'true' : 'false');
     });
+    if (areaBar) areaBar.querySelectorAll('button').forEach(function (b) { b.setAttribute('aria-pressed', state.areas.indexOf(b.dataset.area) > -1 ? 'true' : 'false'); });
     document.querySelectorAll('[data-tag]').forEach(function (t) { t.classList.toggle('is-on', state.cats.indexOf(t.dataset.tag) > -1); });
     var empty = document.querySelector('[data-filter-empty]'); if (empty) empty.hidden = any;
     var status = document.querySelector('[data-filter-status]');
     if (status) {
       var parts = state.cats.map(function (c) { return LABELS[c] || c; }); if (state.free) parts.push('Free');
+      state.areas.forEach(function (a) { var b = areaBar && areaBar.querySelector('[data-area="' + a + '"]'); parts.push(b ? b.dataset.label : a); });
       status.hidden = !parts.length; status.querySelector('[data-filter-status-text]').textContent = parts.join(' + ');
     }
     try { sessionStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {}
@@ -506,14 +593,19 @@
   function toggleCat(c) { var i = state.cats.indexOf(c); i > -1 ? state.cats.splice(i, 1) : state.cats.push(c); }
   bar.addEventListener('click', function (e) {
     var b = e.target.closest('button'); if (!b) return;
-    if (b.dataset.cat === 'all') { state = { cats: [], free: false }; }
+    if (b.dataset.cat === 'all') { state = { cats: [], free: false, areas: [] }; }
     else if (b.dataset.free) { state.free = !state.free; }
     else { toggleCat(b.dataset.cat); }
     apply();
   });
   document.addEventListener('click', function (e) {
-    if (e.target.closest('[data-filter-reset]')) { state = { cats: [], free: false }; apply(); return; }
+    if (e.target.closest('[data-filter-reset]')) { state = { cats: [], free: false, areas: [] }; apply(); return; }
     var t = e.target.closest('[data-tag]'); if (t) { toggleCat(t.dataset.tag); apply(); bar.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); }
+  });
+  if (areaBar) areaBar.addEventListener('click', function (e) {
+    var b = e.target.closest('button'); if (!b) return;
+    var i = state.areas.indexOf(b.dataset.area); i > -1 ? state.areas.splice(i, 1) : state.areas.push(b.dataset.area);
+    apply();
   });
   apply();
 })();

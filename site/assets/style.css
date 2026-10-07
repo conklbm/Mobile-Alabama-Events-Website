@@ -150,6 +150,8 @@ a.tag { text-decoration: none; }
 .filters .pill-community[aria-pressed="true"] { background: var(--community); border-color: var(--community); color: #fff; }
 .filters .pill-free[aria-pressed="true"] { background: var(--free); border-color: var(--free); color: #fff; }
 .filters .pill[aria-pressed="true"] .count { color: inherit; opacity: .85; }
+.filters-area { margin-top: -8px; }
+.filters-area .pill { font-weight: 500; }
 .linkish { background: none; border: 0; padding: 0; color: var(--brand); text-decoration: underline; font: inherit; cursor: pointer; min-height: 44px; }
 [hidden] { display: none !important; }
 

@@ -31,8 +31,28 @@
       "permanent": true
     },
     {
+      "source": "/events/sportsman-s-night-out(/)?",
+      "destination": "/venues/pensacola-bay-center/",
+      "permanent": true
+    },
+    {
       "source": "/events/tina-friml(/)?",
       "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/josh-turner-this-country-music-thing-tour(/)?",
+      "destination": "/venues/pensacola-saenger/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gulf-coast-summer-fest-friday-only(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/butter-together-moms-night-in-with-the-coastal-moms-collective(/)?",
+      "destination": "/venues/the-collective-house/",
       "permanent": true
     },
     {
@@ -41,8 +61,18 @@
       "permanent": true
     },
     {
+      "source": "/events/can-t-feel-my-face-2010s-dance-party-18-and-over(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/events/the-great-bellingrath-harvest(/)?",
       "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
+      "source": "/events/6th-annual-orange-beach-freedom-festival(/)?",
+      "destination": "/venues/the-wharf-amphitheater/",
       "permanent": true
     },
     {
@@ -81,6 +111,11 @@
       "permanent": true
     },
     {
+      "source": "/events/use-your-illusion-americas-1-gnr-experience(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/events/austin-meade(/)?",
       "destination": "/venues/the-merry-widow/",
       "permanent": true
@@ -88,6 +123,11 @@
     {
       "source": "/events/lyfe-jennings(/)?",
       "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gasolina-reggaeton-party(/)?",
+      "destination": "/venues/vinyl-music-hall/",
       "permanent": true
     },
     {
@@ -203,6 +243,11 @@
     {
       "source": "/events/the-black-jacket-symphony-presents-def-leppard-s-hysteria(/)?",
       "destination": "/venues/saenger-theatre/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gabriel-iglesias(/)?",
+      "destination": "/",
       "permanent": true
     },
     {
