@@ -40,13 +40,14 @@ python -m http.server -d site 8000       # preview
 |---|---|---|
 | 2026-09-14 | Static site via Jinja2 in Python, not Next.js | Same language as pipeline, zero build; phase 2 GCBV reads `site/api/coastal.json` or the DB directly. |
 | 2026-09-14 | `tier_c_only` recorded but does NOT block publish by default | 92ZEW (tier C) is the biggest source; gating on tier A/B would queue hundreds/week vs. the PRD's 2–5. Flip `settings.review.gate_on_tier_c_only`. |
-| 2026-09-14 | Gulf Shores / Orange Beach / Foley venues tagged `coastal` only | PRD routes coastal to GCBV. Flip a venue's `regions` to show it on the Mobile site. |
+| 2026-09-14 | Gulf Shores / Orange Beach / Foley venues tagged `coastal` only | PRD routes coastal to GCBV. Flip a venue's `regions` to show it on the Mobile site. *(Superseded 2026-10-07.)* |
 | 2026-09-14 | Registry corrections | Playhouse in the Park has no Event JSON-LD; EventKeeper (library) is now a JS app; Soul Kitchen has no Event JSON-LD but is covered by Ticketmaster. All noted in `sources.yaml`. |
 | 2026-09-14 | Canonical host `www.mobilebayevents.com` | House standard. Set `SITE_URL` from what Vercel actually serves at cutover. |
 | 2026-09-17 | Cloud routine auto-resolves unknown venues; Brooks only sees judgment calls | Brooks: "automatic unless it's a big question mark." |
 | 2026-09-17 | Source-confirmed cancellations auto-apply; only inferred ones are reviewed | Ticketmaster's cancelled status is authoritative. |
 | 2026-09-19 | No featured section; filters OR together; row tags toggle filters | Brooks's calls after testing. |
 | 2026-09-19 | No Contact page; no image credit / Listed-by lines (TM credit kept) | Brooks's calls; TM terms require the credit. |
+| 2026-10-07 | Two rings: core (Mobile, Eastern Shore) shows everything; outer (Baldwin coast, Pensacola) shows only draws | Brooks: "the site is for the entire Mobile Bay," and Pensacola is closer than Gulf Shores. Areas, draw sources, and draw words live in `settings.yaml`; rule in `pipeline/areas.py`. Area filter pills on the site. |
 
 ## Git workflow
 Ask before pulling on first touch of the repo and before any push (direct to `main` vs. dev branch + PR). See global CLAUDE.md.

@@ -415,3 +415,33 @@
     fields: {title: "Event Name", start_date: "Event Start Date", start_time: "Event Start Time", end_date: "Event End Date",
              end_time: "Event End Time", venue: "Event Location Name", address: "Full Street Address (F)", city: "City",
              description: "Event Description", url: "Event Details URL", categories: "Event Category Name"}
+
+# --- outer ring (Baldwin coast, Pensacola): only events worth the drive; see settings.yaml outer_ring ---
+
+- id: visit-foley
+  name: Visit Foley
+  url: https://www.visitfoley.com
+  collector_type: tribe_api
+  tier: C
+  curated: true
+  regions: [coastal]
+  brand_tokens: ["Visit Foley"]
+  license_notes: "Public WP REST endpoint (The Events Calendar). Foley's tourism calendar, includes OWA. Link back to listing."
+  redistributable: false
+  expected_min_events: 0   # festivals only, so some weeks have none
+  config:
+    only_draws: true
+
+- id: flora-bama-events
+  name: Flora-Bama (annual events)
+  url: https://www.florabama.com/events
+  collector_type: ics
+  tier: A
+  curated: false
+  regions: [coastal]
+  brand_tokens: ["Flora-Bama", "Florabama"]
+  license_notes: "Public Tockify iCal for Flora-Bama's annual events (the nightly live-music feed is left out on purpose). Link back."
+  redistributable: false
+  expected_min_events: 1
+  config:
+    feed_url: https://tockify.com/api/feeds/ics/fbevents

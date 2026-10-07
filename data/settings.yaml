@@ -35,3 +35,36 @@ publish:
   featured_count: 10
   # One-off events 301 to the venue page this many days AFTER the event ends.
   one_off_redirect_after_days: 7
+
+# Where events sit, for the area filter and the two rings (decided 2026-10-07: "the site is for the
+# entire Mobile Bay"). Core ring: everything shows. Outer ring: only what's worth the drive.
+# A city in no area falls back to the venue/source `regions` tags.
+areas:
+  mobile:
+    label: Mobile
+    ring: core
+    cities: [Mobile, Prichard, Chickasaw, Saraland, Satsuma, Creola, Citronelle, Semmes, Wilmer, Eight Mile,
+             Theodore, Irvington, Grand Bay, Bayou La Batre, Coden, Dauphin Island, Mount Vernon, Mt. Vernon, Axis,
+             Tillmans Corner, West Mobile, Downtown Mobile]
+  eastern-shore:
+    label: Eastern Shore
+    ring: core
+    cities: [Daphne, Spanish Fort, Fairhope, Point Clear, Montrose, Malbis, Loxley, Robertsdale, Silverhill,
+             Summerdale, Bay Minette, Stockton, Stapleton, Rosinton, Fish River]
+  baldwin-coast:
+    label: Baldwin Coast
+    ring: outer
+    cities: [Foley, Gulf Shores, Orange Beach, Fort Morgan, Elberta, Lillian, Magnolia Springs, Bon Secour,
+             Josephine, Seminole, Perdido Beach]
+  pensacola:
+    label: Pensacola
+    ring: outer
+    cities: [Pensacola, Pensacola Beach, Perdido Key, Gulf Breeze, Milton, Pace, Cantonment, Navarre]
+
+outer_ring:
+  # sources whose outer-ring events always count: ticketed shows and editors' picks
+  draw_sources: [ticketmaster, 92zew, 92zew-rundown, flora-bama-events]
+  # ...plus any title that reads like an event people drive for
+  draw_words: "festival|\bfest\b|\bfair\b|parade|fireworks|rodeo|air show|regatta|mardi gras|tree lighting|marathon|triathlon|concert"
+  # ...minus venue housekeeping that rides along with a draw source
+  never: "public (ice )?skating|after game skate|parking pass|season tickets?"

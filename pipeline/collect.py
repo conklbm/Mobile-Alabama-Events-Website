@@ -10,7 +10,7 @@ import traceback
 from dataclasses import asdict
 from datetime import date, datetime, timedelta
 
-from . import config, db
+from . import areas, config, db
 from .collectors import COLLECTORS, CollectorError, make_session
 from .models import RawEvent
 
@@ -63,6 +63,8 @@ def collect(conn: sqlite3.Connection, run_id: int, only: list[str] | None = None
         # per-source title filters ("Museum closed: private event", chamber ribbon cuttings)
         skip = [re.compile(p, re.I) for p in (src.get("config") or {}).get("skip_titles", [])]
         events = [ev for ev in events if not any(p.search(ev.title) for p in skip)]
+        if (src.get("config") or {}).get("only_draws"):  # an outer-ring source: keep only what's worth the drive
+            events = [ev for ev in events if areas.is_draw(ev.title, [sid])]
         pulled_at = db.now_iso()
         with db.tx(conn):
             for ev in events:

@@ -10,7 +10,7 @@ import json
 import sqlite3
 from pathlib import Path
 
-from .. import config, db
+from .. import areas, config, db
 from ..dates import from_utc
 from ..scoring import primary_source
 
@@ -28,9 +28,10 @@ def export(conn: sqlite3.Connection, out: Path | None = None, regions: tuple[str
     for region in regions:
         items = []
         for r in rows:
-            if region not in db.uj(r["regions"]):
-                continue
             v = venues.get(r["venue_id"]) if r["venue_id"] else None
+            sids = [x[0] for x in conn.execute("SELECT source_id FROM occurrence_sources WHERE occurrence_id=?", (r["id"],))]
+            if not areas.shows_on_site(region, db.uj(r["regions"]), (v["city"] if v else r["city"]) or "", r["title_raw"], sids):
+                continue  # same rule as the site: the Mobile feed carries the outer ring's draws only
             p = primary_source(conn, r["id"])
             src = sources.get(p["source_id"]) if p else None
             items.append({

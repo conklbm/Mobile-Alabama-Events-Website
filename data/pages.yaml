@@ -134,7 +134,8 @@ about:
   # {count} = automated sources + hand-checked pages, computed at build time (rounded down, "+")
   intro: >
     Mobile Bay Events is a weekly calendar for Mobile, the Eastern Shore, and Dauphin
-    Island, built by people who live here.
+    Island, plus the festivals and big shows on the Baldwin coast and in Pensacola, built
+    by people who live here.
   how: >
     Every Thursday we scour the web, checking {count} local sources (venue calendars, city
     calendars, ticketing sites, community pages) and merging everything into one list, so you

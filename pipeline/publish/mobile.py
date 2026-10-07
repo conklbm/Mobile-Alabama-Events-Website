@@ -23,7 +23,7 @@ from pathlib import Path
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from markupsafe import Markup, escape
 
-from .. import config, db
+from .. import areas, config, db
 from ..dates import from_utc, tz, weekend_bounds
 from ..scoring import TIER_RANK
 from ..text import excerpt, is_free_price
@@ -73,10 +73,10 @@ class Site:
         ).fetchall()
         out = []
         for r in rows:
-            regions = db.uj(r["regions"])
-            if self.region not in regions:
-                continue
-            out.append(self._occ_view(r))
+            v = self._occ_view(r)
+            # core ring: everything; outer ring (Baldwin coast, Pensacola): only what's worth the drive
+            if areas.shows_on_site(self.region, db.uj(r["regions"]), v["city"], r["title_raw"], v["source_ids"]):
+                out.append(v)
         return out
 
     def _occ_view(self, r: sqlite3.Row) -> dict:
@@ -108,6 +108,8 @@ class Site:
             "venue": _venue_view(venue) if venue else None,
             "venue_name_raw": r["venue_name_raw"] or "",
             "city": (venue["city"] if venue else r["city"]) or "",
+            "area": areas.area_of((venue["city"] if venue else r["city"]) or "") or "",
+            "source_ids": [x["source_id"] for x in srows],
             "price": r["price"] or "", "is_free": is_free_price(r["price"]),
             "ticket_url": r["ticket_url"] or "",
             "info_url": info_url,
@@ -210,6 +212,7 @@ class Renderer:
         self.env.filters["isodt"] = lambda d: d.isoformat()
         self.env.filters["catlabel"] = lambda c: CATEGORY_LABELS.get(c, c.title())
         self.env.globals["CATEGORY_ORDER"] = CATEGORY_ORDER
+        self.env.globals["AREAS"] = [(k, a.get("label", k)) for k, a in (config.settings().get("areas") or {}).items()]
         self.env.globals["CATEGORY_PAGES"] = {c["category"]: c["slug"] for c in site.pages.get("categories", []) if c.get("category") in CATEGORY_LABELS}
         self.env.filters["richtext"] = render_richtext
         self.urls: list[tuple[str, str]] = []  # (path, lastmod)
@@ -341,7 +344,7 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
     # home
     week = site.within(7)
     r.page("/", "index.html", title=f"{site.name} — What's happening in Mobile, AL this week",
-           description="This week's events in Mobile, the Eastern Shore, and Dauphin Island, pulled from venue calendars and merged so each shows once. Updated every Thursday.",
+           description="This week's events across Mobile, the Eastern Shore, and Dauphin Island, plus big shows and festivals on the Baldwin coast and in Pensacola. Updated Thursdays.",
            featured=site.featured(), groups=group_by_day(week), week=week,
            week_count=len(week), upcoming_count=len(site.upcoming))
     counts["home"] += 1
@@ -357,7 +360,7 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
 
     # all upcoming
     r.page("/events/", "list.html", title=f"All Upcoming Events in Mobile, AL — {site.name}",
-           description="Every upcoming event we're tracking across Mobile, the Eastern Shore, and Dauphin Island, by date.",
+           description="Every upcoming event we're tracking around Mobile Bay, from Mobile and the Eastern Shore to the Baldwin coast's festivals and Pensacola's big shows, by date.",
            h1="All Upcoming Events", intro="", groups=group_by_day(site.upcoming), empty="No upcoming events yet.")
     counts["pages"] += 1
 
@@ -411,7 +414,7 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
         counts["venue_pages"] += 1
     venues_list = sorted(({**slist[0]["venue"], "count": sum(len(s["upcoming"]) for s in slist)} for slist in venue_series.values()), key=lambda v: (-v["count"], v["name"]))
     r.page("/venues/", "venues_index.html", title=f"Venues in Mobile, AL — {site.name}",
-           description="Every venue we track across Mobile, the Eastern Shore, and Dauphin Island, with upcoming event counts.", venues=venues_list)
+           description="Every venue we track around Mobile Bay, from Mobile and the Eastern Shore to the Baldwin coast and Pensacola, with upcoming event counts.", venues=venues_list)
 
     # search: compact index of upcoming events + venues, and the results page
     idx = [{"y": "event", "t": o["title"], "v": o["venue"]["name"] if o["venue"] else o["venue_name_raw"], "c": o["city"],

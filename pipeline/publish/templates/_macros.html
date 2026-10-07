@@ -24,7 +24,7 @@
 {%- endmacro %}
 
 {% macro card(o) -%}
-<article class="card" data-cat="{{ o.categories | join(' ') }}" data-free="{{ 1 if o.is_free else 0 }}">
+<article class="card" data-cat="{{ o.categories | join(' ') }}" data-free="{{ 1 if o.is_free else 0 }}" data-area="{{ o.area }}">
   {% if o.image %}<a href="{{ o.url }}" class="card-img" tabindex="-1" aria-hidden="true"><img src="{{ o.image.url }}" alt="" loading="lazy"></a>{% else %}<a href="{{ o.url }}" class="card-img card-img-{{ o.category }}" tabindex="-1" aria-hidden="true"></a>{% endif %}
   <div class="card-body">
     <h3 class="card-title"><a href="{{ o.url }}">{{ o.title }}</a></h3>
@@ -37,7 +37,7 @@
 {%- endmacro %}
 
 {% macro row(o, show_date=False) -%}
-<li class="row" data-cat="{{ o.categories | join(' ') }}" data-free="{{ 1 if o.is_free else 0 }}" data-end="{{ o.end | isodt }}">
+<li class="row" data-cat="{{ o.categories | join(' ') }}" data-free="{{ 1 if o.is_free else 0 }}" data-area="{{ o.area }}" data-end="{{ o.end | isodt }}">
   <a class="row-link" href="{{ o.url }}">
     <span class="row-time{% if show_date %} row-time-wide{% endif %}">{% if show_date %}{{ o.day | shortday }}{% if o.time_tba %} · TBA{% elif not o.all_day %} · {{ o.start | clock }}{% endif %}{% elif o.all_day %}All day{% elif o.time_tba %}Time TBA{% else %}{{ o.start | clock }}{% endif %}</span>
     <span class="row-main">
@@ -61,6 +61,15 @@
     {% set nfree = occs | selectattr("is_free") | list | length %}
     {% if nfree %}<button type="button" class="pill pill-free" data-free="1" aria-pressed="false">Free <span class="count">{{ nfree }}</span></button>{% endif %}
   </div>
+  {% set here = [] %}{% for o in occs %}{% if o.area and o.area not in here %}{% set _ = here.append(o.area) %}{% endif %}{% endfor %}
+  {% if here | length > 1 %}
+  <div class="filters filters-area" data-areas role="group" aria-label="Filter by area">
+    {% for a, label in AREAS if a in here %}
+    {% set n = [] %}{% for o in occs if o.area == a %}{% set _ = n.append(1) %}{% endfor %}
+    <button type="button" class="pill pill-area" data-area="{{ a }}" data-label="{{ label }}" aria-pressed="false">{{ label }} <span class="count">{{ n | length }}</span></button>
+    {% endfor %}
+  </div>
+  {% endif %}
   <p class="filter-status" data-filter-status hidden>Showing: <span data-filter-status-text></span> <button type="button" class="linkish" data-filter-reset>Clear</button></p>
   <p class="empty" data-filter-empty hidden>Nothing matches those filters. <button type="button" class="linkish" data-filter-reset>Show everything</button></p>
   {% endif %}
