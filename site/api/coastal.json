@@ -1,39 +1,7 @@
 {
  "region": "coastal",
- "generated": "2026-10-07T22:47:12Z",
+ "generated": "2026-10-08T16:39:34Z",
  "events": [
-  {
-   "id": 352,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-10-07T09:00:00-05:00",
-   "end": "2026-10-07T10:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8848",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
   {
    "id": 353,
    "series_slug": "indoor-cycling",
@@ -88,15 +56,18 @@
    },
    "price": "Free",
    "ticket_url": "",
-   "info_url": "https://themobmom.com/event/53rd-annual-national-shrimp-festival/",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/the-annual-national-shrimp-festival/",
    "source": {
-    "name": "The Mob Mom",
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://visitfoley.com/wp-content/uploads/ShrimpFest_cb_GMS2018-5437_2C96B888-EA7E-2ED1-33430E1E2BE96702_2ca96596-af9c-39c0-d64a493fe0ce2250-e1727271285408.jpg",
+    "credit": "Visit Foley"
+   },
+   "curation_score": 3,
+   "independent_source_count": 3
   },
   {
    "id": 235,
@@ -131,6 +102,41 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
+  },
+  {
+   "id": 845,
+   "series_slug": "ship-to-shore-chat-with-e-v-nautilus",
+   "title": "Ship to Shore Chat with E/V Nautilus",
+   "start": "2026-10-09T00:00:00-05:00",
+   "end": "2026-10-09T23:59:59-05:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "dauphin-island-sea-lab",
+    "name": "Dauphin Island Sea Lab / Estuarium",
+    "city": "Dauphin Island",
+    "regions": [
+     "mobile",
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/ship-to-shore-chat-with-e-v-nautilus/24078/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/EVNautilus-2021_773A621F-EB4A-E1F8-94CADB23C933C47C_7742fb1b-01b7-d9a7-6e1dc27e19656c51.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 395,
@@ -269,6 +275,42 @@
    "independent_source_count": 2
   },
   {
+   "id": 708,
+   "series_slug": "dauphin-island-art-trail",
+   "title": "Dauphin Island Art Trail",
+   "start": "2026-10-10T09:00:00-05:00",
+   "end": "2026-10-10T16:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "arts"
+   ],
+   "venue": {
+    "slug": "dauphin-island",
+    "name": "Dauphin Island",
+    "city": "Dauphin Island",
+    "regions": [
+     "mobile",
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-dauphin-island-art-trail-2026-10-10",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/3K3A8983_07F2931C-05EB-DF45-02D59F6C77555E88_080ec761-ab7f-3757-e68ccc386ed4aa88.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
    "id": 385,
    "series_slug": "fall-brawl-festival",
    "title": "Fall Brawl Festival",
@@ -339,8 +381,7 @@
    "all_day": false,
    "category": "sports",
    "categories": [
-    "sports",
-    "food"
+    "sports"
    ],
    "venue": {
     "slug": "pensacola-bay-center",
@@ -394,6 +435,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 890,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-10-10T19:00:00-05:00",
+   "end": "2026-10-10T20:15:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-10-10-2026-39627",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 397,
    "series_slug": "fall-pop-up-farmers-market",
    "title": "Fall Pop-Up Farmers Market",
@@ -426,9 +498,72 @@
    "independent_source_count": 1
   },
   {
+   "id": 661,
+   "series_slug": "oktoberfest",
+   "title": "OktoberFest",
+   "start": "2026-10-11T10:00:00-05:00",
+   "end": "2026-10-11T22:00:00-05:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food"
+   ],
+   "venue": {
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://tockify.com/fbevents/detail/95/1791730800000",
+   "source": {
+    "name": "Flora-Bama (annual events)",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 788,
+   "series_slug": "dauphin-island-sunset-summer-concerts",
+   "title": "Dauphin Island Sunset Summer Concerts",
+   "start": "2026-10-11T16:30:00-05:00",
+   "end": "2026-10-11T19:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "fort-gaines",
+    "name": "Fort Gaines",
+    "city": "Dauphin Island",
+    "regions": [
+     "mobile",
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/dauphin-island-sunset-summer-concerts-2026-10-11",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 398,
    "series_slug": "baldwin-pops-concert-at-coastal-arts-center",
-   "title": "Baldwin Pops concert at Coastal Arts Center",
+   "title": "CANCELED: Baldwin Pops concert at Coastal Arts Center",
    "start": "2026-10-11T17:00:00-05:00",
    "end": "2026-10-11T18:30:00-05:00",
    "all_day": false,
@@ -460,7 +595,7 @@
    "id": 399,
    "series_slug": "pc-work-session",
    "title": "PC Work Session",
-   "start": "2026-10-12T15:00:00-05:00",
+   "start": "2026-10-12T14:30:00-05:00",
    "end": "2026-10-12T16:00:00-05:00",
    "all_day": false,
    "category": "community",
@@ -608,6 +743,37 @@
     "name": "City of Orange Beach",
     "tier": "A",
     "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 894,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-10-13T19:00:00-05:00",
+   "end": "2026-10-13T20:15:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-10-13-2026-39628",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
    },
    "image": null,
    "curation_score": 0,
@@ -778,6 +944,104 @@
    "independent_source_count": 1
   },
   {
+   "id": 851,
+   "series_slug": "tank-or-treat-at-the-alabama-aquarium",
+   "title": "Tank or Treat at the Alabama Aquarium",
+   "start": "2026-10-17T00:00:00-05:00",
+   "end": "2026-10-17T23:59:59-05:00",
+   "all_day": true,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "dauphin-island-sea-lab",
+    "name": "Dauphin Island Sea Lab / Estuarium",
+    "city": "Dauphin Island",
+    "regions": [
+     "mobile",
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/tank-or-treat-at-the-alabama-aquarium/24083/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/DISL-Tank-or-Treat_E23DD683-C1E8-E792-0DE03AA11A9B58C4_e244ef00-9602-bd84-71f3a795fa50dfd6.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 874,
+   "series_slug": "haunted-hustle-5k-monster-dash-and-wicked-walk",
+   "title": "Haunted Hustle 5k, Monster Dash, and Wicked Walk",
+   "start": "2026-10-17T00:00:00-05:00",
+   "end": "2026-10-17T23:59:59-05:00",
+   "all_day": true,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "gulf-place",
+    "name": "Gulf Place",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/haunted-hustle-5k-monster-dash-and-wicked-walk/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 465,
+   "series_slug": "obfd-ladies-auxiliary-big-community-yard-craft-sale-at-community",
+   "title": "OBFD Ladies Auxiliary 'Big Community Yard & Craft Sale' at Community Center",
+   "start": "2026-10-17T07:00:00-05:00",
+   "end": "2026-10-17T14:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9630",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 449,
    "series_slug": "magnolia-springs-firefighter-festival",
    "title": "Magnolia Springs Firefighter Festival",
@@ -799,9 +1063,9 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://themobmom.com/event/magnolia-springs-firefighter-festival-2/",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/magnolia-springs-firefighter-festival/",
    "source": {
-    "name": "The Mob Mom",
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
     "tier": "C",
     "redistributable": false
    },
@@ -809,8 +1073,8 @@
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/827636766_1137852008808599_7001283227257118725_n.jpg?fit=526%2C526&ssl=1",
     "credit": "The Mob Mom"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 450,
@@ -878,6 +1142,69 @@
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 466,
+   "series_slug": "gentle-stretch-yoga",
+   "title": "Yoga",
+   "start": "2026-10-17T10:00:00-05:00",
+   "end": "2026-10-17T11:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8718",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 902,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-10-17T19:00:00-05:00",
+   "end": "2026-10-17T20:15:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-10-17-2026-39629",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -976,6 +1303,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 467,
+   "series_slug": "fall-pop-up-farmers-market",
+   "title": "Fall Pop-Up Farmers Market",
+   "start": "2026-10-18T10:00:00-05:00",
+   "end": "2026-10-18T14:00:00-05:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9632",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 294,
    "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
    "title": "Pensacola Bay Center Public Ice Skating 4:30-5:30pm",
@@ -1038,6 +1397,69 @@
    "independent_source_count": 1
   },
   {
+   "id": 464,
+   "series_slug": "council-work-session",
+   "title": "Council Work Session",
+   "start": "2026-10-19T16:00:00-05:00",
+   "end": "2026-10-19T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "gulf-shores-city-hall",
+    "name": "Gulf Shores City Hall",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshoresal.gov/Calendar.aspx?EID=16364",
+   "source": {
+    "name": "City of Gulf Shores",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 468,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-10-19T17:00:00-05:00",
+   "end": "2026-10-19T18:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9587",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 116,
    "series_slug": "devon-gilfillian",
    "title": "Devon Gilfillian",
@@ -1073,6 +1495,100 @@
    "independent_source_count": 1
   },
   {
+   "id": 469,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-10-20T07:20:00-05:00",
+   "end": "2026-10-20T08:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9159",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 470,
+   "series_slug": "city-council-meeting-orange-beach-city-hall",
+   "title": "City Council Meeting",
+   "start": "2026-10-20T17:00:00-05:00",
+   "end": "2026-10-20T19:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=680",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 910,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-10-20T19:00:00-05:00",
+   "end": "2026-10-20T20:15:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-10-20-2026-39630",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 245,
    "series_slug": "rumours-of-fleetwood-mac",
    "title": "Rumours of Fleetwood Mac",
@@ -1104,6 +1620,100 @@
    "independent_source_count": 1
   },
   {
+   "id": 870,
+   "series_slug": "parrot-heads-in-paradise-meeting-of-the-minds",
+   "title": "Parrot Heads in Paradise \"Meeting of the Minds\"",
+   "start": "2026-10-21T00:00:00-05:00",
+   "end": "2026-10-25T23:59:59-05:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-hangout",
+    "name": "The Hangout",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/parrot-heads-in-paradise-meeting-of-the-minds/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 471,
+   "series_slug": "zoning-board-of-adjustment",
+   "title": "Zoning Board of Adjustment",
+   "start": "2026-10-21T16:00:00-05:00",
+   "end": "2026-10-21T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=2059",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 472,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-10-22T07:20:00-05:00",
+   "end": "2026-10-22T08:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9160",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 453,
    "series_slug": "arts-afire-fall-festival",
    "title": "Arts Afire Fall Festival",
@@ -1125,9 +1735,9 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://themobmom.com/event/arts-afire-fall-festival/",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/annual-arts-afire-fall-festival/",
    "source": {
-    "name": "The Mob Mom",
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
     "tier": "C",
     "redistributable": false
    },
@@ -1135,7 +1745,38 @@
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/818335306_1682790947185141_5161752419710800176_n.jpg?fit=526%2C681&ssl=1",
     "credit": "The Mob Mom"
    },
-   "curation_score": 1,
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
+   "id": 473,
+   "series_slug": "annual-arts-afire-fall-festival",
+   "title": "Annual Arts Afire Fall Festival",
+   "start": "2026-10-22T17:00:00-05:00",
+   "end": "2026-10-22T19:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9627",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1167,6 +1808,73 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 855,
+   "series_slug": "underwater-pumpkin-carving-at-the-alabama-aquarium",
+   "title": "Underwater Pumpkin Carving at the Alabama Aquarium",
+   "start": "2026-10-23T00:00:00-05:00",
+   "end": "2026-10-23T23:59:59-05:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "dauphin-island-sea-lab",
+    "name": "Dauphin Island Sea Lab / Estuarium",
+    "city": "Dauphin Island",
+    "regions": [
+     "mobile",
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/underwater-pumpkin-carving-at-the-alabama-aquarium/24173/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/DISL-Tank-or-Treat_E2B40E8C-B515-1F3C-4F6401B5128A1CE1_e2bcc247-a358-0364-371e2495c2acc9cd.png",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 762,
+   "series_slug": "dauphin-island-beach-excursion",
+   "title": "Dauphin Island Beach Excursion",
+   "start": "2026-10-23T09:45:00-05:00",
+   "end": "2026-10-23T12:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "dauphin-island-sea-lab",
+    "name": "Dauphin Island Sea Lab / Estuarium",
+    "city": "Dauphin Island",
+    "regions": [
+     "mobile",
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/dauphin-island-beach-excursion-2026-10-23",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1264,6 +1972,37 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 919,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-10-24T19:00:00-05:00",
+   "end": "2026-10-24T20:15:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-10-24-2026-39631",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -1428,6 +2167,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 922,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-10-27T19:00:00-05:00",
+   "end": "2026-10-27T20:15:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-10-27-2026-39632",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 250,
    "series_slug": "waitress",
    "title": "Waitress",
@@ -1487,6 +2257,38 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 727,
+   "series_slug": "gatalop-42-renaissance-festival",
+   "title": "Gatalop 42 Renaissance Festival",
+   "start": "2026-10-30T09:00:00-05:00",
+   "end": "2026-11-01T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "fort-gaines",
+    "name": "Fort Gaines",
+    "city": "Dauphin Island",
+    "regions": [
+     "mobile",
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-gatalop-42-renaissance-festival-2026-10-30",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1554,6 +2356,68 @@
    "independent_source_count": 1
   },
   {
+   "id": 875,
+   "series_slug": "the-original-german-sausage-festival",
+   "title": "The Original German Sausage Festival",
+   "start": "2026-10-31T00:00:00-05:00",
+   "end": "2026-10-31T23:59:59-05:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "elberta-town-park",
+    "name": "Elberta Town Park",
+    "city": "Elberta",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/the-original-german-sausage-festival-0/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 662,
+   "series_slug": "halloween-contest",
+   "title": "Halloween Contest",
+   "start": "2026-10-31T18:00:00-05:00",
+   "end": "2026-10-31T22:30:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://tockify.com/fbevents/detail/96/1793487600000",
+   "source": {
+    "name": "Flora-Bama (annual events)",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 253,
    "series_slug": "saosin",
    "title": "Saosin",
@@ -1578,6 +2442,37 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 929,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-10-31T19:00:00-05:00",
+   "end": "2026-10-31T20:15:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-10-31-2026-39633",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -1648,6 +2543,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 933,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-11-03T19:00:00-06:00",
+   "end": "2026-11-03T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-03-2026-39634",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 255,
    "series_slug": "pensacola-opera-rock-the-runway",
    "title": "Pensacola Opera-Rock the Runway",
@@ -1676,6 +2602,99 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 663,
+   "series_slug": "frank-brown-songwriters-festival",
+   "title": "Frank Brown Songwriters Festival",
+   "start": "2026-11-05T10:00:00-06:00",
+   "end": "2026-11-15T22:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://tockify.com/fbevents/detail/97/1793894400000",
+   "source": {
+    "name": "Flora-Bama (annual events)",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 871,
+   "series_slug": "experience-the-oyster",
+   "title": "Experience the Oyster",
+   "start": "2026-11-06T00:00:00-06:00",
+   "end": "2026-11-07T23:59:59-06:00",
+   "all_day": true,
+   "category": "food",
+   "categories": [
+    "food"
+   ],
+   "venue": {
+    "slug": "the-hangout",
+    "name": "The Hangout",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/experience-the-oyster/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 878,
+   "series_slug": "blue-angels-homecoming-air-show",
+   "title": "Blue Angels Homecoming Air Show",
+   "start": "2026-11-06T00:00:00-06:00",
+   "end": "2026-11-07T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "naval-air-station-pensacola",
+    "name": "Naval Air Station Pensacola",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/blue-angels-homecoming-air-show/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1745,6 +2764,136 @@
    "independent_source_count": 1
   },
   {
+   "id": 872,
+   "series_slug": "coastal-alabama-food-truck-craft-beer-festival",
+   "title": "Coastal Alabama Food Truck & Craft Beer Festival",
+   "start": "2026-11-07T00:00:00-06:00",
+   "end": "2026-11-08T23:59:59-06:00",
+   "all_day": true,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "gulf-place",
+    "name": "Gulf Place",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/coastal-alabama-food-truck-craft-beer-festival/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 879,
+   "series_slug": "annual-gumbo-festival",
+   "title": "Annual Gumbo Festival",
+   "start": "2026-11-07T00:00:00-06:00",
+   "end": "2026-11-07T23:59:59-06:00",
+   "all_day": true,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "coastal-orange-beach",
+    "name": "COASTAL Orange Beach",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/annual-gumbo-festival-0/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 866,
+   "series_slug": "tacos-tequila-festival",
+   "title": "Tacos & Tequila Festival",
+   "start": "2026-11-07T10:00:00-06:00",
+   "end": "2026-11-07T18:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "heritage-park-foley",
+    "name": "Heritage Park (Foley)",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/tacos-tequila-festival-1/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://visitfoley.com/wp-content/uploads/admin-ajax.jpg",
+    "credit": "Visit Foley"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
+   "id": 939,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-11-07T19:00:00-06:00",
+   "end": "2026-11-07T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-07-2026-39635",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 256,
    "series_slug": "pensacola-symphony-orchestra-opening-night",
    "title": "Pensacola Symphony Orchestra: Mozart & Bizet",
@@ -1777,6 +2926,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 867,
+   "series_slug": "tacos-tequila-festival",
+   "title": "Tacos & Tequila Festival",
+   "start": "2026-11-08T10:00:00-06:00",
+   "end": "2026-11-08T18:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "heritage-park-foley",
+    "name": "Heritage Park (Foley)",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://visitfoley.com/event/tacos-tequila-festival/2026-11-08/",
+   "source": {
+    "name": "Visit Foley",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://visitfoley.com/wp-content/uploads/admin-ajax.jpg",
+    "credit": "Visit Foley"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 257,
    "series_slug": "hawthorne-heights-w-letlive",
    "title": "Hawthorne Heights w/ Letlive",
@@ -1801,6 +2985,37 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 943,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-11-10T19:00:00-06:00",
+   "end": "2026-11-10T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-10-2026-39636",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -1969,6 +3184,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 947,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-11-14T19:00:00-06:00",
+   "end": "2026-11-14T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-14-2026-39637",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 262,
    "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
    "title": "Pensacola Ice Flyers vs. Macon Mayhem",
@@ -2025,6 +3271,37 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 952,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-11-17T19:00:00-06:00",
+   "end": "2026-11-17T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-17-2026-39638",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -2218,6 +3495,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 880,
+   "series_slug": "annual-coastal-christmas-market",
+   "title": "Annual Coastal Christmas Market",
+   "start": "2026-11-21T00:00:00-06:00",
+   "end": "2026-11-22T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-event-center",
+    "name": "Orange Beach Event Center",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/annual-coastal-christmas-market/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 269,
    "series_slug": "pensacola-invitational-saturday-only",
    "title": "Pensacola Invitational Saturday Only",
@@ -2280,6 +3588,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 955,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-11-21T19:00:00-06:00",
+   "end": "2026-11-21T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-21-2026-39639",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 272,
    "series_slug": "pensacola-invitational-saturday-only",
    "title": "Pensacola Invitational Sunday Only",
@@ -2312,6 +3651,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 956,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-11-24T19:00:00-06:00",
+   "end": "2026-11-24T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-24-2026-39640",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 273,
    "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
    "title": "Pensacola Ice Flyers vs. Huntsville Havoc",
@@ -2337,6 +3707,100 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 664,
+   "series_slug": "flora-bama-s-thanksgiving-potluck",
+   "title": "Flora-Bama's Thanksgiving Potluck",
+   "start": "2026-11-26T10:00:00-06:00",
+   "end": "2026-11-26T16:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://tockify.com/fbevents/detail/98/1795708800000",
+   "source": {
+    "name": "Flora-Bama (annual events)",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 873,
+   "series_slug": "coastal-half-marathon-5k-1-mile-run",
+   "title": "Coastal Half Marathon, 5K & 1 Mile Run",
+   "start": "2026-11-28T00:00:00-06:00",
+   "end": "2026-11-28T23:59:59-06:00",
+   "all_day": true,
+   "category": "active",
+   "categories": [
+    "active",
+    "family"
+   ],
+   "venue": {
+    "slug": "orange-beach-sportsplex",
+    "name": "Orange Beach Sportsplex",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/coastal-half-marathon-5k-1-mile-run/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 959,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-11-28T19:00:00-06:00",
+   "end": "2026-11-28T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-28-2026-39641",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -2470,6 +3934,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 960,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-12-01T19:00:00-06:00",
+   "end": "2026-12-01T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-01-2026-39642",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 300,
    "series_slug": "dolly-parton-s-smoky-mountain-christmas",
    "title": "Dolly Parton's Smoky Mountain Christmas",
@@ -2560,6 +4055,37 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 963,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-12-05T19:00:00-06:00",
+   "end": "2026-12-05T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-05-2026-39643",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -2661,6 +4187,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 665,
+   "series_slug": "santa-drop-at-flora-bama",
+   "title": "Santa Drop At Flora-Bama",
+   "start": "2026-12-06T08:00:00-06:00",
+   "end": "2026-12-06T14:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://tockify.com/fbevents/detail/99/1796565600000",
+   "source": {
+    "name": "Flora-Bama (annual events)",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
    "id": 281,
    "series_slug": "keller-williams",
    "title": "Keller Williams",
@@ -2685,6 +4242,37 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 966,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-12-08T19:00:00-06:00",
+   "end": "2026-12-08T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-08-2026-39644",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -2724,6 +4312,99 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
+  },
+  {
+   "id": 882,
+   "series_slug": "the-annual-christmas-lighted-boat-parade",
+   "title": "The Annual Christmas Lighted Boat Parade",
+   "start": "2026-12-12T00:00:00-06:00",
+   "end": "2026-12-12T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "lulus-gulf-shores",
+    "name": "LuLu's Gulf Shores",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/the-annual-christmas-lighted-boat-parade/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 968,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-12-12T19:00:00-06:00",
+   "end": "2026-12-12T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-12-2026-39645",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 970,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-12-15T19:00:00-06:00",
+   "end": "2026-12-15T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-15-2026-39646",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 417,
@@ -2820,6 +4501,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 972,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-12-19T19:00:00-06:00",
+   "end": "2026-12-19T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-19-2026-39647",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 370,
    "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
    "title": "Pensacola Ice Flyers vs. Macon Mayhem",
@@ -2876,6 +4588,37 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 976,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-12-22T19:00:00-06:00",
+   "end": "2026-12-22T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-22-2026-39648",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -2970,6 +4713,100 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 666,
+   "series_slug": "annual-christmas-potluck",
+   "title": "Annual Christmas Potluck",
+   "start": "2026-12-25T11:00:00-06:00",
+   "end": "2026-12-25T16:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://tockify.com/fbevents/detail/100/1798218000000",
+   "source": {
+    "name": "Flora-Bama (annual events)",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 667,
+   "series_slug": "make-it-to-the-line-run-walk",
+   "title": "Make It To The Line Run/Walk",
+   "start": "2026-12-26T09:00:00-06:00",
+   "end": "2026-12-26T14:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "family"
+   ],
+   "venue": {
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://tockify.com/fbevents/detail/101/1798297200000",
+   "source": {
+    "name": "Flora-Bama (annual events)",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 978,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-12-26T19:00:00-06:00",
+   "end": "2026-12-26T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-26-2026-39649",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -3073,6 +4910,163 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
+  },
+  {
+   "id": 979,
+   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
+   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
+   "start": "2026-12-29T19:00:00-06:00",
+   "end": "2026-12-29T20:15:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "brandon-styles-theater",
+    "name": "Brandon Styles Theater",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-29-2026-39650",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 883,
+   "series_slug": "noon-year-s-eve-at-lulu-s",
+   "title": "Noon Year's Eve at LuLu's",
+   "start": "2026-12-31T00:00:00-06:00",
+   "end": "2026-12-31T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "lulus-gulf-shores",
+    "name": "LuLu's Gulf Shores",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/noon-years-eve-at-lulus/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 668,
+   "series_slug": "flora-bama-s-new-year-s-eve-bash",
+   "title": "Flora-Bama's New Year's Eve Bash",
+   "start": "2026-12-31T10:00:00-06:00",
+   "end": "2026-12-31T23:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://tockify.com/fbevents/detail/102/1798732800000",
+   "source": {
+    "name": "Flora-Bama (annual events)",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 678,
+   "series_slug": "pensacola-symphony-orchestra-opening-night",
+   "title": "Pensacola Symphony Orchestra: \"My Way\"",
+   "start": "2026-12-31T19:00:00-06:00",
+   "end": "2026-12-31T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "music"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-my-way-pensacola-florida-12-31-2026/event/1B0064991254E433",
+   "info_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-my-way-pensacola-florida-12-31-2026/event/1B0064991254E433",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 884,
+   "series_slug": "flora-bama-polar-bear-dip",
+   "title": "Flora-Bama Polar Bear Dip",
+   "start": "2027-01-01T00:00:00-06:00",
+   "end": "2027-01-01T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/flora-bama-polar-bear-dip/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
   }
  ]
 }

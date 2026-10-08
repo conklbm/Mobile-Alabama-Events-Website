@@ -21,11 +21,6 @@
       "permanent": true
     },
     {
-      "source": "/events/family-art(/)?",
-      "destination": "/venues/mobile-museum-of-art/",
-      "permanent": true
-    },
-    {
       "source": "/events/business-after-hours-with-cgi(/)?",
       "destination": "/venues/innovation-portal/",
       "permanent": true
@@ -58,11 +53,6 @@
     {
       "source": "/events/the-midnight-matinee-the-temple-of-boom(/)?",
       "destination": "/venues/downtown-mobile/",
-      "permanent": true
-    },
-    {
-      "source": "/events/the-great-bellingrath-harvest(/)?",
-      "destination": "/venues/bellingrath-gardens/",
       "permanent": true
     },
     {
@@ -153,11 +143,6 @@
     {
       "source": "/events/ribbon-cutting-coastal-alabama-hearing(/)?",
       "destination": "/",
-      "permanent": true
-    },
-    {
-      "source": "/events/make-take-art(/)?",
-      "destination": "/venues/mobile-museum-of-art/",
       "permanent": true
     },
     {
@@ -258,6 +243,16 @@
     {
       "source": "/events/mobile-roast-league-comedians-fight-with-words(/)?",
       "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/free-pilates-class-at-dicks-house-of-sport(/)?",
+      "destination": "/venues/dicks-house-of-sport-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/brit-floyd(/)?",
+      "destination": "/venues/saenger-theatre/",
       "permanent": true
     },
     {
