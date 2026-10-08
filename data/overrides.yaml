@@ -6,6 +6,11 @@
 merge:
   - [235, 108]   # Postmodern Jukebox, Pensacola Saenger: Ticketmaster + 92ZEW (92ZEW's venue was resolved after TM's copy existed)
   - [236, 110]   # Daniel Tosh, Pensacola Saenger: same story
+  - [109, 981]   # LoDa ArtWalk Oct 9: downtownmobile.org's themed "ArtWalk: Halloween" + mobile-arts-council's generic duplicate
+  - [130, 1000]  # LoDa ArtWalk Nov 13: "ArtWalk: Picture Book Month" + mobile-arts-council's generic duplicate
+  - [142, 1012]  # LoDa ArtWalk Dec 11: "ArtWalk: Celebrate Christmas" + mobile-arts-council's generic duplicate
+  - [833, 798]   # Melton Health and Faith 5K: full charity-branded title + "Healthy Lifestyle 5K" shorthand, same race (chamber listing confirms full title)
+  - [843, 496]   # Battleship 12K: "Publix" is the current title sponsor, "Keesler Federal" an earlier/co-sponsor name for the same annual race
 #  - [1234, 5678]
 
 # Force an occurrence onto a series (by occurrence id -> series slug).
@@ -15,6 +20,11 @@ attach_to_series: {}
 # Never merge these two (false positive from the fuzzy matcher).
 never_merge:
   - [271, 269]   # Pensacola Invitational: 2-day package vs Saturday-only are different products
+  - [794, 784]   # Historical Lecture Series: "A Taste of Mobile" vs "Clotilda Survivors" are different monthly talks
+  - [652, 650]   # Eastern Shore Art Center: Kids Pottery vs Intermediate to Advanced Pottery are different classes
+  - [656, 654]   # Eastern Shore Art Center: Beginning Handbuilding AM vs Beginning Acrylics AM are different classes
+  - [658, 654]   # Eastern Shore Art Center: Beginning Watercolors AM vs Beginning Acrylics AM are different classes
+  - [495, 494]   # USS Alabama Veterans Day: the Concert (evening) and the Parade of Flags/Celebration (afternoon) are separate program components, confirmed across multiple years' listings
 
 # Confirm cancellation (occurrence id) — removes it from the site.
 cancelled:

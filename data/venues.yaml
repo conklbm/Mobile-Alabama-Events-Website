@@ -13,7 +13,7 @@
 
 - slug: saenger-theatre
   name: Saenger Theatre
-  aliases: ["Saenger Theatre", "Saenger Theater", "Mobile Saenger Theatre", "Mobile Saenger", "The Saenger"]
+  aliases: ["Saenger Theatre", "Saenger Theater", "Mobile Saenger Theatre", "Mobile Saenger", "The Saenger", "Mobile Symphony Orchestra 257 Dauphin Street Mobile, AL 36602"]
   domains: ["mobilesaenger.com"]
   address: 6 S Joachim St
   city: Mobile
@@ -191,7 +191,7 @@
 
 - slug: ben-may-main-library
   name: Ben May Main Library
-  aliases: ["Ben May Main Library", "Ben May Library", "Mobile Public Library", "Mobile Public Library - Main", "Main Library", "MPL Main"]
+  aliases: ["Ben May Main Library", "Ben May Library", "Mobile Public Library", "Mobile Public Library - Main", "Main Library", "MPL Main", "701 Government Street Mobile, AL 36602"]
   domains: ["mobilepubliclibrary.org"]
   address: 701 Government St
   city: Mobile
@@ -1421,7 +1421,7 @@
 
 - slug: central-midtown
   name: Central Midtown
-  aliases: ["Central Midtown"]
+  aliases: ["Central Midtown", "Midtown Mobile"]
   domains: []
   address: "1260 Dauphin St."
   city: Mobile
@@ -1883,3 +1883,135 @@
   zip: "36561"
   regions: [coastal]
   notes: "City sports complex; start and finish for the Coastal Half Marathon."
+
+# --- resolved from issue #8 (2026-10-08), verified by web research ---
+
+- slug: foley-parks-and-recreation
+  name: Foley Parks & Recreation Activity Center
+  aliases: ["315 E Jessamine Ave, Foley", "Foley Parks and Recreation", "Foley Parks & Recreation Activity Center"]
+  domains: ["cityoffoley.org"]
+  address: 315 E Jessamine Ave
+  city: Foley
+  state: AL
+  zip: "36535"
+  regions: [coastal]
+  notes: "City of Foley's parks & rec building/field next to the community library; hosts the library's annual Big Rigs touch-a-truck event."
+
+- slug: the-farm-elberta
+  name: The Farm
+  aliases: ["24025 Mifflin St, Elberta", "The Farm Elberta", "The Farm Wedding Venue"]
+  domains: []
+  address: 24025 Miflin Rd
+  city: Elberta
+  state: AL
+  zip: "36530"
+  regions: [coastal]
+  notes: "Wedding and event venue near Elberta; hosts an annual Fall Festival each fall."
+
+- slug: tractor-supply-daphne
+  name: Tractor Supply Co. (Daphne)
+  aliases: ["Tractor Supply Company 851 US Hwy 98 Daphne, AL 36526 (Enter off Johnson Road)", "Tractor Supply Daphne", "Tractor Supply Co. (Daphne)"]
+  domains: ["tractorsupply.com"]
+  address: 851 US Hwy 98
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "Store #2408; enter off Johnson Road. Hosts community events like annual document Shred Day."
+
+- slug: hubert-pierce-road-dirt-pit
+  name: Hubert Pierce Road Dirt Pit (Mobile County)
+  aliases: ["1113 Hubert Pierce Road, Mobile", "Hubert Pierce Road Dirt Pit"]
+  domains: ["mobilecountyal.gov"]
+  address: 1113 Hubert Pierce Rd
+  city: Mobile
+  state: AL
+  regions: [mobile]
+  notes: "Mobile County drop-off site used for the county's Operation Clean Sweep events; not a public business."
+
+- slug: north-mobile-industrial-park
+  name: North Mobile Industrial Park (Axis)
+  aliases: ["12740 Hwy 43 North, Axis", "North Mobile Industrial Park", "North Mobile Industrial Park (old Acordis site)"]
+  domains: ["mobilecountyal.gov"]
+  address: 12740 US Hwy 43 N
+  city: Axis
+  state: AL
+  zip: "36505"
+  regions: [mobile]
+  notes: "Former Acordis plant site in Axis; used as a Mobile County drop-off site for Operation Clean Sweep events."
+
+- slug: irvington-landfill
+  name: Irvington Landfill (Mobile County)
+  aliases: ["7195 Half Mile Road, Irvington", "Irvington Landfill", "Old Irvington Landfill"]
+  domains: ["mobilecountyal.gov"]
+  address: 7195 Half Mile Rd
+  city: Irvington
+  state: AL
+  zip: "36544"
+  regions: [mobile]
+  notes: "Mobile County drop-off site used for Operation Clean Sweep events; adjacent to the Azalea City Model Aeronautics field."
+
+- slug: lupercalia-art-gallery
+  name: Lupercalia Art Society Gallery & Speakeasy
+  aliases: ["Lupercalia Art Gallery", "Lupercalia Art Society"]
+  domains: []
+  address: 358 Dauphin St
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Art gallery and event space on Dauphin Street downtown; hosts recurring community meetups like Lupe Chat."
+
+- slug: the-shoulder-womens-facility
+  name: The Shoulder (Women's Facility)
+  aliases: ["The Shoulder Women's Facility 6801 Three Notch Road Mobile, AL 36619", "The Shoulder"]
+  domains: []
+  address: 6801 Three Notch Rd
+  city: Mobile
+  state: AL
+  zip: "36619"
+  regions: [mobile]
+  notes: "Residential substance-abuse treatment facility run by The Shoulder of the Central Gulf Coast, serving Gulf Coast women since 1985."
+
+- slug: bayou-sara-baptist-church
+  name: Bayou Sara Baptist Church
+  aliases: ["Bayou Sara Baptist Church"]
+  domains: []
+  address: 12 Bayou Sara Ave
+  city: Saraland
+  state: AL
+  zip: "36571"
+  regions: [mobile]
+
+- slug: flambeaux-hall
+  name: Flambeaux Hall
+  aliases: ["254 St. Anthony St., Mobile", "Flambeaux Hall"]
+  domains: []
+  address: 254 St Anthony St
+  city: Mobile
+  state: AL
+  zip: "36603"
+  regions: [mobile]
+  notes: "Historic event hall (the former Dr. Charles H. Mohr House) associated with the Order of Myths Mardi Gras society; not generally open to public rental."
+
+- slug: coastal-alabama-farmers-and-fishermens-market
+  name: Coastal Alabama Farmers and Fishermens Market
+  aliases: ["Coastal Alabama Farmers and Fishermens Market"]
+  domains: []
+  address: "781 Farmers' Market Ln"
+  city: Foley
+  state: AL
+  zip: "36535"
+  regions: [coastal]
+  notes: "State-certified farmers market in Foley; a redemption site for Alabama's farmers-market voucher programs."
+
+- slug: visionary-health-career-training-institute
+  name: Visionary Health Career Training Institute LLC
+  aliases: ["Where: Visionary Health Career Training Institute LLC 101 B Villa Drive, Suite 118 Daphne, AL 36526", "Visionary Health Career Training Institute", "The V"]
+  domains: ["vhcti.com"]
+  address: "101 B Villa Dr, Suite 118"
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "CNA/CMA/CPT training school in Daphne, also known as 'The V'."
