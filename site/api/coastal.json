@@ -1,7 +1,42 @@
 {
  "region": "coastal",
- "generated": "2026-10-08T16:39:34Z",
+ "generated": "2026-10-08T16:48:04Z",
  "events": [
+  {
+   "id": 90,
+   "series_slug": "53rd-annual-national-shrimp-festival",
+   "title": "The Annual National Shrimp Festival",
+   "start": "2026-10-08T00:00:00-05:00",
+   "end": "2026-10-11T23:59:59-05:00",
+   "all_day": true,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "gulf-place",
+    "name": "Gulf Place",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/the-annual-national-shrimp-festival/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://visitfoley.com/wp-content/uploads/ShrimpFest_cb_GMS2018-5437_2C96B888-EA7E-2ED1-33430E1E2BE96702_2ca96596-af9c-39c0-d64a493fe0ce2250-e1727271285408.jpg",
+    "credit": "Visit Foley"
+   },
+   "curation_score": 3,
+   "independent_source_count": 3
+  },
   {
    "id": 353,
    "series_slug": "indoor-cycling",
@@ -33,75 +68,6 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
-  },
-  {
-   "id": 90,
-   "series_slug": "53rd-annual-national-shrimp-festival",
-   "title": "53rd Annual National Shrimp Festival",
-   "start": "2026-10-08T10:00:00-05:00",
-   "end": "2026-10-11T17:00:00-05:00",
-   "all_day": false,
-   "category": "food",
-   "categories": [
-    "food",
-    "community"
-   ],
-   "venue": {
-    "slug": "gulf-place",
-    "name": "Gulf Place",
-    "city": "Gulf Shores",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "Free",
-   "ticket_url": "",
-   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/the-annual-national-shrimp-festival/",
-   "source": {
-    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://visitfoley.com/wp-content/uploads/ShrimpFest_cb_GMS2018-5437_2C96B888-EA7E-2ED1-33430E1E2BE96702_2ca96596-af9c-39c0-d64a493fe0ce2250-e1727271285408.jpg",
-    "credit": "Visit Foley"
-   },
-   "curation_score": 3,
-   "independent_source_count": 3
-  },
-  {
-   "id": 235,
-   "series_slug": "scott-bradlee-s-postmodern-jukebox-the-future-is-vintage-world-tour",
-   "title": "Scott Bradlee's Postmodern Jukebox: The Future Is Vintage World Tour",
-   "start": "2026-10-08T20:00:00-05:00",
-   "end": "2026-10-08T23:00:00-05:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-pensacola-florida-10-08-2026/event/1B00649EB7FF38A6",
-   "info_url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-pensacola-florida-10-08-2026/event/1B00649EB7FF38A6",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/05/postmodern-jukebox-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
   },
   {
    "id": 845,
@@ -404,37 +370,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 238,
-   "series_slug": "rodney-carrington",
-   "title": "Rodney Carrington",
-   "start": "2026-10-10T19:00:00-05:00",
-   "end": "2026-10-10T22:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/rodney-carrington-pensacola-florida-10-10-2026/event/1B006495E52A576C",
-   "info_url": "https://www.ticketmaster.com/rodney-carrington-pensacola-florida-10-10-2026/event/1B006495E52A576C",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 890,
    "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
    "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
@@ -460,38 +395,6 @@
     "name": "Eastern Shore Chamber of Commerce",
     "tier": "C",
     "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 397,
-   "series_slug": "fall-pop-up-farmers-market",
-   "title": "Fall Pop-Up Farmers Market",
-   "start": "2026-10-11T10:00:00-05:00",
-   "end": "2026-10-11T14:00:00-05:00",
-   "all_day": false,
-   "category": "food",
-   "categories": [
-    "food",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9632",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
    },
    "image": null,
    "curation_score": 0,
@@ -944,6 +847,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 449,
+   "series_slug": "magnolia-springs-firefighter-festival",
+   "title": "Magnolia Springs Firefighter Festival",
+   "start": "2026-10-17T00:00:00-05:00",
+   "end": "2026-10-17T23:59:59-05:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "magnolia-springs-fire-department",
+    "name": "Magnolia Springs Volunteer Fire Department",
+    "city": "Magnolia Springs",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/magnolia-springs-firefighter-festival/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/827636766_1137852008808599_7001283227257118725_n.jpg?fit=526%2C526&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
    "id": 851,
    "series_slug": "tank-or-treat-at-the-alabama-aquarium",
    "title": "Tank or Treat at the Alabama Aquarium",
@@ -1042,41 +979,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 449,
-   "series_slug": "magnolia-springs-firefighter-festival",
-   "title": "Magnolia Springs Firefighter Festival",
-   "start": "2026-10-17T08:00:00-05:00",
-   "end": "2026-10-17T16:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "family"
-   ],
-   "venue": {
-    "slug": "magnolia-springs-fire-department",
-    "name": "Magnolia Springs Volunteer Fire Department",
-    "city": "Magnolia Springs",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/magnolia-springs-firefighter-festival/",
-   "source": {
-    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/827636766_1137852008808599_7001283227257118725_n.jpg?fit=526%2C526&ssl=1",
-    "credit": "The Mob Mom"
-   },
-   "curation_score": 2,
-   "independent_source_count": 2
-  },
-  {
    "id": 450,
    "series_slug": "2026-boo-at-the-zoo",
    "title": "2026 Boo at the Zoo",
@@ -1105,6 +1007,40 @@
    },
    "image": {
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/748534142_1508858031275517_6565997558931359282_n.jpg?fit=960%2C503&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 681,
+   "series_slug": "big-rigs",
+   "title": "Big Rigs",
+   "start": "2026-10-17T09:00:00-05:00",
+   "end": "2026-10-17T11:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "foley-parks-and-recreation",
+    "name": "Foley Parks & Recreation Activity Center",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/big-rigs/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/10/802988680_1089220703613944_8516849484088279035_n.jpg?fit=686%2C960&ssl=1",
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
@@ -1174,6 +1110,41 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 683,
+   "series_slug": "fall-festival-24025-mifflin-st-elberta",
+   "title": "Fall Festival",
+   "start": "2026-10-17T16:00:00-05:00",
+   "end": "2026-10-17T19:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "the-farm-elberta",
+    "name": "The Farm",
+    "city": "Elberta",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/fall-festival-4/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/10/825328777_122292784568180235_1740795570637643744_n.jpg?fit=851%2C315&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1498,8 +1469,8 @@
    "id": 469,
    "series_slug": "indoor-cycling",
    "title": "Indoor Cycling",
-   "start": "2026-10-20T07:20:00-05:00",
-   "end": "2026-10-20T08:00:00-05:00",
+   "start": "2026-10-20T17:00:00-05:00",
+   "end": "2026-10-20T18:00:00-05:00",
    "all_day": false,
    "category": "active",
    "categories": [
@@ -1682,6 +1653,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 453,
+   "series_slug": "arts-afire-fall-festival",
+   "title": "Annual Arts Afire Fall Festival",
+   "start": "2026-10-22T00:00:00-05:00",
+   "end": "2026-10-22T23:59:59-05:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "coastal-arts-center-orange-beach",
+    "name": "Coastal Arts Center of Orange Beach",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/annual-arts-afire-fall-festival/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/818335306_1682790947185141_5161752419710800176_n.jpg?fit=526%2C681&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
    "id": 472,
    "series_slug": "indoor-cycling",
    "title": "Indoor Cycling",
@@ -1712,41 +1717,6 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
-  },
-  {
-   "id": 453,
-   "series_slug": "arts-afire-fall-festival",
-   "title": "Arts Afire Fall Festival",
-   "start": "2026-10-22T17:00:00-05:00",
-   "end": "2026-10-22T19:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "family"
-   ],
-   "venue": {
-    "slug": "coastal-arts-center-orange-beach",
-    "name": "Coastal Arts Center of Orange Beach",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/annual-arts-afire-fall-festival/",
-   "source": {
-    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/818335306_1682790947185141_5161752419710800176_n.jpg?fit=526%2C681&ssl=1",
-    "credit": "The Mob Mom"
-   },
-   "curation_score": 2,
-   "independent_source_count": 2
   },
   {
    "id": 473,
@@ -2764,6 +2734,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 866,
+   "series_slug": "tacos-tequila-festival",
+   "title": "Tacos & Tequila Festival",
+   "start": "2026-11-07T00:00:00-06:00",
+   "end": "2026-11-08T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "heritage-park-foley",
+    "name": "Heritage Park (Foley)",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/tacos-tequila-festival-1/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://visitfoley.com/wp-content/uploads/admin-ajax.jpg",
+    "credit": "Visit Foley"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
    "id": 872,
    "series_slug": "coastal-alabama-food-truck-craft-beer-festival",
    "title": "Coastal Alabama Food Truck & Craft Beer Festival",
@@ -2826,41 +2830,6 @@
    "image": null,
    "curation_score": 1,
    "independent_source_count": 1
-  },
-  {
-   "id": 866,
-   "series_slug": "tacos-tequila-festival",
-   "title": "Tacos & Tequila Festival",
-   "start": "2026-11-07T10:00:00-06:00",
-   "end": "2026-11-07T18:00:00-06:00",
-   "all_day": false,
-   "category": "food",
-   "categories": [
-    "food",
-    "community"
-   ],
-   "venue": {
-    "slug": "heritage-park-foley",
-    "name": "Heritage Park (Foley)",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/tacos-tequila-festival-1/",
-   "source": {
-    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://visitfoley.com/wp-content/uploads/admin-ajax.jpg",
-    "credit": "Visit Foley"
-   },
-   "curation_score": 2,
-   "independent_source_count": 2
   },
   {
    "id": 939,
@@ -3522,6 +3491,41 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 868,
+   "series_slug": "annual-harvest-festival",
+   "title": "Annual Harvest Festival",
+   "start": "2026-11-21T09:00:00-06:00",
+   "end": "2026-11-21T14:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "coastal-alabama-farmers-and-fishermens-market",
+    "name": "Coastal Alabama Farmers and Fishermens Market",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://visitfoley.com/event/annual-harvest-festival/",
+   "source": {
+    "name": "Visit Foley",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://visitfoley.com/wp-content/uploads/2024-Harvest-Pageant-e1730233408106.jpeg",
+    "credit": "Visit Foley"
+   },
    "curation_score": 1,
    "independent_source_count": 1
   },
