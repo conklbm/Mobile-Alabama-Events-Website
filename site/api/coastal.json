@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-10-09T18:49:04Z",
+ "generated": "2026-10-09T18:58:05Z",
  "events": [
   {
    "id": 90,
@@ -1143,6 +1143,36 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 682,
+   "series_slug": "lowes-kid-workshops-firefighting-plane",
+   "title": "Lowes Kid Workshops- Firefighting Plane",
+   "start": "2026-10-17T10:00:00-05:00",
+   "end": "2026-10-17T11:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "name": "Lowes Home Improvement (Locations Vary)"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/lowes-kid-workshops-firefighting-plane/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/10/lowes-kids-workshop.jpeg?fit=2003%2C1292&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -2960,6 +2990,37 @@
     "credit": "Visit Foley"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 941,
+   "series_slug": "dedication-commissioning-ceremony-for-the-schreiber-water-treatment",
+   "title": "Dedication & Commissioning Ceremony for The Schreiber Water Treatment Facility",
+   "start": "2026-11-10T11:00:00-06:00",
+   "end": "2026-11-10T13:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "schreiber-water-treatment-plant",
+    "name": "Schreiber Water Treatment Plant",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/dedication-commissioning-ceremony-for-the-schreiber-water-treatment-facility-43659",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
