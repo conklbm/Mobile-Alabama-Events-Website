@@ -2015,3 +2015,27 @@
   zip: "36526"
   regions: [mobile]
   notes: "CNA/CMA/CPT training school in Daphne, also known as 'The V'."
+
+# --- resolved from issue #9 (2026-10-09), verified by web search ---
+
+- slug: schreiber-water-treatment-plant
+  name: Schreiber Water Treatment Plant
+  aliases: ["120-B CO RD 20, Foley, AL 36535", "Schreiber Water Treatment Plant", "Schreiber Water Treatment Facility"]
+  domains: ["rivierautilities.com"]
+  address: "120-B County Road 20"
+  city: Foley
+  state: AL
+  zip: "36535"
+  regions: [coastal]
+  notes: "Riviera Utilities' new water plant on County Road 20, named for longtime board member Bob Schreiber; replaces the utility's old South Water Plant."
+
+- slug: bill-es-fairhope
+  name: "Bill-E's"
+  aliases: ["Bill-E's", "Bill E's", "Bill-E's Restaurant", "Bill E's Restaurant", "Bill-E's Small Batch Bacon"]
+  domains: []
+  address: "19992 State Highway 181"
+  city: Fairhope
+  state: AL
+  zip: "36532"
+  regions: [mobile]
+  notes: "Bacon-themed restaurant and smokehouse compound on Hwy 181 south of Fairhope; runs its own bike-night and community events."

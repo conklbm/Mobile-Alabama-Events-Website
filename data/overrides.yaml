@@ -43,3 +43,4 @@ not_cancelled:
 # unknown but the event is real — better to add an alias in venues.yaml.
 force_publish:
   - 385   # Fall Brawl Festival: MOB Moms' own vendor market at 2700 Newman Rd; no named venue
+  - 682   # Lowes Kid Workshops - Firefighting Plane: national program runs at multiple Lowe's stores same day, no single venue
