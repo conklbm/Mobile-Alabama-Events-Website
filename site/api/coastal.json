@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-10-08T17:17:37Z",
+ "generated": "2026-10-09T14:29:14Z",
  "events": [
   {
    "id": 90,
@@ -38,36 +38,38 @@
    "independent_source_count": 3
   },
   {
-   "id": 353,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-10-08T07:20:00-05:00",
-   "end": "2026-10-08T08:00:00-05:00",
+   "id": 235,
+   "series_slug": "scott-bradlee-s-postmodern-jukebox-the-future-is-vintage-world-tour",
+   "title": "Scott Bradlee's Postmodern Jukebox: The Future Is Vintage World Tour",
+   "start": "2026-10-08T20:00:00-05:00",
+   "end": "2026-10-08T23:00:00-05:00",
    "all_day": false,
-   "category": "active",
+   "category": "music",
    "categories": [
-    "active",
-    "community"
+    "music"
    ],
    "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
     "regions": [
      "coastal"
     ]
    },
    "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9156",
+   "ticket_url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-pensacola-florida-10-08-2026/event/1B00649EB7FF38A6",
+   "info_url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-pensacola-florida-10-08-2026/event/1B00649EB7FF38A6",
    "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/postmodern-jukebox-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 845,
@@ -360,6 +362,37 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/southern-tipoff-florida-state-vs-mississippi-pensacola-florida-10-10-2026/event/1B006516F618F015",
    "info_url": "https://www.ticketmaster.com/southern-tipoff-florida-state-vs-mississippi-pensacola-florida-10-10-2026/event/1B006516F618F015",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 238,
+   "series_slug": "rodney-carrington",
+   "title": "Rodney Carrington",
+   "start": "2026-10-10T19:00:00-05:00",
+   "end": "2026-10-10T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/rodney-carrington-pensacola-florida-10-10-2026/event/1B006495E52A576C",
+   "info_url": "https://www.ticketmaster.com/rodney-carrington-pensacola-florida-10-10-2026/event/1B006495E52A576C",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",

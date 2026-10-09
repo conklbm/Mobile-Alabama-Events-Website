@@ -256,6 +256,11 @@
       "permanent": true
     },
     {
+      "source": "/events/struggle-jennings(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true

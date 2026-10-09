@@ -1,69 +1,7 @@
 {
  "region": "mobile",
- "generated": "2026-10-08T17:17:37Z",
+ "generated": "2026-10-09T14:29:14Z",
  "events": [
-  {
-   "id": 173,
-   "series_slug": "crescent-comedy-workshop",
-   "title": "Crescent Comedy Chaos",
-   "start": "2026-10-07T20:00:00-05:00",
-   "end": "2026-10-07T23:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$8.76",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237474",
-   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237474",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 174,
-   "series_slug": "an-evening-with-shadowgrass-night-one",
-   "title": "An Evening with Shadowgrass (NIGHT TWO)",
-   "start": "2026-10-07T20:00:00-05:00",
-   "end": "2026-10-07T23:00:00-05:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music"
-   ],
-   "venue": {
-    "slug": "the-merry-widow",
-    "name": "The Merry Widow",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$28.91",
-   "ticket_url": "https://www.ticketweb.com/event/an-evening-with-shadowgrass-night-the-merry-widow-tickets/14226344",
-   "info_url": "https://www.ticketweb.com/event/an-evening-with-shadowgrass-night-the-merry-widow-tickets/14226344",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
   {
    "id": 90,
    "series_slug": "53rd-annual-national-shrimp-festival",
@@ -203,37 +141,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 325,
-   "series_slug": "what-story-does-your-website-tell",
-   "title": "What Story Does Your Website Tell? StoryBrand Marketing #2",
-   "start": "2026-10-08T08:30:00-05:00",
-   "end": "2026-10-08T10:30:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "mobile-chamber",
-    "name": "Mobile Chamber",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://my.mobilechamber.com/boacalendar/Details/what-story-does-your-website-tell-1704074?sourceTypeId=Hub",
-   "source": {
-    "name": "Mobile Chamber",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 741,
    "series_slug": "plantasia-fall-plant-sale-at-mobile-botanical-gardens",
    "title": "Plantasia Fall Plant Sale at Mobile Botanical Gardens",
@@ -266,172 +173,6 @@
    },
    "curation_score": 2,
    "independent_source_count": 2
-  },
-  {
-   "id": 498,
-   "series_slug": "toddler-time",
-   "title": "Toddler Time",
-   "start": "2026-10-08T10:00:00-05:00",
-   "end": "2026-10-08T10:45:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/toddler-time/2026-10-08/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2022/08/toddlerrr.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 405,
-   "series_slug": "royal-restrooms-ribbon-cutting",
-   "title": "Royal Restrooms Ribbon Cutting",
-   "start": "2026-10-08T11:30:00-05:00",
-   "end": "2026-10-08T12:30:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "mobile-chamber",
-    "name": "Mobile Chamber",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://my.mobilechamber.com/boacalendar/Details/royal-restrooms-ribbon-cutting-1868784?sourceTypeId=Hub",
-   "source": {
-    "name": "Mobile Chamber",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 885,
-   "series_slug": "fairhope-farmers-fall-market-2026",
-   "title": "Fairhope Farmers' Fall Market - 2026",
-   "start": "2026-10-08T14:00:00-05:00",
-   "end": "2026-10-08T18:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/fairhope-farmers-fall-market-2026-10-08-2026-43616",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 499,
-   "series_slug": "make-take-art",
-   "title": "Make & Take Art",
-   "start": "2026-10-08T15:00:00-05:00",
-   "end": "2026-10-08T16:30:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/make-take-art-7-2/2026-10-08/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2025/02/free-make-Take.png",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 4,
-   "series_slug": "prototyping-lab-open-house-night",
-   "title": "Prototyping Lab Open House Night!",
-   "start": "2026-10-08T16:00:00-05:00",
-   "end": "2026-10-08T17:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "innovation-portal",
-    "name": "Innovation Portal",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.innovation-portal.com/event/prototyping-lab-open-house-night/2026-10-08/",
-   "source": {
-    "name": "Innovation Portal",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-2.png",
-    "credit": "Innovation Portal"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
   },
   {
    "id": 461,
@@ -532,6 +273,40 @@
    },
    "curation_score": 1,
    "independent_source_count": 1
+  },
+  {
+   "id": 235,
+   "series_slug": "scott-bradlee-s-postmodern-jukebox-the-future-is-vintage-world-tour",
+   "title": "Scott Bradlee's Postmodern Jukebox: The Future Is Vintage World Tour",
+   "start": "2026-10-08T20:00:00-05:00",
+   "end": "2026-10-08T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-pensacola-florida-10-08-2026/event/1B00649EB7FF38A6",
+   "info_url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-pensacola-florida-10-08-2026/event/1B00649EB7FF38A6",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/05/postmodern-jukebox-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 840,
@@ -1802,6 +1577,37 @@
    "price": "$20.56-50.31",
    "ticket_url": "https://www.ticketweb.com/event/double-feature-comedy-night-crescent-theater-tickets/15001503",
    "info_url": "https://www.ticketweb.com/event/double-feature-comedy-night-feat-crescent-theater-tickets/15001503",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 238,
+   "series_slug": "rodney-carrington",
+   "title": "Rodney Carrington",
+   "start": "2026-10-10T19:00:00-05:00",
+   "end": "2026-10-10T22:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/rodney-carrington-pensacola-florida-10-10-2026/event/1B006495E52A576C",
+   "info_url": "https://www.ticketmaster.com/rodney-carrington-pensacola-florida-10-10-2026/event/1B006495E52A576C",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -4453,41 +4259,6 @@
    "independent_source_count": 2
   },
   {
-   "id": 833,
-   "series_slug": "melton-health-and-faith-11th-annual-5k-walk-and-1-mile-fun-run-walk",
-   "title": "Melton Health And Faith 11th Annual 5K Walk and 1 Mile Fun Run/Walk",
-   "start": "2026-10-17T00:00:00-05:00",
-   "end": "2026-10-17T23:59:59-05:00",
-   "all_day": true,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "mardi-gras-park",
-    "name": "Mardi Gras Park",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/11th-annual-healthy-lifestyle-5k-walk-charity-event-2026-10-17",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Melton-5K_30B47FED-AC5A-E297-51FFF7542874650A_30b591ac-b9a5-e704-0f32c5a56e91cb64.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 2,
-   "independent_source_count": 3
-  },
-  {
    "id": 851,
    "series_slug": "tank-or-treat-at-the-alabama-aquarium",
    "title": "Tank or Treat at the Alabama Aquarium",
@@ -4654,6 +4425,41 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 833,
+   "series_slug": "melton-health-and-faith-11th-annual-5k-walk-and-1-mile-fun-run-walk",
+   "title": "11th Annual Healthy Lifestyle 5K Run/Walk Charity Event",
+   "start": "2026-10-17T08:00:00-05:00",
+   "end": "2026-10-17T14:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "active"
+   ],
+   "venue": {
+    "slug": "mardi-gras-park",
+    "name": "Mardi Gras Park",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/11th-annual-healthy-lifestyle-5k-walk-charity-event-2026-10-17",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Melton-5K_30B47FED-AC5A-E297-51FFF7542874650A_30b591ac-b9a5-e704-0f32c5a56e91cb64.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
   },
   {
    "id": 591,
@@ -15961,12 +15767,13 @@
   {
    "id": 843,
    "series_slug": "publix-battleship-12k",
-   "title": "Publix Battleship 12K",
-   "start": "2026-11-15T00:00:00-06:00",
-   "end": "2026-11-15T23:59:59-06:00",
-   "all_day": true,
-   "category": "active",
+   "title": "Keesler Federal Battleship 12K",
+   "start": "2026-11-15T07:00:00-06:00",
+   "end": "2026-11-15T11:00:00-06:00",
+   "all_day": false,
+   "category": "community",
    "categories": [
+    "community",
     "active"
    ],
    "venue": {
