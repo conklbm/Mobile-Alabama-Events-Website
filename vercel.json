@@ -261,6 +261,11 @@
       "permanent": true
     },
     {
+      "source": "/events/jj-grey-mofro(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
