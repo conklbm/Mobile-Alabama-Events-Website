@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-10-10T15:47:30Z",
+ "generated": "2026-10-11T16:11:58Z",
  "events": [
   {
    "id": 90,
@@ -36,41 +36,6 @@
    },
    "curation_score": 3,
    "independent_source_count": 3
-  },
-  {
-   "id": 845,
-   "series_slug": "ship-to-shore-chat-with-e-v-nautilus",
-   "title": "Ship to Shore Chat with E/V Nautilus",
-   "start": "2026-10-09T00:00:00-05:00",
-   "end": "2026-10-09T23:59:59-05:00",
-   "all_day": true,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "dauphin-island-sea-lab",
-    "name": "Dauphin Island Sea Lab / Estuarium",
-    "city": "Dauphin Island",
-    "regions": [
-     "mobile",
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/ship-to-shore-chat-with-e-v-nautilus/24078/",
-   "source": {
-    "name": "Visit Mobile",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/EVNautilus-2021_773A621F-EB4A-E1F8-94CADB23C933C47C_7742fb1b-01b7-d9a7-6e1dc27e19656c51.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
   },
   {
    "id": 439,
@@ -140,138 +105,6 @@
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 236,
-   "series_slug": "daniel-tosh-my-first-farewell-tour",
-   "title": "Daniel Tosh: My First Farewell Tour",
-   "start": "2026-10-09T21:30:00-05:00",
-   "end": "2026-10-10T00:30:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/daniel-tosh-my-first-farewell-tour-pensacola-florida-10-09-2026/event/1B00636B2DB89AE5",
-   "info_url": "https://www.ticketmaster.com/daniel-tosh-my-first-farewell-tour-pensacola-florida-10-09-2026/event/1B00636B2DB89AE5",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/05/Tosh.png",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
-  },
-  {
-   "id": 708,
-   "series_slug": "dauphin-island-art-trail",
-   "title": "Dauphin Island Art Trail",
-   "start": "2026-10-10T09:00:00-05:00",
-   "end": "2026-10-10T16:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "arts"
-   ],
-   "venue": {
-    "slug": "dauphin-island",
-    "name": "Dauphin Island",
-    "city": "Dauphin Island",
-    "regions": [
-     "mobile",
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-dauphin-island-art-trail-2026-10-10",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/3K3A8983_07F2931C-05EB-DF45-02D59F6C77555E88_080ec761-ab7f-3757-e68ccc386ed4aa88.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 2,
-   "independent_source_count": 2
-  },
-  {
-   "id": 385,
-   "series_slug": "fall-brawl-festival",
-   "title": "Fall Brawl Festival",
-   "start": "2026-10-10T09:30:00-05:00",
-   "end": "2026-10-10T14:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "family"
-   ],
-   "venue": {
-    "name": "2700 Newman Road – Mobile, Al"
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://themobmom.com/event/fall-brawl-festival/",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/09/fall-brawl.jpg?fit=720%2C960&ssl=1",
-    "credit": "The Mob Mom"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 396,
-   "series_slug": "gentle-stretch-yoga",
-   "title": "Yoga",
-   "start": "2026-10-10T10:00:00-05:00",
-   "end": "2026-10-10T11:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8717",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {

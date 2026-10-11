@@ -266,6 +266,31 @@
       "permanent": true
     },
     {
+      "source": "/events/food-truck-friday(/)?",
+      "destination": "/venues/loxley-municipal-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fall-movies-in-the-park(/)?",
+      "destination": "/venues/laun-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/zeke-buckhaults-the-crescent-theater-employees-showcase(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/lamont-landers(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/it-s-a-2000s-party-mobile(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
