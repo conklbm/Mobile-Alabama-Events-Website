@@ -291,6 +291,31 @@
       "permanent": true
     },
     {
+      "source": "/events/djs-trade-show(/)?",
+      "destination": "/venues/abba-shrine/",
+      "permanent": true
+    },
+    {
+      "source": "/events/celebrate-250-mobile-community-event(/)?",
+      "destination": "/venues/uss-alabama-battleship-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/community-spirit-day(/)?",
+      "destination": "/venues/lott-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mike-goodwin-early-show(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/weird-al-yankovic-bigger-weirder-tour(/)?",
+      "destination": "/venues/the-wharf-amphitheater/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
