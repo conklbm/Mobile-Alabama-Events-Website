@@ -83,6 +83,11 @@ def series_notes() -> dict:
     return _load("series_notes.yaml") or {}
 
 
+@lru_cache(maxsize=None)
+def happy_hours() -> list[dict]:
+    return _load("happy_hours.yaml") or []
+
+
 def clear_cache() -> None:
-    for fn in (settings, sources, venues, categories, pages, overrides, series_notes):
+    for fn in (settings, sources, venues, categories, pages, overrides, series_notes, happy_hours):
         fn.cache_clear()

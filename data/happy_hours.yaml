@@ -1,0 +1,495 @@
+# Happy hours guide -> /happy-hours/ (and a block on matching venue pages).
+# Hand-kept, not collected. Rechecked monthly by the "monthly happy hour check" cloud routine.
+#
+#   windows: days mon..sun, start/end in 24h Mobile time (end may be "close")
+#   deals:   short and factual, as the business states them; leave empty rather than guess
+#   note:    our own one line
+#   url:     the page that confirms it (first-party preferred); checked: date last confirmed
+#   status: unverified  -> kept for the monthly check, NOT shown on the site
+#   venue:   optional venues.yaml slug; links the name to that venue page when it exists
+
+- name: Dauphin's
+  city: Mobile
+  neighborhood: Downtown
+  address: 107 St Francis St, 34th Floor
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    start: '15:00'
+    end: '18:30'
+  - days:
+    - sat
+    start: '16:00'
+    end: '18:00'
+    note: drinks only
+  deals:
+  - Half-price glasses and bottles of wine (bottles up to $100)
+  - $9 craft cocktails
+  - $5 house liquor pours
+  - $3 domestic, $4 import, $5 craft beer
+  - $3 pot roast sliders and snack mix; $9 shareable plates
+  note: Bar 424 on the 34th floor looks out over the river and the bay; seats are first come, first served.
+  url: https://www.godauphins.com/menu?location=Dauphin%27s&menu=happy-hour
+  checked: 2026-10-12
+  confidence: high
+- name: Las Floriditas
+  city: Mobile
+  neighborhood: Downtown
+  address: 107 St Francis St, Suite B165
+  venue: las-floriditas
+  windows:
+  - days:
+    - tue
+    - wed
+    - thu
+    - fri
+    - sat
+    start: '16:00'
+    end: '19:00'
+  deals:
+  - $6 signature cocktails (La Bodeguita, Cuba Libre, Las Floriditas)
+  - $4 well drinks
+  - $2 domestic bottled beer; $3 draft beer
+  - $5-$7 small plates, including a $7 Cubano
+  - Half-price wine (per parent company Aloha Hospitality's social posts; not on the menu)
+  note: Havana-style speakeasy in the same building as Dauphin's. 21 and up.
+  url: https://www.lasfloriditas.com/menu?location=Las+Floriditas+Speakeasy&menu=happy-hour
+  checked: 2026-10-12
+  confidence: high
+- name: Squid Ink
+  city: Mobile
+  neighborhood: Downtown
+  address: 102 Dauphin St
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    start: '14:00'
+    end: '18:00'
+  deals:
+  - $5 select appetizers (hot fries, deviled eggs, pork rinds, Mobtown bites)
+  - Bao buns $3 each or 2 for $5
+  - $2 select domestic beer
+  - $6 Paloma or Old Fashioned
+  - House wine $5 a glass or $10 a bottle
+  note: Small plates from the Panini Pete's group.
+  url: https://squidinkeats.com/menu/
+  checked: 2026-10-12
+  confidence: high
+- name: Chuck's Fish
+  city: Mobile
+  neighborhood: Downtown
+  address: 551 Dauphin St
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    - sat
+    - sun
+    start: '16:00'
+    end: '18:00'
+  deals:
+  - Half-price select drinks at the bar
+  - 'Tuesday Ladies Night: half-price select drinks for ladies'
+  note: Seafood and sushi; the deals are at the bar only.
+  url: https://www.chucksfish.com/location/chucks-fish-mobile/
+  checked: 2026-10-12
+  confidence: high
+- name: Roosters
+  city: Mobile
+  neighborhood: Downtown
+  address: 211 Dauphin St
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    start: '15:00'
+    end: '18:00'
+  deals:
+  - Margarita and beer specials
+  - $2 off snacks
+  note: Tacos and tequila downtown.
+  url: https://www.facebook.com/photo/?fbid=1855866607896725&set=a.708425612640836
+  checked: 2026-10-12
+  confidence: medium
+  to_verify: Facebook post is undated. WKRG (May 2023) had the same 3-6 pm weekday window but '$3 off house margaritas', so
+    confirm the current deal.
+- name: The Haberdasher
+  city: Mobile
+  neighborhood: Downtown
+  address: 113 Dauphin St
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    - sat
+    start: '16:00'
+    end: '18:30'
+  deals:
+  - $6 old fashioneds
+  - $2 off draft beer and other cocktails
+  url: https://lostintherightdirectiontravel.com/bar/the-haberdasher/
+  checked: 2026-10-12
+  confidence: low
+  status: unverified
+  to_verify: No first-party schedule found (no website; Instagram @thehabmobile). Blog is undated (about 2023); Roadtrippers
+    says 4-6 pm Mon-Sat. A 2025 Yelp roundup confirms happy hour still runs. Verify times and deals.
+- name: Wintzell's Oyster House
+  city: Mobile
+  neighborhood: Downtown
+  address: 605 Dauphin St
+  deals:
+  - Discounted oysters and drink specials (amounts unverified)
+  url: https://www.yelp.com/biz/wintzells-oyster-house-mobile-6
+  checked: 2026-10-12
+  confidence: low
+  status: unverified
+  to_verify: Not on Wintzell's website. Reviews give conflicting weekday windows (3-6, 3-7, 4-6, 4-7), and one 2026 review
+    says happy hour is back. Call (251) 432-4605 for days, times and prices.
+- name: Hayley's
+  city: Mobile
+  neighborhood: Downtown
+  address: 278 Dauphin St
+  deals:
+  - Cheap beer and shots every day (venue's own description; no prices)
+  url: https://www.hayleysbar.com/who-are-we
+  checked: 2026-10-12
+  confidence: low
+  status: unverified
+  to_verify: Bar's site and the 2026 Visit Mobile guide both mention a happy hour, but no days, times or prices are posted.
+    Opens 2 pm weekdays, noon weekends.
+- name: Ashland Midtown Pub
+  city: Mobile
+  neighborhood: Midtown
+  address: 2453 Old Shell Rd
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    start: '15:00'
+    end: '18:00'
+  deals: []
+  note: Midtown's neighborhood Italian pub since 2008. The menu lists the hours but not the deals, so ask at the bar.
+  url: https://ashlandmidtownpubmobile.com/menu/
+  checked: 2026-10-12
+  confidence: medium
+  to_verify: Pub's menu page lists days and times only. Owner's memory of 'select drinks half off, about 4-6' isn't confirmed;
+    the site says 3-6. Wanderlog mentions discounted drafts; an older Sweet Deals listing mentions half-price drafts on Thursdays.
+    Check with the pub for the actual deal.
+- name: Butch Cassidy's Cafe
+  city: Mobile
+  neighborhood: Midtown
+  address: 60 N Florida St
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    start: '15:00'
+    end: '18:00'
+  deals:
+  - $3 domestic beer; $3.50 import beer
+  - Miller Lite or Yuengling $9 pitchers, $3 pints
+  - 2-for-1 wings (dine-in)
+  note: Midtown burger joint since 1993, home of the Butch Burger. Closed Sundays.
+  url: https://www.butchcassidys.com/happy-hour
+  checked: 2026-10-12
+  confidence: high
+- name: The Midtown Pub
+  city: Mobile
+  neighborhood: Midtown
+  address: 153 S Florida St
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    - sat
+    - sun
+    start: '12:00'
+    end: '18:00'
+  - days:
+    - mon
+    start: '12:00'
+    end: close
+    note: all day Monday
+  deals: []
+  url: https://www.facebook.com/pubmidtown/
+  checked: 2026-10-12
+  confidence: low
+  status: unverified
+  to_verify: Times come from the bar's Facebook intro; no deals or prices posted.
+- name: Baumhower's Victory Grille
+  city: Mobile
+  neighborhood: Midtown
+  address: 3201 Airport Blvd (Bel Air Mall)
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    start: '11:00'
+    end: '18:00'
+  deals:
+  - Drink specials, including gin and tonics and tequila sunrises
+  note: Sports grill from former Alabama and Dolphins lineman Bob Baumhower.
+  url: https://www.baumhowers.com/specials
+  checked: 2026-10-12
+  confidence: medium
+  to_verify: Promo graphic gives days, times and featured drinks but no prices, and doesn't say which locations take part.
+- name: Half Shell Oyster House
+  city: Mobile
+  neighborhood: West Mobile
+  address: 3654 Airport Blvd
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    - sat
+    - sun
+    start: '15:00'
+    end: '18:00'
+  deals:
+  - $2 off glasses of wine, liquor and draft beer
+  - $1 off bottled beer
+  note: New Orleans-style oyster house, with happy hour every day.
+  url: https://www.halfshelloysterhouse.com/drinks
+  checked: 2026-10-12
+  confidence: high
+- name: Mellow Mushroom
+  city: Mobile
+  neighborhood: West Mobile
+  address: 5660 Old Shell Rd
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    start: '15:00'
+    end: '18:00'
+  deals:
+  - Featured beer and cocktail specials
+  note: Pizza and craft beer on Old Shell Rd; trivia Monday nights.
+  url: https://www.mellowmushroom.com/locations/al/mobile/5660-old-shell-rd/
+  checked: 2026-10-12
+  confidence: medium
+  to_verify: Specials aren't itemized or priced.
+- name: Rock N Roll Sushi
+  city: Mobile
+  neighborhood: Tillman's Corner
+  address: 5167 Rangeline Service Rd N, Suite 102
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    start: '15:00'
+    end: '17:00'
+  - days:
+    - fri
+    start: '15:00'
+    end: '17:30'
+  deals:
+  - $2.99 Michelob or Miller Lite draft; $2.99 wine
+  - $3.99 house Long Island; $7.99 "Rocktails"
+  - $4.99 select rolls and apps (crab wontons, egg rolls, California roll)
+  - $9.99-$18.99 specialty rolls
+  note: Of the Mobile locations, Tillman's Corner is the one that posts a happy hour.
+  url: https://rocknrollsushi.com/locations/tillmans-corner/
+  checked: 2026-10-12
+  confidence: high
+- name: Original Oyster House
+  city: Spanish Fort
+  neighborhood: Causeway
+  address: 3733 Battleship Pkwy
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    start: '15:00'
+    end: '18:00'
+  deals:
+  - $5 Bloody Marys, margaritas, well drinks and house wines
+  - $5 local craft beer
+  - $7 and $10 appetizers
+  note: On the Causeway overlooking the bay since 1985. Happy hour is at this location only.
+  url: https://www.originaloysterhouse.com/promos/happy-hour-at-the-mobile-causeway/
+  checked: 2026-10-12
+  confidence: high
+- name: California Dreaming
+  city: Spanish Fort
+  neighborhood: Spanish Fort
+  address: 30500 State Hwy 181
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    - sat
+    - sun
+    start: '16:00'
+    end: '19:00'
+  deals: []
+  url: https://www.opentable.com/r/california-dreaming-spanish-fort
+  checked: 2026-10-12
+  confidence: low
+  status: unverified
+  to_verify: No official website found. Times come from the restaurant's own OpenTable description; no deals posted.
+- name: Baumhower's Victory Grille
+  city: Daphne
+  neighborhood: Daphne
+  address: 6880 US-90, Suite F-1
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    start: '11:00'
+    end: '18:00'
+  deals:
+  - Drink specials, including gin and tonics and tequila sunrises
+  note: Sports grill from former Alabama and Dolphins lineman Bob Baumhower.
+  url: https://www.baumhowers.com/specials
+  checked: 2026-10-12
+  confidence: medium
+  to_verify: 'Same chain-wide promo as the Mobile location: no prices, and participating locations aren''t named.'
+- name: Mellow Mushroom
+  city: Daphne
+  neighborhood: Daphne
+  address: 29698 Frederick Blvd
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    - sat
+    - sun
+    start: '15:00'
+    end: '18:00'
+  deals:
+  - Draft beer specials (excludes high-gravity beers)
+  note: Pizza and craft beer, with happy hour seven days a week.
+  url: https://www.mellowmushroom.com/locations/al/daphne/29698-frederick-blvd/
+  checked: 2026-10-12
+  confidence: medium
+  to_verify: Draft specials aren't priced.
+- name: Whiskey Bay Bar & Grill
+  city: Daphne
+  neighborhood: Daphne
+  address: 28975 US-98
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    start: '15:00'
+    end: '18:00'
+  deals:
+  - $3 well drinks
+  - $3 beers
+  note: Covered decks and cornhole by day; 21 and up after 9 pm. Pet-friendly.
+  url: https://whiskeybaybarandgrill.com/
+  checked: 2026-10-12
+  confidence: high
+- name: The Waterfront
+  city: Daphne
+  neighborhood: Daphne
+  address: 1 Yacht Club Dr
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    start: '14:00'
+    end: '18:00'
+  deals: []
+  url: https://thewaterfrontdaphne.com/
+  checked: 2026-10-12
+  confidence: low
+  status: unverified
+  to_verify: Restaurant posts days and times only; no deals or prices.
+- name: Tamara's Downtown
+  city: Fairhope
+  neighborhood: Fairhope
+  address: 104 N Section St
+  windows:
+  - days:
+    - mon
+    - wed
+    - thu
+    - fri
+    - sat
+    - sun
+    start: '15:00'
+    end: '17:15'
+  deals:
+  - $3.50 domestic bottled beer
+  - $6 house wine, martinis and margaritas
+  - $6 appetizers; $3 calamari or tacos; $1.25 wings
+  note: Downtown Fairhope bistro. Closed Tuesdays; no happy hour on holidays.
+  url: https://tamarasdowntownfairhope.com/menu/
+  checked: 2026-10-12
+  confidence: high
+- name: Sunset Pointe at Fly Creek Marina
+  city: Fairhope
+  neighborhood: Fairhope
+  address: 831 N Section St
+  windows:
+  - days:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+    start: '14:00'
+    end: '17:30'
+  deals: []
+  url: https://exploreeasternshore.com/happy-hour-on-the-eastern-shore
+  checked: 2026-10-12
+  confidence: low
+  status: unverified
+  to_verify: Not on the restaurant's site or menus. Times are from an undated Eastern Shore Chamber page (assets from 2020);
+    2025 Yelp reviews still mention happy hour specials. Verify times and deals.

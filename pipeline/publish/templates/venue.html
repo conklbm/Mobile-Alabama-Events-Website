@@ -6,6 +6,14 @@
 <p class="where">{% if v.address %}{{ v.address }}, {% endif %}{{ v.city }}, {{ v.state }}{% if v.zip %} {{ v.zip }}{% endif %}
 {% if v.lat and v.lng %} · <a href="https://www.google.com/maps/search/?api=1&query={{ v.lat }},{{ v.lng }}" target="_blank" rel="noopener">Map<span class="sr-only"> (opens in new tab)</span></a>{% elif v.address %} · <a href="https://www.google.com/maps/search/?api=1&query={{ (v.address ~ ', ' ~ v.city ~ ', ' ~ v.state) | urlencode }}" target="_blank" rel="noopener">Map<span class="sr-only"> (opens in new tab)</span></a>{% endif %}</p>
 {% if v.notes %}<p class="lede">{{ v.notes }}</p>{% endif %}
+{% if happy_hour %}
+<section class="hh hh-venue">
+  <h2>Happy hour</h2>
+  <p class="hh-when">{{ happy_hour.when }}</p>
+  {% if happy_hour.deals %}<ul class="hh-deals">{% for d in happy_hour.deals %}<li>{{ d }}</li>{% endfor %}</ul>{% endif %}
+  <p class="hh-meta"><a href="/happy-hours/">All happy hours</a>{% if happy_hour.checked_label %} · Checked {{ happy_hour.checked_label }}{% endif %}</p>
+</section>
+{% endif %}
 <h2>Upcoming</h2>
 {{ day_groups(upcoming, "Nothing upcoming listed here right now.") }}
 {% if past %}

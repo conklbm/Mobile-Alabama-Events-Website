@@ -19,6 +19,8 @@ img { max-width: 100%; height: auto; display: block; }
 a { color: var(--brand); text-decoration-thickness: 1px; text-underline-offset: 2px; }
 a:hover { text-decoration-thickness: 2px; }
 a, button, .btn, .pill, .row-link { cursor: pointer; }
+button:not(:disabled), [role="button"], summary, select, label[for] { cursor: pointer; }
+button:disabled, [aria-disabled="true"] { cursor: not-allowed; }
 :focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
 h1 { font-size: clamp(1.6rem, 4.5vw, 2.3rem); line-height: 1.15; margin: .4em 0 .3em; }
 h2 { font-size: clamp(1.2rem, 3.2vw, 1.5rem); margin: 1.6em 0 .5em; }
@@ -198,3 +200,21 @@ details.readmore[open] > summary { margin-bottom: .6em; }
 .foot-note { color: var(--muted); margin-top: 18px; }
 .foot-note + .foot-note { margin-top: 6px; }
 .heart { color: #e0245e; }
+
+/* happy hours */
+.hh-list { list-style: none; margin: 0 0 8px; padding: 0; display: grid; gap: 12px; }
+@media (min-width: 768px) { .hh-list { grid-template-columns: 1fr 1fr; } }
+.hh { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; }
+.hh-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.hh-name { margin: 0; }
+.hh-name a { color: inherit; }
+.hh-when { margin: .3em 0; font-weight: 600; }
+.hh-where { font-weight: 400; color: var(--muted); }
+.hh-deals { margin: .4em 0; padding-left: 1.2em; }
+.hh-deals li { margin: .15em 0; }
+.hh-note { color: var(--muted); margin: .4em 0; }
+.hh-meta { font-size: .9rem; color: var(--muted); margin: .5em 0 0; }
+.tag-on { background: var(--free); border-color: var(--free); color: #fff; }
+.hh-venue { margin: 16px 0; }
+.hh-venue h2 { margin-top: 0; }
+

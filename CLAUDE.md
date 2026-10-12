@@ -48,6 +48,7 @@ python -m http.server -d site 8000       # preview
 | 2026-09-19 | No featured section; filters OR together; row tags toggle filters | Brooks's calls after testing. |
 | 2026-09-19 | No Contact page; no image credit / Listed-by lines (TM credit kept) | Brooks's calls; TM terms require the credit. |
 | 2026-10-07 | Two rings: core (Mobile, Eastern Shore) shows everything; outer (Baldwin coast, Pensacola) shows only draws | Brooks: "the site is for the entire Mobile Bay," and Pensacola is closer than Gulf Shores. Areas, draw sources, and draw words live in `settings.yaml`; rule in `pipeline/areas.py`. Area filter pills on the site. |
+| 2026-10-12 | Happy hours guide at `/happy-hours/`, hand-kept in `data/happy_hours.yaml` | Brooks: "I always forget which ones have the good happy hours." Not events: no collector. Low-confidence spots carry `status: unverified` and stay hidden; the "monthly happy hour check" cloud routine re-verifies, updates `checked`, and promotes or removes. |
 
 ## Git workflow
 Ask before pulling on first touch of the repo and before any push (direct to `main` vs. dev branch + PR). See global CLAUDE.md.

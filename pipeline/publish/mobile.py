@@ -24,6 +24,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from markupsafe import Markup, escape
 
 from .. import areas, config, db
+from . import happy_hours as hh
 from ..dates import from_utc, tz, weekend_bounds
 from ..scoring import TIER_RANK
 from ..text import excerpt, is_free_price
@@ -403,19 +404,27 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
         counts["series_pages"] += 1
 
     # venue pages
+    spots = hh.views(set(venue_series))
+    hh_by_venue = {s["venue"]: s for s in spots if s["venue"]}
     for slug, slist in venue_series.items():
         v = slist[0]["venue"]
         up = sorted((o for s in slist for o in s["upcoming"]), key=lambda o: o["start"])
         past = sorted((o for s in slist for o in s["past"]), key=lambda o: o["start"], reverse=True)[:30]
         r.page(v["url"], "venue.html", title=f"Events at {v['name']} — {v['city']}, {v['state']}",
                description=f"Upcoming events at {v['name']} in {v['city']}, AL, plus past shows. {v['notes'] or ''}".strip()[:160],
-               v=v, upcoming=group_by_day(up), past=past,
+               v=v, upcoming=group_by_day(up), past=past, happy_hour=hh_by_venue.get(slug),
                jsonld=[{"@context": "https://schema.org", "@type": "Place", "name": v["name"],
                         "address": {"@type": "PostalAddress", "streetAddress": v["address"], "addressLocality": v["city"], "addressRegion": v["state"], "postalCode": v["zip"]}}])
         counts["venue_pages"] += 1
     venues_list = sorted(({**slist[0]["venue"], "count": sum(len(s["upcoming"]) for s in slist)} for slist in venue_series.values()), key=lambda v: (-v["count"], v["name"]))
     r.page("/venues/", "venues_index.html", title=f"Venues in Mobile, AL — {site.name}",
            description="Every venue we track around Mobile Bay, from Mobile and the Eastern Shore to the Baldwin coast and Pensacola, with upcoming event counts.", venues=venues_list)
+
+    # happy hours: a hand-kept guide, not events (data/happy_hours.yaml)
+    r.page("/happy-hours/", "happy_hours.html", title=f"Happy Hours in Mobile, AL & the Eastern Shore | {site.name}",
+           description="Happy hour times and deals around Mobile, Daphne, Spanish Fort and Fairhope, with what's on right now. Checked monthly.",
+           spots=spots, groups=hh.grouped(spots), jsonld=hh.jsonld(spots, site.url) if spots else None)
+    counts["pages"] += 1
 
     # search: compact index of upcoming events + venues, and the results page
     idx = [{"y": "event", "t": o["title"], "v": o["venue"]["name"] if o["venue"] else o["venue_name_raw"], "c": o["city"],

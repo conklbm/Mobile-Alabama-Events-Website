@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Happy Hours</h1>
+<p class="lede">The good deals around Mobile and the Eastern Shore. Deals change, so each spot shows when we last checked it.</p>
+{% if spots %}
+<div class="filters" data-hh-filters role="group" aria-label="Filter happy hours">
+  <button type="button" class="pill pill-all" data-hh="all" aria-pressed="true">All <span class="count">{{ spots | length }}</span></button>
+  <button type="button" class="pill" data-hh="now" aria-pressed="false">On now <span class="count" data-hh-count="now"></span></button>
+  <button type="button" class="pill" data-hh="today" aria-pressed="false">Today <span class="count" data-hh-count="today"></span></button>
+</div>
+<p class="empty" data-hh-empty hidden>Nothing on right now. <button type="button" class="linkish" data-hh-reset>See all</button></p>
+{% for label, items in groups %}
+<section class="hh-group" data-hh-group>
+  <h2>{{ label }}</h2>
+  <ul class="hh-list">
+  {% for s in items %}
+    <li class="hh" data-windows='{{ s.windows_json }}'>
+      <div class="hh-head">
+        <h3 class="hh-name">{% if s.venue_url %}<a href="{{ s.venue_url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
+        <span class="tag tag-on" data-hh-on hidden>On now</span>
+      </div>
+      <p class="hh-when">{{ s.when }}{% if s.neighborhood %} <span class="hh-where">· {{ s.neighborhood }}</span>{% endif %}</p>
+      {% if s.deals %}<ul class="hh-deals">{% for d in s.deals %}<li>{{ d }}</li>{% endfor %}</ul>{% endif %}
+      {% if s.note %}<p class="hh-note">{{ s.note }}</p>{% endif %}
+      <p class="hh-meta">{% if s.url %}<a href="{{ s.url }}" target="_blank" rel="noopener noreferrer">Their page<span class="sr-only"> (opens in new tab)</span></a> · {% endif %}{% if s.checked_label %}Checked {{ s.checked_label }}{% endif %}</p>
+    </li>
+  {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+<script>
+(function () {
+  // Times are Mobile time, whatever the visitor's device is set to.
+  var parts = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Chicago', weekday: 'short', hour: '2-digit', minute: '2-digit', hourCycle: 'h23' })
+    .formatToParts(new Date()).reduce(function (a, p) { a[p.type] = p.value; return a; }, {});
+  var day = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'].indexOf(parts.weekday);
+  var now = parts.hour + ':' + parts.minute;
+  var items = document.querySelectorAll('.hh'), counts = { now: 0, today: 0 };
+  items.forEach(function (el) {
+    var w = []; try { w = JSON.parse(el.dataset.windows || '[]'); } catch (e) {}
+    var today = w.some(function (x) { return x.d.indexOf(day) > -1; });
+    var on = w.some(function (x) { return x.d.indexOf(day) > -1 && x.s <= now && now < x.e; });
+    el.dataset.today = today ? '1' : '0'; el.dataset.now = on ? '1' : '0';
+    el.querySelector('[data-hh-on]').hidden = !on;
+    if (today) counts.today++; if (on) counts.now++;
+  });
+  document.querySelectorAll('[data-hh-count]').forEach(function (c) { c.textContent = counts[c.dataset.hhCount]; });
+  var bar = document.querySelector('[data-hh-filters]'), empty = document.querySelector('[data-hh-empty]'), mode = 'all';
+  try { mode = sessionStorage.getItem('mbe.hh') || 'all'; } catch (e) {}
+  function apply() {
+    var any = false;
+    items.forEach(function (el) { var ok = mode === 'all' || el.dataset[mode] === '1'; el.hidden = !ok; if (ok) any = true; });
+    document.querySelectorAll('[data-hh-group]').forEach(function (g) { g.hidden = !g.querySelector('.hh:not([hidden])'); });
+    bar.querySelectorAll('button').forEach(function (b) { b.setAttribute('aria-pressed', b.dataset.hh === mode ? 'true' : 'false'); });
+    empty.hidden = any;
+    empty.firstChild.textContent = mode === 'today' ? 'Nothing on today. ' : 'Nothing on right now. ';
+    try { sessionStorage.setItem('mbe.hh', mode); } catch (e) {}
+  }
+  bar.addEventListener('click', function (e) { var b = e.target.closest('button'); if (b) { mode = b.dataset.hh; apply(); } });
+  document.addEventListener('click', function (e) { if (e.target.closest('[data-hh-reset]')) { mode = 'all'; apply(); } });
+  apply();
+})();
+</script>
+{% else %}
+<p class="empty">Coming soon.</p>
+{% endif %}
+{% endblock %}
