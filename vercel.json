@@ -331,6 +331,16 @@
       "permanent": true
     },
     {
+      "source": "/events/roman-street-with-andy-vargas-singer-for-santana(/)?",
+      "destination": "/venues/pensacola-saenger/",
+      "permanent": true
+    },
+    {
+      "source": "/events/roman-street(/)?",
+      "destination": "/venues/pensacola-saenger/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
