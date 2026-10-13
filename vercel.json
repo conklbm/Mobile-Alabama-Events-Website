@@ -296,6 +296,11 @@
       "permanent": true
     },
     {
+      "source": "/events/south-alabama-comic-con-2026(/)?",
+      "destination": "/venues/mobile-convention-center/",
+      "permanent": true
+    },
+    {
       "source": "/events/celebrate-250-mobile-community-event(/)?",
       "destination": "/venues/uss-alabama-battleship-park/",
       "permanent": true
@@ -313,6 +318,16 @@
     {
       "source": "/events/weird-al-yankovic-bigger-weirder-tour(/)?",
       "destination": "/venues/the-wharf-amphitheater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/abba-shrine-trunk-of-treat-indoor-event(/)?",
+      "destination": "/venues/abba-shrine/",
+      "permanent": true
+    },
+    {
+      "source": "/events/unsteady-a-film-by-jesse-starling(/)?",
+      "destination": "/venues/downtown-mobile/",
       "permanent": true
     },
     {
