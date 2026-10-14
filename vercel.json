@@ -341,6 +341,11 @@
       "permanent": true
     },
     {
+      "source": "/events/toast-the-best-of-bread(/)?",
+      "destination": "/venues/pensacola-saenger/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true

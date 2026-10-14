@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-10-13T17:26:47Z",
+ "generated": "2026-10-14T14:57:18Z",
  "events": [
   {
    "id": 696,
@@ -34,41 +34,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 501,
-   "series_slug": "tuesday-am-watercolor",
-   "title": "Tuesday AM Watercolor",
-   "start": "2026-10-13T10:00:00-05:00",
-   "end": "2026-10-13T12:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/tuesday-am-watercolor-2/2026-10-13/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/watercolorTam.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 575,
    "series_slug": "the-great-bellingrath-harvest",
    "title": "Naturenauts Academy: Bellingrath Numbers Harvest",
@@ -99,69 +64,6 @@
     "url": "https://bellingrath.org/wp-content/uploads/2026/05/FB-EVENT-COVERS-WEBSITE-IMAGES-BLOG-IMAGES-14.png",
     "credit": "Bellingrath Gardens and Home"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 721,
-   "series_slug": "monster-movie-mash",
-   "title": "Monster (Movie) Mash",
-   "start": "2026-10-13T11:00:00-05:00",
-   "end": "2026-10-13T13:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "family"
-   ],
-   "venue": {
-    "slug": "semmes-regional-library",
-    "name": "Semmes Regional Library",
-    "city": "Semmes",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/monster-movie-mash-2026-10-13",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 733,
-   "series_slug": "screening-of-in-search-of-phillis-wheatley-peters",
-   "title": "Screening of 'in Search of Phillis Wheatley Peters'",
-   "start": "2026-10-13T16:00:00-05:00",
-   "end": "2026-10-13T18:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "university-of-south-alabama-marx-library",
-    "name": "University of South Alabama Marx Library",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-in-search-of-phillis-wheatley-peters-film-screening-2026-10-13",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
    "curation_score": 1,
    "independent_source_count": 1
   },
