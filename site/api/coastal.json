@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-10-15T14:19:48Z",
+ "generated": "2026-10-15T14:29:37Z",
  "events": [
   {
    "id": 403,
@@ -463,6 +463,35 @@
    "independent_source_count": 1
   },
   {
+   "id": 1083,
+   "series_slug": "fall-break-halloween-celebration-at-maxim-tokyo-claw-village",
+   "title": "Fall Break & Halloween Celebration at Maxim Tokyo Claw Village",
+   "start": "2026-10-17T12:00:00-05:00",
+   "end": "2026-10-17T20:00:00-05:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/fall-break-halloween-celebration-at-maxim-tokyo-claw-village/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/10/Maxim-tokyo-halloween-event.jpg?fit=1080%2C1920&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 683,
    "series_slug": "fall-festival-24025-mifflin-st-elberta",
    "title": "Fall Festival",
@@ -567,9 +596,9 @@
    "start": "2026-10-17T20:00:00-05:00",
    "end": "2026-10-17T23:00:00-05:00",
    "all_day": false,
-   "category": "arts",
+   "category": "community",
    "categories": [
-    "arts"
+    "community"
    ],
    "venue": {
     "slug": "pensacola-saenger",
@@ -1645,38 +1674,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1035,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-10-27T07:20:00-05:00",
-   "end": "2026-10-27T08:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9161",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1036,
    "series_slug": "gentle-yoga-flow",
    "title": "Gentle Yoga Flow",
@@ -1732,6 +1729,38 @@
    "info_url": "https://www.gulfshoresal.gov/Calendar.aspx?EID=16323",
    "source": {
     "name": "City of Gulf Shores",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1035,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-10-27T17:00:00-05:00",
+   "end": "2026-10-27T18:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9161",
+   "source": {
+    "name": "City of Orange Beach",
     "tier": "A",
     "redistributable": true
    },

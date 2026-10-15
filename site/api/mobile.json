@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-10-15T14:19:48Z",
+ "generated": "2026-10-15T14:29:37Z",
  "events": [
   {
    "id": 696,
@@ -483,37 +483,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1024,
-   "series_slug": "book-launch-the-nurse-at-baker-hospital",
-   "title": "Book Launch: The Nurse at Baker Hospital",
-   "start": "2026-10-15T16:00:00-05:00",
-   "end": "2026-10-15T19:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "university-of-south-alabama-student-center",
-    "name": "University of South Alabama Student Center",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 596,
    "series_slug": "south-alabama-softball-vs-coastal-alabama",
    "title": "South Alabama Softball vs Coastal Alabama",
@@ -849,40 +818,6 @@
    "independent_source_count": 2
   },
   {
-   "id": 856,
-   "series_slug": "usa-faculty-trumpet-and-horn-recital",
-   "title": "USA Faculty Trumpet and Horn Recital",
-   "start": "2026-10-15T19:30:00-05:00",
-   "end": "2026-10-15T22:30:00-05:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music"
-   ],
-   "venue": {
-    "slug": "laidlaw-performing-arts-center",
-    "name": "Laidlaw Performing Arts Center",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/woodpeterjodi26smallercrop_AC1F580A-C851-53C7-75847F1E7B3DDA34_ac20ac28-9b97-3c04-43811759f3c2f1e5.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
-  },
-  {
    "id": 113,
    "series_slug": "sister-hazel",
    "title": "Sister Hazel",
@@ -1078,37 +1013,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 987,
-   "series_slug": "mobile-botanical-gardens-sketch-club",
-   "title": "Mobile Botanical Gardens: Sketch Club",
-   "start": "2026-10-16T14:00:00-05:00",
-   "end": "2026-10-16T17:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "mobile-botanical-gardens",
-    "name": "Mobile Botanical Gardens",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 748,
    "series_slug": "smoke-at-the-park-2026",
    "title": "Smoke at the Park 2026",
@@ -1298,9 +1202,43 @@
     "tier": "A",
     "redistributable": false
    },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Halloween-ArtWalk_1844DA23-A62E-F5B9-09A870B3212B5965_1850af2a-f393-15c3-e33fac8a288800a1.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
+  },
+  {
+   "id": 1111,
+   "series_slug": "coastal-curated-opening-reception-at-artwalk",
+   "title": "Coastal Curated",
+   "start": "2026-10-16T18:00:00-05:00",
+   "end": "2026-10-16T21:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/coastal-curated-43694",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
    "image": null,
-   "curation_score": 1,
-   "independent_source_count": 2
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 184,
@@ -1401,6 +1339,37 @@
    },
    "curation_score": 2,
    "independent_source_count": 2
+  },
+  {
+   "id": 1094,
+   "series_slug": "sweet-dreams-haunted-attraction",
+   "title": "Sweet Dreams Haunted Attraction",
+   "start": "2026-10-16T19:00:00-05:00",
+   "end": "2026-10-16T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "sweet-dreams-haunted-attraction",
+    "name": "Sweet Dreams Haunted Attraction",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-16-18th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 448,
@@ -1938,8 +1907,8 @@
     "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 833,
@@ -2395,6 +2364,35 @@
    "independent_source_count": 1
   },
   {
+   "id": 1083,
+   "series_slug": "fall-break-halloween-celebration-at-maxim-tokyo-claw-village",
+   "title": "Fall Break & Halloween Celebration at Maxim Tokyo Claw Village",
+   "start": "2026-10-17T12:00:00-05:00",
+   "end": "2026-10-17T20:00:00-05:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/fall-break-halloween-celebration-at-maxim-tokyo-claw-village/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/10/Maxim-tokyo-halloween-event.jpg?fit=1080%2C1920&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 599,
    "series_slug": "south-alabama-women-s-volleyball-vs-louisiana",
    "title": "South Alabama Women's Volleyball vs Louisiana",
@@ -2458,37 +2456,6 @@
    },
    "curation_score": 2,
    "independent_source_count": 2
-  },
-  {
-   "id": 988,
-   "series_slug": "administrator",
-   "title": "Administrator",
-   "start": "2026-10-17T13:00:00-05:00",
-   "end": "2026-10-17T16:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "historic-avenue-cultural-center",
-    "name": "Historic Avenue Cultural Center",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
   },
   {
    "id": 578,
@@ -2658,6 +2625,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1095,
+   "series_slug": "sweet-dreams-haunted-attraction",
+   "title": "Sweet Dreams Haunted Attraction",
+   "start": "2026-10-17T19:00:00-05:00",
+   "end": "2026-10-17T23:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "sweet-dreams-haunted-attraction",
+    "name": "Sweet Dreams Haunted Attraction",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-16-18th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 903,
    "series_slug": "blithe-spirit-presented-by-theatre-98",
    "title": "''Blithe Spirit'' - presented by Theatre 98",
@@ -2764,9 +2762,9 @@
    "start": "2026-10-17T20:00:00-05:00",
    "end": "2026-10-17T23:00:00-05:00",
    "all_day": false,
-   "category": "arts",
+   "category": "community",
    "categories": [
-    "arts"
+    "community"
    ],
    "venue": {
     "slug": "pensacola-saenger",
@@ -2886,41 +2884,6 @@
    },
    "curation_score": 1,
    "independent_source_count": 1
-  },
-  {
-   "id": 835,
-   "series_slug": "mobile-latin-fest-rescheduled",
-   "title": "Mobile Latin Fest RESCHEDULED",
-   "start": "2026-10-18T00:00:00-05:00",
-   "end": "2026-10-18T23:59:59-05:00",
-   "all_day": true,
-   "category": "food",
-   "categories": [
-    "food",
-    "community"
-   ],
-   "venue": {
-    "slug": "mardi-gras-park",
-    "name": "Mardi Gras Park",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/weekend-rundown-oct-16-18th/",
-   "source": {
-    "name": "92ZEW Weekend Rundown",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Mobile-Latin-Fest_21FC2F00-08F7-98DD-63F8C7091FDC3956_21fd1bca-b3fb-3d5a-9929ebe97c4ecc26.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 2,
-   "independent_source_count": 2
   },
   {
    "id": 838,
@@ -3122,38 +3085,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 187,
-   "series_slug": "black-and-gold-on-the-movie-screen",
-   "title": "Black and Gold on the Movie Screen",
-   "start": "2026-10-18T12:00:00-05:00",
-   "end": "2026-10-18T15:00:00-05:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035593",
-   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035593",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 797,
    "series_slug": "semmes-fall-festival-adoption-event",
    "title": "Semmes Fall Festival Adoption Event",
@@ -3185,6 +3116,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1086,
+   "series_slug": "6th-annual-mobile-latin-fest",
+   "title": "6th Annual Mobile Latin Fest",
+   "start": "2026-10-18T12:00:00-05:00",
+   "end": "2026-10-18T19:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "mardi-gras-park",
+    "name": "Mardi Gras Park",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/6th-annual-mobile-latin-fest-2026-10-10",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Mobile-Latin-Fest_21FC2F00-08F7-98DD-63F8C7091FDC3956_21fd1bca-b3fb-3d5a-9929ebe97c4ecc26.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 3,
+   "independent_source_count": 3
+  },
+  {
    "id": 905,
    "series_slug": "delta-discovery-tour-from-the-awf-delta-and-bay-conservation-center",
    "title": "Delta Discovery Tour from the AWF Delta and Bay Conservation Center at Five Rivers",
@@ -3208,72 +3174,6 @@
    "info_url": "https://business.eschamber.com/events/details/delta-discovery-tour-from-the-awf-delta-and-bay-conservation-center-at-five-rivers-10-18-2026-43669",
    "source": {
     "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 819,
-   "series_slug": "british-high-tea-at-the-conde-charlotte-museum",
-   "title": "British High Tea at the Conde-Charlotte Museum",
-   "start": "2026-10-18T14:00:00-05:00",
-   "end": "2026-10-18T17:00:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "community"
-   ],
-   "venue": {
-    "slug": "conde-charlotte-museum-house",
-    "name": "Condé-Charlotte Museum House",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/High-Tea-Image_827536A1-E4E0-5357-A172A270B2EE4415_828e8d77-0fa7-8ba4-90d800cd63e0fef1.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
-  },
-  {
-   "id": 989,
-   "series_slug": "moonlight-on-dauphin-aka-a-boo-on-dauphin-paint-sip-love-and-adventure-studios",
-   "title": "Moonlight on Dauphin (AKA a BOO on Dauphin) Paint & Sip",
-   "start": "2026-10-18T14:00:00-05:00",
-   "end": "2026-10-18T17:00:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family"
-   ],
-   "venue": {
-    "slug": "love-and-adventure-studios",
-    "name": "Love and Adventure Studios",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
     "tier": "C",
     "redistributable": false
    },
@@ -3372,6 +3272,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1096,
+   "series_slug": "sweet-dreams-haunted-attraction",
+   "title": "Sweet Dreams Haunted Attraction",
+   "start": "2026-10-18T19:00:00-05:00",
+   "end": "2026-10-18T21:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "sweet-dreams-haunted-attraction",
+    "name": "Sweet Dreams Haunted Attraction",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-16-18th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -4016,6 +3947,68 @@
    "independent_source_count": 1
   },
   {
+   "id": 1113,
+   "series_slug": "networking-at-noon-daphne-manci-s",
+   "title": "Networking at Noon Daphne - Manci's",
+   "start": "2026-10-21T12:00:00-05:00",
+   "end": "2026-10-21T13:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mancis-antique-club",
+    "name": "Manci's Antique Club",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/networking-at-noon-daphne-manci-s-43690",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1114,
+   "series_slug": "networking-at-noon-spanish-fort-the-bull",
+   "title": "Networking at Noon - Spanish Fort - The Bull",
+   "start": "2026-10-21T12:00:00-05:00",
+   "end": "2026-10-21T13:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-bull-spanish-fort",
+    "name": "The Bull",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/networking-at-noon-spanish-fort-the-bull-43691",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1115,
    "series_slug": "conservation-on-tap-with-south-alabama-land-trust",
    "title": "Conservation on Tap with South Alabama Land Trust",
@@ -4428,6 +4421,37 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1116,
+   "series_slug": "whataburger-trick-or-treat-coloring-contest",
+   "title": "Whataburger Trick or Treat Coloring Contest",
+   "start": "2026-10-22T17:00:00-05:00",
+   "end": "2026-10-22T20:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "whataburger-daphne",
+    "name": "Whataburger (Daphne)",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/whataburger-trick-or-treat-coloring-contest-43693",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -4881,38 +4905,6 @@
    },
    "image": null,
    "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 697,
-   "series_slug": "haunted-hollow-een-movie-night-hotel-transylvania",
-   "title": "Haunted Hollow-Een Movie Night: Hotel Transylvania",
-   "start": "2026-10-23T18:00:00-05:00",
-   "end": "2026-10-23T20:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "family"
-   ],
-   "venue": {
-    "slug": "escatawpa-hollow-park-campground",
-    "name": "Escatawpa Hollow Park & Campground",
-    "city": "Wilmer",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/haunted-hollow-een-movie-night-hotel-transylvania-2026-10-23",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -5886,6 +5878,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1048,
+   "series_slug": "south-alabama-baseball-vs-tulane-university",
+   "title": "South Alabama Baseball vs Tulane University",
+   "start": "2026-10-24T13:00:00-05:00",
+   "end": "2026-10-24T16:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "stanky-field",
+    "name": "Stanky Field",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11697&amp;sport_id=1",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
    "id": 804,
    "series_slug": "wig-walk-2026",
    "title": "Wig Walk 2026",
@@ -6376,38 +6399,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 193,
-   "series_slug": "black-and-gold-on-the-movie-screen",
-   "title": "Black and Gold on the Movie Screen",
-   "start": "2026-10-25T08:30:00-05:00",
-   "end": "2026-10-25T11:30:00-05:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035533",
-   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035533",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 601,
    "series_slug": "south-alabama-women-s-soccer-vs-georgia-southern-pink-out",
    "title": "South Alabama Women's Soccer vs ULM - Club Night",
@@ -6538,6 +6529,37 @@
    },
    "curation_score": 2,
    "independent_source_count": 2
+  },
+  {
+   "id": 1049,
+   "series_slug": "south-alabama-baseball-vs-tulane-university",
+   "title": "South Alabama Baseball vs Nicholls",
+   "start": "2026-10-25T15:00:00-05:00",
+   "end": "2026-10-25T18:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "stanky-field",
+    "name": "Stanky Field",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11696&amp;sport_id=1",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
   },
   {
    "id": 749,
@@ -7811,6 +7833,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1051,
+   "series_slug": "south-alabama-baseball-vs-tulane-university",
+   "title": "South Alabama Baseball vs South Alabama",
+   "start": "2026-10-29T18:00:00-05:00",
+   "end": "2026-10-29T21:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "stanky-field",
+    "name": "Stanky Field",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11698&amp;sport_id=1",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
    "id": 722,
    "series_slug": "pumpkins-n-pajamas-storytime",
    "title": "Pumpkins 'N Pajamas Storytime",
@@ -8327,6 +8380,37 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1052,
+   "series_slug": "south-alabama-baseball-vs-tulane-university",
+   "title": "South Alabama Baseball vs South Alabama",
+   "start": "2026-10-30T18:00:00-05:00",
+   "end": "2026-10-30T21:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "stanky-field",
+    "name": "Stanky Field",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11699&amp;sport_id=1",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
   },
   {
    "id": 1025,
@@ -9385,6 +9469,37 @@
    "independent_source_count": 0
   },
   {
+   "id": 1053,
+   "series_slug": "south-alabama-baseball-vs-tulane-university",
+   "title": "South Alabama Baseball vs South Alabama",
+   "start": "2026-11-01T13:00:00-06:00",
+   "end": "2026-11-01T16:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "stanky-field",
+    "name": "Stanky Field",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11700&amp;sport_id=1",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
    "id": 1122,
    "series_slug": "cotton-picking-sunshine-watercolor-paint-sip-love-and-adventure-studios",
    "title": "Cotton Picking Sunshine Watercolor Paint & Sip",
@@ -9534,6 +9649,32 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 932,
+   "series_slug": "the-moonlight-chasse-ballroom-dance-society-dabcf9",
+   "title": "The Moonlight Chasse' Ballroom Dance Society",
+   "start": "2026-11-02T19:00:00-06:00",
+   "end": "2026-11-02T21:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/the-moonlight-chasse-ballroom-dance-society-11-02-2026-8493",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -10742,6 +10883,33 @@
    "independent_source_count": 1
   },
   {
+   "id": 937,
+   "series_slug": "bill-e-s-bacon-burgers-bikes",
+   "title": "BILL-E's BACON, BURGERS, & BIKES",
+   "start": "2026-11-06T15:00:00-06:00",
+   "end": "2026-11-06T21:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "music"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/bill-e-s-bacon-burgers-bikes-11-06-2026-40373",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 768,
    "series_slug": "8th-annual-christmas-on-the-bayou-shopping-spectacular",
    "title": "8th Annual Christmas on the Bayou Shopping Spectacular",
@@ -11707,18 +11875,18 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/mobile-symphonys-beethoven-blue-jeans-2026-11-07",
+   "info_url": "https://www.downtownmobile.org/event/beethoven-blue-jeans/",
    "source": {
-    "name": "Mobile County community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://mobilesymphony.org/wp-content/uploads/2026/04/Concert_Page_Banner_2.png",
-    "credit": "Mobile Symphony Orchestra"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-10.21.44-AM.png",
+    "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 2,
-   "independent_source_count": 4
+   "curation_score": 3,
+   "independent_source_count": 5
   },
   {
    "id": 203,
@@ -11815,38 +11983,6 @@
     "credit": "Visit Foley"
    },
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 204,
-   "series_slug": "black-and-gold-on-the-movie-screen",
-   "title": "Black and Gold on the Movie Screen",
-   "start": "2026-11-08T12:00:00-06:00",
-   "end": "2026-11-08T15:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035603",
-   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035603",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -12843,32 +12979,6 @@
    "source": {
     "name": "Eastern Shore Chamber of Commerce",
     "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 475,
-   "series_slug": "2026-board-of-directors-board-of-advisors-winter-meeting",
-   "title": "2026 Board of Directors/Board of Advisors Winter Meeting",
-   "start": "2026-11-12T16:30:00-06:00",
-   "end": "2026-11-12T18:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "name": "4101 Wimbledon Drive Mobile AL 36608"
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://my.mobilechamber.com/boacalendar/Details/2026-board-of-directors-board-of-advisors-winter-meeting-1592141?sourceTypeId=Hub",
-   "source": {
-    "name": "Mobile Chamber",
-    "tier": "A",
     "redistributable": false
    },
    "image": null,
@@ -14049,38 +14159,6 @@
    "independent_source_count": 2
   },
   {
-   "id": 209,
-   "series_slug": "black-and-gold-on-the-movie-screen",
-   "title": "Black and Gold on the Movie Screen",
-   "start": "2026-11-15T12:00:00-06:00",
-   "end": "2026-11-15T15:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035633",
-   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035633",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 720,
    "series_slug": "mystic-dollys-of-folly-boot-scootin-bingo",
    "title": "Mystic Dollys of Folly Boot Scootin' Bingo",
@@ -15126,7 +15204,7 @@
   {
    "id": 1060,
    "series_slug": "corks-casks-and-canvas",
-   "title": "Corks, Casks, and Canvas",
+   "title": "Corks Casks and Canvas Sponsor Tickets",
    "start": "2026-11-20T18:00:00-06:00",
    "end": "2026-11-20T21:00:00-06:00",
    "all_day": false,
@@ -15668,38 +15746,6 @@
    },
    "image": null,
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 211,
-   "series_slug": "black-and-gold-on-the-movie-screen",
-   "title": "Black and Gold on the Movie Screen",
-   "start": "2026-11-22T12:00:00-06:00",
-   "end": "2026-11-22T15:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035543",
-   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035543",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -16552,38 +16598,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 212,
-   "series_slug": "black-and-gold-on-the-movie-screen",
-   "title": "Black and Gold on the Movie Screen",
-   "start": "2026-11-29T12:00:00-06:00",
-   "end": "2026-11-29T15:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035523",
-   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035523",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 275,
    "series_slug": "battle-at-the-bay-florida-state-vs-university-of-west-florida",
    "title": "Battle at the Bay - Florida State vs. University of West Florida",
@@ -17074,6 +17088,41 @@
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1101,
+   "series_slug": "a-gilded-age-christmas-golden-gala-tours",
+   "title": "A Gilded Age Christmas Golden Gala & Tours",
+   "start": "2026-12-03T18:00:00-06:00",
+   "end": "2026-12-06T16:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "richards-dar-house",
+    "name": "Richards-DAR House Museum",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/a-gilded-age-christmas-golden-gala-tours/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/EA47FFCC-713C-4D83-8947-CC42273661DF.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -17983,38 +18032,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 216,
-   "series_slug": "black-and-gold-on-the-movie-screen",
-   "title": "Black and Gold on the Movie Screen",
-   "start": "2026-12-06T12:00:00-06:00",
-   "end": "2026-12-06T15:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035583",
-   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035583",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 690,
    "series_slug": "christmas-concert-heaven-and-nature-sing",
    "title": "Christmas Concert – “Heaven and Nature Sing”",
@@ -18050,6 +18067,33 @@
    "independent_source_count": 4
   },
   {
+   "id": 964,
+   "series_slug": "bill-e-s-bacon-burgers-bikes",
+   "title": "BILL-E's BACON, BURGERS, & BIKES",
+   "start": "2026-12-06T15:00:00-06:00",
+   "end": "2026-12-06T21:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "music"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/bill-e-s-bacon-burgers-bikes-12-06-2026-40374",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 217,
    "series_slug": "jodeci-35th-anniversary-tour-of-forever-my-lady",
    "title": "Jodeci 35th Anniversary Tour of 'Forever My Lady'",
@@ -18082,6 +18126,32 @@
    },
    "curation_score": 2,
    "independent_source_count": 3
+  },
+  {
+   "id": 965,
+   "series_slug": "the-moonlight-chasse-ballroom-dance-society-dabcf9",
+   "title": "The Moonlight Chasse' Ballroom Dance Society",
+   "start": "2026-12-07T19:00:00-06:00",
+   "end": "2026-12-07T21:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/the-moonlight-chasse-ballroom-dance-society-12-07-2026-8494",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 560,
@@ -18972,16 +19042,16 @@
    "independent_source_count": 1
   },
   {
-   "id": 16,
-   "series_slug": "swing-into-the-holidays",
+   "id": 1102,
+   "series_slug": "swing-into-the-holidays-mobile-symphony-orchestra",
    "title": "Swing into the Holidays!",
    "start": "2026-12-12T19:30:00-06:00",
    "end": "2026-12-13T14:30:00-06:00",
    "all_day": false,
-   "category": "music",
+   "category": "family",
    "categories": [
-    "music",
-    "arts"
+    "family",
+    "music"
    ],
    "venue": {
     "slug": "saenger-theatre",
@@ -18993,18 +19063,18 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar",
+   "info_url": "https://www.downtownmobile.org/event/swing-into-the-holidays/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://mobilesymphony.org/wp-content/uploads/2026/04/Concert_Page_Banner_3-scaled.png",
-    "credit": "Mobile Symphony Orchestra"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-2.38.26-PM.png",
+    "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 3
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 223,
@@ -19060,38 +19130,6 @@
    "price": "$45.91",
    "ticket_url": "https://www.ticketweb.com/event/bingo-loco-soul-kitchen-tickets/14328864",
    "info_url": "https://www.ticketweb.com/event/bingo-loco-soul-kitchen-tickets/14328864",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 224,
-   "series_slug": "black-and-gold-on-the-movie-screen",
-   "title": "Black and Gold on the Movie Screen",
-   "start": "2026-12-13T12:00:00-06:00",
-   "end": "2026-12-13T15:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035643",
-   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035643",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -19758,6 +19796,37 @@
    "independent_source_count": 0
   },
   {
+   "id": 1055,
+   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
+   "title": "South Alabama Men's Basketball vs Old Dominion",
+   "start": "2026-12-19T15:00:00-06:00",
+   "end": "2026-12-19T17:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11676&amp;sport_id=4",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
    "id": 570,
    "series_slug": "painting-the-figure-part-1",
    "title": "Painting the Figure (Part 1)",
@@ -19845,38 +19914,6 @@
    "price": "$26.68-56.5",
    "ticket_url": "https://www.ticketweb.com/event/mustache-the-band-soul-kitchen-tickets/14327784",
    "info_url": "https://www.ticketweb.com/event/mustache-the-band-soul-kitchen-tickets/14327784",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 366,
-   "series_slug": "black-and-gold-on-the-movie-screen-crescent-theater",
-   "title": "Black and Gold on the Movie Screen",
-   "start": "2026-12-20T12:00:00-06:00",
-   "end": "2026-12-20T15:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035563",
-   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035563",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -20340,38 +20377,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 416,
-   "series_slug": "black-and-gold-on-the-movie-screen-crescent-theater",
-   "title": "Black and Gold on the Movie Screen",
-   "start": "2026-12-27T12:00:00-06:00",
-   "end": "2026-12-27T15:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035653",
-   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035653",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 425,
    "series_slug": "jim-gaffigan-everything-is-wonderful",
    "title": "Jim Gaffigan: Everything is Wonderful!",
@@ -20761,38 +20766,6 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
-  },
-  {
-   "id": 677,
-   "series_slug": "black-and-gold-on-the-movie-screen-crescent-theater",
-   "title": "Black and Gold on the Movie Screen",
-   "start": "2027-01-03T12:00:00-06:00",
-   "end": "2027-01-03T15:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035613",
-   "info_url": "https://www.ticketweb.com/event/black-and-gold-on-the-crescent-theater-tickets/15035613",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
   },
   {
    "id": 647,
@@ -21783,9 +21756,9 @@
   {
    "id": 1076,
    "series_slug": "trae-crowder-early-show",
-   "title": "Trae Crowder (Early Show)",
-   "start": "2027-01-08T19:00:00-06:00",
-   "end": "2027-01-08T22:00:00-06:00",
+   "title": "Trae Crowder (Late Show)",
+   "start": "2027-01-08T21:00:00-06:00",
+   "end": "2027-01-09T00:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -21914,14 +21887,13 @@
   {
    "id": 1077,
    "series_slug": "eddie-b-if-these-classroom-walls-could-talk",
-   "title": "Eddie B \"If These Classroom Walls Could Talk\"",
+   "title": "Eddie B 'If These Classroom Walls Could Talk' Tour",
    "start": "2027-01-09T20:00:00-06:00",
    "end": "2027-01-09T23:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
-    "arts",
-    "family"
+    "arts"
    ],
    "venue": {
     "slug": "saenger-theatre",
