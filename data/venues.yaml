@@ -13,7 +13,7 @@
 
 - slug: saenger-theatre
   name: Saenger Theatre
-  aliases: ["Saenger Theatre", "Saenger Theater", "Mobile Saenger Theatre", "Mobile Saenger", "The Saenger", "Mobile Symphony Orchestra 257 Dauphin Street Mobile, AL 36602"]
+  aliases: ["Saenger Theatre", "Saenger Theater", "Mobile Saenger Theatre", "Mobile Saenger", "The Saenger", "Mobile Symphony Orchestra 257 Dauphin Street Mobile, AL 36602", "Mobile Symphony Orchestra"]
   domains: ["mobilesaenger.com"]
   address: 6 S Joachim St
   city: Mobile
@@ -202,7 +202,7 @@
 
 - slug: cathedral-square
   name: Cathedral Square
-  aliases: ["Cathedral Square", "Cathedral Square Park"]
+  aliases: ["Cathedral Square", "Cathedral Square Park", "Oct 10-Nov 14"]
   domains: []
   address: 300 Conti St
   city: Mobile
@@ -416,7 +416,7 @@
 
 - slug: downtown-mobile
   name: Downtown Mobile
-  aliases: ["Downtown Mobile", "LoDa", "Lower Dauphin", "Downtown", "Various locations downtown", "Multiple Locations Downtown Mobile"]
+  aliases: ["Downtown Mobile", "LoDa", "Lower Dauphin", "Downtown", "Various locations downtown", "Multiple Locations Downtown Mobile", "City of Mobile Special Events Department", "Opening reception at ArtWalk"]
   domains: ["downtownmobile.org"]
   city: Mobile
   state: AL
@@ -2039,3 +2039,68 @@
   zip: "36532"
   regions: [mobile]
   notes: "Bacon-themed restaurant and smokehouse compound on Hwy 181 south of Fairhope; runs its own bike-night and community events."
+
+- slug: sweet-dreams-haunted-attraction
+  name: Sweet Dreams Haunted Attraction
+  aliases: ["811 St Francis St.", "Sweet Dreams Haunted Attraction", "811 Saint Francis St"]
+  domains: ["sweetdreamshaunt.com"]
+  address: "811 St. Francis St."
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Seasonal haunted house in a downtown warehouse behind Moe's BBQ; no dedicated lot, street parking only."
+
+- slug: richards-dar-house
+  name: Richards-DAR House Museum
+  aliases: ["Richards-DAR House Museum", "Richards DAR House"]
+  domains: ["richardsdarhouse.com"]
+  address: "256 N. Joachim St."
+  city: Mobile
+  state: AL
+  zip: "36603"
+  regions: [mobile]
+  notes: "1860 Italianate townhouse museum in the De Tonti Square historic district, run by the Daughters of the American Revolution."
+
+- slug: mancis-antique-club
+  name: "Manci's Antique Club"
+  aliases: ["1715 Main St., Daphne, AL, 36526", "Manci's Antique Club", "Manci's"]
+  domains: []
+  address: "1715 Main St."
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "Dive bar packed with antiques in a 1924 former service station; a regular stop for Eastern Shore Chamber networking events."
+
+- slug: the-bull-spanish-fort
+  name: "The Bull"
+  aliases: ["30500 AL-181 Unit 134 Spanish Fort, AL, 36527", "The Bull"]
+  domains: []
+  address: "30500 State Highway 181, Suite 134"
+  city: Spanish Fort
+  state: AL
+  zip: "36527"
+  regions: [mobile]
+  notes: "Restaurant in the Hwy 181 commercial corridor; frequent host of Eastern Shore Chamber Networking at Noon."
+
+- slug: whataburger-daphne
+  name: Whataburger (Daphne)
+  aliases: ["Whataburger 7280 Lavender Lane Daphne, AL", "Whataburger Daphne"]
+  domains: ["whataburger.com"]
+  address: "7280 Lavender Lane"
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+
+- slug: stanky-field
+  name: Stanky Field
+  aliases: ["Mobile, Ala. , Stanky Field", "Stanky Field", "Eddie Stanky Field"]
+  domains: ["usajaguars.com"]
+  address: "307 N. University Blvd."
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "University of South Alabama's baseball stadium, named for former big-league manager Eddie Stanky."

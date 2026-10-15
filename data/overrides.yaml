@@ -11,6 +11,7 @@ merge:
   - [142, 1012]  # LoDa ArtWalk Dec 11: "ArtWalk: Celebrate Christmas" + mobile-arts-council's generic duplicate
   - [833, 798]   # Melton Health and Faith 5K: full charity-branded title + "Healthy Lifestyle 5K" shorthand, same race (chamber listing confirms full title)
   - [843, 496]   # Battleship 12K: "Publix" is the current title sponsor, "Keesler Federal" an earlier/co-sponsor name for the same annual race
+  - [1086, 835]  # Mobile Latin Fest: Oct 10 date was postponed to Oct 18 (Tropical Storm Isaias per Fox10); "RESCHEDULED" copy is the same event, same Mardi Gras Park
 #  - [1234, 5678]
 
 # Force an occurrence onto a series (by occurrence id -> series slug).
@@ -25,6 +26,7 @@ never_merge:
   - [656, 654]   # Eastern Shore Art Center: Beginning Handbuilding AM vs Beginning Acrylics AM are different classes
   - [658, 654]   # Eastern Shore Art Center: Beginning Watercolors AM vs Beginning Acrylics AM are different classes
   - [495, 494]   # USS Alabama Veterans Day: the Concert (evening) and the Parade of Flags/Celebration (afternoon) are separate program components, confirmed across multiple years' listings
+  - [1055, 615]  # USA basketball: Men's vs Old Dominion and Women's vs Marshall are different teams and different opponents
 
 # Confirm cancellation (occurrence id) — removes it from the site.
 cancelled:
@@ -44,3 +46,8 @@ not_cancelled:
 force_publish:
   - 385   # Fall Brawl Festival: MOB Moms' own vendor market at 2700 Newman Rd; no named venue
   - 682   # Lowes Kid Workshops - Firefighting Plane: national program runs at multiple Lowe's stores same day, no single venue
+  - 932   # Moonlight Chasse' Ballroom Dance Society, Nov 2: venue_name_raw is blank at the source (eastern-shore-chamber), alias can't match; confirmed real recurring event at Hot Wheels Skating Rink, Daphne
+  - 937   # BILL-E's Bacon, Burgers, & Bikes, Nov 6: same blank-raw-field issue; confirmed real event at Bill-E's (already in venues.yaml as bill-es-fairhope)
+  - 964   # BILL-E's Bacon, Burgers, & Bikes, Dec 6: same blank-raw-field issue as #937
+  - 965   # Moonlight Chasse' Ballroom Dance Society, Dec 7: same blank-raw-field issue as #932
+  - 1083  # Fall Break & Halloween Celebration at Maxim Tokyo Claw Village: venue_name_raw blank at source (themobmom); confirmed real business (Maxim Tokyo Claw, Cottage Hill Rd) but street number/zip not independently confirmed, so no venues.yaml entry yet
