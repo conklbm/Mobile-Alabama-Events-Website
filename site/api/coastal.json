@@ -1,38 +1,7 @@
 {
  "region": "coastal",
- "generated": "2026-10-14T14:57:18Z",
+ "generated": "2026-10-15T14:19:48Z",
  "events": [
-  {
-   "id": 894,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-10-13T19:00:00-05:00",
-   "end": "2026-10-13T20:15:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-10-13-2026-39628",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
   {
    "id": 403,
    "series_slug": "indoor-cycling",
@@ -612,15 +581,15 @@
    },
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/ali-siddiq-the-custom-fit-tour-pensacola-florida-10-17-2026/event/1B0064D815F44F56",
-   "info_url": "https://www.ticketmaster.com/ali-siddiq-the-custom-fit-tour-pensacola-florida-10-17-2026/event/1B0064D815F44F56",
+   "info_url": "https://www.pensacolasaenger.com/event/ali-siddiq-the-custom-fit-tour/",
    "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 293,
@@ -749,6 +718,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1093,
+   "series_slug": "the-billy-joel-legacy-a-tribute-performance",
+   "title": "The Billy Joel Legacy: A Tribute Performance",
+   "start": "2026-10-18T19:00:00-05:00",
+   "end": "2026-10-18T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.pensacolasaenger.com/event/the-billy-joel-legacy-a-tribute-performance/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 464,
    "series_slug": "council-work-session",
    "title": "Council Work Session",
@@ -844,6 +844,38 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1032,
+   "series_slug": "gentle-yoga-flow",
+   "title": "Gentle Yoga Flow",
+   "start": "2026-10-20T10:00:00-05:00",
+   "end": "2026-10-20T11:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9642",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1330,6 +1362,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1033,
+   "series_slug": "gentle-stretch-yoga",
+   "title": "Yoga",
+   "start": "2026-10-24T10:00:00-05:00",
+   "end": "2026-10-24T11:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8719",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 919,
    "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
    "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
@@ -1487,6 +1551,69 @@
    "independent_source_count": 1
   },
   {
+   "id": 1030,
+   "series_slug": "city-council-meeting",
+   "title": "City Council Meeting",
+   "start": "2026-10-26T16:00:00-05:00",
+   "end": "2026-10-26T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "gulf-shores-city-hall",
+    "name": "Gulf Shores City Hall",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshoresal.gov/Calendar.aspx?EID=16365",
+   "source": {
+    "name": "City of Gulf Shores",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1034,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-10-26T17:00:00-05:00",
+   "end": "2026-10-26T18:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9589",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 249,
    "series_slug": "waitress",
    "title": "Waitress",
@@ -1512,6 +1639,101 @@
     "name": "Ticketmaster",
     "tier": "B",
     "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1035,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-10-27T07:20:00-05:00",
+   "end": "2026-10-27T08:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9161",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1036,
+   "series_slug": "gentle-yoga-flow",
+   "title": "Gentle Yoga Flow",
+   "start": "2026-10-27T10:00:00-05:00",
+   "end": "2026-10-27T11:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9643",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1031,
+   "series_slug": "planning-commission-meeting",
+   "title": "Planning Commission Meeting",
+   "start": "2026-10-27T16:00:00-05:00",
+   "end": "2026-10-27T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "gulf-shores-city-hall",
+    "name": "Gulf Shores City Hall",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshoresal.gov/Calendar.aspx?EID=16323",
+   "source": {
+    "name": "City of Gulf Shores",
+    "tier": "A",
+    "redistributable": true
    },
    "image": null,
    "curation_score": 0,
@@ -1574,6 +1796,38 @@
     "name": "Ticketmaster",
     "tier": "B",
     "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1037,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-10-29T07:20:00-05:00",
+   "end": "2026-10-29T08:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9162",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
    },
    "image": null,
    "curation_score": 0,
@@ -4482,6 +4736,100 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1078,
+   "series_slug": "judy-collins-sweet-judy-blue-eyes-farewell",
+   "title": "Judy Collins-Sweet Judy Blue Eyes: Farewell",
+   "start": "2027-01-06T19:00:00-06:00",
+   "end": "2027-01-06T22:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/judy-collinssweet-judy-blue-eyes-farewell-pensacola-florida-01-06-2027/event/1B0064E997857F95",
+   "info_url": "https://www.ticketmaster.com/judy-collinssweet-judy-blue-eyes-farewell-pensacola-florida-01-06-2027/event/1B0064E997857F95",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1079,
+   "series_slug": "pensacola-symphony-orchestra-opening-night",
+   "title": "Pensacola Symphony Orchestra: Beethoven & Blue Jeans",
+   "start": "2027-01-09T19:30:00-06:00",
+   "end": "2027-01-09T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "music"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-beethoven-blue-jeans-pensacola-florida-01-09-2027/event/1B00649912A5E52D",
+   "info_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-beethoven-blue-jeans-pensacola-florida-01-09-2027/event/1B00649912A5E52D",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1080,
+   "series_slug": "the-wiz",
+   "title": "The Wiz",
+   "start": "2027-01-12T19:30:00-06:00",
+   "end": "2027-01-12T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/the-wiz-pensacola-florida-01-12-2027/event/1B0064C9D2782641",
+   "info_url": "https://www.ticketmaster.com/the-wiz-pensacola-florida-01-12-2027/event/1B0064C9D2782641",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   }
  ]

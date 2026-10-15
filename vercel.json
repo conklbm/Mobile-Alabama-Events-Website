@@ -301,11 +301,6 @@
       "permanent": true
     },
     {
-      "source": "/events/celebrate-250-mobile-community-event(/)?",
-      "destination": "/venues/uss-alabama-battleship-park/",
-      "permanent": true
-    },
-    {
       "source": "/events/community-spirit-day(/)?",
       "destination": "/venues/lott-park/",
       "permanent": true
