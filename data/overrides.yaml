@@ -12,6 +12,7 @@ merge:
   - [833, 798]   # Melton Health and Faith 5K: full charity-branded title + "Healthy Lifestyle 5K" shorthand, same race (chamber listing confirms full title)
   - [843, 496]   # Battleship 12K: "Publix" is the current title sponsor, "Keesler Federal" an earlier/co-sponsor name for the same annual race
   - [1086, 835]  # Mobile Latin Fest: Oct 10 date was postponed to Oct 18 (Tropical Storm Isaias per Fox10); "RESCHEDULED" copy is the same event, same Mardi Gras Park
+  - [1085, 1076] # Trae Crowder, Crescent Theater, Jan 8 2027: mobile-county's "Two Shows" (7pm+9pm) is the same booking as ticketmaster's occurrence, which already merged the early- and late-show ticket links itself
 #  - [1234, 5678]
 
 # Force an occurrence onto a series (by occurrence id -> series slug).
@@ -40,6 +41,8 @@ not_cancelled:
   - 325   # StoryBrand Marketing #2: still live on the chamber calendar (2026-10-02)
   - 235   # Postmodern Jukebox, Pensacola Saenger: still listed on pensacolasaenger.com, all seats reserved (checked 2026-10-09)
   - 238   # Rodney Carrington, Pensacola Saenger: still listed on pensacolasaenger.com, ticket required (checked 2026-10-09)
+  - 819   # British High Tea at the Conde-Charlotte Museum: mobile-arts-council missed it twice, but visit-mobile's independent listing is still fresh as of the 2026-10-15 run
+  - 856   # USA Faculty Trumpet and Horn Recital: same case as #819 - visit-mobile still lists it fresh while mobile-arts-council missed it twice
 
 # Publish a held item as-is (occurrence id). Use when the venue is genuinely
 # unknown but the event is real — better to add an alias in venues.yaml.
