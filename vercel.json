@@ -356,6 +356,11 @@
       "permanent": true
     },
     {
+      "source": "/events/what-story-does-your-website-tell(/)?",
+      "destination": "/venues/mobile-chamber/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
