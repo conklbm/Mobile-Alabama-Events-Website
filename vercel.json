@@ -341,6 +341,21 @@
       "permanent": true
     },
     {
+      "source": "/events/an-evening-with-shadowgrass-night-one(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/open-house-drury-plaza-hotel(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/origin-bank-ribbon-cutting(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true

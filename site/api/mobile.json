@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-10-15T14:46:05Z",
+ "generated": "2026-10-16T14:15:27Z",
  "events": [
   {
    "id": 696,
@@ -31,72 +31,6 @@
    },
    "image": null,
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 504,
-   "series_slug": "wednesday-art-club-ages-5-7",
-   "title": "Wednesday Art Club (Ages 8-11)",
-   "start": "2026-10-14T18:00:00-05:00",
-   "end": "2026-10-14T19:30:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/wednesday-art-club-for-ages-5-7/2026-10-14/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/06/kids1.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 182,
-   "series_slug": "crescent-comedy-workshop",
-   "title": "Crescent Comedy Chaos",
-   "start": "2026-10-14T20:00:00-05:00",
-   "end": "2026-10-14T23:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15039973",
-   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15039973",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -200,37 +134,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 746,
-   "series_slug": "boots-to-business-reboot",
-   "title": "Boots to Business Reboot",
-   "start": "2026-10-15T09:00:00-05:00",
-   "end": "2026-10-15T17:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "ben-may-main-library",
-    "name": "Ben May Main Library",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-boots-to-business-reboot-2026-10-15",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 386,
    "series_slug": "greek-fest-mobile",
    "title": "Mobile Greek Festival",
@@ -264,223 +167,6 @@
    },
    "curation_score": 5,
    "independent_source_count": 5
-  },
-  {
-   "id": 896,
-   "series_slug": "american-legion-post-199-1st-annual-golf-tournament",
-   "title": "American Legion Post 199 1st Annual Golf Tournament",
-   "start": "2026-10-15T11:00:00-05:00",
-   "end": "2026-10-15T18:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "sports"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/american-legion-post-199-1st-annual-golf-tournament-43535",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 706,
-   "series_slug": "industrial-reverse-trade-show",
-   "title": "Industrial Reverse Trade Show",
-   "start": "2026-10-15T13:00:00-05:00",
-   "end": "2026-10-15T16:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active"
-   ],
-   "venue": {
-    "slug": "fort-whiting-auditorium",
-    "name": "Fort Whiting Auditorium",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-reverse-trade-show-2026-10-15",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 897,
-   "series_slug": "fairhope-farmers-fall-market-2026",
-   "title": "Fairhope Farmers' Fall Market - 2026",
-   "start": "2026-10-15T14:00:00-05:00",
-   "end": "2026-10-15T18:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/fairhope-farmers-fall-market-2026-10-15-2026-43617",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 898,
-   "series_slug": "ms-senior-southern-charm-pageant",
-   "title": "Ms. Senior Southern Charm Pageant",
-   "start": "2026-10-15T14:30:00-05:00",
-   "end": "2026-10-15T16:30:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/ms-senior-southern-charm-pageant-43630",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 505,
-   "series_slug": "family-art",
-   "title": "Family Art",
-   "start": "2026-10-15T15:00:00-05:00",
-   "end": "2026-10-15T16:30:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/family-art-8-2/2026-10-15/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/01/family-artt.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 328,
-   "series_slug": "gaillard-builders-ribbon-cutting",
-   "title": "Gaillard Builders Ribbon Cutting",
-   "start": "2026-10-15T16:00:00-05:00",
-   "end": "2026-10-15T18:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "name": "612 Dauphin Street Mobile AL 36602"
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://my.mobilechamber.com/boacalendar/Details/gaillard-builders-ribbon-cutting-1910234?sourceTypeId=Hub",
-   "source": {
-    "name": "Mobile Chamber",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 732,
-   "series_slug": "a-reading-from-dr-jocelyn-cullity",
-   "title": "A Reading from Dr. Jocelyn Cullity",
-   "start": "2026-10-15T16:00:00-05:00",
-   "end": "2026-10-15T17:30:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "university-of-south-alabama-student-center",
-    "name": "University of South Alabama Student Center",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-the-nurse-at-baker-hospital-book-release-2026-10-15",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
   },
   {
    "id": 596,
@@ -815,6 +501,40 @@
     "credit": "Visit Mobile"
    },
    "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
+   "id": 856,
+   "series_slug": "usa-faculty-trumpet-and-horn-recital",
+   "title": "USA Faculty Trumpet and Horn Recital",
+   "start": "2026-10-15T19:30:00-05:00",
+   "end": "2026-10-15T22:30:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "laidlaw-performing-arts-center",
+    "name": "Laidlaw Performing Arts Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/woodpeterjodi26smallercrop_AC1F580A-C851-53C7-75847F1E7B3DDA34_ac20ac28-9b97-3c04-43811759f3c2f1e5.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
    "independent_source_count": 2
   },
   {
@@ -3180,6 +2900,41 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 819,
+   "series_slug": "british-high-tea-at-the-conde-charlotte-museum",
+   "title": "British High Tea at the Conde-Charlotte Museum",
+   "start": "2026-10-18T14:00:00-05:00",
+   "end": "2026-10-18T17:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "conde-charlotte-museum-house",
+    "name": "Condé-Charlotte Museum House",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/High-Tea-Image_827536A1-E4E0-5357-A172A270B2EE4415_828e8d77-0fa7-8ba4-90d800cd63e0fef1.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 906,
@@ -11856,14 +11611,13 @@
   {
    "id": 15,
    "series_slug": "beethoven-blue-jeans",
-   "title": "Mobile Symphony's 'Beethoven & Blue Jeans'",
+   "title": "Beethoven & Blue Jeans",
    "start": "2026-11-07T19:30:00-06:00",
-   "end": "2026-11-08T16:30:00-06:00",
+   "end": "2026-11-08T14:30:00-06:00",
    "all_day": false,
    "category": "music",
    "categories": [
-    "music",
-    "arts"
+    "music"
    ],
    "venue": {
     "slug": "saenger-theatre",
@@ -21754,11 +21508,11 @@
    "independent_source_count": 0
   },
   {
-   "id": 1076,
-   "series_slug": "trae-crowder-early-show",
-   "title": "Trae Crowder (Late Show)",
-   "start": "2027-01-08T21:00:00-06:00",
-   "end": "2027-01-09T00:00:00-06:00",
+   "id": 1085,
+   "series_slug": "trae-crowder-two-shows",
+   "title": "Trae Crowder (Two Shows)",
+   "start": "2027-01-08T19:00:00-06:00",
+   "end": "2027-01-08T23:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -21772,17 +21526,17 @@
      "mobile"
     ]
    },
-   "price": "$44.1-162.18",
-   "ticket_url": "https://www.ticketweb.com/event/trae-crowder-early-show-crescent-theater-tickets/15023063",
-   "info_url": "https://www.ticketweb.com/event/trae-crowder-early-show-crescent-theater-tickets/15023063",
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/trae-crowder-two-shows-2027-01-08",
    "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
+    "name": "Mobile County community calendar",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 1043,
