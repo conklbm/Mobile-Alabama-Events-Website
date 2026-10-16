@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-10-16T17:23:57Z",
+ "generated": "2026-10-16T17:29:33Z",
  "events": [
   {
    "id": 696,
@@ -12442,6 +12442,37 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1119,
+   "series_slug": "peter-pan-goes-wrong",
+   "title": "Peter Pan Goes Wrong",
+   "start": "2026-11-11T19:00:00-06:00",
+   "end": "2026-11-11T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "monte-l-moorer-theatre",
+    "name": "Monte L. Moorer Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
