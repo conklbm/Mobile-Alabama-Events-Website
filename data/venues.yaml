@@ -2104,3 +2104,14 @@
   zip: "36608"
   regions: [mobile]
   notes: "University of South Alabama's baseball stadium, named for former big-league manager Eddie Stanky."
+
+- slug: monte-l-moorer-theatre
+  name: Monte L. Moorer Theatre
+  aliases: ["Monte L. Moorer Theatre; 161 Dogwood Lane, Mobile, AL, 36608", "Monte L. Moorer Theatre", "Monte Moorer Theatre", "Moorer Theatre"]
+  domains: ["stpaulsmobile.net"]
+  address: "161 Dogwood Lane"
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "Performing arts venue on the campus of St. Paul's Episcopal School, used for school and community theatre bookings."
