@@ -356,8 +356,38 @@
       "permanent": true
     },
     {
+      "source": "/events/mobile-river-cruise-with-john-sledge(/)?",
+      "destination": "/venues/blakeley-state-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/south-alabama-jags-downtown-watch-party(/)?",
+      "destination": "/venues/braided-river-brewing/",
+      "permanent": true
+    },
+    {
+      "source": "/events/stagner-s-showcase-feat-justin-stagner(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
       "source": "/events/what-story-does-your-website-tell(/)?",
       "destination": "/venues/mobile-chamber/",
+      "permanent": true
+    },
+    {
+      "source": "/events/royal-restrooms-ribbon-cutting(/)?",
+      "destination": "/venues/mobile-chamber/",
+      "permanent": true
+    },
+    {
+      "source": "/events/discover-daphne-watch-party(/)?",
+      "destination": "/venues/the-waterfront-restaurant-daphne/",
+      "permanent": true
+    },
+    {
+      "source": "/events/scott-bradlee-s-postmodern-jukebox-the-future-is-vintage-world-tour(/)?",
+      "destination": "/venues/pensacola-saenger/",
       "permanent": true
     },
     {

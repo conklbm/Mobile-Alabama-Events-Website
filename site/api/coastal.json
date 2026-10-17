@@ -1,38 +1,7 @@
 {
  "region": "coastal",
- "generated": "2026-10-16T17:29:33Z",
+ "generated": "2026-10-17T13:32:02Z",
  "events": [
-  {
-   "id": 239,
-   "series_slug": "machine-girl",
-   "title": "Machine Girl",
-   "start": "2026-10-15T19:00:00-05:00",
-   "end": "2026-10-15T22:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "vinyl-music-hall",
-    "name": "Vinyl Music Hall",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ8kF",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ8kF",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
   {
    "id": 446,
    "series_slug": "pirates-of-the-cursed-forest",
