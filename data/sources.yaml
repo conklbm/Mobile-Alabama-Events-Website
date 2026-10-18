@@ -166,6 +166,7 @@
   redistributable: false
   expected_min_events: 5
   config:
+    skip_titles: ["board of (directors|advisors)", "\\bboard meeting\\b"]   # members-only, not public events
     listing_url: https://my.mobilechamber.com/mobilechambercalendar
     max_events: 80
     venue_optional: true   # ribbon cuttings at member businesses: publish with the address, don't hold
@@ -393,6 +394,7 @@
   redistributable: false
   expected_min_events: 5
   config:
+    trust_misses: false   # organizers' form entries get deleted around their date; a missing row isn't a cancellation
     collection_url: https://www.mobilearts.org/rts/collections/public/eacd2e2c/runtime/collection/Event%20Information%20(Responses)/data
     fields: {title: "Event Title", start_date: "Event Start Date", start_time: "Event Start Time", address: "Event Location",
              organizer: "Organization Name", categories: "Event Catergory"}

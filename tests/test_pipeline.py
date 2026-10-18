@@ -177,3 +177,39 @@ def test_late_venue_resolution_respects_never_merge(conn, monkeypatch):
     _, out = run(conn, _tosh_pair(), ok(**{"92zew": 1, "ticketmaster": 1}))
     assert conn.execute("SELECT COUNT(*) FROM occurrences").fetchone()[0] == 2 and out["stats"]["merged_late"] == 0
     assert not conn.execute("SELECT 1 FROM occurrences WHERE match_ambiguous=1").fetchone()
+
+
+def test_rescheduled_event_is_retired_not_flagged(conn):
+    # the source moves the event two days later: old date retires quietly, no "possibly cancelled" question
+    later = SOON + timedelta(days=2)
+    run(conn, [ev("mobilesymphony", "s1", "Beethoven 9", "Saenger Theatre")], ok(mobilesymphony=1))
+    old = conn.execute("SELECT id FROM occurrences").fetchone()["id"]
+    moved = [ev("mobilesymphony", "s1-later", "Beethoven 9", "Saenger Theatre", start=later)]
+    run(conn, moved, ok(mobilesymphony=1))
+    run(conn, moved, ok(mobilesymphony=1))
+    assert conn.execute("SELECT status FROM occurrences WHERE id=?", (old,)).fetchone()["status"] == "cancelled"
+    assert not any(r["cancellation_flagged"] for r in review.open_items(conn))
+
+
+def test_untrusted_source_misses_never_flag(conn, monkeypatch):
+    from pipeline import config
+    srcs = [dict(s) for s in config.sources()]
+    for s in srcs:
+        if s["id"] == "mobilesymphony":
+            s["config"] = {**s.get("config", {}), "trust_misses": False}
+    monkeypatch.setattr(config, "sources", lambda: srcs)
+    with db.tx(conn):
+        db.sync_sources(conn)
+    run(conn, [ev("mobilesymphony", "s1", "Beethoven 9", "Saenger Theatre")], ok(mobilesymphony=1))
+    for _ in range(3):
+        run(conn, [ev("mobilesymphony", "other", "Something Else", "Saenger Theatre")], ok(mobilesymphony=1))
+    assert conn.execute("SELECT COUNT(*) FROM occurrences WHERE status!='active'").fetchone()[0] == 0
+
+
+def test_past_events_drop_out_of_the_review_queue(conn):
+    run(conn, [ev("92zew", "c", "Mystery Show", "Nowhere Bar")], ok(**{"92zew": 1}))       # unknown venue -> queued
+    assert review.open_items(conn)
+    conn.execute("UPDATE occurrences SET start_utc=datetime('now','-3 days'), local_day=date('now','-3 days')")
+    conn.commit()
+    run(conn, [], ok(**{"92zew": 1}))
+    assert not review.open_items(conn)

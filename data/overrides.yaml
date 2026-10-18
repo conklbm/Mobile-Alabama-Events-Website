@@ -34,6 +34,23 @@ cancelled:
   - 167   # Corey O'Brien, Crescent Theater: TicketWeb listing 404s (checked 2026-10-02)
   - 348   # Orange Beach Fall Pop-Up Farmers Market: moved from Oct 4 to Oct 11 (weather)
   - 326   # Infinity Bicycles Ribbon Cutting: chamber page now shows a different event
+  # 2026-10-18, issue #11:
+  - 697   # Haunted Hollow-Een (Hotel Transylvania): the county moved it from Oct 23 to Oct 24
+  - 187   # Black and Gold on the Movie Screen (Saints watch parties, Crescent Theater): Ticketmaster dropped
+  - 193   #   all of them two weeks running and the TicketWeb pages no longer load
+  - 204
+  - 209
+  - 211
+  - 212
+  - 216
+  - 224
+  - 366
+  - 416
+  - 677
+  - 192   # Adult Talent Show, Crescent Theater: same
+  - 989   # Moonlight on Dauphin Paint & Sip: gone from the Arts Council calendar
+  - 988   # "Administrator": a junk title, since deleted from the Arts Council calendar
+  - 475   # Mobile Chamber board meeting: members only, not a public event
 
 # Clear a cancellation flag (occurrence id) — it's still happening.
 not_cancelled:

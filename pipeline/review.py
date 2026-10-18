@@ -32,6 +32,10 @@ def evaluate(conn: sqlite3.Connection, run_id: int, source_results: dict[str, di
     venue_slugs = {r["id"]: r["slug"] for r in conn.execute("SELECT id, slug FROM venues")}
     now = db.now_iso()
     counts = defaultdict(int)
+    # an event that has already happened needs no answer: close its open questions
+    counts["auto_resolved"] += conn.execute(
+        """UPDATE review_queue SET resolved_at=? WHERE resolved_at IS NULL AND occurrence_id IN
+           (SELECT id FROM occurrences WHERE start_utc < datetime('now','-1 day'))""", (now,)).rowcount
     occs = conn.execute(
         "SELECT * FROM occurrences WHERE start_utc >= datetime('now','-1 day') ORDER BY start_utc"
     ).fetchall()
