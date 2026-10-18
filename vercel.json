@@ -391,6 +391,46 @@
       "permanent": true
     },
     {
+      "source": "/events/october-artwalk-with-m-l-bullock(/)?",
+      "destination": "/venues/the-haunted-book-shop/",
+      "permanent": true
+    },
+    {
+      "source": "/events/ship-to-shore-chat-with-e-v-nautilus(/)?",
+      "destination": "/venues/dauphin-island-sea-lab/",
+      "permanent": true
+    },
+    {
+      "source": "/events/aarc-fall-festival(/)?",
+      "destination": "/venues/american-autism-rehabilitation-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/braided-rivers-annual-kegtoberfest(/)?",
+      "destination": "/venues/braided-river-brewing/",
+      "permanent": true
+    },
+    {
+      "source": "/events/you-could-be-the-one-for-me(/)?",
+      "destination": "/venues/ac-satellite/",
+      "permanent": true
+    },
+    {
+      "source": "/events/coastal-curated(/)?",
+      "destination": "/venues/sophiella-gallery/",
+      "permanent": true
+    },
+    {
+      "source": "/events/big-deal-burlesque-presented-by-roxie-le-rouge(/)?",
+      "destination": "/venues/alabama-music-box/",
+      "permanent": true
+    },
+    {
+      "source": "/events/daniel-tosh-my-first-farewell-tour(/)?",
+      "destination": "/venues/pensacola-saenger/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
