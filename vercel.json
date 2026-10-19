@@ -436,6 +436,16 @@
       "permanent": true
     },
     {
+      "source": "/events/olde-time-days(/)?",
+      "destination": "/venues/baldwin-county-bicentennial-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/port-of-mobile-cruise(/)?",
+      "destination": "/venues/blakeley-state-park/",
+      "permanent": true
+    },
+    {
       "source": "/events/the-shoulder-yard-sale-fundraiser(/)?",
       "destination": "/venues/the-shoulder-womens-facility/",
       "permanent": true
@@ -493,6 +503,31 @@
     {
       "source": "/events/trail-ride-turn-up(/)?",
       "destination": "/venues/langan-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/dauphin-street-beer-festival(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/night-of-nevermore-an-immersive-performance-event(/)?",
+      "destination": "/venues/community-foundation-of-south-alabama/",
+      "permanent": true
+    },
+    {
+      "source": "/events/double-feature-comedy-night(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/rodney-carrington(/)?",
+      "destination": "/venues/pensacola-saenger/",
+      "permanent": true
+    },
+    {
+      "source": "/events/nighttime-with-carson-taylor(/)?",
+      "destination": "/venues/downtown-mobile/",
       "permanent": true
     },
     {
