@@ -376,6 +376,11 @@
       "permanent": true
     },
     {
+      "source": "/events/plantasia-fall-plant-sale-at-mobile-botanical-gardens(/)?",
+      "destination": "/venues/mobile-botanical-gardens/",
+      "permanent": true
+    },
+    {
       "source": "/events/royal-restrooms-ribbon-cutting(/)?",
       "destination": "/venues/mobile-chamber/",
       "permanent": true
@@ -428,6 +433,66 @@
     {
       "source": "/events/daniel-tosh-my-first-farewell-tour(/)?",
       "destination": "/venues/pensacola-saenger/",
+      "permanent": true
+    },
+    {
+      "source": "/events/the-shoulder-yard-sale-fundraiser(/)?",
+      "destination": "/venues/the-shoulder-womens-facility/",
+      "permanent": true
+    },
+    {
+      "source": "/events/free-dental-day(/)?",
+      "destination": "/venues/dedicated-dentist-inc/",
+      "permanent": true
+    },
+    {
+      "source": "/events/2026-hope-for-the-homeless-charity-golf-tournament(/)?",
+      "destination": "/venues/heron-lakes-country-club/",
+      "permanent": true
+    },
+    {
+      "source": "/events/dauphin-island-art-trail(/)?",
+      "destination": "/venues/dauphin-island/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fall-brawl-festival(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/creepy-crawlers-at-the-esc(/)?",
+      "destination": "/venues/environmental-studies-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/first-fairhopes-fall-festival(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/preschool-paint-parties-with-poppy(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-animation-film-festival(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/okploverfest-2026(/)?",
+      "destination": "/venues/braided-river-brewing/",
+      "permanent": true
+    },
+    {
+      "source": "/events/southern-tip-off-florida-state-vs-mississippi-state(/)?",
+      "destination": "/venues/pensacola-bay-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/trail-ride-turn-up(/)?",
+      "destination": "/venues/langan-park/",
       "permanent": true
     },
     {
