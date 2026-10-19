@@ -6,6 +6,7 @@
 #   note:    our own one line
 #   url:     the page that confirms it (first-party preferred); checked: date last confirmed
 #   status: unverified  -> kept for the monthly check, NOT shown on the site
+#   source_kind: in-person -> Brooks saw it at the bar (no website); the monthly check keeps it unless the place closes
 #   venue:   optional venues.yaml slug; links the name to that venue page when it exists
 
 - name: Dauphin's
@@ -132,24 +133,19 @@
   neighborhood: Downtown
   address: 113 Dauphin St
   windows:
-  - days:
-    - mon
-    - tue
-    - wed
-    - thu
-    - fri
-    - sat
+  - days: [mon, tue, wed, thu, fri]
     start: '16:00'
     end: '18:30'
   deals:
-  - $6 old fashioneds
-  - $2 off draft beer and other cocktails
-  url: https://lostintherightdirectiontravel.com/bar/the-haberdasher/
-  checked: 2026-10-12
-  confidence: low
-  status: unverified
-  to_verify: No first-party schedule found (no website; Instagram @thehabmobile). Blog is undated (about 2023); Roadtrippers
-    says 4-6 pm Mon-Sat. A 2025 Yelp roundup confirms happy hour still runs. Verify times and deals.
+  - $7 house old fashioned
+  - $8 margarita, $9 daiquiri
+  - $2 off house wines and draft beer
+  note: Downtown craft-cocktail bar with its own barrel picks; 21 and up. No happy hour on some holidays and special events.
+  url: https://www.instagram.com/thehabmobile/
+  checked: 2026-10-19
+  confidence: high
+  source_kind: in-person
+  confirmed_by: Brooks, photo of the bar menu (2026-10-19)
 - name: Wintzell's Oyster House
   city: Mobile
   neighborhood: Downtown
