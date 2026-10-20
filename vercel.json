@@ -356,6 +356,11 @@
       "permanent": true
     },
     {
+      "source": "/events/53rd-annual-national-shrimp-festival(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/events/mobile-river-cruise-with-john-sledge(/)?",
       "destination": "/venues/blakeley-state-park/",
       "permanent": true
@@ -526,8 +531,68 @@
       "permanent": true
     },
     {
+      "source": "/events/spectacular(/)?",
+      "destination": "/venues/saenger-theatre/",
+      "permanent": true
+    },
+    {
       "source": "/events/nighttime-with-carson-taylor(/)?",
       "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/an-afternoon-with-lagniappe-s-kevin-lee-book-signing-in-conversation(/)?",
+      "destination": "/venues/the-haunted-book-shop/",
+      "permanent": true
+    },
+    {
+      "source": "/events/oktoberfest(/)?",
+      "destination": "/venues/flora-bama/",
+      "permanent": true
+    },
+    {
+      "source": "/events/bragg-mitchell-mansion-fall-market(/)?",
+      "destination": "/venues/bragg-mitchell-mansion/",
+      "permanent": true
+    },
+    {
+      "source": "/events/wickedly-creative-witch-planter(/)?",
+      "destination": "/venues/coastal-makers-art-studio/",
+      "permanent": true
+    },
+    {
+      "source": "/events/trance-painting-transformations-through-art(/)?",
+      "destination": "/venues/love-and-adventure-studios/",
+      "permanent": true
+    },
+    {
+      "source": "/events/wine-resin-nostalgic-halloween-love-and-adventure-studios(/)?",
+      "destination": "/venues/love-and-adventure-studios/",
+      "permanent": true
+    },
+    {
+      "source": "/events/an-afternoon-of-stars-with-the-mobile-opera(/)?",
+      "destination": "/venues/ben-may-main-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/afternoon-of-stars-romeo-juliet(/)?",
+      "destination": "/venues/ben-may-main-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/reflections-of-grace-music-concert-rebekah-atkinson-harpist(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/dauphin-island-sunset-summer-concerts(/)?",
+      "destination": "/venues/fort-gaines/",
+      "permanent": true
+    },
+    {
+      "source": "/events/baldwin-pops-concert-at-coastal-arts-center(/)?",
+      "destination": "/venues/orange-beach-city-hall/",
       "permanent": true
     },
     {
