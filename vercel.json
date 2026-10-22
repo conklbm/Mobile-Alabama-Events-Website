@@ -491,11 +491,6 @@
       "permanent": true
     },
     {
-      "source": "/events/mobile-animation-film-festival(/)?",
-      "destination": "/venues/crescent-theater/",
-      "permanent": true
-    },
-    {
       "source": "/events/okploverfest-2026(/)?",
       "destination": "/venues/braided-river-brewing/",
       "permanent": true
@@ -593,6 +588,21 @@
     {
       "source": "/events/baldwin-pops-concert-at-coastal-arts-center(/)?",
       "destination": "/venues/orange-beach-city-hall/",
+      "permanent": true
+    },
+    {
+      "source": "/events/monster-movie-mash(/)?",
+      "destination": "/venues/semmes-regional-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/screening-of-in-search-of-phillis-wheatley-peters(/)?",
+      "destination": "/venues/university-of-south-alabama-marx-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/ward-davis-solo-acoustic(/)?",
+      "destination": "/venues/the-merry-widow/",
       "permanent": true
     },
     {

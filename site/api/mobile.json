@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-10-21T14:58:21Z",
+ "generated": "2026-10-22T14:40:05Z",
  "events": [
   {
    "id": 620,
@@ -34,241 +34,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 507,
-   "series_slug": "driven-to-draw-tuesday-pm",
-   "title": "Driven to Draw Tuesday PM",
-   "start": "2026-10-20T17:30:00-05:00",
-   "end": "2026-10-20T19:30:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/driven-to-draw-tuesday-pm/2026-10-20/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/drawing-pm.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 508,
-   "series_slug": "glass-fusing",
-   "title": "Glass Fusing",
-   "start": "2026-10-20T17:30:00-05:00",
-   "end": "2026-10-20T20:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/glass-fusing/2026-10-20/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/fused-glass.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 509,
-   "series_slug": "mural-making-for-teens",
-   "title": "Mural Making For Teens",
-   "start": "2026-10-20T18:00:00-05:00",
-   "end": "2026-10-20T19:30:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/mural-making-for-teens/2026-10-20/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/06/Screenshot-2026-06-17-104407.png",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 763,
-   "series_slug": "prohibition-and-pearls-speakeasy-mystery-fundraiser",
-   "title": "Prohibition and Pearls Speakeasy Mystery Fundraiser",
-   "start": "2026-10-20T18:00:00-05:00",
-   "end": "2026-10-20T21:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "music"
-   ],
-   "venue": {
-    "slug": "las-floriditas",
-    "name": "Las Floriditas",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/prohibition-and-pearls-speakeasy-mystery-fundraiser-2026-10-20",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 117,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2026-10-20T19:00:00-05:00",
-   "end": "2026-10-20T22:00:00-05:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-10-20/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 189,
-   "series_slug": "sonic-live-in-concert",
-   "title": "Sonic Live in Concert",
-   "start": "2026-10-20T19:30:00-05:00",
-   "end": "2026-10-20T22:30:00-05:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "arts"
-   ],
-   "venue": {
-    "slug": "saenger-theatre",
-    "name": "Saenger Theatre",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/sonic-live-in-concert-mobile-alabama-10-20-2026/event/1B0064ABBA09DAC5",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/sonic-live-in-concert-2026-10-20",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 3
-  },
-  {
-   "id": 190,
-   "series_slug": "the-filthy-heathens",
-   "title": "The Filthy Heathens",
-   "start": "2026-10-20T20:00:00-05:00",
-   "end": "2026-10-20T23:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "the-merry-widow",
-    "name": "The Merry Widow",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$18.61",
-   "ticket_url": "https://www.ticketweb.com/event/the-filthy-heathens-the-merry-widow-tickets/14306184",
-   "info_url": "https://www.ticketweb.com/event/the-filthy-heathens-the-merry-widow-tickets/14306184",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 870,
    "series_slug": "parrot-heads-in-paradise-meeting-of-the-minds",
    "title": "Parrot Heads in Paradise \"Meeting of the Minds\"",
@@ -297,99 +62,6 @@
    },
    "image": null,
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1112,
-   "series_slug": "networking-at-noon-fairhope-tamara-s-downtown",
-   "title": "Networking at Noon Fairhope - Tamara's Downtown",
-   "start": "2026-10-21T12:00:00-05:00",
-   "end": "2026-10-21T13:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/networking-at-noon-fairhope-tamara-s-downtown-43689",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1113,
-   "series_slug": "networking-at-noon-daphne-manci-s",
-   "title": "Networking at Noon Daphne - Manci's",
-   "start": "2026-10-21T12:00:00-05:00",
-   "end": "2026-10-21T13:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "mancis-antique-club",
-    "name": "Manci's Antique Club",
-    "city": "Daphne",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/networking-at-noon-daphne-manci-s-43690",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1114,
-   "series_slug": "networking-at-noon-spanish-fort-the-bull",
-   "title": "Networking at Noon - Spanish Fort - The Bull",
-   "start": "2026-10-21T12:00:00-05:00",
-   "end": "2026-10-21T13:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "the-bull-spanish-fort",
-    "name": "The Bull",
-    "city": "Spanish Fort",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/networking-at-noon-spanish-fort-the-bull-43691",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1198,6 +870,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1237,
+   "series_slug": "parrot-heads-in-paradise-meeting-of-the-minds",
+   "title": "Parrot Heads in Paradise \"Meeting of the Minds\"",
+   "start": "2026-10-23T00:00:00-05:00",
+   "end": "2026-10-25T23:59:59-05:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-hangout",
+    "name": "The Hangout",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/parrot-heads-in-paradise-meeting-of-the-minds/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 913,
    "series_slug": "shred-day-2026",
    "title": "Shred Day -2026",
@@ -1258,6 +961,37 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1241,
+   "series_slug": "plantmania-expo-2026",
+   "title": "Plantmania Expo 2026",
+   "start": "2026-10-23T10:00:00-05:00",
+   "end": "2026-10-23T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-civic-center",
+    "name": "Mobile Civic Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/plantmania-expo-2026-43700",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1412,9 +1146,12 @@
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/MOB-Mystery-Masked_C130636A-BEE2-B865-FD733822A08948F1_c13d2790-c8cc-a941-237cea648f85a6d6.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 689,
@@ -1511,6 +1248,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1227,
+   "series_slug": "the-2026-spooktacular-spectacular",
+   "title": "The 2026 Spooktacular Spectacular",
+   "start": "2026-10-23T19:30:00-05:00",
+   "end": "2026-10-23T22:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "joe-jefferson-playhouse",
+    "name": "Joe Jefferson Playhouse",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-the-2026-spooktacular-spectacular-2026-10-23",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1740,6 +1508,37 @@
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Halloween-Maskers_40FBF4FD-CBB5-DEF7-18C8FE55F9945E09_40fcd179-f68a-2fb7-d0180cbcdad723d8.jpg",
     "credit": "Visit Mobile"
    },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1238,
+   "series_slug": "haunted-hustle-5k-monster-dash-and-wicked-walk",
+   "title": "Haunted Hustle 5k, Monster Dash, and Wicked Walk",
+   "start": "2026-10-24T00:00:00-05:00",
+   "end": "2026-10-24T23:59:59-05:00",
+   "all_day": true,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "gulf-place",
+    "name": "Gulf Place",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/haunted-hustle-5k-monster-dash-and-wicked-walk/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -2165,6 +1964,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1243,
+   "series_slug": "plantmania-expo-2026",
+   "title": "Plantmania Expo 2026",
+   "start": "2026-10-24T10:00:00-05:00",
+   "end": "2026-10-24T16:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-civic-center",
+    "name": "Mobile Civic Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/plantmania-expo-2026-10-24-2026-43701",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 917,
    "series_slug": "sallie-s-ashes-downtown-fairhope",
    "title": "Sallie's Ashes",
@@ -2227,8 +2057,8 @@
     "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/family-day-19x-e1789595327178.jpg",
     "credit": "Mobile Museum of Art"
    },
-   "curation_score": 0,
-   "independent_source_count": 1
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 993,
@@ -2324,8 +2154,8 @@
     "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/wig-walk.jpg",
     "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 2,
-   "independent_source_count": 2
+   "curation_score": 3,
+   "independent_source_count": 3
   },
   {
    "id": 579,
@@ -2946,6 +2776,37 @@
    "independent_source_count": 0
   },
   {
+   "id": 1215,
+   "series_slug": "16th-annual-think-pink-tea",
+   "title": "16th Annual Think Pink Tea",
+   "start": "2026-10-25T15:00:00-05:00",
+   "end": "2026-10-25T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-convention-center",
+    "name": "Mobile Convention Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-16th-annual-think-pink-tea-2026-10-25",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 749,
    "series_slug": "mobile-witches-ride",
    "title": "Mobile Witches Ride",
@@ -3069,18 +2930,50 @@
    },
    "price": "$26.96-72.91",
    "ticket_url": "https://www.ticketweb.com/event/drew-tessier-crescent-theater-tickets/14339414",
-   "info_url": "https://www.ticketweb.com/event/drew-tessier-crescent-theater-tickets/14339414",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/comedian-drew-tessier-2026-10-25",
    "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
+    "name": "Mobile County community calendar",
+    "tier": "C",
     "redistributable": false
    },
    "image": {
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Drew-Tesslier_853C41E6-0FED-1646-781EF103FDAD0C70_853dfc1c-d899-8dd9-504d9a02c5f6f29c.jpg",
     "credit": "Visit Mobile"
    },
-   "curation_score": 1,
-   "independent_source_count": 2
+   "curation_score": 2,
+   "independent_source_count": 3
+  },
+  {
+   "id": 1245,
+   "series_slug": "open-mic-at-the-fairhope-public-library",
+   "title": "Open Mic at the Fairhope Public Library",
+   "start": "2026-10-26T18:00:00-05:00",
+   "end": "2026-10-26T19:30:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/open-mic-at-the-fairhope-public-library-43698",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 249,
@@ -3212,6 +3105,40 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1123,
+   "series_slug": "mastering-the-fundamentals-a-personal-finance-toolkit-for-founders-a",
+   "title": "Mastering the Fundamentals: A Personal Finance Toolkit for Founders | A Get Started Workshop with Robert McAlister, Foundry Financial",
+   "start": "2026-10-27T13:30:00-05:00",
+   "end": "2026-10-27T15:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/get-started-workshop-with-robert-mcalister-from-foundry-financial/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2026/10/robert-workshopevent-image-horizontal-4.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 0
   },
   {
    "id": 6,
@@ -3574,6 +3501,37 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
+  },
+  {
+   "id": 1156,
+   "series_slug": "south-alabama-women-s-soccer-vs-georgia-southern-pink-out",
+   "title": "South Alabama Women's Soccer vs Georgia Southern - Pink Out",
+   "start": "2026-10-28T14:00:00-05:00",
+   "end": "2026-10-28T16:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-the-cage",
+    "name": "The Cage (South Alabama Soccer & Track)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11457&amp;sport_id=21",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
   },
   {
    "id": 728,
@@ -4038,7 +3996,8 @@
    "all_day": false,
    "category": "sports",
    "categories": [
-    "sports"
+    "sports",
+    "food"
    ],
    "venue": {
     "name": "1250 Satchel Paige Dr. Mobile AL 36606"
@@ -4374,6 +4333,68 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1157,
+   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
+   "title": "South Alabama Men's Basketball vs Mississippi Christian",
+   "start": "2026-10-29T19:00:00-05:00",
+   "end": "2026-10-29T21:00:00-05:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11710&amp;sport_id=4",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1170,
+   "series_slug": "scary-stories-to-tell-at-the-crescent-an-open-mic-for-ghost-stories",
+   "title": "Scary Stories To Tell At The Crescent: An Open Mic For Ghost Stories",
+   "start": "2026-10-29T19:00:00-05:00",
+   "end": "2026-10-29T22:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/scary-stories-to-tell-at-crescent-theater-tickets/14384014",
+   "info_url": "https://www.ticketweb.com/event/scary-stories-to-tell-at-crescent-theater-tickets/14384014",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -4831,6 +4852,37 @@
    "independent_source_count": 2
   },
   {
+   "id": 1219,
+   "series_slug": "southern-echo-chorale",
+   "title": "Southern Echo Chorale",
+   "start": "2026-10-30T19:00:00-05:00",
+   "end": "2026-10-30T22:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "spring-hill-college",
+    "name": "Spring Hill College",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/southern-echo-chorale-2026-10-30",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 196,
    "series_slug": "mac-sabbath",
    "title": "MAC SABBATH",
@@ -4930,9 +4982,9 @@
    "start": "2026-10-30T20:00:00-05:00",
    "end": "2026-10-30T23:00:00-05:00",
    "all_day": false,
-   "category": "community",
+   "category": "arts",
    "categories": [
-    "community"
+    "arts"
    ],
    "venue": {
     "slug": "downtown-mobile",
@@ -4984,38 +5036,6 @@
    "image": null,
    "curation_score": 1,
    "independent_source_count": 1
-  },
-  {
-   "id": 606,
-   "series_slug": "south-alabama-football-vs-louisiana-tech-military-appreciation-honor",
-   "title": "South Alabama Football vs Louisiana Tech - Military Appreciation / Honor Band / USA Day",
-   "start": "2026-10-31T00:00:00-05:00",
-   "end": "2026-10-31T23:59:59-05:00",
-   "all_day": true,
-   "category": "music",
-   "categories": [
-    "music",
-    "sports"
-   ],
-   "venue": {
-    "slug": "hancock-whitney-stadium",
-    "name": "Hancock Whitney Stadium",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11383&amp;sport_id=2",
-   "source": {
-    "name": "South Alabama Athletics",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
   },
   {
    "id": 847,
@@ -5072,9 +5092,9 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/the-bayou-classic-car-show/24234/",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/the-6th-annual-bayou-classic-car-show-2026-10-10",
    "source": {
-    "name": "Visit Mobile",
+    "name": "Mobile County community calendar",
     "tier": "C",
     "redistributable": false
    },
@@ -5082,8 +5102,8 @@
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Bayou-Sara-Car-Show_82C744FC-BBCF-540B-BE3ECE88DC252CD5_82d2f830-cd40-ab86-8f68365710618c0d.jpg",
     "credit": "Visit Mobile"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 875,
@@ -5469,6 +5489,38 @@
    "independent_source_count": 3
   },
   {
+   "id": 606,
+   "series_slug": "south-alabama-football-vs-louisiana-tech-military-appreciation-honor",
+   "title": "South Alabama Football vs Louisiana Tech - Military Appreciation / Honor Band / USA Day",
+   "start": "2026-10-31T14:00:00-05:00",
+   "end": "2026-10-31T17:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "sports"
+   ],
+   "venue": {
+    "slug": "hancock-whitney-stadium",
+    "name": "Hancock Whitney Stadium",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11383&amp;sport_id=2",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
    "id": 390,
    "series_slug": "fall-festival-10175-celeste-rd-saraland-al",
    "title": "Fall Festival",
@@ -5634,9 +5686,9 @@
    "start": "2026-10-31T20:00:00-05:00",
    "end": "2026-10-31T23:00:00-05:00",
    "all_day": false,
-   "category": "community",
+   "category": "arts",
    "categories": [
-    "community"
+    "arts"
    ],
    "venue": {
     "slug": "downtown-mobile",
@@ -5687,6 +5739,38 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1246,
+   "series_slug": "fright-night-halloween-party-ii",
+   "title": "Fright Night Halloween Party II",
+   "start": "2026-10-31T20:00:00-05:00",
+   "end": "2026-11-01T00:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "nightlife"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/fright-night-halloween-party-ii-43716",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -5853,6 +5937,40 @@
    "independent_source_count": 0
   },
   {
+   "id": 1232,
+   "series_slug": "all-saints-day-catholic-celebration",
+   "title": "All Saints’ Day Catholic Celebration",
+   "start": "2026-11-01T11:30:00-06:00",
+   "end": "2026-11-01T13:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "downtown-mobile",
+    "name": "Downtown Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/all-saints-day-catholic-celebration/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/All-Saints-Day-Family-Celebration.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1053,
    "series_slug": "south-alabama-baseball-vs-tulane-university",
    "title": "South Alabama Baseball vs South Alabama",
@@ -5999,37 +6117,6 @@
    "price": "$14.41-39.01",
    "ticket_url": "https://www.ticketweb.com/event/sunday-funniez-comedy-showcase-crescent-theater-tickets/14370634",
    "info_url": "https://www.ticketweb.com/event/sunday-funniez-comedy-showcase-crescent-theater-tickets/14370634",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 367,
-   "series_slug": "synthetic-creativity-ai-da-unveiled",
-   "title": "Synthetic Creativity: Ai-Da Unveiled",
-   "start": "2026-11-02T19:00:00-06:00",
-   "end": "2026-11-02T22:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/synthetic-creativity-aida-unveiled-pensacola-florida-11-02-2026/event/1B006532E9D0C073",
-   "info_url": "https://www.ticketmaster.com/synthetic-creativity-aida-unveiled-pensacola-florida-11-02-2026/event/1B006532E9D0C073",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -6217,6 +6304,37 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://www.mobilecountyal.gov/community_events/events/nest-of-mobile-annual-luncheon-2026-11-03",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1212,
+   "series_slug": "documentaries-with-an-anthropologist",
+   "title": "Documentaries with an Anthropologist",
+   "start": "2026-11-03T14:00:00-06:00",
+   "end": "2026-11-03T16:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "ben-may-main-library",
+    "name": "Ben May Main Library",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-documentaries-with-an-anthropologist-2026-11-03",
    "source": {
     "name": "Mobile County community calendar",
     "tier": "C",
@@ -6494,6 +6612,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1150,
+   "series_slug": "body-standards-in-art-history",
+   "title": "Body Standards in Art History",
+   "start": "2026-11-04T12:00:00-06:00",
+   "end": "2026-11-04T14:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "ac-satellite",
+    "name": "AC Satellite",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alabamacontemporary.org/events/body-standards-in-art-history/",
+   "source": {
+    "name": "Alabama Contemporary Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 694,
    "series_slug": "2026-big-event-the-year-of-the-youth",
    "title": "2026 Big Event: The Year of the Youth",
@@ -6579,8 +6728,8 @@
      "mobile"
     ]
    },
-   "price": "",
-   "ticket_url": "",
+   "price": "$8.76",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-chaos-crescent-theater-tickets/15049493",
    "info_url": "https://www.mobilearts.org/community-calendar",
    "source": {
     "name": "Mobile Arts Council community calendar",
@@ -6589,7 +6738,7 @@
    },
    "image": null,
    "curation_score": 0,
-   "independent_source_count": 1
+   "independent_source_count": 2
   },
   {
    "id": 200,
@@ -7012,6 +7161,37 @@
    },
    "curation_score": 1,
    "independent_source_count": 1
+  },
+  {
+   "id": 1158,
+   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
+   "title": "South Alabama Men's Basketball vs Jacksonville State",
+   "start": "2026-11-05T19:00:00-06:00",
+   "end": "2026-11-05T21:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11708&amp;sport_id=4",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
   },
   {
    "id": 201,
@@ -7715,6 +7895,105 @@
    "independent_source_count": 1
   },
   {
+   "id": 1236,
+   "series_slug": "the-final-play-a-night-for-mckemie-place",
+   "title": "The Final Play: A Night for McKemie Place",
+   "start": "2026-11-07T00:00:00-06:00",
+   "end": "2026-11-07T23:59:59-06:00",
+   "all_day": true,
+   "category": "music",
+   "categories": [
+    "music",
+    "sports"
+   ],
+   "venue": {
+    "slug": "crown-hall",
+    "name": "Crown Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/the-final-play%3a-a-night-for-mckemie-place/24259/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Crown-Hall_B488E00C-DB88-8646-0CB32633459F96C2_b496841a-a5b6-3515-731e6a414b19ccb4.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1247,
+   "series_slug": "4th-annual-wkrg-gulf-coast-paddle-racket-battle",
+   "title": "4th Annual WKRG Gulf Coast Paddle & Racket Battle",
+   "start": "2026-11-07T00:00:00-06:00",
+   "end": "2026-11-07T23:59:59-06:00",
+   "all_day": true,
+   "category": "active",
+   "categories": [
+    "active",
+    "family"
+   ],
+   "venue": {
+    "slug": "lott-park",
+    "name": "W.O. Lott Park",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/4th-annual-wkrg-gulf-coast-paddle-racket-battle-43717",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1151,
+   "series_slug": "hacc-block-party",
+   "title": "HACC Block Party",
+   "start": "2026-11-07T05:00:00-06:00",
+   "end": "2026-11-07T09:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "historic-avenue-cultural-center",
+    "name": "Historic Avenue Cultural Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alabamacontemporary.org/events/hacc-block-party/",
+   "source": {
+    "name": "Alabama Contemporary Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 772,
    "series_slug": "north-mobile-county-operation-clean-sweep",
    "title": "North Mobile County Operation Clean Sweep",
@@ -8106,6 +8385,69 @@
    "independent_source_count": 2
   },
   {
+   "id": 1152,
+   "series_slug": "mobile-animation-film-festival",
+   "title": "Mobile Animation Film Festival",
+   "start": "2026-11-07T13:00:00-06:00",
+   "end": "2026-11-07T16:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.alabamacontemporary.org/events/maff2026/",
+   "source": {
+    "name": "Alabama Contemporary Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1185,
+   "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
+   "title": "Pensacola Bay Center Public Skate 1:30-2:30pm",
+   "start": "2026-11-07T13:30:00-06:00",
+   "end": "2026-11-07T16:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-07-2026/event/1B00654ECF2F889E",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-07-2026/event/1B00654ECF2F889E",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 530,
    "series_slug": "landscapes-in-oil",
    "title": "Landscapes in Oil",
@@ -8224,18 +8566,18 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.cityofmobile.gov/events/port-city-rb",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/port-city-rb-2026-11-07",
    "source": {
-    "name": "City of Mobile",
-    "tier": "A",
+    "name": "Mobile County community calendar",
+    "tier": "C",
     "redistributable": false
    },
    "image": {
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Port-City-RB_82A4DA15-D3E7-C067-6D7A8531680A39E9_82accf63-b8fe-adaf-b4aa54c838d47ed6.jpg",
     "credit": "Visit Mobile"
    },
-   "curation_score": 1,
-   "independent_source_count": 2
+   "curation_score": 2,
+   "independent_source_count": 3
   },
   {
    "id": 15,
@@ -8398,6 +8740,37 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1186,
+   "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
+   "title": "Pensacola Bay Center Public Skate 1:30-2:30pm",
+   "start": "2026-11-08T13:30:00-06:00",
+   "end": "2026-11-08T16:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-08-2026/event/1B00654ECF3C88DE",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-08-2026/event/1B00654ECF3C88DE",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -9567,40 +9940,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 207,
-   "series_slug": "justin-moore-live-in-concert",
-   "title": "Justin Moore Live",
-   "start": "2026-11-12T19:30:00-06:00",
-   "end": "2026-11-12T21:30:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "saenger-theatre",
-    "name": "Saenger Theatre",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/justin-moore-live-in-concert-mobile-alabama-11-12-2026/event/1B0064F5E139E72A",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/justin-moore-live-2026-11-12",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/JM-Mobile_A59C270A-96C5-F32C-AA0F340A5DA8ADD3_a5d02e9e-d0ed-9dde-061fe0ddaf775217.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 2,
-   "independent_source_count": 3
-  },
-  {
    "id": 750,
    "series_slug": "noises-off",
    "title": "'Noises Off!'",
@@ -9762,8 +10101,8 @@
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/JLM-CJ-7_F31D76D6-CB1B-6BC2-EB97715BE8BC5A9B_f32e4df0-d1e2-8c4b-ef33a18235f435c2.jpg",
     "credit": "Visit Mobile"
    },
-   "curation_score": 2,
-   "independent_source_count": 2
+   "curation_score": 3,
+   "independent_source_count": 3
   },
   {
    "id": 1001,
@@ -10149,6 +10488,41 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 1235,
+   "series_slug": "cozy-or-bust-gulf-coast-underground",
+   "title": "Cozy or Bust | Gulf Coast Underground",
+   "start": "2026-11-14T00:00:00-06:00",
+   "end": "2026-11-14T23:59:59-06:00",
+   "all_day": true,
+   "category": "family",
+   "categories": [
+    "family",
+    "music"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/cozy-or-bust-%7c-gulf-coast-underground/24258/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/ee3c51b7-1890-4a18-aa0f-27e16a60ad87_89982562-E28B-354E-2091A4A3EDD1B17D_89996bc7-a410-919a-6161a75d030de5f1.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 487,
@@ -10538,6 +10912,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1172,
+   "series_slug": "nighttime-with-carson-taylor-crescent-theater",
+   "title": "Nighttime with Carson Taylor",
+   "start": "2026-11-14T21:30:00-06:00",
+   "end": "2026-11-15T00:30:00-06:00",
+   "all_day": false,
+   "category": "nightlife",
+   "categories": [
+    "nightlife"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$20.56",
+   "ticket_url": "https://www.ticketweb.com/event/nighttime-with-carson-taylor-crescent-theater-tickets/14387104",
+   "info_url": "https://www.ticketweb.com/event/nighttime-with-carson-taylor-crescent-theater-tickets/14387104",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 843,
    "series_slug": "publix-battleship-12k",
    "title": "Keesler Federal Battleship 12K",
@@ -10571,6 +10976,37 @@
    },
    "curation_score": 2,
    "independent_source_count": 2
+  },
+  {
+   "id": 1189,
+   "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
+   "title": "Pensacola Bay Center Public Skate 1:30-2:30pm",
+   "start": "2026-11-15T13:30:00-06:00",
+   "end": "2026-11-15T16:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-15-2026/event/1B00654ECF4A8915",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-15-2026/event/1B00654ECF4A8915",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 720,
@@ -10668,6 +11104,37 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
+  },
+  {
+   "id": 1173,
+   "series_slug": "gulf-coast-comedy-showcase",
+   "title": "Gulf Coast Comedy Showcase",
+   "start": "2026-11-15T19:00:00-06:00",
+   "end": "2026-11-15T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$20.56",
+   "ticket_url": "https://www.ticketweb.com/event/gulf-coast-comedy-showcase-crescent-theater-tickets/14391454",
+   "info_url": "https://www.ticketweb.com/event/gulf-coast-comedy-showcase-crescent-theater-tickets/14391454",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 948,
@@ -10961,6 +11428,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1159,
+   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
+   "title": "South Alabama Men's Basketball vs Spring Hill",
+   "start": "2026-11-17T18:00:00-06:00",
+   "end": "2026-11-17T20:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11704&amp;sport_id=4",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
    "id": 131,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -10994,40 +11492,6 @@
    },
    "curation_score": 1,
    "independent_source_count": 1
-  },
-  {
-   "id": 1026,
-   "series_slug": "2026-innovation-portal-fall-showcase",
-   "title": "2026 Innovation Portal Fall Showcase",
-   "start": "2026-11-18T00:00:00-06:00",
-   "end": "2026-11-18T23:59:59-06:00",
-   "all_day": true,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "innovation-portal",
-    "name": "Innovation Portal",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "Free",
-   "ticket_url": "",
-   "info_url": "https://www.innovation-portal.com/event/2026-fall-showcase/",
-   "source": {
-    "name": "Innovation Portal",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.innovation-portal.com/wp-content/uploads/2026/09/fall-showcase-1920x1080-1.jpg",
-    "credit": "Innovation Portal"
-   },
-   "curation_score": 0,
-   "independent_source_count": 0
   },
   {
    "id": 341,
@@ -11110,18 +11574,52 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://bellingrath.org/event/magic-christmas-in-lights-workshop/",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-magic-christmas-in-lights-workshop-2026-11-18",
    "source": {
-    "name": "Bellingrath Gardens and Home",
-    "tier": "A",
+    "name": "Mobile County community calendar",
+    "tier": "C",
     "redistributable": false
    },
    "image": {
     "url": "https://bellingrath.org/wp-content/uploads/2026/08/FB-EVENT-COVERS-WEBSITE-IMAGES-BLOG-IMAGES-10.png",
     "credit": "Bellingrath Gardens and Home"
    },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
+   "id": 1026,
+   "series_slug": "2026-innovation-portal-fall-showcase",
+   "title": "2026 Innovation Portal Fall Showcase: TechAcademy Graduation & Fall gBETA Showcase",
+   "start": "2026-11-18T16:00:00-06:00",
+   "end": "2026-11-18T19:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/2026-fall-showcase/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2026/09/fall-showcase-1920x1080-1.png",
+    "credit": "Innovation Portal"
+   },
    "curation_score": 0,
-   "independent_source_count": 1
+   "independent_source_count": 0
   },
   {
    "id": 543,
@@ -11375,7 +11873,7 @@
     "redistributable": false
    },
    "image": {
-    "url": "https://www.innovation-portal.com/wp-content/uploads/2026/09/10-year-anniversary-1920x1080-1.jpg",
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2026/09/10-year-celebration-1920x1080-1.png",
     "credit": "Innovation Portal"
    },
    "curation_score": 0,
@@ -11409,7 +11907,7 @@
     "redistributable": false
    },
    "image": {
-    "url": "https://www.innovation-portal.com/wp-content/uploads/2026/10/capital-ready-event-landscape-final-v3.png",
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2026/10/capital-readiness-workshop-1920x1080-1.png",
     "credit": "Innovation Portal"
    },
    "curation_score": 0,
@@ -11549,6 +12047,37 @@
    },
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1165,
+   "series_slug": "blow-your-own-ornaments-friday-nov-20",
+   "title": "Blow Your Own Ornaments, Friday Nov 20",
+   "start": "2026-11-20T10:00:00-06:00",
+   "end": "2026-11-20T16:15:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "eastern-shore-art-center",
+    "name": "Eastern Shore Art Center",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F62260",
+   "source": {
+    "name": "Eastern Shore Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
   },
   {
    "id": 1006,
@@ -11967,6 +12496,37 @@
    "independent_source_count": 2
   },
   {
+   "id": 1166,
+   "series_slug": "blow-your-own-ornaments-friday-nov-20",
+   "title": "Blow Your Own Ornaments, Saturday Nov 21",
+   "start": "2026-11-21T10:00:00-06:00",
+   "end": "2026-11-21T16:15:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "eastern-shore-art-center",
+    "name": "Eastern Shore Art Center",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F62260",
+   "source": {
+    "name": "Eastern Shore Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
    "id": 545,
    "series_slug": "landscapes-in-oil",
    "title": "Landscapes in Oil",
@@ -12032,6 +12592,41 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 1233,
+   "series_slug": "jodie-cain-smith-broken-tide-launch-party",
+   "title": "Jodie Cain Smith & Broken Tide Launch Party!",
+   "start": "2026-11-21T17:00:00-06:00",
+   "end": "2026-11-21T19:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
+   "venue": {
+    "slug": "the-haunted-book-shop",
+    "name": "The Haunted Book Shop",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/jodie-cain-smith-broken-tide-launch-party/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/BrokenTideLaunchPartyInstagramPost.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 270,
@@ -12165,7 +12760,7 @@
   {
    "id": 1074,
    "series_slug": "steve-green-s-album-release-party",
-   "title": "Steve Green's Album Release Party",
+   "title": "Steve Greene's Album Release Party",
    "start": "2026-11-22T14:00:00-06:00",
    "end": "2026-11-22T17:00:00-06:00",
    "all_day": false,
@@ -12184,7 +12779,7 @@
    },
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/steve-greens-album-release-party-mobile-alabama-11-22-2026/event/1B00654590CE9EB6",
-   "info_url": "https://www.ticketmaster.com/steve-greens-album-release-party-mobile-alabama-11-22-2026/event/1B00654590CE9EB6",
+   "info_url": "https://www.ticketmaster.com/steve-greenes-album-release-party-mobile-alabama-11-22-2026/event/1B00654590CE9EB6",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -12193,6 +12788,37 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1160,
+   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
+   "title": "South Alabama Men's Basketball vs West Florida",
+   "start": "2026-11-22T14:00:00-06:00",
+   "end": "2026-11-22T16:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11706&amp;sport_id=4",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
   },
   {
    "id": 611,
@@ -12428,6 +13054,69 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1161,
+   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
+   "title": "South Alabama Men's Basketball vs Florida A&M",
+   "start": "2026-11-24T19:00:00-06:00",
+   "end": "2026-11-24T21:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11709&amp;sport_id=4",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1175,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-11-25T17:30:00-06:00",
+   "end": "2026-11-25T20:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049653",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049653",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -13422,8 +14111,8 @@
      "mobile"
     ]
    },
-   "price": "",
-   "ticket_url": "",
+   "price": "$8.76",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-chaos-crescent-theater-tickets/15049543",
    "info_url": "https://www.mobilearts.org/community-calendar",
    "source": {
     "name": "Mobile Arts Council community calendar",
@@ -13432,7 +14121,7 @@
    },
    "image": null,
    "curation_score": 0,
-   "independent_source_count": 1
+   "independent_source_count": 2
   },
   {
    "id": 556,
@@ -13536,8 +14225,8 @@
     "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/EA47FFCC-713C-4D83-8947-CC42273661DF.png",
     "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 558,
@@ -13736,6 +14425,37 @@
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/CoM-Drive-In-Best-Christmas_414A7242-C0F8-933A-77A54ECFA89B0046_414becd8-ace9-0cae-7fd16bc2292998b5.jpg",
     "credit": "Visit Mobile"
    },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1218,
+   "series_slug": "gilded-age-christmas-tours-of-richards-dar-house",
+   "title": "Gilded Age Christmas Tours of Richards-Dar House",
+   "start": "2026-12-04T00:00:00-06:00",
+   "end": "2026-12-06T23:59:59-06:00",
+   "all_day": true,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "richards-dar-house",
+    "name": "Richards-DAR House Museum",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/gilded-age-christmas-tours-2026-12-04",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -13958,6 +14678,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1240,
+   "series_slug": "flora-bama-s-annual-santa-drop",
+   "title": "Flora-Bama's Annual Santa Drop",
+   "start": "2026-12-05T00:00:00-06:00",
+   "end": "2026-12-05T23:59:59-06:00",
+   "all_day": true,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/flora-bamas-annual-santa-drop-0/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -14285,6 +15036,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1162,
+   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
+   "title": "South Alabama Men's Basketball vs UTSA",
+   "start": "2026-12-05T14:00:00-06:00",
+   "end": "2026-12-05T16:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11711&amp;sport_id=4",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
    "id": 643,
    "series_slug": "paint-and-sip-12-and-up",
    "title": "Paint and Sip",
@@ -14342,6 +15124,37 @@
    "source": {
     "name": "Gulf Coast Exploreum",
     "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1250,
+   "series_slug": "foster-by-clare-keegan",
+   "title": "FOSTER by Clare Keegan",
+   "start": "2026-12-05T19:00:00-06:00",
+   "end": "2026-12-05T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "sophiella-gallery",
+    "name": "Sophiella Gallery",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -14737,6 +15550,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1177,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-12-09T17:30:00-06:00",
+   "end": "2026-12-09T20:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049603",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049603",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 562,
    "series_slug": "wednesday-art-club-ages-5-7",
    "title": "Wednesday Art Club (Ages 8-11)",
@@ -14799,9 +15644,12 @@
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 2
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Celtic-Christmas_580B1201-D4C0-F155-6EB66A94A127386B_581440e6-f59e-09ce-15f09c4cb74dd84f.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
   },
   {
    "id": 818,
@@ -15070,6 +15918,37 @@
    "independent_source_count": 2
   },
   {
+   "id": 1221,
+   "series_slug": "7th-annual-port-city-volley-jolley-christmas-volleyball-tournament",
+   "title": "7th Annual Port City Volley Jolley Christmas Volleyball Tournament",
+   "start": "2026-12-11T07:30:00-06:00",
+   "end": "2026-12-13T16:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "mobile-convention-center",
+    "name": "Mobile Convention Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-7th-annual-port-city-volley-jolley-christmas-volleyball-tournament-2026-12-12",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1013,
    "series_slug": "mobile-botanical-gardens-sketch-club",
    "title": "Mobile Botanical Gardens: Sketch Club",
@@ -15232,6 +16111,69 @@
    "independent_source_count": 1
   },
   {
+   "id": 1178,
+   "series_slug": "17th-annual-charlie-brown-jazz-christmas-concert",
+   "title": "17th Annual Charlie Brown Jazz Christmas Concert",
+   "start": "2026-12-11T19:30:00-06:00",
+   "end": "2026-12-11T22:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$26.93-60.87",
+   "ticket_url": "https://www.ticketweb.com/event/17th-annual-charlie-brown-jazz-soul-kitchen-tickets/14385334",
+   "info_url": "https://www.ticketweb.com/event/17th-annual-charlie-brown-jazz-soul-kitchen-tickets/14385334",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1192,
+   "series_slug": "pensacola-children-s-chorus-christmas-on-the-coast",
+   "title": "Pensacola Children's Chorus: Christmas on the Coast",
+   "start": "2026-12-11T19:30:00-06:00",
+   "end": "2026-12-11T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-11-2026/event/1B006553E25C5A16",
+   "info_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-11-2026/event/1B006553E25C5A16",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 882,
    "series_slug": "the-annual-christmas-lighted-boat-parade",
    "title": "The Annual Christmas Lighted Boat Parade",
@@ -15359,6 +16301,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1210,
+   "series_slug": "semmes-christmas-parade",
+   "title": "Semmes Christmas Parade",
+   "start": "2026-12-12T10:00:00-06:00",
+   "end": "2026-12-12T13:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mary-g-montgomery-high-school",
+    "name": "Mary G. Montgomery High School",
+    "city": "Semmes",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-semmes-christmas-parade-2026-2026-12-12",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1014,
    "series_slug": "excelsior-band-preservation-the-jazz-studio",
    "title": "Excelsior Band Preservation: The Jazz Studio",
@@ -15383,6 +16356,38 @@
    "source": {
     "name": "Mobile Arts Council community calendar",
     "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1193,
+   "series_slug": "pensacola-children-s-chorus-christmas-on-the-coast",
+   "title": "Pensacola Children's Chorus: Christmas on the Coast",
+   "start": "2026-12-12T14:30:00-06:00",
+   "end": "2026-12-12T17:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-12-2026/event/1B006553E2635A22",
+   "info_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-12-2026/event/1B006553E2635A22",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": null,
@@ -15613,6 +16618,38 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1194,
+   "series_slug": "pensacola-children-s-chorus-christmas-on-the-coast",
+   "title": "Pensacola Children's Chorus: Christmas on the Coast",
+   "start": "2026-12-13T14:30:00-06:00",
+   "end": "2026-12-13T17:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-13-2026/event/1B006553E2665A30",
+   "info_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-13-2026/event/1B006553E2665A30",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -15866,8 +16903,8 @@
      "mobile"
     ]
    },
-   "price": "",
-   "ticket_url": "",
+   "price": "$8.76",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-chaos-crescent-theater-tickets/15049553",
    "info_url": "https://www.mobilearts.org/community-calendar",
    "source": {
     "name": "Mobile Arts Council community calendar",
@@ -15876,7 +16913,7 @@
    },
    "image": null,
    "curation_score": 0,
-   "independent_source_count": 1
+   "independent_source_count": 2
   },
   {
    "id": 971,
@@ -16210,37 +17247,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 1055,
-   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
-   "title": "South Alabama Men's Basketball vs Old Dominion",
-   "start": "2026-12-19T15:00:00-06:00",
-   "end": "2026-12-19T17:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports"
-   ],
-   "venue": {
-    "slug": "usa-mitchell-center",
-    "name": "USA Mitchell Center",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11676&amp;sport_id=4",
-   "source": {
-    "name": "South Alabama Athletics",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
-  },
-  {
    "id": 570,
    "series_slug": "painting-the-figure-part-1",
    "title": "Painting the Figure (Part 1)",
@@ -16274,6 +17280,37 @@
    },
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1055,
+   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
+   "title": "South Alabama Men's Basketball vs Old Dominion",
+   "start": "2026-12-19T16:30:00-06:00",
+   "end": "2026-12-19T18:30:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11676&amp;sport_id=4",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
   },
   {
    "id": 364,
@@ -16566,6 +17603,38 @@
    "independent_source_count": 0
   },
   {
+   "id": 1180,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-12-23T17:30:00-06:00",
+   "end": "2026-12-23T20:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049633",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049633",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 421,
    "series_slug": "jim-brickman-a-christmas-celebration",
    "title": "Jim Brickman: A Christmas Celebration",
@@ -16791,6 +17860,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1163,
+   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
+   "title": "South Alabama Men's Basketball vs Mobile",
+   "start": "2026-12-28T18:00:00-06:00",
+   "end": "2026-12-28T20:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11713&amp;sport_id=4",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
    "id": 425,
    "series_slug": "jim-gaffigan-everything-is-wonderful",
    "title": "Jim Gaffigan: Everything is Wonderful!",
@@ -16891,6 +17991,38 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1181,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-12-30T17:30:00-06:00",
+   "end": "2026-12-30T20:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049583",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049583",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -17086,6 +18218,37 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1182,
+   "series_slug": "blackwater-brass-nye-bash",
+   "title": "BLACKWATER BRASS NYE BASH",
+   "start": "2026-12-31T21:00:00-06:00",
+   "end": "2027-01-01T00:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "the-merry-widow",
+    "name": "The Merry Widow",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$13.46",
+   "ticket_url": "https://www.ticketweb.com/event/blackwater-brass-nye-bash-the-merry-widow-tickets/14385924",
+   "info_url": "https://www.ticketweb.com/event/blackwater-brass-nye-bash-the-merry-widow-tickets/14385924",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -17715,9 +18878,12 @@
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 2
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Cinderella-ballet_830A1250-EDCB-BC0B-F6DBB5D44B604D9C_8313a106-d0bf-f34b-a0b9a1fb537760a4.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
   },
   {
    "id": 1020,
@@ -18500,6 +19666,32 @@
    "independent_source_count": 1
   },
   {
+   "id": 1149,
+   "series_slug": "coffee-with-the-chamber-roto-rooter",
+   "title": "Coffee with the Chamber: Roto Rooter",
+   "start": "2027-01-13T08:00:00-06:00",
+   "end": "2027-01-13T09:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "name": "2001 W. I-65 Service Rd. N. Mobile AL 36618"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://my.mobilechamber.com/boacalendar/Details/coffee-with-the-chamber-roto-rooter-1920256?sourceTypeId=Hub",
+   "source": {
+    "name": "Mobile Chamber",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1029,
    "series_slug": "enrg-entrepreneurial-network-resource-group",
    "title": "ENRG (Entrepreneurial Network Resource Group)",
@@ -18530,6 +19722,721 @@
     "url": "https://www.innovation-portal.com/wp-content/uploads/2024/12/enrg-2025-horizontal.png",
     "credit": "Innovation Portal"
    },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1183,
+   "series_slug": "the-sixties-show",
+   "title": "The Sixties Show",
+   "start": "2027-01-13T19:30:00-06:00",
+   "end": "2027-01-13T22:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/the-sixties-show-mobile-alabama-01-13-2027/event/1B006531B92CEE1E",
+   "info_url": "https://www.ticketmaster.com/the-sixties-show-mobile-alabama-01-13-2027/event/1B006531B92CEE1E",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1195,
+   "series_slug": "the-wiz",
+   "title": "The Wiz",
+   "start": "2027-01-13T19:30:00-06:00",
+   "end": "2027-01-13T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/the-wiz-pensacola-florida-01-13-2027/event/1B0064C9D2DC271E",
+   "info_url": "https://www.ticketmaster.com/the-wiz-pensacola-florida-01-13-2027/event/1B0064C9D2DC271E",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1153,
+   "series_slug": "toddler-time",
+   "title": "Toddler Time",
+   "start": "2027-01-14T10:00:00-06:00",
+   "end": "2027-01-14T10:45:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/toddler-time/2027-01-14/",
+   "source": {
+    "name": "Mobile Museum of Art",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2022/08/toddlerrr.jpg",
+    "credit": "Mobile Museum of Art"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1124,
+   "series_slug": "prototyping-lab-open-house-night",
+   "title": "Prototyping Lab Open House Night!",
+   "start": "2027-01-14T16:00:00-06:00",
+   "end": "2027-01-14T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/prototyping-lab-open-house-night/2027-01-14/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-2.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1125,
+   "series_slug": "women-powered-by-ai",
+   "title": "Women Powered by AI",
+   "start": "2027-01-14T17:30:00-06:00",
+   "end": "2027-01-14T19:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/women-powered-by-ai-2/2027-01-14/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2026/10/Women-Powered-by-AI-Logo.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1196,
+   "series_slug": "limited-edition-rivals-replica-game-ball-from-spalding",
+   "title": "Limited Edition Rivals Replica Game Ball From Spalding®",
+   "start": "2027-01-14T19:00:00-06:00",
+   "end": "2027-01-14T22:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/limited-edition-rivals-replica-game-ball-pensacola-florida-01-14-2027/event/1B006504E13145D6",
+   "info_url": "https://www.ticketmaster.com/limited-edition-rivals-replica-game-ball-pensacola-florida-01-14-2027/event/1B006504E13145D6",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1197,
+   "series_slug": "harlem-globetrotters-rivalry-tour",
+   "title": "Harlem Globetrotters: Rivalry Tour",
+   "start": "2027-01-14T19:00:00-06:00",
+   "end": "2027-01-14T22:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "sports"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/harlem-globetrotters-rivalry-tour-pensacola-florida-01-14-2027/event/1B006504C746F59A",
+   "info_url": "https://www.ticketmaster.com/harlem-globetrotters-rivalry-tour-pensacola-florida-01-14-2027/event/1B006504C746F59A",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1198,
+   "series_slug": "ultimate-fan-pass-30-min-exclusive-on-court-access-from-5-30pm-6-00pm",
+   "title": "Ultimate Fan Pass: 30-min Exclusive On-court Access From 5:30pm-6:00pm",
+   "start": "2027-01-14T19:00:00-06:00",
+   "end": "2027-01-14T22:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/ultimate-fan-pass-30min-exclusive-oncourt-pensacola-florida-01-14-2027/event/1B006504DF604224",
+   "info_url": "https://www.ticketmaster.com/ultimate-fan-pass-30min-exclusive-oncourt-pensacola-florida-01-14-2027/event/1B006504DF604224",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1204,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-01-14T19:00:00-06:00",
+   "end": "2027-01-14T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo/2027-01-14/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1167,
+   "series_slug": "drawing-the-head-a-practical-process",
+   "title": "Drawing the Head: A Practical Process",
+   "start": "2027-01-15T10:00:00-06:00",
+   "end": "2027-01-16T16:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "eastern-shore-art-center",
+    "name": "Eastern Shore Art Center",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F60514",
+   "source": {
+    "name": "Eastern Shore Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1229,
+   "series_slug": "9th-annual-king-cake-off",
+   "title": "9th Annual King Cake-Off",
+   "start": "2027-01-15T17:00:00-06:00",
+   "end": "2027-01-15T19:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-convention-center",
+    "name": "Mobile Convention Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/9th-annual-king-cake-off-2026-10-04",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1199,
+   "series_slug": "jerry-seinfeld",
+   "title": "Jerry Seinfeld",
+   "start": "2027-01-15T19:00:00-06:00",
+   "end": "2027-01-15T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/jerry-seinfeld-pensacola-florida-01-15-2027/event/1B006543C0E0F43A",
+   "info_url": "https://www.ticketmaster.com/jerry-seinfeld-pensacola-florida-01-15-2027/event/1B006543C0E0F43A",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1230,
+   "series_slug": "steel-magnolias-multiple-performances",
+   "title": "'STEEL MAGNOLIAS' (Multiple Performances)",
+   "start": "2027-01-15T19:30:00-06:00",
+   "end": "2027-01-24T14:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "joe-jefferson-playhouse",
+    "name": "Joe Jefferson Playhouse",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-steel-magnolias-2027-01-15",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1168,
+   "series_slug": "preschool-paint-party-with-poppy",
+   "title": "Preschool Paint Party with Poppy!",
+   "start": "2027-01-16T10:00:00-06:00",
+   "end": "2027-01-16T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "eastern-shore-art-center",
+    "name": "Eastern Shore Art Center",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F61699",
+   "source": {
+    "name": "Eastern Shore Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1164,
+   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
+   "title": "South Alabama Men's Basketball vs Louisiana Tech",
+   "start": "2027-01-16T15:00:00-06:00",
+   "end": "2027-01-16T17:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11682&amp;sport_id=4",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1154,
+   "series_slug": "painting-the-figure-part-1",
+   "title": "Painting the Figure (Part 1)",
+   "start": "2027-01-16T16:00:00-06:00",
+   "end": "2027-01-16T18:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/painting-the-figure-part-1/2027-01-16/",
+   "source": {
+    "name": "Mobile Museum of Art",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/figure-drawwing.jpg",
+    "credit": "Mobile Museum of Art"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1169,
+   "series_slug": "paint-and-sip-12-and-up",
+   "title": "Paint and Sip",
+   "start": "2027-01-16T17:00:00-06:00",
+   "end": "2027-01-16T19:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F53252",
+   "source": {
+    "name": "Eastern Shore Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1126,
+   "series_slug": "cellobration",
+   "title": "Cellobration",
+   "start": "2027-01-16T19:30:00-06:00",
+   "end": "2027-01-17T14:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/cellobration/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://mobilesymphony.org/wp-content/uploads/2026/04/Concert_Page_Banner_4-scaled.png",
+    "credit": "Mobile Symphony Orchestra"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
+  },
+  {
+   "id": 1202,
+   "series_slug": "heather-mcmahan-burning-down-the-house-tour",
+   "title": "Heather McMahan: Burning Down The House Tour",
+   "start": "2027-01-16T20:00:00-06:00",
+   "end": "2027-01-16T23:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/heather-mcmahan-burning-down-the-house-pensacola-florida-01-16-2027/event/1B00654E949BB1F7",
+   "info_url": "https://www.ticketmaster.com/heather-mcmahan-burning-down-the-house-pensacola-florida-01-16-2027/event/1B00654E949BB1F7",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1155,
+   "series_slug": "driven-to-draw-tuesday-pm",
+   "title": "Driven to Draw Tuesday PM – Jan",
+   "start": "2027-01-19T17:30:00-06:00",
+   "end": "2027-01-19T19:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/driven-to-draw-tuesday-pm-jan/2027-01-19/",
+   "source": {
+    "name": "Mobile Museum of Art",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/drawing-pm.jpg",
+    "credit": "Mobile Museum of Art"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1205,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-01-19T19:00:00-06:00",
+   "end": "2027-01-19T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-01-19/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1249,
+   "series_slug": "crescent-theater-crescent-comedy-chaos",
+   "title": "Crescent Theater: Crescent Comedy Chaos",
+   "start": "2027-01-20T19:00:00-06:00",
+   "end": "2027-01-20T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   }
