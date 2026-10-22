@@ -1985,7 +1985,7 @@
 
 - slug: flambeaux-hall
   name: Flambeaux Hall
-  aliases: ["254 St. Anthony St., Mobile", "Flambeaux Hall"]
+  aliases: ["254 St. Anthony St., Mobile", "Flambeaux Hall", "254 St. Anthony Street"]
   domains: []
   address: 254 St Anthony St
   city: Mobile
@@ -2115,3 +2115,136 @@
   zip: "36608"
   regions: [mobile]
   notes: "Performing arts venue on the campus of St. Paul's Episcopal School, used for school and community theatre bookings."
+
+# --- resolved from issue #12 (2026-10-22), verified by web research ---
+
+- slug: carol-hodgson-arena
+  name: Carol Hodgson Arena
+  aliases: ["Carol Hodgson Arena Bay Minette, AL", "Carol Hodgson Arena"]
+  domains: []
+  address: "43420 Pine Grove Road"
+  city: Bay Minette
+  state: AL
+  zip: "36507"
+  regions: [mobile]
+  notes: "City of Bay Minette-owned equestrian arena off Pine Grove Road; day rentals are available through the city's recreation department."
+
+- slug: semmes-honor-park
+  name: Honor Park
+  aliases: ["City of Semmes Honor Park", "Honor Park"]
+  domains: []
+  address: "4100 Wulff Road East"
+  city: Semmes
+  state: AL
+  zip: "36575"
+  regions: [mobile]
+  notes: "City of Semmes park with an amphitheater; hosts the city's tree lighting, Christmas market, and seasonal festivals."
+
+- slug: saraland-municipal-complex
+  name: Saraland Municipal Complex
+  aliases: ["Saraland Municipal Complex"]
+  domains: ["saraland.org"]
+  city: Saraland
+  state: AL
+  zip: "36571"
+  regions: [mobile]
+  notes: "The city's new municipal building on Saraland Blvd S, opened 2025; houses the mayor's office, council chambers, and municipal court."
+
+- slug: tricentennial-park
+  name: Frederick D. Richardson Jr. Tricentennial Park
+  aliases: ["Tricentennial Park"]
+  domains: []
+  address: "2121 Bragg Ave"
+  city: Mobile
+  state: AL
+  zip: "36617"
+  regions: [mobile]
+  notes: "City of Mobile park on Bragg Avenue."
+
+- slug: corpus-christi-catholic-school
+  name: Corpus Christi Catholic School
+  aliases: ["Corpus Christi Catholic School"]
+  domains: []
+  address: "6300 McKenna Dr"
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "Catholic parish school and church in West Mobile off McKenna Drive."
+
+- slug: grand-bay-library
+  name: Grand Bay Library
+  aliases: ["Grand Bay Library"]
+  domains: ["mobilepubliclibrary.org"]
+  address: "10329 Freeland Ave"
+  city: Grand Bay
+  state: AL
+  zip: "36541"
+  regions: [mobile]
+  notes: "Mobile County Public Library branch in Grand Bay."
+
+- slug: national-museum-of-naval-aviation
+  name: National Museum of Naval Aviation
+  aliases: ["National Museum of Naval Aviation"]
+  domains: ["navalaviationmuseum.org"]
+  address: "1750 Radford Blvd, Suite C"
+  city: Pensacola
+  state: FL
+  zip: "32508"
+  regions: [coastal]
+  notes: "Free museum on Naval Air Station Pensacola; a common public viewing spot for Blue Angels practices."
+
+- slug: virginia-dillard-smith-toulminville-library
+  name: Virginia Dillard Smith/Toulminville Branch Library
+  aliases: ["Virginia Dillard Smith/Toulminville Branch Library"]
+  domains: ["mobilepubliclibrary.org"]
+  address: "601 Stanton Rd"
+  city: Mobile
+  state: AL
+  zip: "36617"
+  regions: [mobile]
+  notes: "Mobile Public Library branch in the Toulminville neighborhood."
+
+- slug: first-baptist-church-mobile
+  name: First Baptist Church of Mobile
+  aliases: ["First Baptist Church of Mobile", "First Baptist Church Mobile"]
+  domains: []
+  address: "806 Government St"
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Downtown Baptist church built in 1909; distinct from First Baptist Church North Mobile in Saraland."
+
+- slug: baldwin-county-commission-auditorium
+  name: Baldwin County Commission Central Annex Auditorium
+  aliases: ["Baldwin County Commission Auditorium, 22251 Palmer St., Robertsdale, AL 36567", "Baldwin County Commission Auditorium", "Baldwin County Central Annex Auditorium"]
+  domains: ["baldwincountyal.gov"]
+  address: "22251 Palmer St"
+  city: Robertsdale
+  state: AL
+  zip: "36567"
+  regions: [coastal]
+  notes: "County government auditorium used for commission meetings and public classes."
+
+- slug: azalea-city-golf-course
+  name: Azalea City Golf Course
+  aliases: ["Azalea City Golf Course"]
+  domains: []
+  address: "1000 Gaillard Dr"
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "City of Mobile's 18-hole public golf course."
+
+- slug: st-marys-catholic-church-mobile
+  name: St. Mary's Catholic Church
+  aliases: ["St. Mary's Parish", "St. Mary's Catholic Church"]
+  domains: []
+  address: "1453 Old Shell Rd"
+  city: Mobile
+  state: AL
+  zip: "36604"
+  regions: [mobile]
+  notes: "Catholic parish on Old Shell Road in Midtown Mobile."
