@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-10-22T14:40:05Z",
+ "generated": "2026-10-22T14:50:45Z",
  "events": [
   {
    "id": 870,
@@ -519,37 +519,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 295,
-   "series_slug": "red-not-chili-peppers",
-   "title": "Red Not Chili Peppers",
-   "start": "2026-10-24T20:00:00-05:00",
-   "end": "2026-10-24T23:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "vinyl-music-hall",
-    "name": "Vinyl Music Hall",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvZ7-",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvZ7-",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 296,
    "series_slug": "pensacola-bay-center-after-game-skate",
    "title": "Pensacola Bay Center After Game Skate",
@@ -925,6 +894,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1239,
+   "series_slug": "blue-angels-practice-schedule",
+   "title": "Blue Angels Practice Schedule",
+   "start": "2026-10-28T00:00:00-05:00",
+   "end": "2026-10-28T23:59:59-05:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "national-museum-of-naval-aviation",
+    "name": "National Museum of Naval Aviation",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/blue-angels-practice-schedule-0/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1623,38 +1623,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1141,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-11-03T07:20:00-06:00",
-   "end": "2026-11-03T08:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9163",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1142,
    "series_slug": "cardio-dance",
    "title": "Cardio Dance",
@@ -1709,6 +1677,38 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9644",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1141,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-11-03T17:00:00-06:00",
+   "end": "2026-11-03T18:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9163",
    "source": {
     "name": "City of Orange Beach",
     "tier": "A",
@@ -2165,11 +2165,42 @@
    "independent_source_count": 1
   },
   {
+   "id": 1248,
+   "series_slug": "homeownership-education-class",
+   "title": "Homeownership Education Class",
+   "start": "2026-11-07T08:45:00-06:00",
+   "end": "2026-11-07T15:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "baldwin-county-commission-auditorium",
+    "name": "Baldwin County Commission Central Annex Auditorium",
+    "city": "Robertsdale",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/homeownership-education-class-43699",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1185,
    "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
-   "title": "Pensacola Bay Center Public Skate 1:30-2:30pm",
-   "start": "2026-11-07T13:30:00-06:00",
-   "end": "2026-11-07T16:30:00-06:00",
+   "title": "Pensacola Bay Center Public Skate 4:30-5:30pm",
+   "start": "2026-11-07T16:30:00-06:00",
+   "end": "2026-11-07T19:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -2296,9 +2327,9 @@
   {
    "id": 1186,
    "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
-   "title": "Pensacola Bay Center Public Skate 1:30-2:30pm",
-   "start": "2026-11-08T13:30:00-06:00",
-   "end": "2026-11-08T16:30:00-06:00",
+   "title": "Pensacola Bay Center Public Skate 4:30-5:30pm",
+   "start": "2026-11-08T16:30:00-06:00",
+   "end": "2026-11-08T19:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -2739,9 +2770,9 @@
   {
    "id": 1189,
    "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
-   "title": "Pensacola Bay Center Public Skate 1:30-2:30pm",
-   "start": "2026-11-15T13:30:00-06:00",
-   "end": "2026-11-15T16:30:00-06:00",
+   "title": "Pensacola Bay Center Public Skate 4:30-5:30pm",
+   "start": "2026-11-15T16:30:00-06:00",
+   "end": "2026-11-15T19:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -4942,13 +4973,12 @@
   {
    "id": 1197,
    "series_slug": "harlem-globetrotters-rivalry-tour",
-   "title": "Harlem Globetrotters: Rivalry Tour",
+   "title": "Harlem Globetrotters MVP Court Pass (CHECK IN BY 6:30pm)",
    "start": "2027-01-14T19:00:00-06:00",
    "end": "2027-01-14T22:00:00-06:00",
    "all_day": false,
-   "category": "family",
+   "category": "sports",
    "categories": [
-    "family",
     "sports"
    ],
    "venue": {

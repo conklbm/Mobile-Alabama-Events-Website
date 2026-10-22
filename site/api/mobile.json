@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-10-22T14:40:05Z",
+ "generated": "2026-10-22T14:50:45Z",
  "events": [
   {
    "id": 620,
@@ -508,6 +508,38 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1217,
+   "series_slug": "saraland-s-8th-annual-trunk-or-treat",
+   "title": "Saraland's 8th Annual Trunk or Treat",
+   "start": "2026-10-22T17:00:00-05:00",
+   "end": "2026-10-22T18:30:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "saraland-municipal-complex",
+    "name": "Saraland Municipal Complex",
+    "city": "Saraland",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-saralands-8th-annual-trunk-or-treat-2026-10-22",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1282,6 +1314,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1242,
+   "series_slug": "2nd-annual-grit-gold-and-glory-rodeo",
+   "title": "2nd Annual Grit, Gold and Glory Rodeo",
+   "start": "2026-10-23T19:30:00-05:00",
+   "end": "2026-10-23T22:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "carol-hodgson-arena",
+    "name": "Carol Hodgson Arena",
+    "city": "Bay Minette",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/2nd-annual-grit-gold-and-glory-rodeo-43708",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 119,
    "series_slug": "jd-simo-w-luther-dickinson-black-joe-lewis-the-honeybears",
    "title": "Jd Simo W/ Luther Dickinson X Black Joe Lewis and the Honeybears",
@@ -1606,6 +1669,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1206,
+   "series_slug": "rattler-boo-bash-5k",
+   "title": "Rattler Boo Bash 5k",
+   "start": "2026-10-24T07:30:00-05:00",
+   "end": "2026-10-24T09:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "sports"
+   ],
+   "venue": {
+    "slug": "tricentennial-park",
+    "name": "Frederick D. Richardson Jr. Tricentennial Park",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/rattler-boo-bash-5k/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/10/rattler-boo-bash.png?fit=1080%2C1350&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 492,
    "series_slug": "october-living-history-drill",
    "title": "October Living History Drill",
@@ -1760,37 +1858,6 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F54822",
-   "source": {
-    "name": "Eastern Shore Art Center",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
-  },
-  {
-   "id": 627,
-   "series_slug": "we-re-dye-ing-over-here-dye-processes",
-   "title": "We're Dye-ing Over Here (Dye Processes)",
-   "start": "2026-10-24T10:00:00-05:00",
-   "end": "2026-10-24T16:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "eastern-shore-art-center",
-    "name": "Eastern Shore Art Center",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F54325",
    "source": {
     "name": "Eastern Shore Art Center",
     "tier": "A",
@@ -2259,6 +2326,68 @@
    "independent_source_count": 2
   },
   {
+   "id": 1216,
+   "series_slug": "howl-o-ween-dog-costume-contest-and-parade",
+   "title": "Howl-O-Ween Dog Costume Contest and Parade",
+   "start": "2026-10-24T16:00:00-05:00",
+   "end": "2026-10-24T18:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "semmes-honor-park",
+    "name": "Honor Park",
+    "city": "Semmes",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-howl-o-ween-dog-costume-contest-parade-2026-10-24",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1220,
+   "series_slug": "semmes-howl-o-ween-adoption-event",
+   "title": "Semmes Howl-O-Ween Adoption Event",
+   "start": "2026-10-24T16:00:00-05:00",
+   "end": "2026-10-24T18:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "semmes-honor-park",
+    "name": "Honor Park",
+    "city": "Semmes",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/semmes-howl-o-ween-adoption-event-2026-10-24",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 592,
    "series_slug": "fear-fest-poltergeist",
    "title": "Fear Fest: Poltergeist",
@@ -2582,6 +2711,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1244,
+   "series_slug": "2nd-annual-grit-gold-and-glory-rodeo",
+   "title": "2nd Annual Grit, Gold and Glory Rodeo",
+   "start": "2026-10-24T19:30:00-05:00",
+   "end": "2026-10-24T22:00:00-05:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "carol-hodgson-arena",
+    "name": "Carol Hodgson Arena",
+    "city": "Bay Minette",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/2nd-annual-grit-gold-and-glory-rodeo-10-24-2026-43709",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1070,
    "series_slug": "mobile-roast-league-comedians-fight-with-words-crescent-theater",
    "title": "Mobile Roast League: Comedians Fight With Words!",
@@ -2642,6 +2802,40 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 1208,
+   "series_slug": "boo-bash-2026",
+   "title": "Boo Bash 2026",
+   "start": "2026-10-25T14:00:00-05:00",
+   "end": "2026-10-25T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "corpus-christi-catholic-school",
+    "name": "Corpus Christi Catholic School",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/boo-bash-2026/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/10/boo-bash-2026.jpg?fit=960%2C541&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 805,
@@ -2911,7 +3105,7 @@
   {
    "id": 357,
    "series_slug": "drew-tessier",
-   "title": "Drew Tessier",
+   "title": "Comedian Drew Tessier",
    "start": "2026-10-25T19:00:00-05:00",
    "end": "2026-10-25T22:00:00-05:00",
    "all_day": false,
@@ -3175,6 +3369,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1214,
+   "series_slug": "not-so-scary-halloween-party",
+   "title": "Not So Scary Halloween Party",
+   "start": "2026-10-27T16:30:00-05:00",
+   "end": "2026-10-27T18:30:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "grand-bay-library",
+    "name": "Grand Bay Library",
+    "city": "Grand Bay",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-not-so-scary-halloween-party-2026-10-27",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 515,
    "series_slug": "tuesday-pm-wheel-throwing-october-december",
    "title": "Tuesday PM Wheel Throwing (October-December)",
@@ -3409,6 +3634,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1239,
+   "series_slug": "blue-angels-practice-schedule",
+   "title": "Blue Angels Practice Schedule",
+   "start": "2026-10-28T00:00:00-05:00",
+   "end": "2026-10-28T23:59:59-05:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "national-museum-of-naval-aviation",
+    "name": "National Museum of Naval Aviation",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/blue-angels-practice-schedule-0/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -3794,37 +4050,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1050,
-   "series_slug": "south-alabama-women-s-soccer-vs-georgia-southern-pink-out",
-   "title": "South Alabama Women's Soccer vs Georgia Southern - Pink Out",
-   "start": "2026-10-29T00:00:00-05:00",
-   "end": "2026-10-29T23:59:59-05:00",
-   "all_day": true,
-   "category": "sports",
-   "categories": [
-    "sports"
-   ],
-   "venue": {
-    "slug": "usa-the-cage",
-    "name": "The Cage (South Alabama Soccer & Track)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11457&amp;sport_id=21",
-   "source": {
-    "name": "South Alabama Athletics",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
-  },
-  {
    "id": 924,
    "series_slug": "fairhope-farmers-fall-market-2026",
    "title": "Fairhope Farmers' Fall Market - 2026",
@@ -3912,6 +4137,38 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://www.mobilecountyal.gov/community_events/events/habitat-for-humanity-women-build-2026-2026-10-29",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1213,
+   "series_slug": "great-movie-adventure-hotel-transylvania-3",
+   "title": "Great Movie Adventure: 'Hotel Transylvania 3'",
+   "start": "2026-10-29T15:00:00-05:00",
+   "end": "2026-10-29T17:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "food"
+   ],
+   "venue": {
+    "slug": "virginia-dillard-smith-toulminville-library",
+    "name": "Virginia Dillard Smith/Toulminville Branch Library",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-great-movie-adventure-hotel-transylvania-3-2026-10-29",
    "source": {
     "name": "Mobile County community calendar",
     "tier": "C",
@@ -4205,6 +4462,41 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 1226,
+   "series_slug": "octubafest",
+   "title": "Octubafest",
+   "start": "2026-10-29T18:00:00-05:00",
+   "end": "2026-10-29T20:00:00-05:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "first-baptist-church-mobile",
+    "name": "First Baptist Church of Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/octubafest/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/IMG_5264.jpg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 3,
+   "independent_source_count": 3
   },
   {
    "id": 722,
@@ -5072,40 +5364,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 852,
-   "series_slug": "the-bayou-classic-car-show",
-   "title": "The Bayou Classic Car Show",
-   "start": "2026-10-31T00:00:00-05:00",
-   "end": "2026-10-31T23:59:59-05:00",
-   "all_day": true,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "bayou-sara-baptist-church",
-    "name": "Bayou Sara Baptist Church",
-    "city": "Saraland",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/the-6th-annual-bayou-classic-car-show-2026-10-10",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Bayou-Sara-Car-Show_82C744FC-BBCF-540B-BE3ECE88DC252CD5_82d2f830-cd40-ab86-8f68365710618c0d.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 2,
-   "independent_source_count": 2
-  },
-  {
    "id": 875,
    "series_slug": "the-original-german-sausage-festival",
    "title": "The Original German Sausage Festival",
@@ -5265,6 +5523,40 @@
    },
    "curation_score": 1,
    "independent_source_count": 1
+  },
+  {
+   "id": 852,
+   "series_slug": "the-bayou-classic-car-show",
+   "title": "The 6th Annual Bayou Classic Car Show",
+   "start": "2026-10-31T09:00:00-05:00",
+   "end": "2026-10-31T15:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "bayou-sara-baptist-church",
+    "name": "Bayou Sara Baptist Church",
+    "city": "Saraland",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/the-6th-annual-bayou-classic-car-show-2026-10-10",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Bayou-Sara-Car-Show_82C744FC-BBCF-540B-BE3ECE88DC252CD5_82d2f830-cd40-ab86-8f68365710618c0d.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 629,
@@ -7351,37 +7643,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 632,
-   "series_slug": "hollywood-in-your-pocket-the-art-of-iphone-photography",
-   "title": "Hollywood in Your Pocket - The Art of Iphone Photography",
-   "start": "2026-11-06T09:00:00-06:00",
-   "end": "2026-11-07T13:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "eastern-shore-art-center",
-    "name": "Eastern Shore Art Center",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F54819",
-   "source": {
-    "name": "Eastern Shore Art Center",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
-  },
-  {
    "id": 584,
    "series_slug": "cultivate-growing-stem-educators-prek-k-session",
    "title": "Cultivate: Growing STEM Educators 6 – 8 Session",
@@ -8057,6 +8318,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1248,
+   "series_slug": "homeownership-education-class",
+   "title": "Homeownership Education Class",
+   "start": "2026-11-07T08:45:00-06:00",
+   "end": "2026-11-07T15:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "baldwin-county-commission-auditorium",
+    "name": "Baldwin County Commission Central Annex Auditorium",
+    "city": "Robertsdale",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/homeownership-education-class-43699",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 688,
    "series_slug": "abba-shrine-christmas-extravaganza",
    "title": "Abba Shrine Christmas Extravaganza",
@@ -8417,37 +8709,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1185,
-   "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
-   "title": "Pensacola Bay Center Public Skate 1:30-2:30pm",
-   "start": "2026-11-07T13:30:00-06:00",
-   "end": "2026-11-07T16:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-07-2026/event/1B00654ECF2F889E",
-   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-07-2026/event/1B00654ECF2F889E",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 530,
    "series_slug": "landscapes-in-oil",
    "title": "Landscapes in Oil",
@@ -8479,6 +8740,37 @@
     "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/Landscapes-in-Oil.jpg",
     "credit": "Mobile Museum of Art"
    },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1185,
+   "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
+   "title": "Pensacola Bay Center Public Skate 4:30-5:30pm",
+   "start": "2026-11-07T16:30:00-06:00",
+   "end": "2026-11-07T19:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-07-2026/event/1B00654ECF2F889E",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-07-2026/event/1B00654ECF2F889E",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -8554,7 +8846,8 @@
    "all_day": false,
    "category": "music",
    "categories": [
-    "music"
+    "music",
+    "food"
    ],
    "venue": {
     "slug": "cooper-riverside-park",
@@ -8743,37 +9036,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1186,
-   "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
-   "title": "Pensacola Bay Center Public Skate 1:30-2:30pm",
-   "start": "2026-11-08T13:30:00-06:00",
-   "end": "2026-11-08T16:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-08-2026/event/1B00654ECF3C88DE",
-   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-08-2026/event/1B00654ECF3C88DE",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 754,
    "series_slug": "wine-resin-class",
    "title": "Wine & Resin Class",
@@ -8830,6 +9092,37 @@
    "source": {
     "name": "Mobile Arts Council community calendar",
     "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1186,
+   "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
+   "title": "Pensacola Bay Center Public Skate 4:30-5:30pm",
+   "start": "2026-11-08T16:30:00-06:00",
+   "end": "2026-11-08T19:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-08-2026/event/1B00654ECF3C88DE",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-08-2026/event/1B00654ECF3C88DE",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": null,
@@ -10713,9 +11006,12 @@
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/IMG_2717_E13B79BD-0141-3278-66CCEC03255D8F79_e1697bc9-ebda-0ee9-f3d5d39affdebb28.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 1002,
@@ -10978,37 +11274,6 @@
    "independent_source_count": 2
   },
   {
-   "id": 1189,
-   "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
-   "title": "Pensacola Bay Center Public Skate 1:30-2:30pm",
-   "start": "2026-11-15T13:30:00-06:00",
-   "end": "2026-11-15T16:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-15-2026/event/1B00654ECF4A8915",
-   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-15-2026/event/1B00654ECF4A8915",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 720,
    "series_slug": "mystic-dollys-of-folly-boot-scootin-bingo",
    "title": "Mystic Dollys of Folly Boot Scootin' Bingo",
@@ -11074,7 +11339,7 @@
   {
    "id": 809,
    "series_slug": "2nd-annual-excelsior-band-keep-the-music-playing-fundraiser",
-   "title": "Keep the Music Playing",
+   "title": "\"Keep the Music Playing\" Annual Gala",
    "start": "2026-11-15T15:00:00-06:00",
    "end": "2026-11-15T18:00:00-06:00",
    "all_day": false,
@@ -11104,6 +11369,37 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
+  },
+  {
+   "id": 1189,
+   "series_slug": "pensacola-bay-center-public-ice-skating-1-30-2-30pm",
+   "title": "Pensacola Bay Center Public Skate 4:30-5:30pm",
+   "start": "2026-11-15T16:30:00-06:00",
+   "end": "2026-11-15T19:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-15-2026/event/1B00654ECF4A8915",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-public-skate-130230pm-pensacola-florida-11-15-2026/event/1B00654ECF4A8915",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 1173,
@@ -11559,9 +11855,8 @@
    "start": "2026-11-18T09:00:00-06:00",
    "end": "2026-11-18T12:00:00-06:00",
    "all_day": false,
-   "category": "arts",
+   "category": "community",
    "categories": [
-    "arts",
     "community"
    ],
    "venue": {
@@ -12527,6 +12822,38 @@
    "independent_source_count": 0
   },
   {
+   "id": 1211,
+   "series_slug": "semmes-christmas-market-and-tree-lighting",
+   "title": "Semmes Christmas Market and Tree Lighting",
+   "start": "2026-11-21T12:00:00-06:00",
+   "end": "2026-11-21T19:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "semmes-honor-park",
+    "name": "Honor Park",
+    "city": "Semmes",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-semmes-christmas-market-tree-lighting-2026-11-21",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 545,
    "series_slug": "landscapes-in-oil",
    "title": "Landscapes in Oil",
@@ -13088,38 +13415,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 1175,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-11-25T17:30:00-06:00",
-   "end": "2026-11-25T20:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049653",
-   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049653",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 550,
    "series_slug": "wednesday-art-club-ages-5-7",
    "title": "Wednesday Art Club (Ages 8-11)",
@@ -13151,6 +13446,37 @@
     "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/06/kids1.jpg",
     "credit": "Mobile Museum of Art"
    },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1175,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-11-25T20:00:00-06:00",
+   "end": "2026-11-25T23:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049653",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049653",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -14619,6 +14945,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1224,
+   "series_slug": "a-christmas-story-in-the-park",
+   "title": "'A Christmas Story' in the Park",
+   "start": "2026-12-04T18:00:00-06:00",
+   "end": "2026-12-04T21:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "arts"
+   ],
+   "venue": {
+    "slug": "azalea-city-golf-course",
+    "name": "Azalea City Golf Course",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-a-christmas-story-in-the-park-2026-12-04",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 277,
    "series_slug": "christmas-with-chris-tomlin",
    "title": "Christmas with Chris Tomlin",
@@ -15065,6 +15423,38 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 1223,
+   "series_slug": "lighting-up-midtown-festival",
+   "title": "Lighting Up Midtown Festival",
+   "start": "2026-12-05T14:00:00-06:00",
+   "end": "2026-12-05T21:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "st-marys-catholic-church-mobile",
+    "name": "St. Mary's Catholic Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-lighting-up-midtown-2026-12-05",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 643,
@@ -15550,38 +15940,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1177,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-12-09T17:30:00-06:00",
-   "end": "2026-12-09T20:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049603",
-   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049603",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 562,
    "series_slug": "wednesday-art-club-ages-5-7",
    "title": "Wednesday Art Club (Ages 8-11)",
@@ -15650,6 +16008,37 @@
    },
    "curation_score": 2,
    "independent_source_count": 3
+  },
+  {
+   "id": 1177,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-12-09T20:00:00-06:00",
+   "end": "2026-12-09T23:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049603",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049603",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 818,
@@ -16580,37 +16969,6 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://www.mobilecountyal.gov/community_events/events/historical-lecture-series-clotilda-survivors-living-legacy-2026-12-13",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 794,
-   "series_slug": "historical-lecture-series-a-taste-of-mobile",
-   "title": "Historical Lecture Series: A Taste of Mobile",
-   "start": "2026-12-13T14:00:00-06:00",
-   "end": "2026-12-13T15:30:00-06:00",
-   "all_day": false,
-   "category": "food",
-   "categories": [
-    "food"
-   ],
-   "venue": {
-    "slug": "cox-deasy-cottage-at-historic-oakleigh",
-    "name": "Cox-Deasy Cottage at Historic Oakleigh",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/historical-lecture-series-a-taste-of-mobile-2026-12-13",
    "source": {
     "name": "Mobile County community calendar",
     "tier": "C",
@@ -17603,38 +17961,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 1180,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-12-23T17:30:00-06:00",
-   "end": "2026-12-23T20:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049633",
-   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049633",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 421,
    "series_slug": "jim-brickman-a-christmas-celebration",
    "title": "Jim Brickman: A Christmas Celebration",
@@ -17656,6 +17982,37 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/jim-brickman-a-christmas-celebration-pensacola-florida-12-23-2026/event/1B00651BE3F0C184",
    "info_url": "https://www.ticketmaster.com/jim-brickman-a-christmas-celebration-pensacola-florida-12-23-2026/event/1B00651BE3F0C184",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1180,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-12-23T20:00:00-06:00",
+   "end": "2026-12-23T23:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049633",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049633",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -17994,38 +18351,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1181,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-12-30T17:30:00-06:00",
-   "end": "2026-12-30T20:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049583",
-   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049583",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 573,
    "series_slug": "wednesday-art-club-ages-5-7",
    "title": "Wednesday Art Club (Ages 8-11)",
@@ -18057,6 +18382,37 @@
     "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/06/kids1.jpg",
     "credit": "Mobile Museum of Art"
    },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1181,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-12-30T20:00:00-06:00",
+   "end": "2026-12-30T23:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049583",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049583",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -18281,37 +18637,6 @@
    "image": null,
    "curation_score": 1,
    "independent_source_count": 1
-  },
-  {
-   "id": 646,
-   "series_slug": "sculpting-the-figure",
-   "title": "Sculpting the Figure",
-   "start": "2027-01-01T09:30:00-06:00",
-   "end": "2027-02-26T12:30:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "eastern-shore-art-center",
-    "name": "Eastern Shore Art Center",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F53403",
-   "source": {
-    "name": "Eastern Shore Art Center",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
   },
   {
    "id": 617,
@@ -19271,38 +19596,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1067,
-   "series_slug": "sculpting-the-figure",
-   "title": "Class: Sculpting the Figure",
-   "start": "2027-01-08T09:30:00-06:00",
-   "end": "2027-02-26T12:30:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "eastern-shore-art-center",
-    "name": "Eastern Shore Art Center",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F53403",
-   "source": {
-    "name": "Eastern Shore Art Center",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
-  },
-  {
    "id": 1068,
    "series_slug": "animals-in-clay",
    "title": "Animals in Clay",
@@ -19925,13 +20218,12 @@
   {
    "id": 1197,
    "series_slug": "harlem-globetrotters-rivalry-tour",
-   "title": "Harlem Globetrotters: Rivalry Tour",
+   "title": "Harlem Globetrotters MVP Court Pass (CHECK IN BY 6:30pm)",
    "start": "2027-01-14T19:00:00-06:00",
    "end": "2027-01-14T22:00:00-06:00",
    "all_day": false,
-   "category": "family",
+   "category": "sports",
    "categories": [
-    "family",
     "sports"
    ],
    "venue": {
@@ -20282,8 +20574,7 @@
    "all_day": false,
    "category": "music",
    "categories": [
-    "music",
-    "arts"
+    "music"
    ],
    "venue": {
     "slug": "saenger-theatre",
