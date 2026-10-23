@@ -2248,3 +2248,25 @@
   zip: "36604"
   regions: [mobile]
   notes: "Catholic parish on Old Shell Road in Midtown Mobile."
+
+- slug: ina-pullen-smallwood-memorial-library
+  name: Ina Pullen Smallwood Memorial Library
+  aliases: ["Ina Pullen Smallwood Memorial Library", "Chickasaw Public Library"]
+  domains: ["inapullensmallwoodmemoriallibrary.com"]
+  address: "224 Grant St"
+  city: Chickasaw
+  state: AL
+  zip: "36611"
+  regions: [mobile]
+  notes: "Chickasaw's public library, just north of downtown Mobile."
+
+- slug: empanola-mobile
+  name: Empanola Mobile
+  aliases: ["Empanola Mobile"]
+  domains: ["empanolamobile.com"]
+  address: "4415 Old Shell Rd, Ste C"
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "Empanada restaurant on Old Shell Road near Midtown; hosts Impact100 Mobile's monthly coffee meetup."

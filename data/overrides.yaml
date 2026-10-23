@@ -28,6 +28,10 @@ never_merge:
   - [658, 654]   # Eastern Shore Art Center: Beginning Watercolors AM vs Beginning Acrylics AM are different classes
   - [495, 494]   # USS Alabama Veterans Day: the Concert (evening) and the Parade of Flags/Celebration (afternoon) are separate program components, confirmed across multiple years' listings
   - [1055, 615]  # USA basketball: Men's vs Old Dominion and Women's vs Marshall are different teams and different opponents
+  - [1171, 997]  # Crescent Theater, Nov 4: "Comedy Workshop" (5:30pm, beginner joke-writing class) vs "Comedy Chaos" (8pm, 18+ open-mic show) — separate ticketed products, same night
+  - [1174, 1004] # Crescent Theater, Nov 18: same Workshop/Chaos pairing
+  - [1176, 1009] # Crescent Theater, Dec 2: same Workshop/Chaos pairing
+  - [1179, 1016] # Crescent Theater, Dec 16: same Workshop/Chaos pairing
 
 # Confirm cancellation (occurrence id) — removes it from the site.
 cancelled:
