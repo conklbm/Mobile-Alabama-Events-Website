@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-10-23T14:47:10Z",
+ "generated": "2026-10-23T17:53:10Z",
  "events": [
   {
    "id": 870,
@@ -151,9 +151,9 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/underwater-pumpkin-carving-at-the-alabama-aquarium/24173/",
+   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
    "source": {
-    "name": "Visit Mobile",
+    "name": "92ZEW Weekend Rundown",
     "tier": "C",
     "redistributable": false
    },
@@ -161,8 +161,8 @@
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/DISL-Tank-or-Treat_E2B40E8C-B515-1F3C-4F6401B5128A1CE1_e2bcc247-a358-0364-371e2495c2acc9cd.png",
     "credit": "Visit Mobile"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 1237,
@@ -330,6 +330,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1253,
+   "series_slug": "primal-fear",
+   "title": "Primal Fear",
+   "start": "2026-10-23T18:00:00-05:00",
+   "end": "2026-10-23T21:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 247,
    "series_slug": "island-fights-100",
    "title": "Island Fights 100",
@@ -421,6 +452,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1262,
+   "series_slug": "primal-fear",
+   "title": "Primal Fear",
+   "start": "2026-10-24T18:00:00-05:00",
+   "end": "2026-10-24T21:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {

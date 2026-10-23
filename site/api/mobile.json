@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-10-23T14:47:10Z",
+ "generated": "2026-10-23T17:53:10Z",
  "events": [
   {
    "id": 620,
@@ -510,9 +510,9 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/underwater-pumpkin-carving-at-the-alabama-aquarium/24173/",
+   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
    "source": {
-    "name": "Visit Mobile",
+    "name": "92ZEW Weekend Rundown",
     "tier": "C",
     "redistributable": false
    },
@@ -520,8 +520,8 @@
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/DISL-Tank-or-Treat_E2B40E8C-B515-1F3C-4F6401B5128A1CE1_e2bcc247-a358-0364-371e2495c2acc9cd.png",
     "credit": "Visit Mobile"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 1237,
@@ -743,6 +743,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1253,
+   "series_slug": "primal-fear",
+   "title": "Primal Fear",
+   "start": "2026-10-23T18:00:00-05:00",
+   "end": "2026-10-23T21:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 247,
    "series_slug": "island-fights-100",
    "title": "Island Fights 100",
@@ -901,8 +932,8 @@
     "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/Romeo-and-Juliette-square-w-logo.png",
     "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 2,
-   "independent_source_count": 2
+   "curation_score": 3,
+   "independent_source_count": 3
   },
   {
    "id": 915,
@@ -1318,8 +1349,8 @@
     "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 1206,
@@ -1777,8 +1808,8 @@
     "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/family-day-19x-e1789595327178.jpg",
     "credit": "Mobile Museum of Art"
    },
-   "curation_score": 1,
-   "independent_source_count": 2
+   "curation_score": 2,
+   "independent_source_count": 3
   },
   {
    "id": 993,
@@ -1809,6 +1840,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1257,
+   "series_slug": "3rd-annual-causeway-classic-wooden-boat-show",
+   "title": "3rd Annual Causeway Classic Wooden Boat Show",
+   "start": "2026-10-24T11:00:00-05:00",
+   "end": "2026-10-24T17:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "blue-gill",
+    "name": "Blue Gill Restaurant",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1908,8 +1970,8 @@
     "url": "https://bellingrath.org/wp-content/uploads/2026/05/FB-EVENT-COVERS-WEBSITE-IMAGES-BLOG-IMAGES-13.png",
     "credit": "Bellingrath Gardens and Home"
    },
-   "curation_score": 2,
-   "independent_source_count": 3
+   "curation_score": 3,
+   "independent_source_count": 4
   },
   {
    "id": 710,
@@ -2135,6 +2197,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1260,
+   "series_slug": "fearfest-at-the-exploreum",
+   "title": "Fearfest at the Exploreum",
+   "start": "2026-10-24T17:00:00-05:00",
+   "end": "2026-10-24T21:00:00-05:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "gulf-coast-exploreum",
+    "name": "Gulf Coast Exploreum Science Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 717,
    "series_slug": "bite-before-the-ballet",
    "title": "Bite Before the Ballet",
@@ -2237,6 +2330,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1262,
+   "series_slug": "primal-fear",
+   "title": "Primal Fear",
+   "start": "2026-10-24T18:00:00-05:00",
+   "end": "2026-10-24T21:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 479,
    "series_slug": "wild-things-ball-2026",
    "title": "Wild Things Ball 2026",
@@ -2299,6 +2423,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1261,
+   "series_slug": "sweet-dreams-haunted-attraction-811-st-francis-st",
+   "title": "Sweet Dreams Haunted Attraction",
+   "start": "2026-10-24T19:00:00-05:00",
+   "end": "2026-10-24T23:00:00-05:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "sweet-dreams-haunted-attraction",
+    "name": "Sweet Dreams Haunted Attraction",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 718,
    "series_slug": "mobile-ballet-s-dracula",
    "title": "Mobile Ballet's 'Dracula'",
@@ -2329,8 +2484,8 @@
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Mobile-Ballet-Dracula_1BE945E6-B3A4-F80C-51D33D7FE0A41918_1bf332cd-ce44-6d49-0b3616fdb2051e2f.jpg",
     "credit": "Visit Mobile"
    },
-   "curation_score": 2,
-   "independent_source_count": 3
+   "curation_score": 3,
+   "independent_source_count": 4
   },
   {
    "id": 920,
@@ -2522,8 +2677,8 @@
     "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/Romeo-and-Juliette-square-w-logo-1.png",
     "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 921,
@@ -2650,8 +2805,8 @@
     "redistributable": false
    },
    "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 749,
@@ -2685,8 +2840,8 @@
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Witches-Ride_D634D9E8-B41D-BF49-C004B6259622FB4B_d64225ff-9ac6-6dbb-ea0700cee33c91b4.jpg",
     "credit": "Visit Mobile"
    },
-   "curation_score": 2,
-   "independent_source_count": 2
+   "curation_score": 3,
+   "independent_source_count": 3
   },
   {
    "id": 388,
@@ -2754,6 +2909,37 @@
    },
    "curation_score": 2,
    "independent_source_count": 2
+  },
+  {
+   "id": 1266,
+   "series_slug": "boots-bbq-barn-bash",
+   "title": "Boots & BBQ Barn Bash",
+   "start": "2026-10-25T18:30:00-05:00",
+   "end": "2026-10-25T21:30:00-05:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 357,
