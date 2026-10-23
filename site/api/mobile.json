@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-10-22T14:58:36Z",
+ "generated": "2026-10-23T14:11:33Z",
  "events": [
   {
    "id": 620,
@@ -62,166 +62,6 @@
    },
    "image": null,
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1115,
-   "series_slug": "conservation-on-tap-with-south-alabama-land-trust",
-   "title": "Conservation on Tap with South Alabama Land Trust",
-   "start": "2026-10-21T17:00:00-05:00",
-   "end": "2026-10-21T19:00:00-05:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/conservation-on-tap-with-south-alabama-land-trust-43695",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 510,
-   "series_slug": "wednesday-art-club-ages-5-7",
-   "title": "Wednesday Art Club (Ages 8-11)",
-   "start": "2026-10-21T18:00:00-05:00",
-   "end": "2026-10-21T19:30:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/wednesday-art-club-for-ages-5-7/2026-10-21/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/06/kids1.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 991,
-   "series_slug": "lupercalia-art-society-lupe-chat",
-   "title": "Lupercalia Art Society: Lupe Chat",
-   "start": "2026-10-21T18:00:00-05:00",
-   "end": "2026-10-21T21:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "lupercalia-art-gallery",
-    "name": "Lupercalia Art Society Gallery & Speakeasy",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 990,
-   "series_slug": "crescent-theater-crescent-comedy-chaos",
-   "title": "Crescent Theater: Crescent Comedy Chaos",
-   "start": "2026-10-21T19:00:00-05:00",
-   "end": "2026-10-21T22:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 191,
-   "series_slug": "crescent-comedy-workshop",
-   "title": "Crescent Comedy Chaos",
-   "start": "2026-10-21T20:00:00-05:00",
-   "end": "2026-10-21T23:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$8.76",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237444",
-   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/14237444",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -294,130 +134,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 737,
-   "series_slug": "money-as-you-grow-book-club",
-   "title": "Money as You Grow Book Club",
-   "start": "2026-10-22T10:00:00-05:00",
-   "end": "2026-10-22T11:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "family"
-   ],
-   "venue": {
-    "slug": "ben-may-main-library",
-    "name": "Ben May Main Library",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-money-as-you-grow-book-club-2026-10-22",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 911,
-   "series_slug": "fairhope-farmers-fall-market-2026",
-   "title": "Fairhope Farmers' Fall Market - 2026",
-   "start": "2026-10-22T14:00:00-05:00",
-   "end": "2026-10-22T18:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/fairhope-farmers-fall-market-2026-10-22-2026-43618",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 511,
-   "series_slug": "make-take-art",
-   "title": "Make & Take Art",
-   "start": "2026-10-22T15:00:00-05:00",
-   "end": "2026-10-22T16:30:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/make-take-art-7-2/2026-10-22/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2025/02/free-make-Take.png",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 331,
-   "series_slug": "business-after-hours-the-portier-at-midtown",
-   "title": "Business After Hours: The Portier at Midtown",
-   "start": "2026-10-22T16:00:00-05:00",
-   "end": "2026-10-22T18:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "name": "20 Graf Dairy Dr Mobile AL 36606"
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://my.mobilechamber.com/boacalendar/Details/business-after-hours-the-portier-at-midtown-1696248?sourceTypeId=Hub",
-   "source": {
-    "name": "Mobile Chamber",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 473,
    "series_slug": "annual-arts-afire-fall-festival",
    "title": "Annual Arts Afire Fall Festival",
@@ -449,37 +165,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 729,
-   "series_slug": "vampires-and-the-bioarcheology-of-the-undead-presentation",
-   "title": "Vampires and the Bioarcheology of the Undead Presentation",
-   "start": "2026-10-22T17:00:00-05:00",
-   "end": "2026-10-22T18:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "university-of-south-alabamas-archaeology-museum",
-    "name": "University of South Alabama's Archaeology Museum",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-vampires-and-the-bioarcheology-of-the-undead-presentation-2026-10-22",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 1116,
    "series_slug": "whataburger-trick-or-treat-coloring-contest",
    "title": "Whataburger Trick or Treat Coloring Contest",
@@ -508,69 +193,6 @@
    },
    "image": null,
    "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1217,
-   "series_slug": "saraland-s-8th-annual-trunk-or-treat",
-   "title": "Saraland's 8th Annual Trunk or Treat",
-   "start": "2026-10-22T17:00:00-05:00",
-   "end": "2026-10-22T18:30:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "community"
-   ],
-   "venue": {
-    "slug": "saraland-municipal-complex",
-    "name": "Saraland Municipal Complex",
-    "city": "Saraland",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-saralands-8th-annual-trunk-or-treat-2026-10-22",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 700,
-   "series_slug": "jeanie-thompson-and-larry-mitchell-poetry-reading",
-   "title": "Jeanie Thompson and Larry Mitchell Poetry Reading",
-   "start": "2026-10-22T17:30:00-05:00",
-   "end": "2026-10-22T18:30:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "university-of-south-alabama-marx-library",
-    "name": "University of South Alabama Marx Library",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-jeanie-thompson-larry-mitchell-poetry-reading-2026-10-22",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1055,6 +677,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1228,
+   "series_slug": "book-character-costume-contest",
+   "title": "Book Character Costume Contest",
+   "start": "2026-10-23T16:00:00-05:00",
+   "end": "2026-10-23T17:30:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "ina-pullen-smallwood-memorial-library",
+    "name": "Ina Pullen Smallwood Memorial Library",
+    "city": "Chickasaw",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-book-character-costume-contest-2026-10-23",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -4466,14 +4119,14 @@
   {
    "id": 1226,
    "series_slug": "octubafest",
-   "title": "Octubafest",
+   "title": "OCTUBAFEST",
    "start": "2026-10-29T18:00:00-05:00",
    "end": "2026-10-29T20:00:00-05:00",
    "all_day": false,
-   "category": "food",
+   "category": "family",
    "categories": [
-    "food",
-    "community"
+    "family",
+    "music"
    ],
    "venue": {
     "slug": "first-baptist-church-mobile",
@@ -6964,6 +6617,38 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1171,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-11-04T17:30:00-06:00",
+   "end": "2026-11-04T20:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049573",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049573",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -11917,6 +11602,38 @@
    "independent_source_count": 0
   },
   {
+   "id": 1174,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-11-18T17:30:00-06:00",
+   "end": "2026-11-18T20:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049613",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049613",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 543,
    "series_slug": "wednesday-art-club-ages-5-7",
    "title": "Wednesday Art Club (Ages 8-11)",
@@ -12341,6 +12058,37 @@
     "credit": "Bellingrath Gardens and Home"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1225,
+   "series_slug": "coffee-chat",
+   "title": "Coffee & Chat",
+   "start": "2026-11-20T08:00:00-06:00",
+   "end": "2026-11-20T09:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "empanola-mobile",
+    "name": "Empanola Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-coffee-chat-2026-11-20",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -14346,6 +14094,38 @@
    "source": {
     "name": "Mobile Chamber",
     "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1176,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-12-02T17:30:00-06:00",
+   "end": "2026-12-02T20:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049643",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049643",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": null,
@@ -17170,6 +16950,38 @@
    "source": {
     "name": "Mobile Chamber",
     "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1179,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-12-16T17:30:00-06:00",
+   "end": "2026-12-16T20:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049593",
+   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049593",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": null,

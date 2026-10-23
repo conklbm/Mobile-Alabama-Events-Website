@@ -606,6 +606,26 @@
       "permanent": true
     },
     {
+      "source": "/events/todd-talk-where-does-our-food-come-from(/)?",
+      "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
+      "source": "/events/from-ideas-to-impact-building-a-content-strategy-that-actually-works(/)?",
+      "destination": "/venues/ben-may-main-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-chamber-s-networking-noon(/)?",
+      "destination": "/venues/outback-steakhouse/",
+      "permanent": true
+    },
+    {
+      "source": "/events/networking-noon-outback-steakhouse(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true

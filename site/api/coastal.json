@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-10-22T14:58:36Z",
+ "generated": "2026-10-23T14:11:34Z",
  "events": [
   {
    "id": 870,
@@ -66,38 +66,6 @@
    },
    "curation_score": 2,
    "independent_source_count": 2
-  },
-  {
-   "id": 472,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-10-22T07:20:00-05:00",
-   "end": "2026-10-22T08:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9160",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
   },
   {
    "id": 473,
