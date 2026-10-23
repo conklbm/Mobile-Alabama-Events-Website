@@ -2270,3 +2270,25 @@
   zip: "36608"
   regions: [mobile]
   notes: "Empanada restaurant on Old Shell Road near Midtown; hosts Impact100 Mobile's monthly coffee meetup."
+
+- slug: daphne-city-hall
+  name: Daphne City Hall
+  aliases: ["Daphne City Hall"]
+  domains: ["daphneal.com"]
+  address: "1705 Main St"
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "Start line for the annual Prodisee Pantry Turkey Trot through Old Towne Daphne."
+
+- slug: seville-square-pensacola
+  name: Seville Square
+  aliases: ["Seville Square"]
+  domains: ["visitpensacola.com"]
+  address: "S Alcaniz St & E Government St"
+  city: Pensacola
+  state: FL
+  zip: "32502"
+  regions: [coastal]
+  notes: "Historic public square/park in downtown Pensacola's Seville Historic District; hosts festivals like the Pensacola Hippie Fest."

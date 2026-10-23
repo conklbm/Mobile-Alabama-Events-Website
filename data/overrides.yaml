@@ -64,6 +64,7 @@ not_cancelled:
   - 238   # Rodney Carrington, Pensacola Saenger: still listed on pensacolasaenger.com, ticket required (checked 2026-10-09)
   - 819   # British High Tea at the Conde-Charlotte Museum: mobile-arts-council missed it twice, but visit-mobile's independent listing is still fresh as of the 2026-10-15 run
   - 856   # USA Faculty Trumpet and Horn Recital: same case as #819 - visit-mobile still lists it fresh while mobile-arts-council missed it twice
+  - 794   # Historical Lecture Series: A Taste of Mobile, Dec 13: still listed on the organizer's own site (historicmobile.org/event-details-registration/lecture-series-a-taste-of-mobile), Chris Andrews/Bienville Bites Food Tour, Cox-Deasy Cottage (checked 2026-10-23)
 
 # Publish a held item as-is (occurrence id). Use when the venue is genuinely
 # unknown but the event is real — better to add an alias in venues.yaml.
