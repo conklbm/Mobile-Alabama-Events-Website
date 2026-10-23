@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-10-23T17:53:10Z",
+ "generated": "2026-10-23T17:59:32Z",
  "events": [
   {
    "id": 870,
@@ -130,41 +130,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 855,
-   "series_slug": "underwater-pumpkin-carving-at-the-alabama-aquarium",
-   "title": "Underwater Pumpkin Carving at the Alabama Aquarium",
-   "start": "2026-10-23T00:00:00-05:00",
-   "end": "2026-10-23T23:59:59-05:00",
-   "all_day": true,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "dauphin-island-sea-lab",
-    "name": "Dauphin Island Sea Lab / Estuarium",
-    "city": "Dauphin Island",
-    "regions": [
-     "mobile",
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
-   "source": {
-    "name": "92ZEW Weekend Rundown",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/DISL-Tank-or-Treat_E2B40E8C-B515-1F3C-4F6401B5128A1CE1_e2bcc247-a358-0364-371e2495c2acc9cd.png",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 2,
-   "independent_source_count": 2
-  },
-  {
    "id": 1237,
    "series_slug": "parrot-heads-in-paradise-meeting-of-the-minds",
    "title": "Parrot Heads in Paradise \"Meeting of the Minds\"",
@@ -258,6 +223,41 @@
    "image": null,
    "curation_score": 1,
    "independent_source_count": 1
+  },
+  {
+   "id": 855,
+   "series_slug": "underwater-pumpkin-carving-at-the-alabama-aquarium",
+   "title": "Underwater Pumpkin Carving",
+   "start": "2026-10-23T13:00:00-05:00",
+   "end": "2026-10-23T16:00:00-05:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "dauphin-island-sea-lab",
+    "name": "Dauphin Island Sea Lab / Estuarium",
+    "city": "Dauphin Island",
+    "regions": [
+     "mobile",
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/DISL-Tank-or-Treat_E2B40E8C-B515-1F3C-4F6401B5128A1CE1_e2bcc247-a358-0364-371e2495c2acc9cd.png",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 455,
@@ -452,6 +452,38 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1256,
+   "series_slug": "pensacola-hippie-fest",
+   "title": "Pensacola Hippie Fest",
+   "start": "2026-10-24T10:00:00-05:00",
+   "end": "2026-10-24T18:00:00-05:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "music"
+   ],
+   "venue": {
+    "slug": "seville-square-pensacola",
+    "name": "Seville Square",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-oct-23-25th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
