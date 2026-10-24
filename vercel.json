@@ -626,6 +626,86 @@
       "permanent": true
     },
     {
+      "source": "/events/8th-annual-grilled-cheese-meltdown(/)?",
+      "destination": "/venues/urban-emporium/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gulfchat-getting-to-the-starting-line(/)?",
+      "destination": "/venues/national-maritime-museum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/boots-to-business-reboot(/)?",
+      "destination": "/venues/ben-may-main-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/american-legion-post-199-1st-annual-golf-tournament(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/industrial-reverse-trade-show(/)?",
+      "destination": "/venues/fort-whiting-auditorium/",
+      "permanent": true
+    },
+    {
+      "source": "/events/ms-senior-southern-charm-pageant(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gaillard-builders-ribbon-cutting(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/a-reading-from-dr-jocelyn-cullity(/)?",
+      "destination": "/venues/university-of-south-alabama-student-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/grilled-cheese-meltdown(/)?",
+      "destination": "/venues/cathedral-square/",
+      "permanent": true
+    },
+    {
+      "source": "/events/cryptids-of-the-deep-south-panel(/)?",
+      "destination": "/venues/mobile-museum-of-art/",
+      "permanent": true
+    },
+    {
+      "source": "/events/lucky-leaves-bingo-night(/)?",
+      "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fostering-hope-gala(/)?",
+      "destination": "/venues/riverview-plaza/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gabriel-rutledge(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gabriel-rutledge-crescent-theater(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/usa-faculty-trumpet-and-horn-recital(/)?",
+      "destination": "/venues/laidlaw-performing-arts-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/sister-hazel(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
