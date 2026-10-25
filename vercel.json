@@ -706,6 +706,46 @@
       "permanent": true
     },
     {
+      "source": "/events/boo-bash-by-the-bay-pre-party(/)?",
+      "destination": "/venues/braided-river-brewing/",
+      "permanent": true
+    },
+    {
+      "source": "/events/senior-health-wellness-expo(/)?",
+      "destination": "/venues/university-of-south-alabama-student-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/13th-annual-mega-musical-chairs(/)?",
+      "destination": "/venues/the-grounds/",
+      "permanent": true
+    },
+    {
+      "source": "/events/coastal-curated-opening-reception-at-artwalk(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/luke-severeid(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/danny-bedrosian-secret-army(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/luke-severeid-crescent-theater(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/haunted-hangout(/)?",
+      "destination": "/venues/gulf-coast-exploreum/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
