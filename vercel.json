@@ -641,6 +641,11 @@
       "permanent": true
     },
     {
+      "source": "/events/greek-fest-mobile(/)?",
+      "destination": "/venues/annunciation-greek-orthodox-church/",
+      "permanent": true
+    },
+    {
       "source": "/events/american-legion-post-199-1st-annual-golf-tournament(/)?",
       "destination": "/venues/downtown-fairhope/",
       "permanent": true
@@ -716,6 +721,16 @@
       "permanent": true
     },
     {
+      "source": "/events/blow-your-own-pumpkins-friday-oct-16(/)?",
+      "destination": "/venues/eastern-shore-art-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/smoke-at-the-park-2026(/)?",
+      "destination": "/venues/creekside-rv-park/",
+      "permanent": true
+    },
+    {
       "source": "/events/13th-annual-mega-musical-chairs(/)?",
       "destination": "/venues/the-grounds/",
       "permanent": true
@@ -743,6 +758,151 @@
     {
       "source": "/events/haunted-hangout(/)?",
       "destination": "/venues/gulf-coast-exploreum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/magnolia-springs-firefighter-festival(/)?",
+      "destination": "/venues/magnolia-springs-fire-department/",
+      "permanent": true
+    },
+    {
+      "source": "/events/animal-adoption-event(/)?",
+      "destination": "/venues/blakeley-state-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/coco-nutty-s-ice-cream-and-frozen-treats(/)?",
+      "destination": "/venues/blakeley-state-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/funky-food-truck-fest(/)?",
+      "destination": "/venues/braided-river-brewing/",
+      "permanent": true
+    },
+    {
+      "source": "/events/lunch-cruise(/)?",
+      "destination": "/venues/five-rivers-delta-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/tank-or-treat-at-the-alabama-aquarium(/)?",
+      "destination": "/venues/dauphin-island-sea-lab/",
+      "permanent": true
+    },
+    {
+      "source": "/events/wild-whisperings-at-blakeley(/)?",
+      "destination": "/venues/blakeley-state-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/wine-resin-nostalgic-halloween(/)?",
+      "destination": "/venues/the-frenchmen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/melton-health-and-faith-11th-annual-5k-walk-and-1-mile-fun-run-walk(/)?",
+      "destination": "/venues/mardi-gras-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/monsters-ball(/)?",
+      "destination": "/venues/gulf-coast-exploreum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/not-so-still-life(/)?",
+      "destination": "/venues/eastern-shore-art-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/angel-dash-2026(/)?",
+      "destination": "/venues/university-of-south-alabama-sga-pavilion/",
+      "permanent": true
+    },
+    {
+      "source": "/events/qigong-classes(/)?",
+      "destination": "/venues/blakeley-state-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/pops-midtown-6th-annual-family-fun-day-fall-festival-block-party(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/lowes-kid-workshops-firefighting-plane(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/alabama-archaeology-day(/)?",
+      "destination": "/venues/university-of-south-alabamas-archaeology-museum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/woofstock-2026(/)?",
+      "destination": "/venues/oyster-city-brewing-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/baptist-convention-family-fun-day(/)?",
+      "destination": "/venues/uss-alabama-battleship-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fall-break-halloween-celebration-at-maxim-tokyo-claw-village(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/community-archives-day(/)?",
+      "destination": "/venues/historic-avenue-cultural-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/members-scavenger-hunt(/)?",
+      "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fall-festival-24025-mifflin-st-elberta(/)?",
+      "destination": "/venues/the-farm-elberta/",
+      "permanent": true
+    },
+    {
+      "source": "/events/amber-wallin(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/amber-wallin-crescent-theater(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-vampire-ball(/)?",
+      "destination": "/venues/the-pillars-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/jo-koy(/)?",
+      "destination": "/venues/saenger-theatre/",
+      "permanent": true
+    },
+    {
+      "source": "/events/crawling-a-tribute-to-linkin-park(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/ali-siddiq-the-custom-fit-tour(/)?",
+      "destination": "/venues/pensacola-saenger/",
+      "permanent": true
+    },
+    {
+      "source": "/events/halloween-bash-pop-punk-emo-night-mobile-by-punknites(/)?",
+      "destination": "/venues/the-merry-widow/",
       "permanent": true
     },
     {
