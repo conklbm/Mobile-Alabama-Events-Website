@@ -541,6 +541,11 @@
       "permanent": true
     },
     {
+      "source": "/events/cruisin-mobile-bay-2026(/)?",
+      "destination": "/venues/oyster-city-brewing-mobile/",
+      "permanent": true
+    },
+    {
       "source": "/events/oktoberfest(/)?",
       "destination": "/venues/flora-bama/",
       "permanent": true
@@ -716,6 +721,11 @@
       "permanent": true
     },
     {
+      "source": "/events/delta-discovery-tour-from-the-awf-delta-and-bay-conservation-center(/)?",
+      "destination": "/venues/five-rivers-delta-center/",
+      "permanent": true
+    },
+    {
       "source": "/events/senior-health-wellness-expo(/)?",
       "destination": "/venues/university-of-south-alabama-student-center/",
       "permanent": true
@@ -756,6 +766,11 @@
       "permanent": true
     },
     {
+      "source": "/events/sweet-dreams-haunted-attraction(/)?",
+      "destination": "/venues/sweet-dreams-haunted-attraction/",
+      "permanent": true
+    },
+    {
       "source": "/events/haunted-hangout(/)?",
       "destination": "/venues/gulf-coast-exploreum/",
       "permanent": true
@@ -763,6 +778,11 @@
     {
       "source": "/events/magnolia-springs-firefighter-festival(/)?",
       "destination": "/venues/magnolia-springs-fire-department/",
+      "permanent": true
+    },
+    {
+      "source": "/events/38th-annual-jubilee-arts-festival(/)?",
+      "destination": "/venues/lott-park/",
       "permanent": true
     },
     {
@@ -902,6 +922,66 @@
     },
     {
       "source": "/events/halloween-bash-pop-punk-emo-night-mobile-by-punknites(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/back-bay-cruise(/)?",
+      "destination": "/venues/five-rivers-delta-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/delta-discovery-tour-from-the-awf-delta-and-bay-conservation-center-blakeley-state-park(/)?",
+      "destination": "/venues/blakeley-state-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/moonlight-on-dauphin-aka-a-boo-on-dauphin-paint-sip(/)?",
+      "destination": "/venues/the-frenchmen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/sunday-brunch-cruise(/)?",
+      "destination": "/venues/five-rivers-delta-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/trance-painting-transformation-through-art(/)?",
+      "destination": "/venues/the-frenchmen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/little-sisters-of-the-poor-lawn-party(/)?",
+      "destination": "/venues/sacred-heart-residence/",
+      "permanent": true
+    },
+    {
+      "source": "/events/live-beyond-the-mat-yoga-for-daily-life(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/semmes-fall-festival-adoption-event(/)?",
+      "destination": "/venues/mary-g-montgomery-high-school/",
+      "permanent": true
+    },
+    {
+      "source": "/events/british-high-tea-at-the-conde-charlotte-museum(/)?",
+      "destination": "/venues/conde-charlotte-museum-house/",
+      "permanent": true
+    },
+    {
+      "source": "/events/dachshunds-on-dauphin(/)?",
+      "destination": "/venues/mobay-beignet-co/",
+      "permanent": true
+    },
+    {
+      "source": "/events/song4song-music-last-song-competition(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/great-lake-swimmers(/)?",
       "destination": "/venues/the-merry-widow/",
       "permanent": true
     },
