@@ -986,6 +986,11 @@
       "permanent": true
     },
     {
+      "source": "/events/devon-gilfillian(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
