@@ -1,69 +1,7 @@
 {
  "region": "coastal",
- "generated": "2026-10-28T16:30:19Z",
+ "generated": "2026-10-29T16:21:57Z",
  "events": [
-  {
-   "id": 922,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-10-27T19:00:00-05:00",
-   "end": "2026-10-27T20:15:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-10-27-2026-39632",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 250,
-   "series_slug": "waitress",
-   "title": "Waitress",
-   "start": "2026-10-27T19:30:00-05:00",
-   "end": "2026-10-27T22:30:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/waitress-pensacola-florida-10-27-2026/event/1B0064C9D21A25AE",
-   "info_url": "https://www.ticketmaster.com/waitress-pensacola-florida-10-27-2026/event/1B0064C9D21A25AE",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
   {
    "id": 1239,
    "series_slug": "blue-angels-practice-schedule",
@@ -93,69 +31,6 @@
    },
    "image": null,
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1131,
-   "series_slug": "cardio-dance",
-   "title": "Cardio Dance",
-   "start": "2026-10-28T08:00:00-05:00",
-   "end": "2026-10-28T09:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10917",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1132,
-   "series_slug": "krav-maga-self-defense",
-   "title": "Krav Maga (Self-Defense)",
-   "start": "2026-10-28T17:00:00-05:00",
-   "end": "2026-10-28T18:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10789",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -511,7 +386,7 @@
    "series_slug": "halloween-contest",
    "title": "Halloween Contest",
    "start": "2026-10-31T18:00:00-05:00",
-   "end": "2026-10-31T22:30:00-05:00",
+   "end": "2026-10-31T23:30:00-05:00",
    "all_day": false,
    "category": "sports",
    "categories": [
@@ -667,8 +542,8 @@
    "id": 1184,
    "series_slug": "pensacola-bay-center-after-game-skate",
    "title": "Pensacola Bay Center After Game Skate",
-   "start": "2026-11-01T21:30:00-06:00",
-   "end": "2026-11-02T00:30:00-06:00",
+   "start": "2026-11-01T18:30:00-06:00",
+   "end": "2026-11-01T21:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -2787,6 +2662,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1300,
+   "series_slug": "island-fights-100",
+   "title": "Island Fights 102",
+   "start": "2026-12-04T18:30:00-06:00",
+   "end": "2026-12-04T21:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/island-fights-102-pensacola-florida-12-04-2026/event/1B006554EDABAF92",
+   "info_url": "https://www.ticketmaster.com/island-fights-102-pensacola-florida-12-04-2026/event/1B006554EDABAF92",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 277,
    "series_slug": "christmas-with-chris-tomlin",
    "title": "Christmas with Chris Tomlin",
@@ -4349,6 +4255,99 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-fayetteville-marksmen-pensacola-florida-01-17-2027/event/1B00650D8631646B",
    "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-fayetteville-marksmen-pensacola-florida-01-17-2027/event/1B00650D8631646B",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1301,
+   "series_slug": "pensacola-opera-tosca-puccini",
+   "title": "Pensacola Opera- Tosca Puccini",
+   "start": "2027-01-22T19:30:00-06:00",
+   "end": "2027-01-22T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-opera-tosca-puccini-pensacola-florida-01-22-2027/event/1B006518DC8B1A61",
+   "info_url": "https://www.ticketmaster.com/pensacola-opera-tosca-puccini-pensacola-florida-01-22-2027/event/1B006518DC8B1A61",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1302,
+   "series_slug": "pensacola-opera-tosca-puccini",
+   "title": "Pensacola Opera-Tosca Puccini",
+   "start": "2027-01-24T14:00:00-06:00",
+   "end": "2027-01-24T17:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-operatosca-puccini-pensacola-florida-01-24-2027/event/1B006518DEAF1F2C",
+   "info_url": "https://www.ticketmaster.com/pensacola-operatosca-puccini-pensacola-florida-01-24-2027/event/1B006518DEAF1F2C",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1303,
+   "series_slug": "the-california-honeydrops",
+   "title": "The California Honeydrops",
+   "start": "2027-01-24T19:00:00-06:00",
+   "end": "2027-01-24T22:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v7O",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7v7O",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",

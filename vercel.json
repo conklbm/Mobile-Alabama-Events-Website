@@ -116,11 +116,6 @@
       "permanent": true
     },
     {
-      "source": "/events/delta-discovery-cruise(/)?",
-      "destination": "/venues/five-rivers-delta-center/",
-      "permanent": true
-    },
-    {
       "source": "/events/sunday-sunset-concert-series(/)?",
       "destination": "/",
       "permanent": true
@@ -233,11 +228,6 @@
     {
       "source": "/events/jason-carter-band(/)?",
       "destination": "/venues/the-merry-widow/",
-      "permanent": true
-    },
-    {
-      "source": "/events/r-b-only-live-mobile-al(/)?",
-      "destination": "/venues/soul-kitchen/",
       "permanent": true
     },
     {
@@ -368,11 +358,6 @@
     {
       "source": "/events/south-alabama-jags-downtown-watch-party(/)?",
       "destination": "/venues/braided-river-brewing/",
-      "permanent": true
-    },
-    {
-      "source": "/events/stagner-s-showcase-feat-justin-stagner(/)?",
-      "destination": "/venues/crescent-theater/",
       "permanent": true
     },
     {
@@ -721,11 +706,6 @@
       "permanent": true
     },
     {
-      "source": "/events/delta-discovery-tour-from-the-awf-delta-and-bay-conservation-center(/)?",
-      "destination": "/venues/five-rivers-delta-center/",
-      "permanent": true
-    },
-    {
       "source": "/events/senior-health-wellness-expo(/)?",
       "destination": "/venues/university-of-south-alabama-student-center/",
       "permanent": true
@@ -988,6 +968,41 @@
     {
       "source": "/events/devon-gilfillian(/)?",
       "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/united-we-prepare-disaster-resilience-workshop-iii(/)?",
+      "destination": "/venues/steele-creek-lodge/",
+      "permanent": true
+    },
+    {
+      "source": "/events/marine-environmental-awards-luncheon(/)?",
+      "destination": "/venues/battle-house-hotel/",
+      "permanent": true
+    },
+    {
+      "source": "/events/computers-made-easy(/)?",
+      "destination": "/venues/west-regional-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/ribbon-cutting-ward-scott-morris-architecture-inc(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/prohibition-and-pearls-speakeasy-mystery-fundraiser(/)?",
+      "destination": "/venues/las-floriditas/",
+      "permanent": true
+    },
+    {
+      "source": "/events/sonic-live-in-concert(/)?",
+      "destination": "/venues/saenger-theatre/",
+      "permanent": true
+    },
+    {
+      "source": "/events/the-filthy-heathens(/)?",
+      "destination": "/venues/the-merry-widow/",
       "permanent": true
     },
     {
