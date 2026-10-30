@@ -1006,6 +1006,31 @@
       "permanent": true
     },
     {
+      "source": "/events/networking-at-noon-fairhope-tamara-s-downtown(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/networking-at-noon-daphne-manci-s(/)?",
+      "destination": "/venues/mancis-antique-club/",
+      "permanent": true
+    },
+    {
+      "source": "/events/networking-at-noon-spanish-fort-the-bull(/)?",
+      "destination": "/venues/the-bull-spanish-fort/",
+      "permanent": true
+    },
+    {
+      "source": "/events/conservation-on-tap-with-south-alabama-land-trust(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/money-as-you-grow-book-club(/)?",
+      "destination": "/venues/ben-may-main-library/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
