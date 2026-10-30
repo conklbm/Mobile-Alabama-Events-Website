@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-10-30T18:37:14Z",
+ "generated": "2026-10-30T18:44:02Z",
  "events": [
   {
    "id": 620,
@@ -2658,6 +2658,40 @@
    "independent_source_count": 0
   },
   {
+   "id": 1330,
+   "series_slug": "exclusive-ss-united-states-farewell-tour",
+   "title": "EXCLUSIVE! SS United States Farewell Tour",
+   "start": "2026-11-03T00:00:00-06:00",
+   "end": "2026-11-08T00:00:00-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "perdido-queen-cruises",
+    "name": "Perdido Queen Dinner Cruises",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/exclusive!-ss-united-states-farewell-tour/23637/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Copy-of-DSC_4032_B77DE1E1-B34A-460A-A5B7ED9C48FDD878_5ac2a39d-f3d5-429e-b7dc50f274c2768c.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 520,
    "series_slug": "tuesday-am-watercolor",
    "title": "Tuesday AM Watercolor",
@@ -2990,6 +3024,38 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1316,
+   "series_slug": "yellowhammer-veterans-cup-classic",
+   "title": "Yellowhammer Veterans Cup Classic",
+   "start": "2026-11-04T08:00:00-06:00",
+   "end": "2026-11-04T14:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "sports"
+   ],
+   "venue": {
+    "slug": "magnolia-grove-golf-course",
+    "name": "RTJ Golf Trail at Magnolia Grove",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-yellowhammer-veterans-cup-classic-2026-11-04",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -3895,6 +3961,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1336,
+   "series_slug": "young-professional-coffee-social-soul-caffeine",
+   "title": "Young Professional Coffee Social: Soul Caffeine",
+   "start": "2026-11-06T08:30:00-06:00",
+   "end": "2026-11-06T09:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "soul-caffeine-daphne",
+    "name": "Soul Caffeine",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/young-professional-coffee-social-soul-caffeine-43741",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 584,
    "series_slug": "cultivate-growing-stem-educators-prek-k-session",
    "title": "Cultivate: Growing STEM Educators 6 – 8 Session",
@@ -4506,6 +4603,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1326,
+   "series_slug": "church-street-cemetery-tour",
+   "title": "Church Street Cemetery Tour",
+   "start": "2026-11-07T00:00:00-06:00",
+   "end": "2026-11-07T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "church-street-graveyard",
+    "name": "Church Street Graveyard",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/church-street-cemetery-tour/24284/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Church-St-Graveyard-Tour_C0D940AC-98CA-A826-104968B4986BB6E9_c0e654e3-a3ee-3e78-3b30dee4bf6805dc.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1151,
    "series_slug": "hacc-block-party",
    "title": "HACC Block Party",
@@ -4857,6 +4988,38 @@
    "image": null,
    "curation_score": 1,
    "independent_source_count": 1
+  },
+  {
+   "id": 1321,
+   "series_slug": "gulf-coast-pet-adoption-festival",
+   "title": "Gulf Coast Pet Adoption Festival",
+   "start": "2026-11-07T10:00:00-06:00",
+   "end": "2026-11-07T14:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "music"
+   ],
+   "venue": {
+    "slug": "mobile-county-animal-shelter",
+    "name": "Mobile County Animal Shelter",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/gulf-coast-pet-adoption-festival-2026-11-07",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
   },
   {
    "id": 1118,
@@ -5444,6 +5607,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1319,
+   "series_slug": "gulf-coast-record-show",
+   "title": "Gulf Coast Record Show",
+   "start": "2026-11-08T11:00:00-06:00",
+   "end": "2026-11-08T17:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "via-health-fitness-enrichment-center",
+    "name": "Via! Health, Fitness and Enrichment Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/gulf-coast-record-show-2026-10-18",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 782,
    "series_slug": "tailgate-bingo-bash",
    "title": "Tailgate Bingo Bash",
@@ -5697,6 +5892,40 @@
    },
    "curation_score": 2,
    "independent_source_count": 3
+  },
+  {
+   "id": 1334,
+   "series_slug": "ss-united-states-final-departure-cruise",
+   "title": "SS United States Final Departure Cruise",
+   "start": "2026-11-09T00:00:00-06:00",
+   "end": "2026-11-09T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "perdido-queen-cruises",
+    "name": "Perdido Queen Dinner Cruises",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/ss-united-states-final-departure-cruise/24287/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/SS-United-States-media-tour_EB11EEB9-AC25-8605-55795D4DFABED54F_eb292593-d3c9-0f7d-6875cb540ce2d8e4.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 531,
@@ -6441,6 +6670,37 @@
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1318,
+   "series_slug": "christmas-in-the-country-ladies-night",
+   "title": "'Christmas in the Country' Ladies Night",
+   "start": "2026-11-12T15:00:00-06:00",
+   "end": "2026-11-12T19:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "gd-farms-wilmer",
+    "name": "G & D Farms",
+    "city": "Wilmer",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/ladies-night-2026-11-12",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -7783,6 +8043,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1307,
+   "series_slug": "keep-mobile-beautiful-annual-america-recycles-day",
+   "title": "Keep Mobile Beautiful Annual America Recycles Day",
+   "start": "2026-11-14T20:30:00-06:00",
+   "end": "2026-11-14T23:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "american-legion-post-250",
+    "name": "American Legion Post 250",
+    "city": "Theodore",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/keep-mobile-beautiful-annual-america-recycles-day-2026-11-14",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1172,
    "series_slug": "nighttime-with-carson-taylor-crescent-theater",
    "title": "Nighttime with Carson Taylor",
@@ -8496,6 +8787,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1341,
+   "series_slug": "eggs-issues-business-fraud-latest-scams-what-does-everybody-need-to",
+   "title": "Eggs & Issues: Business Fraud & Latest Scams– What Does Everybody Need to Know?",
+   "start": "2026-11-18T07:30:00-06:00",
+   "end": "2026-11-18T09:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "resurrection-church-daphne",
+    "name": "Resurrection Church",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/eggs-issues-business-fraud-latest-scams-what-does-everybody-need-to-know-43739",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 589,
    "series_slug": "31st-annual-magic-christmas-in-lights-preview-party",
    "title": "Magic Christmas in Lights Workshop",
@@ -8885,6 +9207,41 @@
    "independent_source_count": 0
   },
   {
+   "id": 1325,
+   "series_slug": "christmas-nights-in-lights-stroll",
+   "title": "Christmas Nights in Lights Stroll",
+   "start": "2026-11-19T00:00:00-06:00",
+   "end": "2026-11-19T23:59:59-06:00",
+   "all_day": true,
+   "category": "family",
+   "categories": [
+    "family",
+    "active"
+   ],
+   "venue": {
+    "slug": "dauphin-way-baptist-church",
+    "name": "Dauphin Way Baptist Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/christmas-nights-in-lights-stroll/24286/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/UCP-Christmas-Stroll_EB4ADCFE-B364-6FFE-742E62199FCC74D4_eb4d98e2-e066-f49a-1e013d7723e2a18d.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1323,
    "series_slug": "hargrove-foundation-11th-annual-summit-gala",
    "title": "Hargrove Foundation 11th Annual Summit & Gala",
@@ -8986,6 +9343,72 @@
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1270,
+   "series_slug": "creative-night-for-two-family-stories-painted-raggonnon",
+   "title": "Creative Night For Two: Family Stories Painted RagGonNon",
+   "start": "2026-11-19T17:30:00-06:00",
+   "end": "2026-11-19T20:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/creative-night-for-two-family-stories-painted-raggonnon/",
+   "source": {
+    "name": "Mobile Museum of Art",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/10/ragonon.jpg",
+    "credit": "Mobile Museum of Art"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1309,
+   "series_slug": "heritage-lecture-series-historic-mobile-elections-past-and-present",
+   "title": "Heritage Lecture Series: Historic Mobile Elections, Past and Present",
+   "start": "2026-11-19T17:30:00-06:00",
+   "end": "2026-11-19T20:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "africatown-heritage-house",
+    "name": "Africatown Heritage House",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/heritage-lecture-series-historic-mobile-elections-past-and-present-2026-11-19",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -11261,6 +11684,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1311,
+   "series_slug": "satsuma-christmas-tree-lighting",
+   "title": "Satsuma Christmas Tree Lighting",
+   "start": "2026-12-02T17:30:00-06:00",
+   "end": "2026-12-02T19:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "satsuma-city-hall",
+    "name": "Satsuma City Hall",
+    "city": "Satsuma",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-satsuma-christmas-tree-lighting-2026-12-02",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -13606,6 +14060,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1310,
+   "series_slug": "saraland-mistletoe-market",
+   "title": "Saraland Mistletoe Market",
+   "start": "2026-12-12T09:00:00-06:00",
+   "end": "2026-12-12T16:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "town-center-park-saraland",
+    "name": "Town Center Park",
+    "city": "Saraland",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-saraland-mistletoe-market-2026-12-12",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 564,
    "series_slug": "the-breakfast-club-women-of-abstract-expressionism",
    "title": "The Breakfast Club: Women of Abstract Expressionism",
@@ -13957,6 +14443,40 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1324,
+   "series_slug": "breakfast-with-santa",
+   "title": "Breakfast with Santa",
+   "start": "2026-12-13T09:30:00-06:00",
+   "end": "2026-12-13T11:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "the-admiral-hotel",
+    "name": "The Admiral Hotel",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/breakfast-with-santa/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/ADM-BreakfastWithSanta-CalendarListings-09.26.jpg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -18361,6 +18881,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1322,
+   "series_slug": "semmes-camellia-festival-2027",
+   "title": "Semmes Camellia Festival 2027",
+   "start": "2027-01-23T10:00:00-06:00",
+   "end": "2027-01-23T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "boys-girls-clubs-of-south-alabama-semmes",
+    "name": "Boys & Girls Clubs of South Alabama (Semmes)",
+    "city": "Semmes",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-semmes-camilla-festival-2027-2027-01-23",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1283,
    "series_slug": "south-alabama-women-s-basketball-vs-southeastern-baptist-exh",
    "title": "South Alabama Women's Basketball vs Arkansas State",
@@ -18382,6 +18933,37 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://usajaguars.com/calendar.aspx?game_id=11649&amp;sport_id=18",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1284,
+   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
+   "title": "South Alabama Men's Basketball vs Southern Miss",
+   "start": "2027-01-23T16:30:00-06:00",
+   "end": "2027-01-23T18:30:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11684&amp;sport_id=4",
    "source": {
     "name": "South Alabama Athletics",
     "tier": "A",
