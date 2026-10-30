@@ -32,6 +32,8 @@ never_merge:
   - [1174, 1004] # Crescent Theater, Nov 18: same Workshop/Chaos pairing
   - [1176, 1009] # Crescent Theater, Dec 2: same Workshop/Chaos pairing
   - [1179, 1016] # Crescent Theater, Dec 16: same Workshop/Chaos pairing
+  - [1270, 544]  # Mobile Museum of Art: "Creative Night For Two" (evening, 18+, themed classes) vs "Family Art" (afternoon, family) are different recurring program lines
+  - [1284, 1283] # USA basketball: Men's vs Southern Miss and Women's vs Arkansas State are different teams and different opponents
 
 # Confirm cancellation (occurrence id) — removes it from the site.
 cancelled:

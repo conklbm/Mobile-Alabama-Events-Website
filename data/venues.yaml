@@ -2292,3 +2292,168 @@
   zip: "32502"
   regions: [coastal]
   notes: "Historic public square/park in downtown Pensacola's Seville Historic District; hosts festivals like the Pensacola Hippie Fest."
+
+- slug: perdido-queen-cruises
+  name: Perdido Queen Dinner Cruises
+  aliases: ["Perdido Queen Cruises", "Perdido Queen", "Perdido Queen Dinner Cruises"]
+  domains: ["perdidoqueen.com"]
+  address: "1 S Water St, Berth B"
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Dinner/sightseeing cruise boat docked downtown on the Mobile River."
+
+- slug: magnolia-grove-golf-course
+  name: RTJ Golf Trail at Magnolia Grove
+  aliases: ["Magnolia Grove Golf Course", "RTJ Golf Trail at Magnolia Grove", "Magnolia Grove"]
+  domains: ["rtjgolf.com"]
+  address: "7001 Magnolia Grove Pkwy"
+  city: Mobile
+  state: AL
+  zip: "36618"
+  regions: [mobile]
+  notes: "Robert Trent Jones Golf Trail facility in northwest Mobile with three courses (Falls, Crossings, Short Course)."
+
+- slug: soul-caffeine-daphne
+  name: Soul Caffeine
+  aliases: ["Soul Caffeine 2004 US-98 Daphne, AL 36526", "Soul Caffeine", "Soul Caffeine Daphne"]
+  domains: ["soulcaffeine.net"]
+  address: "2004 US Highway 98"
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "Local coffee shop chain's original Daphne location on US-98."
+
+- slug: church-street-graveyard
+  name: Church Street Graveyard
+  aliases: ["Church Street Graveyard", "Church Street Cemetery"]
+  domains: []
+  address: "359 Church St"
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Mobile's oldest surviving cemetery (circa 1819), gated and fenced in downtown's De Tonti Square district."
+
+- slug: mobile-county-animal-shelter
+  name: Mobile County Animal Shelter
+  aliases: ["Mobile County Animal Shelter", "Mobile County Animal Control"]
+  domains: ["mobilecountyal.gov"]
+  address: "7665 Howells Ferry Rd"
+  city: Mobile
+  state: AL
+  zip: "36618"
+  regions: [mobile]
+  notes: "County-run animal shelter handling adoptions and surrenders."
+
+- slug: via-health-fitness-enrichment-center
+  name: Via! Health, Fitness and Enrichment Center
+  aliases: ["Via Health, Fitness and Enrichment Center", "Via! Health, Fitness and Enrichment Center", "VIA Health Fitness and Enrichment Center"]
+  domains: ["viamobile.org"]
+  address: "1717 Dauphin St"
+  city: Mobile
+  state: AL
+  zip: "36604"
+  regions: [mobile]
+  notes: "Nonprofit fitness, aquatics, and enrichment campus (Arlene F. Mitchell Campus) near downtown."
+
+- slug: american-legion-post-250
+  name: American Legion Post 250
+  aliases: ["American Legion Post #250", "American Legion Post 250"]
+  domains: []
+  address: "10950 Dauphin Island Pkwy"
+  city: Theodore
+  state: AL
+  zip: "36582"
+  regions: [mobile]
+  notes: "American Legion post on Dauphin Island Parkway in Theodore."
+
+- slug: boys-girls-clubs-of-south-alabama-semmes
+  name: Boys & Girls Clubs of South Alabama (Semmes)
+  aliases: ["Boys & Girls Clubs of South Alabama", "Boys and Girls Clubs of South Alabama"]
+  domains: ["bgcsouthal.org"]
+  address: "3810 Wulff Rd E"
+  city: Semmes
+  state: AL
+  zip: "36575"
+  regions: [mobile]
+  notes: "Semmes branch clubhouse of the regional Boys & Girls Clubs organization."
+
+- slug: resurrection-church-daphne
+  name: Resurrection Church
+  aliases: ["Resurrection Church 2401 Main Street in Daphne", "Resurrection Church", "Resurrection Church Daphne"]
+  domains: []
+  address: "2401 Main St"
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "Eastern Shore church, former Daphne United Methodist Church campus; regularly hosts Eastern Shore Chamber events."
+
+- slug: dauphin-way-baptist-church
+  name: Dauphin Way Baptist Church
+  aliases: ["Dauphin Way Baptist", "Dauphin Way Baptist Church"]
+  domains: []
+  address: "3661 Dauphin St"
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "West Mobile Baptist congregation; has announced plans to sell this campus and relocate."
+
+- slug: africatown-heritage-house
+  name: Africatown Heritage House
+  aliases: ["Africatown Heritage House"]
+  domains: []
+  address: "2465 Winbush St"
+  city: Mobile
+  state: AL
+  zip: "36610"
+  regions: [mobile]
+  notes: "Museum in the historic Africatown district telling the story of the Clotilda survivors; open Tue-Sat."
+
+- slug: satsuma-city-hall
+  name: Satsuma City Hall
+  aliases: ["Satsuma City Hall"]
+  domains: ["cityofsatsuma.com"]
+  address: "5464 Old Highway 43"
+  city: Satsuma
+  state: AL
+  zip: "36572"
+  regions: [mobile]
+  notes: "City government building for Satsuma."
+
+- slug: town-center-park-saraland
+  name: Town Center Park
+  aliases: ["Town Center Park", "Saraland Town Center Park"]
+  domains: []
+  address: "712A Saraland Blvd S"
+  city: Saraland
+  state: AL
+  zip: "36571"
+  regions: [mobile]
+  notes: "City park with a splash pad; annual home of Saraland's Mistletoe Market."
+
+- slug: the-admiral-hotel
+  name: The Admiral Hotel
+  aliases: ["The Admiral Hotel", "Admiral Hotel", "Admiral Semmes Hotel"]
+  domains: ["theadmiralhotel.com"]
+  address: "251 Government St"
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Historic 1940 downtown hotel (Curio Collection by Hilton), formerly the Admiral Semmes Hotel."
+
+- slug: gd-farms-wilmer
+  name: G & D Farms
+  aliases: ["G&D Farm, Feed and Outdoors", "G & D Farms", "G&D Farms Inc"]
+  domains: []
+  address: "14170 Tanner Williams Rd"
+  city: Wilmer
+  state: AL
+  zip: "36587"
+  regions: [mobile]
+  notes: "Farm, feed, and outdoors supply store in Wilmer."
