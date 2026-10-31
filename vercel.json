@@ -1026,8 +1026,73 @@
       "permanent": true
     },
     {
+      "source": "/events/arts-afire-fall-festival(/)?",
+      "destination": "/venues/coastal-arts-center-orange-beach/",
+      "permanent": true
+    },
+    {
+      "source": "/events/awf-gulf-coast-wild-game-cook-off(/)?",
+      "destination": "/venues/five-rivers-delta-center/",
+      "permanent": true
+    },
+    {
       "source": "/events/money-as-you-grow-book-club(/)?",
       "destination": "/venues/ben-may-main-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/business-after-hours-the-portier-at-midtown(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/annual-arts-afire-fall-festival(/)?",
+      "destination": "/venues/orange-beach-city-hall/",
+      "permanent": true
+    },
+    {
+      "source": "/events/vampires-and-the-bioarcheology-of-the-undead-presentation(/)?",
+      "destination": "/venues/university-of-south-alabamas-archaeology-museum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/whataburger-trick-or-treat-coloring-contest(/)?",
+      "destination": "/venues/whataburger-daphne/",
+      "permanent": true
+    },
+    {
+      "source": "/events/saraland-s-8th-annual-trunk-or-treat(/)?",
+      "destination": "/venues/saraland-municipal-complex/",
+      "permanent": true
+    },
+    {
+      "source": "/events/jeanie-thompson-and-larry-mitchell-poetry-reading(/)?",
+      "destination": "/venues/university-of-south-alabama-marx-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/sallie-s-ashes(/)?",
+      "destination": "/venues/ben-may-main-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/aminah-robinson-talk-deidre-hamlar(/)?",
+      "destination": "/venues/mobile-museum-of-art/",
+      "permanent": true
+    },
+    {
+      "source": "/events/stagner-s-showcase-feat-justin-stagner-friends(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/cece-winans-come-worship-tour(/)?",
+      "destination": "/venues/pensacola-bay-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/usa-trombone-choir-fall-concert(/)?",
+      "destination": "/venues/laidlaw-performing-arts-center/",
       "permanent": true
     },
     {

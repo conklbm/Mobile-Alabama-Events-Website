@@ -1,70 +1,7 @@
 {
  "region": "coastal",
- "generated": "2026-10-30T18:44:02Z",
+ "generated": "2026-10-31T15:38:59Z",
  "events": [
-  {
-   "id": 251,
-   "series_slug": "the-linda-lindas",
-   "title": "The Linda Lindas",
-   "start": "2026-10-29T19:30:00-05:00",
-   "end": "2026-10-29T22:30:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "the-handlebar-pensacola",
-    "name": "The Handlebar",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jo8b",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jo8b",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1134,
-   "series_slug": "cardio-dance",
-   "title": "Cardio Dance",
-   "start": "2026-10-30T08:00:00-05:00",
-   "end": "2026-10-30T09:00:00-05:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10918",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
   {
    "id": 727,
    "series_slug": "gatalop-42-renaissance-festival",
@@ -95,37 +32,6 @@
    },
    "image": null,
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1135,
-   "series_slug": "treats-on-the-trail",
-   "title": "Treats on the Trail",
-   "start": "2026-10-30T16:30:00-05:00",
-   "end": "2026-10-30T18:30:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9628",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
