@@ -1126,6 +1126,31 @@
       "permanent": true
     },
     {
+      "source": "/events/the-2026-spooktacular-spectacular(/)?",
+      "destination": "/venues/joe-jefferson-playhouse/",
+      "permanent": true
+    },
+    {
+      "source": "/events/jd-simo-w-luther-dickinson-black-joe-lewis-the-honeybears(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/amb-edm-w-holy-smokes-kryptk-saharoine-dm-cracy-mvkk-gimme-that(/)?",
+      "destination": "/venues/alabama-music-box/",
+      "permanent": true
+    },
+    {
+      "source": "/events/wandaween-hosted-by-wanda-doomy-featuring-a-screening-of-jennifer-s(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/rattler-boo-bash-5k(/)?",
+      "destination": "/venues/tricentennial-park/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
