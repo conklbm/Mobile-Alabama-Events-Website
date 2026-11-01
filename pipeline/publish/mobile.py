@@ -313,6 +313,19 @@ def render_richtext(text: str | None, fold_after: int = 3) -> Markup:
     return Markup(f'{head}<details class="readmore"><summary>Read more</summary>{tail}</details>')
 
 
+def _span(a, b) -> str:
+    """Oct 30–Nov 1, or Nov 6–8 inside one month."""
+    return f"{a:%b} {a.day}–{b.day}" if a.month == b.month else f"{a:%b} {a.day}–{b:%b} {b.day}"
+
+
+def _fit_title(title: str, where: str, when: str, brand: str, limit: int = 65) -> str:
+    """Event page <title>: drop the date, then the brand, then the venue until it fits search results."""
+    for t in (f"{title}{where}{when} | {brand}", f"{title}{where} | {brand}", f"{title}{where}", f"{title} | {brand}", title):
+        if len(t) <= limit:
+            return t
+    return title[:limit - 1].rsplit(" ", 1)[0] + "…"
+
+
 def _posix() -> bool:
     import os
     return os.name != "nt"
@@ -354,9 +367,9 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
     # this weekend
     fri, sun = weekend_bounds(site.today)
     wk = [o for o in site.upcoming if fri <= o["day"] <= sun]
-    r.page("/this-weekend/", "list.html", title=f"This Weekend in Mobile, AL — {fri:%b %d}–{sun:%d}",
-           description=f"Things to do in Mobile this weekend, {fri:%B %d} to {sun:%B %d}: live music, festivals, family events, and more.",
-           h1="This Weekend in Mobile", intro=f"Friday {fri:%B %d} through Sunday {sun:%B %d}. Updated Thursdays.",
+    r.page("/this-weekend/", "list.html", title=f"This Weekend in Mobile, AL — {_span(fri, sun)}",
+           description=f"Things to do in Mobile this weekend, {fri:%B} {fri.day} to {sun:%B} {sun.day}: live music, festivals, family events, and more.",
+           h1="This Weekend in Mobile", intro=f"Friday {fri:%B} {fri.day} through Sunday {sun:%B} {sun.day}. Updated Thursdays.",
            groups=group_by_day(wk), empty="Nothing listed for this weekend yet. Check the full calendar below.")
     counts["pages"] += 1
 
@@ -387,19 +400,24 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
 
     # series pages + expiry
     venue_series: dict[str, list[dict]] = defaultdict(list)
+    gone: set[str] = set()
     for s in site.series.values():
         if s["venue"]:
             venue_series[s["venue"]["slug"]].append(s)
         expired = not s["upcoming"] and (site.now - s["last_end"]).days > site.redirect_after
         if s["cadence"] == "one_off" and expired:
             r.redirects.append({"source": s["url"].rstrip("/") + "(/)?", "destination": s["venue"]["url"] if s["venue"] else "/", "permanent": True})
+            gone.add(s["url"])
             counts["expired_redirects"] += 1
             continue
         nxt = s["next"]
-        when = f" — {nxt['day']:%b %d}" if nxt else ""
+        when = f" — {nxt['day']:%b} {nxt['day'].day}" if nxt else ""
         where = f" at {s['venue']['name']}" if s["venue"] else (f" at {s['venue_name_raw']}" if s["venue_name_raw"] else "")
-        desc = s["blurb"] or excerpt(s["description"], 160) or f"{s['title']}{where}. Dates, tickets, and details."
-        r.page(s["url"], "series.html", title=f"{s['title']}{where}{when} | {site.name}", description=desc,
+        desc = s["blurb"] or excerpt(s["description"], 160)
+        if len(desc) < 80:  # "Wednesdays with Instructor ..." alone says nothing in a search result
+            extra = desc if desc and desc.lower() not in s["title"].lower() else "Dates, tickets, and details."
+            desc = excerpt(f"{s['title']}{where}. {extra}", 160)
+        r.page(s["url"], "series.html", title=_fit_title(s["title"], where, when, site.name), description=desc,
                s=s, jsonld=r.event_jsonld(s), noindex=not s["upcoming"] and not s["past"])
         counts["series_pages"] += 1
 
@@ -409,14 +427,18 @@ def publish(conn: sqlite3.Connection, out: Path | None = None, vercel_path: Path
     for slug, slist in venue_series.items():
         v = slist[0]["venue"]
         up = sorted((o for s in slist for o in s["upcoming"]), key=lambda o: o["start"])
-        past = sorted((o for s in slist for o in s["past"]), key=lambda o: o["start"], reverse=True)[:30]
-        r.page(v["url"], "venue.html", title=f"Events at {v['name']} — {v['city']}, {v['state']}",
+        # an expired one-off redirects back here, so it's listed without a link
+        past = [{**o, "url": None if o["url"] in gone else o["url"]}
+                for o in sorted((o for s in slist for o in s["past"]), key=lambda o: o["start"], reverse=True)[:30]]
+        vt = f"Events at {v['name']} — {v['city']}, {v['state']}"
+        r.page(v["url"], "venue.html", title=vt if len(vt) <= 65 else f"Events at {v['name']}",
                description=f"Upcoming events at {v['name']} in {v['city']}, AL, plus past shows. {v['notes'] or ''}".strip()[:160],
                v=v, upcoming=group_by_day(up), past=past, happy_hour=hh_by_venue.get(slug),
                jsonld=[{"@context": "https://schema.org", "@type": "Place", "name": v["name"],
                         "address": {"@type": "PostalAddress", "streetAddress": v["address"], "addressLocality": v["city"], "addressRegion": v["state"], "postalCode": v["zip"]}}])
         counts["venue_pages"] += 1
-    venues_list = sorted(({**slist[0]["venue"], "count": sum(len(s["upcoming"]) for s in slist)} for slist in venue_series.values()), key=lambda v: (-v["count"], v["name"]))
+    venues_list = sorted((v for v in ({**slist[0]["venue"], "count": sum(len(s["upcoming"]) for s in slist)} for slist in venue_series.values()) if v["count"]),
+                         key=lambda v: (-v["count"], v["name"]))
     r.page("/venues/", "venues_index.html", title=f"Venues in Mobile, AL — {site.name}",
            description="Every venue we track around Mobile Bay, from Mobile and the Eastern Shore to the Baldwin coast and Pensacola, with upcoming event counts.", venues=venues_list)
 

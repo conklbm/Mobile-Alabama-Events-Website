@@ -36,6 +36,8 @@ def normalize(ev: RawEvent, source: dict, resolver: VenueResolver) -> dict | Non
     # one-hop origin: a listing linking to a venue's own domain hands us the Tier A source
     origin_url, origin_tier, origin_venue = "", None, None
     for candidate in (ev.website, ev.ticket_url, ev.info_url if source["tier"] != "A" else ""):
+        if candidate and "://" not in candidate:
+            candidate = "https://" + candidate.lstrip("/")  # "innovation-portal.com/enrg" would publish as a relative link
         ov = resolver.origin_for_url(candidate)
         if ov:
             origin_url, origin_tier, origin_venue = candidate, "A", ov

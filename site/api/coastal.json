@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-10-31T15:38:59Z",
+ "generated": "2026-11-01T03:15:35Z",
  "events": [
   {
    "id": 727,
@@ -35,70 +35,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 252,
-   "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
-   "title": "Pensacola Ice Flyers vs. Macon Mayhem",
-   "start": "2026-10-30T19:05:00-05:00",
-   "end": "2026-10-30T22:05:00-05:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-10-30-2026/event/1B00650D855A62E2",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-macon-mayhem-pensacola-florida-10-30-2026/event/1B00650D855A62E2",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 298,
-   "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center After Game Skate",
-   "start": "2026-10-30T21:30:00-05:00",
-   "end": "2026-10-31T00:30:00-05:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "sports"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-after-game-skate-pensacola-florida-10-30-2026/event/1B00652BD2323E07",
-   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-after-game-skate-pensacola-florida-10-30-2026/event/1B00652BD2323E07",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 875,
    "series_slug": "the-original-german-sausage-festival",
    "title": "The Original German Sausage Festival",
@@ -127,69 +63,6 @@
    },
    "image": null,
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1136,
-   "series_slug": "gentle-stretch-yoga",
-   "title": "Yoga",
-   "start": "2026-10-31T10:00:00-05:00",
-   "end": "2026-10-31T11:00:00-05:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=8720",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1137,
-   "series_slug": "free-rabies-microchip-clinic-register-by-oct-23",
-   "title": "Free rabies/microchip clinic (register by Oct. 23)",
-   "start": "2026-10-31T10:00:00-05:00",
-   "end": "2026-10-31T12:00:00-05:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10787",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {

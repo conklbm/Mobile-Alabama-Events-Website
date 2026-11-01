@@ -24,18 +24,21 @@ _BLOCK_END_RE = re.compile(r"</(p|div|li|h[1-6]|tr|blockquote|section|article)\s
 _LI_START_RE = re.compile(r"<li[^>]*>", re.I)
 _HWS_RE = re.compile(r"[ \t\r\f\v]+")
 _MANY_NL_RE = re.compile(r"\n{3,}")
+_ICS_LEFTOVER_RE = re.compile(r"\\([;,\\])")
 
 
 def strip_html(s: str | None) -> str:
     """HTML -> plain text that keeps paragraph breaks (blank line) and list items ("- ")."""
     if not s:
         return ""
+    # some calendars escape iCal text twice; the leftovers ("couldn&#39\;t", "Park\,") survive one unescape
+    s = _ICS_LEFTOVER_RE.sub(r"\1", s).replace("\\n", "\n")
     s = re.sub(r"<h[1-6][^>]*>", "\n\n## ", s, flags=re.I)
     s = _LI_START_RE.sub("\n- ", s)
     s = _BLOCK_END_RE.sub("\n\n", s)
     s = _TAG_RE.sub(" ", s)
     s = _SHORTCODE_RE.sub(" ", s)
-    s = html.unescape(s)
+    s = html.unescape(html.unescape(s))  # twice: some feeds send "&amp;#39;"
     s = s.replace("\xa0", " ")
     lines = [_HWS_RE.sub(" ", line).strip() for line in s.split("\n")]
     s = "\n".join(lines)
@@ -81,7 +84,7 @@ def slugify(s: str | None, max_len: int = 70) -> str:
 
 
 def excerpt(s: str | None, n: int = 160) -> str:
-    s = flatten(strip_html(s))
+    s = flatten(strip_html(s)).replace("## ", "")
     if len(s) <= n:
         return s
     cut = s[: n - 1].rsplit(" ", 1)[0]

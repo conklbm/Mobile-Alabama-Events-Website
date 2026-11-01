@@ -35,6 +35,9 @@ def test_pensacola_only_its_biggest_nights():
     assert not show("Pensacola Ice Flyers vs. Macon Mayhem", ["ticketmaster"], "pensacola-bay-center")
     assert not show("The Billy Joel Legacy: Celebrating The Piano Man", ["ticketmaster"], "pensacola-saenger")
     assert not show("Kenny G-Green Room Lounge", ["ticketmaster"], "pensacola-saenger")
+    for filler in ["Pensacola Bay Center Public Skate 4:30-5:30pm", "Ultimate Fan Pass: 30-min Exclusive On-court Access",
+                   "Limited Edition Rivals Replica Game Ball From Spalding®"]:
+        assert not show(filler, ["ticketmaster"], "pensacola-bay-center"), filler
     assert show("Pensacola Seafood Festival", ["visit-pensacola"], None)                              # festivals still count
     # the Baldwin coast keeps the looser rule
     assert areas.shows_on_site("mobile", ["coastal"], "Orange Beach", "Some Band", ["ticketmaster"], "the-wharf-amphitheater")

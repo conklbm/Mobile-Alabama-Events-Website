@@ -42,3 +42,14 @@ def test_unverified_spots_stay_off_the_page(monkeypatch):
     monkeypatch.setattr(config, "happy_hours", lambda: data)
     assert [s["name"] for s in hh.views()] == ["Sure Thing"]
 
+
+
+def test_titles_and_date_spans():
+    from pipeline.publish.mobile import _fit_title, _span
+    assert _span(date(2026, 10, 30), date(2026, 11, 1)) == "Oct 30–Nov 1"
+    assert _span(date(2026, 11, 6), date(2026, 11, 8)) == "Nov 6–8"
+    assert _fit_title("Jazz Night", " at Callaghan's", " — Nov 6", "Mobile Bay Events") == "Jazz Night at Callaghan's — Nov 6 | Mobile Bay Events"
+    long = "Young Professionals of Mobile October 2026 Lunch and Learn"
+    assert _fit_title(long, " at Mobile Chamber", " — Nov 4", "Mobile Bay Events") == long  # date, venue, brand all dropped
+    t = _fit_title("A Very Long Title " * 6, " at Somewhere", "", "Mobile Bay Events")
+    assert len(t) <= 65 and t.endswith("…")

@@ -68,7 +68,7 @@ outer_ring:
   # (single quotes: YAML double quotes would turn \b into a backspace)
   draw_words: 'festival|\bfest\b|\bfair\b|parade|fireworks|rodeo|air show|regatta|mardi gras|tree lighting|marathon|triathlon|concert'
   # ...minus venue housekeeping that rides along with a draw source
-  never: "public (ice )?skating|after game skate|parking pass|season tickets?"
+  never: "public (ice )?skat(e|ing)|after game skate|parking pass|season tickets?|fan pass|replica|game ball"
   # per-area tightening (Brooks 2026-10-07: "Pensacola, the biggest events only")
   areas:
     pensacola:

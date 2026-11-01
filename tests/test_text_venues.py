@@ -14,6 +14,8 @@ r = VenueResolver(VENUES, fuzzy_threshold=90)
 def test_strip_html_and_entities():
     assert strip_html("<p>Moe&#8217;s <b>BBQ</b>&nbsp; live</p>") == "Moe’s BBQ live"
     assert clean_title("Beer, BBQ &#038; Bingo") == "Beer, BBQ & Bingo"
+    # double-escaped iCal text (GrowthZone, The Mob Mom) leaves "\;" and "\," behind after one unescape
+    assert strip_html("We couldn&#39\\;t\\, Oct 17 &amp\\; 18\\n\\nMore") == "We couldn't, Oct 17 & 18\n\nMore"
 
 
 def test_keys():

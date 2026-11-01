@@ -384,7 +384,7 @@
 
 - id: mobile-arts-council
   name: Mobile Arts Council community calendar
-  url: https://www.mobilearts.org/community-calendar
+  url: https://www.mobilearts.org/community-calendar-2
   collector_type: duda_collection
   tier: C
   curated: false

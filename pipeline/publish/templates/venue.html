@@ -19,7 +19,7 @@
 {% if past %}
 <section class="past">
   <h2>Past events</h2>
-  <ul class="plain">{% for o in past %}<li><a href="{{ o.url }}">{{ o.title }}</a> · {{ when(o) }}</li>{% endfor %}</ul>
+  <ul class="plain">{% for o in past %}<li>{% if o.url %}<a href="{{ o.url }}">{{ o.title }}</a>{% else %}{{ o.title }}{% endif %} · {{ when(o) }}</li>{% endfor %}</ul>
 </section>
 {% endif %}
 {% endblock %}

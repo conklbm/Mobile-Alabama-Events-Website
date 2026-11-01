@@ -1096,6 +1096,36 @@
       "permanent": true
     },
     {
+      "source": "/events/shred-day-2026(/)?",
+      "destination": "/venues/tractor-supply-daphne/",
+      "permanent": true
+    },
+    {
+      "source": "/events/dauphin-island-beach-excursion(/)?",
+      "destination": "/venues/dauphin-island-sea-lab/",
+      "permanent": true
+    },
+    {
+      "source": "/events/underwater-pumpkin-carving-at-the-alabama-aquarium(/)?",
+      "destination": "/venues/dauphin-island-sea-lab/",
+      "permanent": true
+    },
+    {
+      "source": "/events/book-character-costume-contest(/)?",
+      "destination": "/venues/ina-pullen-smallwood-memorial-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/laughs-for-vets-veterans-doing-comedy-for-veterans(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-mystery-dinners-next-performance-the-masquerade-murder(/)?",
+      "destination": "/venues/heron-lakes-country-club/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
