@@ -1106,6 +1106,11 @@
       "permanent": true
     },
     {
+      "source": "/events/plantmania-expo-2026(/)?",
+      "destination": "/venues/mobile-civic-center/",
+      "permanent": true
+    },
+    {
       "source": "/events/underwater-pumpkin-carving-at-the-alabama-aquarium(/)?",
       "destination": "/venues/dauphin-island-sea-lab/",
       "permanent": true
@@ -1113,6 +1118,11 @@
     {
       "source": "/events/book-character-costume-contest(/)?",
       "destination": "/venues/ina-pullen-smallwood-memorial-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/primal-fear(/)?",
+      "destination": "/venues/owa-parks-resort/",
       "permanent": true
     },
     {
@@ -1131,6 +1141,11 @@
       "permanent": true
     },
     {
+      "source": "/events/2nd-annual-grit-gold-and-glory-rodeo(/)?",
+      "destination": "/venues/carol-hodgson-arena/",
+      "permanent": true
+    },
+    {
       "source": "/events/jd-simo-w-luther-dickinson-black-joe-lewis-the-honeybears(/)?",
       "destination": "/venues/the-merry-widow/",
       "permanent": true
@@ -1146,8 +1161,158 @@
       "permanent": true
     },
     {
+      "source": "/events/carolyn-haines-launch-party-the-last-sbd(/)?",
+      "destination": "/venues/the-haunted-book-shop/",
+      "permanent": true
+    },
+    {
+      "source": "/events/discovery-crew-2026(/)?",
+      "destination": "/venues/university-of-south-alabama-student-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-midnight-maskers-6th-annual-halloween-masquerade-ball(/)?",
+      "destination": "/venues/fort-whiting-auditorium/",
+      "permanent": true
+    },
+    {
+      "source": "/events/west-mobile-county-operation-clean-sweep(/)?",
+      "destination": "/venues/hubert-pierce-road-dirt-pit/",
+      "permanent": true
+    },
+    {
       "source": "/events/rattler-boo-bash-5k(/)?",
       "destination": "/venues/tricentennial-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/prodisee-pantry-turkey-trot(/)?",
+      "destination": "/venues/daphne-city-hall/",
+      "permanent": true
+    },
+    {
+      "source": "/events/grand-bay-pecan-festival(/)?",
+      "destination": "/venues/dees-pecan-co/",
+      "permanent": true
+    },
+    {
+      "source": "/events/boo-bash-by-the-bay(/)?",
+      "destination": "/venues/uss-alabama-battleship-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/iron-sharpens-iron-bbq-cook-off(/)?",
+      "destination": "/venues/mardi-gras-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gulf-coast-dementia-services-witches-walk(/)?",
+      "destination": "/venues/somerby-of-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/creepy-crawly-halloween-at-the-museum(/)?",
+      "destination": "/venues/university-of-south-alabamas-archaeology-museum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/downtown-fairhope-trick-or-treat-2026(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/pensacola-hippie-fest(/)?",
+      "destination": "/venues/seville-square-pensacola/",
+      "permanent": true
+    },
+    {
+      "source": "/events/3rd-annual-causeway-classic-wooden-boat-show(/)?",
+      "destination": "/venues/blue-gill/",
+      "permanent": true
+    },
+    {
+      "source": "/events/wig-walk-2026(/)?",
+      "destination": "/venues/braided-river-brewing/",
+      "permanent": true
+    },
+    {
+      "source": "/events/jack-o-lantern-jubilee(/)?",
+      "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
+      "source": "/events/night-at-the-museum(/)?",
+      "destination": "/venues/history-museum-of-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/9th-annual-joe-bullard-wine-on-the-river(/)?",
+      "destination": "/venues/cooper-riverside-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/howl-o-ween-dog-costume-contest-and-parade(/)?",
+      "destination": "/venues/semmes-honor-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/semmes-howl-o-ween-adoption-event(/)?",
+      "destination": "/venues/semmes-honor-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fear-fest-poltergeist(/)?",
+      "destination": "/venues/gulf-coast-exploreum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/trunk-or-treat-with-southern-bayou-grill(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fearfest-at-the-exploreum(/)?",
+      "destination": "/venues/gulf-coast-exploreum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/bite-before-the-ballet(/)?",
+      "destination": "/venues/mobile-arts-council/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fall-festival(/)?",
+      "destination": "/venues/lily-baptist-church/",
+      "permanent": true
+    },
+    {
+      "source": "/events/haunted-hollow-een-movie-night-hotel-transylvania(/)?",
+      "destination": "/venues/escatawpa-hollow-park-campground/",
+      "permanent": true
+    },
+    {
+      "source": "/events/wild-things-ball-2026(/)?",
+      "destination": "/venues/cedar-street-social-club/",
+      "permanent": true
+    },
+    {
+      "source": "/events/the-souled-out-comedy-show(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/sweet-dreams-haunted-attraction-811-st-francis-st(/)?",
+      "destination": "/venues/sweet-dreams-haunted-attraction/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-ballet-s-dracula(/)?",
+      "destination": "/venues/saenger-theatre/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-roast-league-comedians-fight-with-words-crescent-theater(/)?",
+      "destination": "/venues/crescent-theater/",
       "permanent": true
     },
     {
