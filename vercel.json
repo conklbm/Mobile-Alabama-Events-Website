@@ -1161,6 +1161,11 @@
       "permanent": true
     },
     {
+      "source": "/events/38th-halloween-howler-disc-golf-tournament(/)?",
+      "destination": "/venues/chickasabogue-park/",
+      "permanent": true
+    },
+    {
       "source": "/events/carolyn-haines-launch-party-the-last-sbd(/)?",
       "destination": "/venues/the-haunted-book-shop/",
       "permanent": true
@@ -1198,6 +1203,11 @@
     {
       "source": "/events/boo-bash-by-the-bay(/)?",
       "destination": "/venues/uss-alabama-battleship-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/workshop-heads-and-headpieces(/)?",
+      "destination": "/venues/eastern-shore-art-center/",
       "permanent": true
     },
     {
@@ -1312,6 +1322,46 @@
     },
     {
       "source": "/events/mobile-roast-league-comedians-fight-with-words-crescent-theater(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/boo-bash-2026(/)?",
+      "destination": "/venues/corpus-christi-catholic-school/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-witches-ride-watch-party(/)?",
+      "destination": "/venues/braided-river-brewing/",
+      "permanent": true
+    },
+    {
+      "source": "/events/16th-annual-think-pink-tea(/)?",
+      "destination": "/venues/mobile-convention-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-witches-ride(/)?",
+      "destination": "/venues/the-blind-mule/",
+      "permanent": true
+    },
+    {
+      "source": "/events/cityfest-fall-family-festival(/)?",
+      "destination": "/venues/saraland-church/",
+      "permanent": true
+    },
+    {
+      "source": "/events/13th-annual-barn-boo-bash(/)?",
+      "destination": "/venues/moes-original-bbq-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/boots-bbq-barn-bash(/)?",
+      "destination": "/venues/moes-original-bbq-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/drew-tessier(/)?",
       "destination": "/venues/crescent-theater/",
       "permanent": true
     },
