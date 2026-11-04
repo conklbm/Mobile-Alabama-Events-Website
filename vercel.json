@@ -1366,6 +1366,11 @@
       "permanent": true
     },
     {
+      "source": "/events/open-mic-at-the-fairhope-public-library(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
