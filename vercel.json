@@ -536,11 +536,6 @@
       "permanent": true
     },
     {
-      "source": "/events/bragg-mitchell-mansion-fall-market(/)?",
-      "destination": "/venues/bragg-mitchell-mansion/",
-      "permanent": true
-    },
-    {
       "source": "/events/wickedly-creative-witch-planter(/)?",
       "destination": "/venues/coastal-makers-art-studio/",
       "permanent": true
@@ -1091,11 +1086,6 @@
       "permanent": true
     },
     {
-      "source": "/events/usa-trombone-choir-fall-concert(/)?",
-      "destination": "/venues/laidlaw-performing-arts-center/",
-      "permanent": true
-    },
-    {
       "source": "/events/shred-day-2026(/)?",
       "destination": "/venues/tractor-supply-daphne/",
       "permanent": true
@@ -1368,6 +1358,36 @@
     {
       "source": "/events/open-mic-at-the-fairhope-public-library(/)?",
       "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/waitress(/)?",
+      "destination": "/venues/pensacola-saenger/",
+      "permanent": true
+    },
+    {
+      "source": "/events/workforce-community-resource-day-jobs-training-career-support(/)?",
+      "destination": "/venues/ben-may-main-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mastering-the-fundamentals-a-personal-finance-toolkit-for-founders-a(/)?",
+      "destination": "/venues/innovation-portal/",
+      "permanent": true
+    },
+    {
+      "source": "/events/not-so-scary-halloween-party(/)?",
+      "destination": "/venues/grand-bay-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/megan-zuhowski-usa-faculty-voice-recital(/)?",
+      "destination": "/venues/laidlaw-performing-arts-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/coffee-with-the-chamber-calagaz-printing(/)?",
+      "destination": "/",
       "permanent": true
     },
     {
