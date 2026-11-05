@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-11-05T17:31:52Z",
+ "generated": "2026-11-05T17:44:08Z",
  "events": [
   {
    "id": 1145,
@@ -378,6 +378,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1507,
+   "series_slug": "vintage-and-craft-fair",
+   "title": "Vintage and Craft Fair",
+   "start": "2026-11-06T10:00:00-06:00",
+   "end": "2026-11-07T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "swift-coles-historic-home",
+    "name": "Swift-Coles Historic Home",
+    "city": "Bon Secour",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/vintage-and-craft-fair-43738",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1349,
    "series_slug": "total-body-fit",
    "title": "Total Body Fit",
@@ -411,13 +443,14 @@
   {
    "id": 1419,
    "series_slug": "homeschool-day-insects",
-   "title": "Homeschool Day: Insects",
-   "start": "2026-11-06T13:00:00-06:00",
-   "end": "2026-11-06T15:00:00-06:00",
+   "title": "Homeschool Day",
+   "start": "2026-11-06T13:30:00-06:00",
+   "end": "2026-11-06T14:30:00-06:00",
    "all_day": false,
    "category": "community",
    "categories": [
-    "community"
+    "community",
+    "arts"
    ],
    "venue": {
     "slug": "gulf-state-park",
@@ -700,13 +733,14 @@
   {
    "id": 1351,
    "series_slug": "namaste-by-the-bay-free-community-yoga",
-   "title": "Namaste by the Bay - Free Community Yoga",
-   "start": "2026-11-07T09:00:00-06:00",
-   "end": "2026-11-07T10:00:00-06:00",
+   "title": "Yoga",
+   "start": "2026-11-07T10:00:00-06:00",
+   "end": "2026-11-07T11:00:00-06:00",
    "all_day": false,
    "category": "active",
    "categories": [
-    "active"
+    "active",
+    "community"
    ],
    "venue": {
     "slug": "orange-beach-city-hall",
@@ -815,37 +849,6 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 939,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-11-07T19:00:00-06:00",
-   "end": "2026-11-07T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-07-2026-39635",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -1333,38 +1336,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1358,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-11-10T07:20:00-06:00",
-   "end": "2026-11-10T08:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9165",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1359,
    "series_slug": "cardio-dance",
    "title": "Cardio Dance",
@@ -1554,6 +1525,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1358,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-11-10T17:00:00-06:00",
+   "end": "2026-11-10T18:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9165",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 257,
    "series_slug": "hawthorne-heights-w-letlive",
    "title": "Hawthorne Heights w/ Letlive",
@@ -1578,37 +1581,6 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 943,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-11-10T19:00:00-06:00",
-   "end": "2026-11-10T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-10-2026-39636",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -1804,6 +1776,41 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1431,
+   "series_slug": "game-night-at-waffles-r-wild",
+   "title": "Game Night at Waffles R Wild",
+   "start": "2026-11-11T17:00:00-06:00",
+   "end": "2026-11-11T21:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports",
+    "family"
+   ],
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://visitowa.com/game-night-at-waffles-r-wild/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/waffles-r-wild-game-night.jpg?fit=1536%2C804&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -2417,13 +2424,14 @@
   {
    "id": 1374,
    "series_slug": "namaste-by-the-bay-free-community-yoga",
-   "title": "Namaste by the Bay - Free Community Yoga",
-   "start": "2026-11-14T09:00:00-06:00",
-   "end": "2026-11-14T10:00:00-06:00",
+   "title": "Yoga",
+   "start": "2026-11-14T10:00:00-06:00",
+   "end": "2026-11-14T11:00:00-06:00",
    "all_day": false,
    "category": "active",
    "categories": [
-    "active"
+    "active",
+    "community"
    ],
    "venue": {
     "slug": "orange-beach-city-hall",
@@ -2539,6 +2547,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1514,
+   "series_slug": "petsmart-adoption-day-and-toy-drive-pet-adoption",
+   "title": "Petsmart Adoption Day and Toy Drive Pet Adoption",
+   "start": "2026-11-14T11:00:00-06:00",
+   "end": "2026-11-14T15:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "petsmart-foley",
+    "name": "PetSmart (Foley)",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/petsmart-adoption-day-and-toy-drive-pet-adoption-43978",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 261,
    "series_slug": "nephew-tommy-s-black-tie-house-party-comedy-show",
    "title": "Nephew Tommy's Black Tie House Party & Comedy Show",
@@ -2563,37 +2602,6 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 947,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-11-14T19:00:00-06:00",
-   "end": "2026-11-14T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-14-2026-39637",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -2947,38 +2955,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1380,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-11-17T07:20:00-06:00",
-   "end": "2026-11-17T08:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9167",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1381,
    "series_slug": "cardio-dance",
    "title": "Cardio Dance",
@@ -3105,6 +3081,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1380,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-11-17T17:00:00-06:00",
+   "end": "2026-11-17T18:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9167",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1384,
    "series_slug": "city-council-meeting-orange-beach-city-hall",
    "title": "City Council Meeting",
@@ -3130,37 +3138,6 @@
     "name": "City of Orange Beach",
     "tier": "A",
     "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 952,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-11-17T19:00:00-06:00",
-   "end": "2026-11-17T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-17-2026-39638",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
    },
    "image": null,
    "curation_score": 0,
@@ -3732,6 +3709,36 @@
    "independent_source_count": 1
   },
   {
+   "id": 1451,
+   "series_slug": "43rd-mobile-international-festival",
+   "title": "43rd Mobile International Festival",
+   "start": "2026-11-21T00:00:00-06:00",
+   "end": "2026-11-21T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/43rd-mobile-international-festival/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/international-festival.jpg?fit=960%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1452,
    "series_slug": "game-day-on-the-green-at-portside-portside-on-main-the-wharf",
    "title": "Game Day on The Green at Portside",
@@ -3916,37 +3923,6 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 955,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-11-21T19:00:00-06:00",
-   "end": "2026-11-21T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-21-2026-39639",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -4145,37 +4121,6 @@
    },
    "image": null,
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 956,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-11-24T19:00:00-06:00",
-   "end": "2026-11-24T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-24-2026-39640",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -4526,37 +4471,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 959,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-11-28T19:00:00-06:00",
-   "end": "2026-11-28T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-11-28-2026-39641",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 274,
    "series_slug": "pensacola-ice-flyers-vs-birmingham-bulls",
    "title": "Pensacola Ice Flyers vs. Birmingham Bulls",
@@ -4808,37 +4722,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 960,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-12-01T19:00:00-06:00",
-   "end": "2026-12-01T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-01-2026-39642",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 300,
    "series_slug": "dolly-parton-s-smoky-mountain-christmas",
    "title": "Dolly Parton's Smoky Mountain Christmas",
@@ -5019,37 +4902,6 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://business.eschamber.com/events/details/homeownership-education-class-12-05-2026-43984",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 963,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-12-05T19:00:00-06:00",
-   "end": "2026-12-05T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-05-2026-39643",
    "source": {
     "name": "Eastern Shore Chamber of Commerce",
     "tier": "C",
@@ -5247,37 +5099,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 966,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-12-08T19:00:00-06:00",
-   "end": "2026-12-08T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-08-2026-39644",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 143,
    "series_slug": "jeff-dunham-inappropriate-contact",
    "title": "Jeff Dunham Inappropriate Contact",
@@ -5407,37 +5228,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 968,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-12-12T19:00:00-06:00",
-   "end": "2026-12-12T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-12-2026-39645",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1194,
    "series_slug": "pensacola-children-s-chorus-christmas-on-the-coast",
    "title": "Pensacola Children's Chorus: Christmas on the Coast",
@@ -5491,37 +5281,6 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://business.eschamber.com/events/details/brandon-styles-trip-down-memory-lane-music-from-the-50-s-70-s-12-13-2026-43749",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 970,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-12-15T19:00:00-06:00",
-   "end": "2026-12-15T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-15-2026-39646",
    "source": {
     "name": "Eastern Shore Chamber of Commerce",
     "tier": "C",
@@ -5626,37 +5385,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 972,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-12-19T19:00:00-06:00",
-   "end": "2026-12-19T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-19-2026-39647",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 370,
    "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
    "title": "Pensacola Ice Flyers vs. Macon Mayhem",
@@ -5713,37 +5441,6 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 976,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-12-22T19:00:00-06:00",
-   "end": "2026-12-22T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-22-2026-39648",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -5939,37 +5636,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 978,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-12-26T19:00:00-06:00",
-   "end": "2026-12-26T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-26-2026-39649",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 423,
    "series_slug": "pensacola-ice-flyers-vs-athens-rock-lobsters",
    "title": "Pensacola Ice Flyers vs. Athens Rock Lobsters",
@@ -6097,37 +5763,6 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
-  },
-  {
-   "id": 979,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Comedy, Magic & Impressions! Brandon Styles VARIETY SHOW",
-   "start": "2026-12-29T19:00:00-06:00",
-   "end": "2026-12-29T20:15:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/comedy-magic-impressions-brandon-styles-variety-show-12-29-2026-39650",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
   },
   {
    "id": 1531,

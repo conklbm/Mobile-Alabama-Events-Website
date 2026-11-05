@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-05T17:31:52Z",
+ "generated": "2026-11-05T17:44:08Z",
  "events": [
   {
    "id": 620,
@@ -195,6 +195,38 @@
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1317,
+   "series_slug": "harvest-fest-2026",
+   "title": "Harvest Fest 2026",
+   "start": "2026-11-04T18:00:00-06:00",
+   "end": "2026-11-04T20:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "shiloh-baptist-church-saraland",
+    "name": "Shiloh Baptist Church",
+    "city": "Saraland",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-harvest-fest-2026-2026-11-04",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -939,6 +971,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1507,
+   "series_slug": "vintage-and-craft-fair",
+   "title": "Vintage and Craft Fair",
+   "start": "2026-11-06T10:00:00-06:00",
+   "end": "2026-11-07T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "swift-coles-historic-home",
+    "name": "Swift-Coles Historic Home",
+    "city": "Bon Secour",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/vintage-and-craft-fair-43738",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 584,
    "series_slug": "cultivate-growing-stem-educators-prek-k-session",
    "title": "Cultivate: Growing STEM Educators 6 – 8 Session",
@@ -1091,6 +1155,33 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1508,
+   "series_slug": "bayside-boys-book-signing-at-page-palette-benefits-the-haven",
+   "title": "Bayside Boys Book Signing at Page & Palette Benefits The Haven",
+   "start": "2026-11-06T17:30:00-06:00",
+   "end": "2026-11-06T19:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "active"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/bayside-boys-book-signing-at-page-palette-benefits-the-haven-43977",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1584,6 +1675,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1489,
+   "series_slug": "annual-holiday-reveal",
+   "title": "Annual Holiday Reveal",
+   "start": "2026-11-07T00:00:00-06:00",
+   "end": "2026-11-07T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "muffinjaw-designs",
+    "name": "Muffinjaw Designs",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/annual-holiday-reveal/24295/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/2024Cane_2BF3FB04-7EAE-4D96-9765FE78FC6E9603_9e5bcad8-90bb-4378-983ca05e96f41a31.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1151,
    "series_slug": "hacc-block-party",
    "title": "HACC Block Party",
@@ -1974,7 +2099,7 @@
   {
    "id": 1475,
    "series_slug": "brunch-fest-presented-by-renasant-bank",
-   "title": "Brunch Fest, Presented by Renasant Bank",
+   "title": "Brunch Fest",
    "start": "2026-11-07T10:00:00-06:00",
    "end": "2026-11-07T13:00:00-06:00",
    "all_day": false,
@@ -2029,6 +2154,37 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://business.eschamber.com/events/details/gumbo-championship-and-fall-festival-43687",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1510,
+   "series_slug": "zero-down-100-love-pet-adoption-event",
+   "title": "Zero Down, 100% Love: Pet Adoption Event",
+   "start": "2026-11-07T11:00:00-06:00",
+   "end": "2026-11-07T15:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "tameron-buick-gmc",
+    "name": "Tameron Buick GMC",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/zero-down-100-love-pet-adoption-event-43976",
    "source": {
     "name": "Eastern Shore Chamber of Commerce",
     "tier": "C",
@@ -3107,41 +3263,6 @@
    },
    "image": {
     "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/fused-glass.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 534,
-   "series_slug": "tuesday-teen-art-club",
-   "title": "Tuesday Teen Art Club",
-   "start": "2026-11-10T18:00:00-06:00",
-   "end": "2026-11-10T19:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/tuesday-teen-art-club/2026-11-10/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/teenn.jpg",
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 0,
@@ -4371,9 +4492,12 @@
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/merry-midtown-market.jpg?fit=960%2C503&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 130,
@@ -5031,38 +5155,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1306,
-   "series_slug": "mobile-county-parks-fall-festival",
-   "title": "Mobile County Parks Fall Festival",
-   "start": "2026-11-14T12:00:00-06:00",
-   "end": "2026-11-14T14:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "food"
-   ],
-   "venue": {
-    "slug": "irvington-landfill",
-    "name": "Irvington Landfill (Mobile County)",
-    "city": "Irvington",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/mobile-county-parks-fall-festival-2026-11-14",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
-  },
-  {
    "id": 1470,
    "series_slug": "mobile-county-parks-fall-festival-mobile-county-animal-shelter",
    "title": "Mobile County Parks Fall Festival",
@@ -5355,40 +5447,6 @@
    "independent_source_count": 2
   },
   {
-   "id": 1498,
-   "series_slug": "spanish-wine-and-cheese-tasting",
-   "title": "Spanish Wine and Cheese Tasting",
-   "start": "2026-11-15T00:00:00-06:00",
-   "end": "2026-11-15T23:59:59-06:00",
-   "all_day": true,
-   "category": "food",
-   "categories": [
-    "food"
-   ],
-   "venue": {
-    "slug": "conde-charlotte-museum-house",
-    "name": "Condé-Charlotte Museum House",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/spanish-wine-and-cheese-tasting/24340/",
-   "source": {
-    "name": "Visit Mobile",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/20250228_133511_61D443E8-D4B4-8F6C-DB9B40E1A376AE9F_61e552ae-bb39-603e-9bcb2df5fb34cc0c.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 843,
    "series_slug": "publix-battleship-12k",
    "title": "Keesler Federal Battleship 12K",
@@ -5446,6 +5504,37 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://www.mobilecountyal.gov/community_events/events/mystic-dollys-of-folly-boot-scootin-bingo-2026-11-15",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 795,
+   "series_slug": "historical-lecture-series-the-pelican-girls",
+   "title": "Historical Lecture Series: The Pelican Girls",
+   "start": "2026-11-15T14:00:00-06:00",
+   "end": "2026-11-15T15:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "cox-deasy-cottage-at-historic-oakleigh",
+    "name": "Cox-Deasy Cottage at Historic Oakleigh",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/historical-lecture-series-the-pelican-girls-2026-11-15",
    "source": {
     "name": "Mobile County community calendar",
     "tier": "C",
@@ -5553,6 +5642,75 @@
    "independent_source_count": 1
   },
   {
+   "id": 1442,
+   "series_slug": "staying-safe-in-public-places-for-high-school-girls-and-their-moms",
+   "title": "Staying Safe in Public Places (for high school girls and their moms)",
+   "start": "2026-11-15T16:00:00-06:00",
+   "end": "2026-11-15T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "great-day-latte",
+    "name": "Great Day Latte",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/staying-safe-in-public-places-for-high-school-girls-and-their-moms/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/shes-a-pistol.jpg?fit=526%2C681&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1478,
+   "series_slug": "spanish-wine-and-cheese-tasting-at-the-conde-charlotte-museum",
+   "title": "Spanish Wine and Cheese Tasting at the Conde-Charlotte Museum",
+   "start": "2026-11-15T16:00:00-06:00",
+   "end": "2026-11-15T18:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "arts"
+   ],
+   "venue": {
+    "slug": "conde-charlotte-museum-house",
+    "name": "Condé-Charlotte Museum House",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/spanish-wine-and-cheese-tasting-at-the-conde-charlotte-museum/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/20230510_153655-scaled.jpg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
    "id": 1173,
    "series_slug": "gulf-coast-comedy-showcase",
    "title": "Gulf Coast Comedy Showcase",
@@ -5643,6 +5801,41 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1479,
+   "series_slug": "holiday-cheer-with-grace",
+   "title": "Holiday Cheer with Grace",
+   "start": "2026-11-16T18:00:00-06:00",
+   "end": "2026-11-16T20:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "food"
+   ],
+   "venue": {
+    "slug": "grace-on-dauphin",
+    "name": "Grace on Dauphin",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/holiday-cheer-with-grace/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/Holiday-Cheer-With-Grace-2026-flyer-scaled.jpg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -5873,6 +6066,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1446,
+   "series_slug": "bridging-generations-through-art-free-youth-program",
+   "title": "Bridging Generations Through Art | Free Youth Program",
+   "start": "2026-11-17T16:00:00-06:00",
+   "end": "2026-11-17T17:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
+   "venue": {
+    "slug": "dotch-community-center",
+    "name": "Joseph C. Dotch Community Center & Park",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/bridging-generations-through-art-free-youth-program/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/free-youth-program.jpg?fit=960%2C305&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 541,
    "series_slug": "tuesday-pm-wheel-throwing-october-december",
    "title": "Tuesday PM Wheel Throwing (October-December)",
@@ -5902,41 +6130,6 @@
    },
    "image": {
     "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/pm-wheel.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 542,
-   "series_slug": "tuesday-teen-art-club",
-   "title": "Tuesday Teen Art Club",
-   "start": "2026-11-17T18:00:00-06:00",
-   "end": "2026-11-17T19:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/tuesday-teen-art-club/2026-11-17/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/teenn.jpg",
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 0,
@@ -6037,6 +6230,37 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1559,
+   "series_slug": "usa-jazz-ensemble-fall-concert",
+   "title": "USA Wind Ensemble Fall Concert",
+   "start": "2026-11-17T19:30:00-06:00",
+   "end": "2026-11-17T22:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "laidlaw-performing-arts-center",
+    "name": "Laidlaw Performing Arts Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -6226,6 +6450,68 @@
    "independent_source_count": 1
   },
   {
+   "id": 1517,
+   "series_slug": "daphne-networking-at-noon-press-and-co",
+   "title": "Daphne Networking at Noon - Press and Co.",
+   "start": "2026-11-18T12:00:00-06:00",
+   "end": "2026-11-18T13:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "press-and-co-daphne",
+    "name": "Press & Co.",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/daphne-networking-at-noon-press-and-co-43991",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1518,
+   "series_slug": "spanish-fort-networking-at-noon-the-bull",
+   "title": "Spanish Fort Networking at Noon - The Bull",
+   "start": "2026-11-18T12:00:00-06:00",
+   "end": "2026-11-18T13:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-bull-spanish-fort",
+    "name": "The Bull",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/spanish-fort-networking-at-noon-the-bull-43993",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1519,
    "series_slug": "tai-chi",
    "title": "Tai Chi",
@@ -6289,38 +6575,6 @@
    },
    "curation_score": 0,
    "independent_source_count": 0
-  },
-  {
-   "id": 1174,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-11-18T17:30:00-06:00",
-   "end": "2026-11-18T20:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049613",
-   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049613",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
   },
   {
    "id": 543,
@@ -6782,6 +7036,36 @@
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1413,
+   "series_slug": "spirit-night-fundraiser-at-dave-busters",
+   "title": "Spirit Night Fundraiser at Dave & Busters",
+   "start": "2026-11-19T17:00:00-06:00",
+   "end": "2026-11-19T21:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "food"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/spirit-night-fundraiser-at-dave-busters/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/11/819524542_956829993518863_7579410779359386662_n.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -7295,6 +7579,68 @@
    "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/annual-coastal-christmas-market/",
    "source": {
     "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1451,
+   "series_slug": "43rd-mobile-international-festival",
+   "title": "43rd Mobile International Festival",
+   "start": "2026-11-21T00:00:00-06:00",
+   "end": "2026-11-21T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/43rd-mobile-international-festival/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/international-festival.jpg?fit=960%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1471,
+   "series_slug": "turkey-10-miler-10k-5k",
+   "title": "Turkey 10-MILER, 10K, & 5K",
+   "start": "2026-11-21T06:30:00-06:00",
+   "end": "2026-11-21T10:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "active"
+   ],
+   "venue": {
+    "slug": "river-delta-marina",
+    "name": "River Delta Marina & Campground",
+    "city": "Creola",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/turkey-10-miler-10k-5k-2026-11-21",
+   "source": {
+    "name": "Mobile County community calendar",
     "tier": "C",
     "redistributable": false
    },
@@ -8162,41 +8508,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 549,
-   "series_slug": "tuesday-teen-art-club",
-   "title": "Tuesday Teen Art Club",
-   "start": "2026-11-24T18:00:00-06:00",
-   "end": "2026-11-24T19:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/tuesday-teen-art-club/2026-11-24/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/teenn.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 135,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -8425,40 +8736,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 854,
-   "series_slug": "turkey-trot-for-hope",
-   "title": "Turkey Trot for Hope",
-   "start": "2026-11-26T00:00:00-06:00",
-   "end": "2026-11-26T23:59:59-06:00",
-   "all_day": true,
-   "category": "active",
-   "categories": [
-    "active"
-   ],
-   "venue": {
-    "slug": "mardi-gras-park",
-    "name": "Mardi Gras Park",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/17th-annual-turkey-trot-for-hope-2026-11-26",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Turkey-Trot_7E2517A2-B23C-EDBC-2EC47B10576123A2_7e2db8da-fcbe-fcb5-10b3b13a7ef16e46.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 2,
-   "independent_source_count": 2
-  },
-  {
    "id": 957,
    "series_slug": "lin-wise-memories-show",
    "title": "Lin Wise Memories Show",
@@ -8488,6 +8765,76 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1499,
+   "series_slug": "thanksgiving-at-le-moynes-chophouse",
+   "title": "Thanksgiving at Le Moyne’s Chophouse",
+   "start": "2026-11-26T00:00:00-06:00",
+   "end": "2026-11-26T23:59:59-06:00",
+   "all_day": true,
+   "category": "family",
+   "categories": [
+    "family",
+    "food"
+   ],
+   "venue": {
+    "slug": "the-admiral-hotel",
+    "name": "The Admiral Hotel",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/thanksgiving-at-le-moyne%e2%80%99s-chophouse/24298/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Le-Moyne-Thanksgiving_2B2CFE4E-91A0-1FD6-CF3EE456E006EFB6_2b2da5f9-e496-022e-a5ac19e67c91c049.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 854,
+   "series_slug": "turkey-trot-for-hope",
+   "title": "17th Annual Turkey Trot for Hope",
+   "start": "2026-11-26T08:00:00-06:00",
+   "end": "2026-11-26T11:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "mardi-gras-park",
+    "name": "Mardi Gras Park",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/17th-annual-turkey-trot-for-hope-2026-11-26",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Turkey-Trot_7E2517A2-B23C-EDBC-2EC47B10576123A2_7e2db8da-fcbe-fcb5-10b3b13a7ef16e46.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 664,
@@ -8711,6 +9058,40 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1466,
+   "series_slug": "the-blowout-bar-small-business-saturday",
+   "title": "The Blowout Bar Small Business Saturday",
+   "start": "2026-11-28T09:00:00-06:00",
+   "end": "2026-11-28T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-blowout-bar",
+    "name": "The Blowout Bar",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/the-blowout-bar-small-business-saturday/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/blowout-bar.jpg?fit=960%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -9128,40 +9509,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1500,
-   "series_slug": "usa-holiday-choral-concert",
-   "title": "USA Holiday Choral Concert",
-   "start": "2026-12-01T00:00:00-06:00",
-   "end": "2026-12-01T23:59:59-06:00",
-   "all_day": true,
-   "category": "music",
-   "categories": [
-    "music"
-   ],
-   "venue": {
-    "slug": "laidlaw-performing-arts-center",
-    "name": "Laidlaw Performing Arts Center",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/2choir1819smaller_2F32A7E0-CBD4-1A61-EE669BBFCEFC2965_2f357223-9037-a6a1-250b419f916cd174.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
-  },
-  {
    "id": 1505,
    "series_slug": "annual-christmas-tree-lighting",
    "title": "Annual Christmas Tree Lighting",
@@ -9328,41 +9675,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 554,
-   "series_slug": "tuesday-teen-art-club",
-   "title": "Tuesday Teen Art Club",
-   "start": "2026-12-01T18:00:00-06:00",
-   "end": "2026-12-01T19:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/tuesday-teen-art-club/2026-12-01/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/teenn.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 137,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -9427,6 +9739,40 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1500,
+   "series_slug": "usa-holiday-choral-concert",
+   "title": "USA Holiday Choral Concert",
+   "start": "2026-12-01T19:30:00-06:00",
+   "end": "2026-12-01T22:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "laidlaw-performing-arts-center",
+    "name": "Laidlaw Performing Arts Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/2choir1819smaller_2F32A7E0-CBD4-1A61-EE669BBFCEFC2965_2f357223-9037-a6a1-250b419f916cd174.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 213,
@@ -11099,41 +11445,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 561,
-   "series_slug": "tuesday-teen-art-club",
-   "title": "Tuesday Teen Art Club",
-   "start": "2026-12-08T18:00:00-06:00",
-   "end": "2026-12-08T19:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/tuesday-teen-art-club/2026-12-08/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/teenn.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 140,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -12408,8 +12719,8 @@
     "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/ADM-BreakfastWithSanta-CalendarListings-09.26.jpg",
     "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 784,
@@ -12565,41 +12876,6 @@
    },
    "image": {
     "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/watercolorTam.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 567,
-   "series_slug": "tuesday-teen-art-club",
-   "title": "Tuesday Teen Art Club",
-   "start": "2026-12-15T18:00:00-06:00",
-   "end": "2026-12-15T19:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/tuesday-teen-art-club/2026-12-15/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/teenn.jpg",
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 0,
@@ -13349,41 +13625,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 572,
-   "series_slug": "tuesday-teen-art-club",
-   "title": "Tuesday Teen Art Club",
-   "start": "2026-12-22T18:00:00-06:00",
-   "end": "2026-12-22T19:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/tuesday-teen-art-club/2026-12-22/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/teenn.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 645,
    "series_slug": "holiday-extravaganza",
    "title": "Holiday Extravaganza",
@@ -13511,6 +13752,76 @@
    "independent_source_count": 1
   },
   {
+   "id": 1484,
+   "series_slug": "christmas-eve-dinner-at-le-moynes-chophouse",
+   "title": "Christmas Eve Dinner at Le Moyne’s Chophouse",
+   "start": "2026-12-24T17:00:00-06:00",
+   "end": "2026-12-24T22:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "family"
+   ],
+   "venue": {
+    "slug": "the-admiral-hotel",
+    "name": "The Admiral Hotel",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/christmas-eve-dinner-at-le-moynes-chophouse/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/LMC-Christmas-CalendarListings-09.26.jpg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
+   "id": 1491,
+   "series_slug": "christmas-dinner-at-le-moyne-s-chophouse",
+   "title": "Christmas Dinner at Le Moyne's Chophouse",
+   "start": "2026-12-25T00:00:00-06:00",
+   "end": "2026-12-25T23:59:59-06:00",
+   "all_day": true,
+   "category": "food",
+   "categories": [
+    "food",
+    "family"
+   ],
+   "venue": {
+    "slug": "the-admiral-hotel",
+    "name": "The Admiral Hotel",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/christmas-dinner-at-le-moynes-chophouse/24301/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Le-Moyne-Cmas_29DE0885-F75C-422E-50F44CE67BC36728_29e5a8f3-d1a3-504b-e77b61f67f1ac5c0.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 666,
    "series_slug": "annual-christmas-potluck",
    "title": "Annual Christmas Potluck",
@@ -13573,6 +13884,40 @@
     "credit": "Innovation Portal"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1488,
+   "series_slug": "2026-68-ventures-bowl",
+   "title": "2026 68 Ventures Bowl",
+   "start": "2026-12-26T00:00:00-06:00",
+   "end": "2026-12-26T23:59:59-06:00",
+   "all_day": true,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "hancock-whitney-stadium",
+    "name": "Hancock Whitney Stadium",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/2026-68-ventures-bowl/24326/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/mcduffie_troy_v_usa_15_2B7BDAB1-F1FC-2706-6B1ED77D74CB548E_2b91f004-daaa-1dd4-1af64148915de00b.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -13929,6 +14274,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1485,
+   "series_slug": "christmas-eve-dinner-at-le-moynes-chophouse",
+   "title": "New Year’s Eve at Le Moyne’s Chophouse",
+   "start": "2026-12-31T17:00:00-06:00",
+   "end": "2026-12-31T22:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "the-admiral-hotel",
+    "name": "The Admiral Hotel",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/new-years-eve-at-le-moynes-chophouse/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/LMC-NYE-CalendarListings-09.26-1.jpg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
    "id": 616,
    "series_slug": "south-alabama-women-s-basketball-vs-southeastern-baptist-exh",
    "title": "South Alabama Women's Basketball vs Georgia State",
@@ -14209,6 +14588,32 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 1534,
+   "series_slug": "the-moonlight-chasse-ballroom-dance-society-dabcf9",
+   "title": "The Moonlight Chasse' Ballroom Dance Society",
+   "start": "2027-01-04T19:00:00-06:00",
+   "end": "2027-01-04T21:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/the-moonlight-chasse-ballroom-dance-society-01-04-2027-8495",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 651,
@@ -15614,41 +16019,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1501,
-   "series_slug": "usa-opera-theatre-presents-a-fight-at-the-opera",
-   "title": "USA Opera Theatre presents \"Dido and Aeneas\"",
-   "start": "2027-01-14T00:00:00-06:00",
-   "end": "2027-01-15T00:00:00-06:00",
-   "all_day": true,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "music"
-   ],
-   "venue": {
-    "slug": "laidlaw-performing-arts-center",
-    "name": "Laidlaw Performing Arts Center",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Dido_5C423646-C8C4-2E2B-C09AA50D65026A3E_5c448f5d-fdb3-8919-549150c0d59619da.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
-  },
-  {
    "id": 1153,
    "series_slug": "toddler-time",
    "title": "Toddler Time",
@@ -15816,6 +16186,40 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1501,
+   "series_slug": "usa-opera-theatre-presents-a-fight-at-the-opera",
+   "title": "USA Opera Theatre - \"Dido and Aeneas\"",
+   "start": "2027-01-14T19:30:00-06:00",
+   "end": "2027-01-14T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "laidlaw-performing-arts-center",
+    "name": "Laidlaw Performing Arts Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Dido_5C423646-C8C4-2E2B-C09AA50D65026A3E_5c448f5d-fdb3-8919-549150c0d59619da.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 1167,
@@ -17163,37 +17567,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 1398,
-   "series_slug": "storytime-in-the-shire",
-   "title": "Storytime in the Shire",
-   "start": "2027-01-30T10:00:00-06:00",
-   "end": "2027-01-30T11:00:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family"
-   ],
-   "venue": {
-    "slug": "eastern-shore-art-center",
-    "name": "Eastern Shore Art Center",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F60525",
-   "source": {
-    "name": "Eastern Shore Art Center",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
-  },
-  {
    "id": 1399,
    "series_slug": "introduction-to-batik-hot-and-cold-wax-batik",
    "title": "Introduction to Batik: Hot and Cold Wax Batik",
@@ -17215,6 +17588,37 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F60632",
+   "source": {
+    "name": "Eastern Shore Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1398,
+   "series_slug": "storytime-in-the-shire",
+   "title": "Storytime in the Shire",
+   "start": "2027-01-30T11:15:00-06:00",
+   "end": "2027-01-30T12:15:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "eastern-shore-art-center",
+    "name": "Eastern Shore Art Center",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F60525",
    "source": {
     "name": "Eastern Shore Art Center",
     "tier": "A",
@@ -17293,13 +17697,13 @@
   {
    "id": 1474,
    "series_slug": "mobile-opera-rita",
-   "title": "Mobile Opera: Rita",
+   "title": "Rita",
    "start": "2027-01-30T19:30:00-06:00",
-   "end": "2027-01-30T21:00:00-06:00",
+   "end": "2027-01-30T21:30:00-06:00",
    "all_day": false,
-   "category": "arts",
+   "category": "community",
    "categories": [
-    "arts"
+    "community"
    ],
    "venue": {
     "slug": "murphy-high-school",
