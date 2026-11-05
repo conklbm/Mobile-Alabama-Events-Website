@@ -287,7 +287,7 @@
 
 - slug: owa-parks-resort
   name: OWA Parks & Resort
-  aliases: ["OWA Parks & Resort", "OWA", "OWA Foley", "OWA Theater", "OWA Theatre", "Tropic Falls at OWA", "Downtown OWA", "OWA Parks and Resort"]
+  aliases: ["OWA Parks & Resort", "OWA", "OWA Foley", "OWA Theater", "OWA Theatre", "Tropic Falls at OWA", "Downtown OWA", "OWA Parks and Resort", "Waffles R Wild – OWA", "Waffles R Wild"]
   domains: ["visitowa.com"]
   address: 101 S OWA Blvd
   city: Foley
@@ -560,7 +560,7 @@
 
 - slug: hancock-whitney-stadium
   name: Hancock Whitney Stadium
-  aliases: ["Hancock Whitney Stadium", "USA Stadium", "South Alabama Stadium"]
+  aliases: ["Hancock Whitney Stadium", "USA Stadium", "South Alabama Stadium", "68 Ventures Bowl"]
   domains: []
   address: 6001 USA Dr S
   city: Mobile
@@ -1461,7 +1461,7 @@
 
 - slug: st-pius-x-catholic-church
   name: St. Pius X Catholic Church
-  aliases: ["St. Pius X Catholic Church"]
+  aliases: ["St. Pius X Catholic Church", "217 S. Sage Avenue"]
   domains: []
   address: "217 S. Sage Ave."
   city: Mobile
@@ -1698,7 +1698,7 @@
 
 - slug: conde-charlotte-museum-house
   name: Condé-Charlotte Museum House
-  aliases: ["Conde-Charlotte House Museum", "Conde-Charlotte Museum House", "Condé-Charlotte House", "Condé-Charlotte Museum House"]
+  aliases: ["Conde-Charlotte House Museum", "Conde-Charlotte Museum House", "Condé-Charlotte House", "Condé-Charlotte Museum House", "The Conde-Charlotte Museum"]
   domains: []
   address: 104 Theatre St
   city: Mobile
@@ -2075,7 +2075,7 @@
 
 - slug: the-bull-spanish-fort
   name: "The Bull"
-  aliases: ["30500 AL-181 Unit 134 Spanish Fort, AL, 36527", "The Bull"]
+  aliases: ["30500 AL-181 Unit 134 Spanish Fort, AL, 36527", "The Bull", "30500 State Hwy 181, Suite 134 Spanish Fort, AL, 36527"]
   domains: []
   address: "30500 State Highway 181, Suite 134"
   city: Spanish Fort
@@ -2438,7 +2438,7 @@
 
 - slug: the-admiral-hotel
   name: The Admiral Hotel
-  aliases: ["The Admiral Hotel", "Admiral Hotel", "Admiral Semmes Hotel"]
+  aliases: ["The Admiral Hotel", "Admiral Hotel", "Admiral Semmes Hotel", "The Admiral", "Le Moyne's Chophouse", "Le Moyne’s Chophouse"]
   domains: ["theadmiralhotel.com"]
   address: "251 Government St"
   city: Mobile
@@ -2457,3 +2457,141 @@
   zip: "36587"
   regions: [mobile]
   notes: "Farm, feed, and outdoors supply store in Wilmer."
+
+# --- added 2026-11-05 by the cloud review routine (issue #21) ---
+
+- slug: shiloh-baptist-church-saraland
+  name: Shiloh Baptist Church
+  aliases: ["Shiloh Baptist Church"]
+  domains: []
+  address: "717 Cleveland Rd"
+  city: Saraland
+  state: AL
+  zip: "36571"
+  regions: [mobile]
+
+- slug: swift-coles-historic-home
+  name: Swift-Coles Historic Home
+  aliases: ["Swift Coles Historic Home", "Swift-Coles Historic Home"]
+  domains: []
+  address: "17424 Swift Coles Ln"
+  city: Bon Secour
+  state: AL
+  zip: "36511"
+  regions: [coastal]
+  notes: "Historic 1900s home museum on the Bon Secour River, between Foley and Gulf Shores."
+
+- slug: tameron-buick-gmc
+  name: Tameron Buick GMC
+  aliases: ["Tameron Buick GMC", "Tameron Buick GMC 27161 US Hwy 98 Daphne, AL 36526"]
+  domains: ["tameronbuickgmc.com"]
+  address: "27161 US Highway 98"
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+
+- slug: petsmart-foley
+  name: PetSmart (Foley)
+  aliases: ["PetSmart", "PetSmart Foley", "PetSmart 2498 S McKenzie St. Foley, AL 36535"]
+  domains: ["petsmart.com"]
+  address: "2498 S McKenzie St"
+  city: Foley
+  state: AL
+  zip: "36535"
+  regions: [coastal]
+
+- slug: the-blowout-bar
+  name: The Blowout Bar
+  aliases: ["The Blowout Bar"]
+  domains: []
+  address: "6601 Airport Blvd, Suite B"
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "Blowout/styling salon on Airport Blvd."
+
+- slug: great-day-latte
+  name: Great Day Latte
+  aliases: ["Great Day Latte"]
+  domains: []
+  address: "10 S Conception St"
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Downtown Mobile coffee shop."
+
+- slug: muffinjaw-designs
+  name: Muffinjaw Designs
+  aliases: ["Muffinjaw Designs"]
+  domains: []
+  address: "610 St Anthony St"
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+
+- slug: grace-on-dauphin
+  name: Grace on Dauphin
+  aliases: ["Grace on Dauphin", "Grace"]
+  domains: ["graceondauphin.com"]
+  address: "555 Dauphin St"
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Downtown restaurant and bar on Dauphin St."
+
+- slug: dotch-community-center
+  name: Joseph C. Dotch Community Center & Park
+  aliases: ["Dotch Community Center", "Joseph C. Dotch Community Center", "Joseph C. Dotch Community Center & Park"]
+  domains: ["cityofmobile.gov"]
+  address: "3100 Bank Ave"
+  city: Mobile
+  state: AL
+  zip: "36617"
+  regions: [mobile]
+
+- slug: river-delta-marina
+  name: River Delta Marina & Campground
+  aliases: ["River Delta Marina & Campground", "River Delta Marina and Campground"]
+  domains: []
+  address: "2350 Dead Lake Marina Rd"
+  city: Creola
+  state: AL
+  zip: "36525"
+  regions: [mobile]
+
+- slug: press-and-co-daphne
+  name: Press & Co.
+  aliases: ["Press and Co.", "Press & Co.", "711 Belrose Ave, Daphne, AL, 36526"]
+  domains: []
+  address: "711 Belrose Ave"
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "Cafe and cold-pressed juicery in Olde Towne Daphne."
+
+- slug: page-and-palette
+  name: Page & Palette
+  aliases: ["Page & Palette", "Page and Palette"]
+  domains: ["pageandpalette.com"]
+  address: "32 S Section St"
+  city: Fairhope
+  state: AL
+  zip: "36532"
+  regions: [mobile]
+  notes: "Independent bookstore and cafe in Fairhope's French Quarter."
+
+- slug: dave-and-busters-mobile
+  name: Dave & Buster's (Mobile)
+  aliases: ["Dave & Buster's", "Dave & Busters", "Dave & Buster's Mobile"]
+  domains: ["daveandbusters.com"]
+  address: "1757 E Interstate 65 Service Rd"
+  city: Mobile
+  state: AL
+  zip: "36606"
+  regions: [mobile]

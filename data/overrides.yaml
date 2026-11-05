@@ -34,6 +34,7 @@ never_merge:
   - [1179, 1016] # Crescent Theater, Dec 16: same Workshop/Chaos pairing
   - [1270, 544]  # Mobile Museum of Art: "Creative Night For Two" (evening, 18+, themed classes) vs "Family Art" (afternoon, family) are different recurring program lines
   - [1284, 1283] # USA basketball: Men's vs Southern Miss and Women's vs Arkansas State are different teams and different opponents
+  - [1559, 1558] # USA Wind Ensemble Fall Concert vs USA Symphony Band Fall Concert, both at Laidlaw: different ensembles with their own annual fall concert, confirmed via USA Music Dept history
 
 # Confirm cancellation (occurrence id) — removes it from the site.
 cancelled:
@@ -67,6 +68,7 @@ not_cancelled:
   - 819   # British High Tea at the Conde-Charlotte Museum: mobile-arts-council missed it twice, but visit-mobile's independent listing is still fresh as of the 2026-10-15 run
   - 856   # USA Faculty Trumpet and Horn Recital: same case as #819 - visit-mobile still lists it fresh while mobile-arts-council missed it twice
   - 794   # Historical Lecture Series: A Taste of Mobile, Dec 13: still listed on the organizer's own site (historicmobile.org/event-details-registration/lecture-series-a-taste-of-mobile), Chris Andrews/Bienville Bites Food Tour, Cox-Deasy Cottage (checked 2026-10-23)
+  - 795   # Historical Lecture Series: The Pelican Girls, Nov 15: still listed on historicmobile.org/event-details-registration/lecture-series-the-pelican-girls and mobilecountyal.gov's community events calendar, same date/venue (checked 2026-11-05)
 
 # Publish a held item as-is (occurrence id). Use when the venue is genuinely
 # unknown but the event is real — better to add an alias in venues.yaml.
@@ -78,3 +80,7 @@ force_publish:
   - 964   # BILL-E's Bacon, Burgers, & Bikes, Dec 6: same blank-raw-field issue as #937
   - 965   # Moonlight Chasse' Ballroom Dance Society, Dec 7: same blank-raw-field issue as #932
   - 1083  # Fall Break & Halloween Celebration at Maxim Tokyo Claw Village: venue_name_raw blank at source (themobmom); confirmed real business (Maxim Tokyo Claw, Cottage Hill Rd) but street number/zip not independently confirmed, so no venues.yaml entry yet
+  - 1508  # Bayside Boys Book Signing at Page & Palette Benefits The Haven, Nov 6: venue_name_raw blank at source (eastern-shore-chamber); title names the venue and Page & Palette (32 S Section St, Fairhope) is now in venues.yaml, but alias can't match an empty raw field
+  - 1413  # Spirit Night Fundraiser at Dave & Busters, Nov 19: venue_name_raw blank at source (92zew); confirmed real business (Dave & Buster's, 1757 E Interstate 65 Service Rd, Mobile, opened Jan 2025) now in venues.yaml, same blank-raw issue
+  - 1451  # 43rd Mobile International Festival, Nov 21: venue_name_raw blank at source (themobmom); confirmed via mobilecountyal.gov and alabama.travel listings to be at The Grounds (already in venues.yaml), same blank-raw issue
+  - 1534  # The Moonlight Chasse' Ballroom Dance Society, Jan 5 2027: same blank-raw-field issue as #932/#965; confirmed real recurring event at Hot Wheels Skating Rink, Daphne
