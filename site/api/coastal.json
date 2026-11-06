@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-11-06T17:15:46Z",
+ "generated": "2026-11-06T19:57:08Z",
  "events": [
   {
    "id": 663,
@@ -567,6 +567,37 @@
    "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
    "source": {
     "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1568,
+   "series_slug": "experience-the-oyster",
+   "title": "Experience the Oyster",
+   "start": "2026-11-07T11:30:00-06:00",
+   "end": "2026-11-07T17:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food"
+   ],
+   "venue": {
+    "slug": "the-hangout",
+    "name": "The Hangout",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-nov-6-8th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
     "tier": "C",
     "redistributable": false
    },
