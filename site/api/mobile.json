@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-05T17:55:33Z",
+ "generated": "2026-11-06T14:20:19Z",
  "events": [
   {
    "id": 620,
@@ -99,199 +99,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 694,
-   "series_slug": "2026-big-event-the-year-of-the-youth",
-   "title": "2026 Big Event: The Year of the Youth",
-   "start": "2026-11-04T17:00:00-06:00",
-   "end": "2026-11-04T19:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "crown-hall",
-    "name": "Crown Hall",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/2026-big-event-the-year-of-the-youth-2026-10-04",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1171,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-11-04T17:30:00-06:00",
-   "end": "2026-11-04T20:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049573",
-   "info_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049573",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 525,
-   "series_slug": "wednesday-art-club-ages-5-7",
-   "title": "Wednesday Art Club (Ages 8-11)",
-   "start": "2026-11-04T18:00:00-06:00",
-   "end": "2026-11-04T19:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/wednesday-art-club-for-ages-5-7/2026-11-04/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/06/kids1.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1317,
-   "series_slug": "harvest-fest-2026",
-   "title": "Harvest Fest 2026",
-   "start": "2026-11-04T18:00:00-06:00",
-   "end": "2026-11-04T20:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "arts"
-   ],
-   "venue": {
-    "slug": "shiloh-baptist-church-saraland",
-    "name": "Shiloh Baptist Church",
-    "city": "Saraland",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-harvest-fest-2026-2026-11-04",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 997,
-   "series_slug": "crescent-theater-crescent-comedy-chaos",
-   "title": "Crescent Theater: Crescent Comedy Chaos",
-   "start": "2026-11-04T19:00:00-06:00",
-   "end": "2026-11-04T22:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$8.76",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-chaos-crescent-theater-tickets/15049493",
-   "info_url": "https://www.mobilearts.org/community-calendar",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
-  },
-  {
-   "id": 200,
-   "series_slug": "the-brook-the-bluff",
-   "title": "The Brook & The Bluff",
-   "start": "2026-11-04T20:00:00-06:00",
-   "end": "2026-11-04T23:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "soul-kitchen",
-    "name": "Soul Kitchen Music Hall",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$35.84-166.04",
-   "ticket_url": "https://www.ticketweb.com/event/the-brook-the-bluff-soul-kitchen-tickets/14958473",
-   "info_url": "https://www.ticketweb.com/event/the-brook-the-bluff-soul-kitchen-tickets/14958473",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 663,
    "series_slug": "frank-brown-songwriters-festival",
    "title": "Frank Brown Songwriters Festival",
@@ -358,40 +165,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 582,
-   "series_slug": "cultivate-growing-stem-educators-prek-k-session",
-   "title": "Cultivate: Growing STEM Educators 1 – 3 Session",
-   "start": "2026-11-05T12:00:00-06:00",
-   "end": "2026-11-05T15:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "bellingrath-gardens",
-    "name": "Bellingrath Gardens and Home",
-    "city": "Theodore",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://bellingrath.org/event/cultivate-growing-stem-educators-prek-k-session/",
-   "source": {
-    "name": "Bellingrath Gardens and Home",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://bellingrath.org/wp-content/uploads/2025/02/Event-Covers-21.png",
-    "credit": "Bellingrath Gardens and Home"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 934,
    "series_slug": "fairhope-farmers-fall-market-2026",
    "title": "Fairhope Farmers' Fall Market - 2026",
@@ -419,41 +192,6 @@
     "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 527,
-   "series_slug": "make-take-art",
-   "title": "Make & Take Art",
-   "start": "2026-11-05T15:00:00-06:00",
-   "end": "2026-11-05T16:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/make-take-art-7-2/2026-11-05/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2025/02/free-make-Take.png",
-    "credit": "Mobile Museum of Art"
-   },
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -2129,6 +1867,33 @@
     "credit": "Downtown Mobile Alliance"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1509,
+   "series_slug": "eastern-shore-children-s-clinic-open-house-celebrating-50-years",
+   "title": "Eastern Shore Children's Clinic - Open House celebrating 50 years",
+   "start": "2026-11-07T10:00:00-06:00",
+   "end": "2026-11-07T13:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/eastern-shore-children-s-clinic-open-house-celebrating-50-years-43736",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {

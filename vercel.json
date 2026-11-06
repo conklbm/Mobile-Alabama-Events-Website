@@ -1386,8 +1386,28 @@
       "permanent": true
     },
     {
+      "source": "/events/blue-angels-practice-schedule(/)?",
+      "destination": "/venues/national-museum-of-naval-aviation/",
+      "permanent": true
+    },
+    {
       "source": "/events/coffee-with-the-chamber-calagaz-printing(/)?",
       "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/landlord-meet-greet(/)?",
+      "destination": "/venues/goodwill-easter-seals/",
+      "permanent": true
+    },
+    {
+      "source": "/events/let-the-ghoul-times-roll(/)?",
+      "destination": "/venues/saraland-public-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/usa-octubafest-concert(/)?",
+      "destination": "/venues/laidlaw-performing-arts-center/",
       "permanent": true
     },
     {
