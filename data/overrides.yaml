@@ -84,3 +84,4 @@ force_publish:
   - 1413  # Spirit Night Fundraiser at Dave & Busters, Nov 19: venue_name_raw blank at source (92zew); confirmed real business (Dave & Buster's, 1757 E Interstate 65 Service Rd, Mobile, opened Jan 2025) now in venues.yaml, same blank-raw issue
   - 1451  # 43rd Mobile International Festival, Nov 21: venue_name_raw blank at source (themobmom); confirmed via mobilecountyal.gov and alabama.travel listings to be at The Grounds (already in venues.yaml), same blank-raw issue
   - 1534  # The Moonlight Chasse' Ballroom Dance Society, Jan 5 2027: same blank-raw-field issue as #932/#965; confirmed real recurring event at Hot Wheels Skating Rink, Daphne
+  - 1509  # Eastern Shore Children's Clinic Open House celebrating 50 years, Nov 7: venue_name_raw blank at source (eastern-shore-chamber); the clinic's Spanish Fort office only opened ~2021, so a 50th-anniversary event is almost certainly the original Fairhope office (now in venues.yaml), same blank-raw issue

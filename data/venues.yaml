@@ -2595,3 +2595,14 @@
   state: AL
   zip: "36606"
   regions: [mobile]
+
+- slug: eastern-shore-childrens-clinic-fairhope
+  name: Eastern Shore Children's Clinic
+  aliases: ["Eastern Shore Children's Clinic", "Eastern Shore Childrens Clinic"]
+  domains: []
+  address: "150 S Ingleside St"
+  city: Fairhope
+  state: AL
+  zip: "36532"
+  regions: [mobile]
+  notes: "Pediatric practice; this is the original Fairhope office (the Spanish Fort location opened ~2021, too recent for a 50th-anniversary milestone)."
