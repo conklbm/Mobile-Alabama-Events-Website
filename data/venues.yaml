@@ -2606,3 +2606,14 @@
   zip: "36532"
   regions: [mobile]
   notes: "Pediatric practice; this is the original Fairhope office (the Spanish Fort location opened ~2021, too recent for a 50th-anniversary milestone)."
+
+- slug: ruff-wilson-youth-organization
+  name: Ruff Wilson Youth Organization
+  aliases: ["1317 Johnson Road; Daphne, Alabama 36526", "Ruff Wilson Youth Organization", "Ruff Wilson Field", "Ralph Wilson Youth Center", "RWYO"]
+  domains: ["rwyo.org", "ruffwilson.org"]
+  address: "1317 Johnson Rd"
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "Youth nonprofit running an after-school program and a multi-purpose sports field; hosted its first Taste of The Ruff fundraiser here Nov 10, 2026 (confirmed via WKRG coverage)."
