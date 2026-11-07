@@ -1386,6 +1386,11 @@
       "permanent": true
     },
     {
+      "source": "/events/mobile-launch-8th-grade-career-exploration-event-2026(/)?",
+      "destination": "/venues/abba-shrine/",
+      "permanent": true
+    },
+    {
       "source": "/events/blue-angels-practice-schedule(/)?",
       "destination": "/venues/national-museum-of-naval-aviation/",
       "permanent": true
@@ -1408,6 +1413,81 @@
     {
       "source": "/events/usa-octubafest-concert(/)?",
       "destination": "/venues/laidlaw-performing-arts-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/habitat-for-humanity-women-build-2026(/)?",
+      "destination": "/venues/habitat-for-humanity-of-southwest-alabama/",
+      "permanent": true
+    },
+    {
+      "source": "/events/great-movie-adventure-hotel-transylvania-3(/)?",
+      "destination": "/venues/virginia-dillard-smith-toulminville-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/5th-annual-trunk-or-treat(/)?",
+      "destination": "/venues/dumas-wesley-community-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/leinkauf-locals-event-halloween-at-monroe-s(/)?",
+      "destination": "/venues/monroes-pub-patio/",
+      "permanent": true
+    },
+    {
+      "source": "/events/young-professionals-of-mobile-2026-topgolf-tournament(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/young-professionals-of-mobile-topgolf-tournament(/)?",
+      "destination": "/venues/topgolf/",
+      "permanent": true
+    },
+    {
+      "source": "/events/2026-fairhope-witches-ride(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/win-tickets-for-a-year-grand-prize-party(/)?",
+      "destination": "/venues/alchemy-tavern/",
+      "permanent": true
+    },
+    {
+      "source": "/events/acotar-cauldron-cocktails(/)?",
+      "destination": "/venues/vandals-street-kitchen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/octubafest(/)?",
+      "destination": "/venues/first-baptist-church-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/pumpkins-n-pajamas-storytime(/)?",
+      "destination": "/venues/semmes-regional-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/extreme-dwarfanator-wrestling(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/an-evening-with-abe-partridge-and-justin-wells(/)?",
+      "destination": "/venues/the-peoples-room-of-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/scary-stories-to-tell-at-the-crescent-an-open-mic-for-ghost-stories(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mgm-lett-free-show-18-only(/)?",
+      "destination": "/venues/soul-kitchen/",
       "permanent": true
     },
     {
