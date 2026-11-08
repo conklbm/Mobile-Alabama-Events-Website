@@ -1491,6 +1491,61 @@
       "permanent": true
     },
     {
+      "source": "/events/a-call-to-court-an-acotar-experience(/)?",
+      "destination": "/venues/the-haunted-book-shop/",
+      "permanent": true
+    },
+    {
+      "source": "/events/seafood-buffet-dinner-cruise(/)?",
+      "destination": "/venues/five-rivers-delta-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/2026-eagle-awards(/)?",
+      "destination": "/venues/battle-house-hotel/",
+      "permanent": true
+    },
+    {
+      "source": "/events/harvest-jam(/)?",
+      "destination": "/venues/spanish-fort-town-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/murphy-high-school-panther-extravaganza(/)?",
+      "destination": "/venues/murphy-high-school/",
+      "permanent": true
+    },
+    {
+      "source": "/events/haunted-hollow-een-movie-night-hocus-pocus(/)?",
+      "destination": "/venues/escatawpa-hollow-park-campground/",
+      "permanent": true
+    },
+    {
+      "source": "/events/remembrance-sounds-of-heaven(/)?",
+      "destination": "/venues/spring-hill-college/",
+      "permanent": true
+    },
+    {
+      "source": "/events/southern-echo-chorale(/)?",
+      "destination": "/venues/spring-hill-college/",
+      "permanent": true
+    },
+    {
+      "source": "/events/classic-movie-monster-paint-sip(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mac-sabbath(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/haunted-hangout-exploreum-science-center(/)?",
+      "destination": "/venues/gulf-coast-exploreum/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
