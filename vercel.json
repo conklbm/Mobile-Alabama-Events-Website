@@ -1126,6 +1126,11 @@
       "permanent": true
     },
     {
+      "source": "/events/doctor-jekyll-and-mister-hyde-multiple-performances(/)?",
+      "destination": "/venues/playhouse-in-the-park/",
+      "permanent": true
+    },
+    {
       "source": "/events/the-2026-spooktacular-spectacular(/)?",
       "destination": "/venues/joe-jefferson-playhouse/",
       "permanent": true
@@ -1543,6 +1548,121 @@
     {
       "source": "/events/haunted-hangout-exploreum-science-center(/)?",
       "destination": "/venues/gulf-coast-exploreum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/nosferatu-live-improvised-score-feat-mike-dillon-chris-baby-spies(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/nosferatu-film-and-improvised-score(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/spooktacular-floral-arrangement-workshop(/)?",
+      "destination": "/venues/the-frenchmen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/the-original-german-sausage-festival(/)?",
+      "destination": "/venues/elberta-town-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/stapleton-bluegrass-festival(/)?",
+      "destination": "/venues/stapleton-school/",
+      "permanent": true
+    },
+    {
+      "source": "/events/nineteenth-century-cooking-demonstration(/)?",
+      "destination": "/venues/blakeley-state-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/making-strides-against-breast-cancer-walk(/)?",
+      "destination": "/venues/spanish-plaza-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/spooky-celebrations(/)?",
+      "destination": "/venues/glazed-doughnuts-daphne/",
+      "permanent": true
+    },
+    {
+      "source": "/events/the-bayou-classic-car-show(/)?",
+      "destination": "/venues/bayou-sara-baptist-church/",
+      "permanent": true
+    },
+    {
+      "source": "/events/odwa-plant-swap(/)?",
+      "destination": "/venues/central-midtown/",
+      "permanent": true
+    },
+    {
+      "source": "/events/spooktacular-floral-arrangement-workshop-love-and-adventure-studios(/)?",
+      "destination": "/venues/love-and-adventure-studios/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mob-tober-fest(/)?",
+      "destination": "/venues/medal-of-honor-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/south-alabama-football-vs-louisiana-tech-military-appreciation-honor(/)?",
+      "destination": "/venues/hancock-whitney-stadium/",
+      "permanent": true
+    },
+    {
+      "source": "/events/trunk-or-treat-at-chickasabogue-park(/)?",
+      "destination": "/venues/chickasabogue-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fall-festival-10175-celeste-rd-saraland-al(/)?",
+      "destination": "/venues/celeste-road-baptist-church/",
+      "permanent": true
+    },
+    {
+      "source": "/events/dia-de-los-muertos-saturday-crafternoon(/)?",
+      "destination": "/venues/theodore-oaks-branch-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fear-fest-the-conjuring(/)?",
+      "destination": "/venues/gulf-coast-exploreum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/halloween-contest(/)?",
+      "destination": "/venues/flora-bama/",
+      "permanent": true
+    },
+    {
+      "source": "/events/halloween-with-hanan-browning(/)?",
+      "destination": "/venues/the-peoples-room-of-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fright-night-halloween-party-ii(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/the-emo-society(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/jacob-brock-and-his-night-mares(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/all-saints-day-catholic-celebration(/)?",
+      "destination": "/venues/downtown-mobile/",
       "permanent": true
     },
     {
