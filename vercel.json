@@ -1506,6 +1506,11 @@
       "permanent": true
     },
     {
+      "source": "/events/gatalop-42-renaissance-festival(/)?",
+      "destination": "/venues/fort-gaines/",
+      "permanent": true
+    },
+    {
       "source": "/events/2026-eagle-awards(/)?",
       "destination": "/venues/battle-house-hotel/",
       "permanent": true
@@ -1596,6 +1601,16 @@
       "permanent": true
     },
     {
+      "source": "/events/paint-with-confidence-and-clarity(/)?",
+      "destination": "/venues/eastern-shore-art-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/october-woodfire(/)?",
+      "destination": "/venues/eastern-shore-art-center/",
+      "permanent": true
+    },
+    {
       "source": "/events/odwa-plant-swap(/)?",
       "destination": "/venues/central-midtown/",
       "permanent": true
@@ -1661,8 +1676,33 @@
       "permanent": true
     },
     {
+      "source": "/events/hive-fest-2026(/)?",
+      "destination": "/venues/hatcher-farms-venue/",
+      "permanent": true
+    },
+    {
+      "source": "/events/cotton-picking-sunshine-watercolor-paint-sip(/)?",
+      "destination": "/venues/the-frenchmen/",
+      "permanent": true
+    },
+    {
       "source": "/events/all-saints-day-catholic-celebration(/)?",
       "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/cotton-picking-sunshine-watercolor-paint-sip-love-and-adventure-studios(/)?",
+      "destination": "/venues/love-and-adventure-studios/",
+      "permanent": true
+    },
+    {
+      "source": "/events/an-evening-with-amanda-cook-band(/)?",
+      "destination": "/venues/the-peoples-room-of-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/sunday-funniez-comedy-showcase(/)?",
+      "destination": "/venues/crescent-theater/",
       "permanent": true
     },
     {
