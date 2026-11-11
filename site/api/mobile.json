@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-10T17:35:42Z",
+ "generated": "2026-11-11T17:46:57Z",
  "events": [
   {
    "id": 620,
@@ -65,40 +65,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 1334,
-   "series_slug": "ss-united-states-final-departure-cruise",
-   "title": "SS United States Final Departure Cruise",
-   "start": "2026-11-09T00:00:00-06:00",
-   "end": "2026-11-09T23:59:59-06:00",
-   "all_day": true,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "perdido-queen-cruises",
-    "name": "Perdido Queen Dinner Cruises",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/ss-united-states-final-departure-cruise/24287/",
-   "source": {
-    "name": "Visit Mobile",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/SS-United-States-media-tour_EB11EEB9-AC25-8605-55795D4DFABED54F_eb292593-d3c9-0f7d-6875cb540ce2d8e4.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 1512,
    "series_slug": "the-taste-of-the-ruff",
    "title": "The Taste of The Ruff",
@@ -129,72 +95,6 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
-  },
-  {
-   "id": 531,
-   "series_slug": "driven-to-draw-tuesday-pm",
-   "title": "Driven to Draw Tuesday PM",
-   "start": "2026-11-10T10:00:00-06:00",
-   "end": "2026-11-10T12:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/driven-to-draw-tuesday-pm-2/2026-11-10/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/drawing-am.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 338,
-   "series_slug": "2026-forum-alabama-lt-governor-will-ainsworth",
-   "title": "2026 Forum Alabama with Gov. Kay Ivey",
-   "start": "2026-11-10T12:00:00-06:00",
-   "end": "2026-11-10T14:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "battle-house-hotel",
-    "name": "The Battle House Hotel",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-2026-forum-alabama-with-gov-kay-ivey-2026-11-10",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 2
   },
   {
    "id": 339,
