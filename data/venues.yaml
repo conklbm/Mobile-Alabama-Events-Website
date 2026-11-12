@@ -1698,7 +1698,7 @@
 
 - slug: conde-charlotte-museum-house
   name: Condé-Charlotte Museum House
-  aliases: ["Conde-Charlotte House Museum", "Conde-Charlotte Museum House", "Condé-Charlotte House", "Condé-Charlotte Museum House", "The Conde-Charlotte Museum"]
+  aliases: ["Conde-Charlotte House Museum", "Conde-Charlotte Museum House", "Condé-Charlotte House", "Condé-Charlotte Museum House", "The Conde-Charlotte Museum", "Conde-Charlotte Museum 104 Theatre St. Mobile, AL 36602"]
   domains: []
   address: 104 Theatre St
   city: Mobile
@@ -1864,7 +1864,7 @@
 
 - slug: elberta-town-park
   name: Elberta Town Park
-  aliases: ["Elberta Park", "Elberta Town Park"]
+  aliases: ["Elberta Park", "Elberta Town Park", "Main st -Elberta AL"]
   domains: []
   address: 13052 Main St
   city: Elberta
@@ -2617,3 +2617,91 @@
   zip: "36526"
   regions: [mobile]
   notes: "Youth nonprofit running an after-school program and a multi-purpose sports field; hosted its first Taste of The Ruff fundraiser here Nov 10, 2026 (confirmed via WKRG coverage)."
+
+# --- resolved from issue #23 (2026-11-12), verified by web research ---
+
+- slug: st-pauls-episcopal-church-daphne
+  name: "St. Paul's Episcopal Church (Daphne)"
+  aliases: ["St. Paul's Episcopal Church 28788 N. Main Street Daphne, AL", "St Paul's Episcopal Church", "St. Paul's Episcopal Church"]
+  domains: ["stpaulsdaphne.org"]
+  address: "28788 N Main St"
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "Episcopal parish on N. Main St in Daphne; distinct from St. Paul's Episcopal School in Mobile (see monte-l-moorer-theatre)."
+
+- slug: barnes-noble-mobile
+  name: "Barnes & Noble (Mobile)"
+  aliases: ["Barnes & Noble Mobile"]
+  domains: ["barnesandnoble.com"]
+  address: "3930 Airport Blvd"
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "Reopened in the McGregor Square shopping center in September 2026, 16 years after the old Springdale Mall store closed."
+
+- slug: local-history-genealogy-library
+  name: Local History & Genealogy Library
+  aliases: ["Local History & Genealogy"]
+  domains: ["mobilepubliclibrary.org"]
+  address: "753 Government St"
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Mobile Public Library branch specializing in Gulf Coast history and genealogy research; a separate building from Ben May Main Library at 701 Government St."
+
+- slug: revive-church-mobile
+  name: Revive Church
+  aliases: ["Revive Church, 601 Zeigler Circle East, Mobile, AL 36608"]
+  domains: ["revivechurchmobile.com"]
+  address: "601 Zeigler Circle E"
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+
+- slug: prodisee-pantry
+  name: Prodisee Pantry
+  aliases: ["Prodisee Pantry 9315 Spanish Fort Blvd. Spanish Fort, AL 36527"]
+  domains: ["prodiseepantry.org"]
+  address: "9315 Spanish Fort Blvd"
+  city: Spanish Fort
+  state: AL
+  zip: "36527"
+  regions: [mobile]
+  notes: "Food and clothing pantry nonprofit; its annual Turkey Trot starts at Daphne City Hall (separate venue entry), but the pantry itself is this address."
+
+- slug: loxley-public-library
+  name: Loxley Public Library
+  aliases: ["Loxley Public Library"]
+  domains: ["cityofloxley.com"]
+  address: "1001 E Loxley Ave"
+  city: Loxley
+  state: AL
+  zip: "36551"
+  regions: [coastal]
+  notes: "Housed in the former St. Patrick's Catholic Church building; a separate facility from Loxley Municipal Park."
+
+- slug: al-trione-sports-complex
+  name: Al Trione Sports Complex
+  aliases: ["Al Trione Sports Complex"]
+  domains: []
+  address: "8600 Whispering Pines Rd"
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "City of Daphne sports complex; also home to a public dog park."
+
+- slug: downtown-silverhill
+  name: Downtown Silverhill
+  aliases: ["Town of Silverhill, Alabama"]
+  domains: ["silverhillalabama.com"]
+  city: Silverhill
+  state: AL
+  zip: "36576"
+  regions: [coastal]
+  notes: "Used for town-wide events (Christmas market, parade) organized by the Town of Silverhill; no single street address."
