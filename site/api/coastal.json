@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-11-12T17:42:55Z",
+ "generated": "2026-11-12T17:54:30Z",
  "events": [
   {
    "id": 663,
@@ -347,6 +347,40 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1637,
+   "series_slug": "town-of-elberta-christmas-parade",
+   "title": "Town of Elberta Christmas Parade",
+   "start": "2026-11-12T16:00:00-06:00",
+   "end": "2026-11-12T18:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "elberta-town-park",
+    "name": "Elberta Town Park",
+    "city": "Elberta",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/town-of-elberta-christmas-parade/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/861364471_1604967028331640_1881728944896230568_n.jpg?fit=739%2C415&ssl=1",
+    "credit": "The Mob Mom"
+   },
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -704,6 +738,41 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1639,
+   "series_slug": "merry-bright-christmas-market",
+   "title": "Merry & Bright Christmas Market",
+   "start": "2026-11-14T09:00:00-06:00",
+   "end": "2026-11-14T15:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "downtown-silverhill",
+    "name": "Downtown Silverhill",
+    "city": "Silverhill",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/merry-bright-christmas-market/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/838782965_1760902814991486_1815369128648487597_n.jpg?fit=960%2C524&ssl=1",
+    "credit": "The Mob Mom"
+   },
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -2221,37 +2290,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1580,
-   "series_slug": "namaste-by-the-bay-free-community-yoga",
-   "title": "Namaste by the Bay - Free Community Yoga",
-   "start": "2026-11-21T09:00:00-06:00",
-   "end": "2026-11-21T10:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11264",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1453,
    "series_slug": "alligator-adventures",
    "title": "Alligator Adventures",
@@ -2279,6 +2317,72 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1580,
+   "series_slug": "namaste-by-the-bay-free-community-yoga",
+   "title": "Yoga",
+   "start": "2026-11-21T10:00:00-06:00",
+   "end": "2026-11-21T11:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11264",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1649,
+   "series_slug": "santa-at-the-library",
+   "title": "Santa at the Library",
+   "start": "2026-11-21T10:00:00-06:00",
+   "end": "2026-11-21T12:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "loxley-public-library",
+    "name": "Loxley Public Library",
+    "city": "Loxley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/santa-at-the-library/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/876881076_1618831553615574_3732311299300084505_n.jpg?fit=940%2C788&ssl=1",
+    "credit": "The Mob Mom"
+   },
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -2666,38 +2770,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1584,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-11-24T07:20:00-06:00",
-   "end": "2026-11-24T08:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9169",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1585,
    "series_slug": "cardio-dance",
    "title": "Cardio Dance",
@@ -2854,6 +2926,38 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1584,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-11-24T17:00:00-06:00",
+   "end": "2026-11-24T18:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9169",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -3741,6 +3845,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1655,
+   "series_slug": "small-town-christmas-silverhill-christmas-parade",
+   "title": "Small Town Christmas – Silverhill Christmas Parade",
+   "start": "2026-12-04T18:00:00-06:00",
+   "end": "2026-12-04T20:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "downtown-silverhill",
+    "name": "Downtown Silverhill",
+    "city": "Silverhill",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/small-town-christmas-silverhill-christmas-parade/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1656,
    "series_slug": "foleys-christmas-in-the-park",
    "title": "Foley’s Christmas in the Park",
@@ -4124,9 +4260,9 @@
   {
    "id": 1622,
    "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
-   "start": "2026-12-06T14:00:00-06:00",
-   "end": "2026-12-06T17:00:00-06:00",
+   "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
+   "start": "2026-12-06T18:30:00-06:00",
+   "end": "2026-12-06T21:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -4798,9 +4934,9 @@
   {
    "id": 1626,
    "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
-   "start": "2026-12-20T14:00:00-06:00",
-   "end": "2026-12-20T17:00:00-06:00",
+   "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
+   "start": "2026-12-20T18:30:00-06:00",
+   "end": "2026-12-20T21:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -4829,9 +4965,9 @@
   {
    "id": 1627,
    "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
-   "start": "2026-12-21T14:00:00-06:00",
-   "end": "2026-12-21T17:00:00-06:00",
+   "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
+   "start": "2026-12-21T18:30:00-06:00",
+   "end": "2026-12-21T21:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -4860,9 +4996,9 @@
   {
    "id": 1628,
    "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
-   "start": "2026-12-22T14:00:00-06:00",
-   "end": "2026-12-22T17:00:00-06:00",
+   "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
+   "start": "2026-12-22T18:30:00-06:00",
+   "end": "2026-12-22T21:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -5272,9 +5408,9 @@
   {
    "id": 1631,
    "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
-   "start": "2026-12-29T14:00:00-06:00",
-   "end": "2026-12-29T17:00:00-06:00",
+   "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
+   "start": "2026-12-29T18:30:00-06:00",
+   "end": "2026-12-29T21:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -5303,9 +5439,9 @@
   {
    "id": 1632,
    "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
-   "start": "2026-12-30T14:00:00-06:00",
-   "end": "2026-12-30T17:00:00-06:00",
+   "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
+   "start": "2026-12-30T18:30:00-06:00",
+   "end": "2026-12-30T21:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
