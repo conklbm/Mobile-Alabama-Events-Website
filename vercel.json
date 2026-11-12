@@ -1706,6 +1706,31 @@
       "permanent": true
     },
     {
+      "source": "/events/nest-of-mobile-annual-luncheon(/)?",
+      "destination": "/venues/battle-house-hotel/",
+      "permanent": true
+    },
+    {
+      "source": "/events/documentaries-with-an-anthropologist(/)?",
+      "destination": "/venues/ben-may-main-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/daikaiju(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/small-business-b-ai-sics-program(/)?",
+      "destination": "/venues/mobile-chamber/",
+      "permanent": true
+    },
+    {
+      "source": "/events/a-closer-look-bessie-morse-bellingraths-silver-collection-with-tom(/)?",
+      "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true

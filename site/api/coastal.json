@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-11-11T17:46:57Z",
+ "generated": "2026-11-12T17:42:55Z",
  "events": [
   {
    "id": 663,
@@ -32,229 +32,6 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
-  },
-  {
-   "id": 1358,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-11-10T17:00:00-06:00",
-   "end": "2026-11-10T18:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9165",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 257,
-   "series_slug": "hawthorne-heights-w-letlive",
-   "title": "Hawthorne Heights w/ Letlive",
-   "start": "2026-11-10T19:00:00-06:00",
-   "end": "2026-11-10T22:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "vinyl-music-hall",
-    "name": "Vinyl Music Hall",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x_bf",
-   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x_bf",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1429,
-   "series_slug": "brandon-styles-variety-show",
-   "title": "Brandon Styles Variety Show",
-   "start": "2026-11-10T19:00:00-06:00",
-   "end": "2026-11-10T20:00:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "owa-parks-resort",
-    "name": "OWA Parks & Resort",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://visitowa.com/variety-show/",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2025/08/Brandon-Styles-Variety-Show.png?fit=1024%2C536&ssl=1",
-    "credit": "The Mob Mom"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1363,
-   "series_slug": "city-offices-closed-for-veterans-day",
-   "title": "City offices closed for Veterans Day",
-   "start": "2026-11-11T08:00:00-06:00",
-   "end": "2026-11-11T17:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11272",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1364,
-   "series_slug": "cardio-dance",
-   "title": "Cardio Dance",
-   "start": "2026-11-11T08:00:00-06:00",
-   "end": "2026-11-11T09:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10925",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1430,
-   "series_slug": "snakes-of-gulf-state-park",
-   "title": "Snakes of Gulf State Park",
-   "start": "2026-11-11T10:00:00-06:00",
-   "end": "2026-11-11T11:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "gulf-state-park",
-    "name": "Gulf State Park",
-    "city": "Gulf Shores",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.alapark.com/parks/gulf-state-park/activities-calendar",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1365,
-   "series_slug": "total-body-fit",
-   "title": "Total Body Fit",
-   "start": "2026-11-11T11:00:00-06:00",
-   "end": "2026-11-11T12:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11178",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
   },
   {
    "id": 1366,
@@ -2031,6 +1808,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1577,
+   "series_slug": "cardio-dance",
+   "title": "Cardio Dance",
+   "start": "2026-11-20T08:00:00-06:00",
+   "end": "2026-11-20T09:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10930",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1449,
    "series_slug": "guided-pier-walk",
    "title": "Guided Pier Walk",
@@ -2090,6 +1899,103 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1578,
+   "series_slug": "friendsgiving-at-orange-beach-senior-center",
+   "title": "Friendsgiving at Orange Beach Senior Center",
+   "start": "2026-11-20T10:00:00-06:00",
+   "end": "2026-11-20T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11269",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1579,
+   "series_slug": "total-body-fit",
+   "title": "Total Body Fit",
+   "start": "2026-11-20T11:00:00-06:00",
+   "end": "2026-11-20T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11185",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1646,
+   "series_slug": "christmas-in-the-park",
+   "title": "Christmas in the Park",
+   "start": "2026-11-20T18:00:00-06:00",
+   "end": "2026-11-20T20:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "arts"
+   ],
+   "venue": {
+    "slug": "loxley-municipal-park",
+    "name": "Loxley Municipal Park",
+    "city": "Loxley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/christmas-in-the-park/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/838940501_1131784416173491_954488944436069601_n.jpg?fit=960%2C640&ssl=1",
+    "credit": "The Mob Mom"
+   },
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -2315,6 +2221,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1580,
+   "series_slug": "namaste-by-the-bay-free-community-yoga",
+   "title": "Namaste by the Bay - Free Community Yoga",
+   "start": "2026-11-21T09:00:00-06:00",
+   "end": "2026-11-21T10:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11264",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1453,
    "series_slug": "alligator-adventures",
    "title": "Alligator Adventures",
@@ -2373,6 +2310,40 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1650,
+   "series_slug": "christmas-tree-lighting",
+   "title": "Christmas Tree Lighting",
+   "start": "2026-11-21T14:00:00-06:00",
+   "end": "2026-11-21T20:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/christmas-tree-lighting/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/865728187_1432602912390381_5024883338149653251_n.jpg?fit=960%2C503&ssl=1",
+    "credit": "The Mob Mom"
+   },
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -2506,6 +2477,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1581,
+   "series_slug": "cardio-dance",
+   "title": "Cardio Dance",
+   "start": "2026-11-23T08:00:00-06:00",
+   "end": "2026-11-23T09:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10931",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1457,
    "series_slug": "lakeview-nature-walk",
    "title": "Lakeview Nature Walk",
@@ -2569,6 +2572,164 @@
    "independent_source_count": 1
   },
   {
+   "id": 1582,
+   "series_slug": "total-body-fit",
+   "title": "Total Body Fit",
+   "start": "2026-11-23T11:00:00-06:00",
+   "end": "2026-11-23T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11186",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1576,
+   "series_slug": "city-council-meeting",
+   "title": "City Council Meeting",
+   "start": "2026-11-23T16:00:00-06:00",
+   "end": "2026-11-23T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "gulf-shores-city-hall",
+    "name": "Gulf Shores City Hall",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshoresal.gov/Calendar.aspx?EID=16369",
+   "source": {
+    "name": "City of Gulf Shores",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1583,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-11-23T17:00:00-06:00",
+   "end": "2026-11-23T18:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9597",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1584,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-11-24T07:20:00-06:00",
+   "end": "2026-11-24T08:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9169",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1585,
+   "series_slug": "cardio-dance",
+   "title": "Cardio Dance",
+   "start": "2026-11-24T08:00:00-06:00",
+   "end": "2026-11-24T09:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10932",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1460,
    "series_slug": "fall-craft-for-kids",
    "title": "Fall Craft for Kids",
@@ -2598,6 +2759,69 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1586,
+   "series_slug": "gentle-yoga-flow",
+   "title": "Gentle Yoga Flow",
+   "start": "2026-11-24T10:00:00-06:00",
+   "end": "2026-11-24T11:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9647",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1587,
+   "series_slug": "total-body-fit",
+   "title": "Total Body Fit",
+   "start": "2026-11-24T11:00:00-06:00",
+   "end": "2026-11-24T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11187",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2633,6 +2857,69 @@
    "independent_source_count": 1
   },
   {
+   "id": 1588,
+   "series_slug": "thanksgiving-bingo-by-the-bay",
+   "title": "Thanksgiving Bingo by the Bay",
+   "start": "2026-11-24T17:30:00-06:00",
+   "end": "2026-11-24T19:00:00-06:00",
+   "all_day": false,
+   "category": "nightlife",
+   "categories": [
+    "nightlife"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11270",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1589,
+   "series_slug": "cardio-dance",
+   "title": "Cardio Dance",
+   "start": "2026-11-25T08:00:00-06:00",
+   "end": "2026-11-25T09:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10933",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1462,
    "series_slug": "snakes-of-gulf-state-park",
    "title": "Snakes of Gulf State Park",
@@ -2661,6 +2948,68 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1590,
+   "series_slug": "total-body-fit",
+   "title": "Total Body Fit",
+   "start": "2026-11-25T11:00:00-06:00",
+   "end": "2026-11-25T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11188",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1591,
+   "series_slug": "krav-maga-self-defense",
+   "title": "Krav Maga (Self-Defense)",
+   "start": "2026-11-25T17:00:00-06:00",
+   "end": "2026-11-25T18:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10793",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2759,6 +3108,70 @@
    "independent_source_count": 1
   },
   {
+   "id": 1592,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-11-26T07:20:00-06:00",
+   "end": "2026-11-26T08:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9170",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1593,
+   "series_slug": "cardio-dance",
+   "title": "Cardio Dance",
+   "start": "2026-11-26T08:00:00-06:00",
+   "end": "2026-11-26T09:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10856",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 664,
    "series_slug": "flora-bama-s-thanksgiving-potluck",
    "title": "Flora-Bama's Thanksgiving Potluck",
@@ -2787,6 +3200,37 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1594,
+   "series_slug": "total-body-fit",
+   "title": "Total Body Fit",
+   "start": "2026-11-26T11:00:00-06:00",
+   "end": "2026-11-26T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11189",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -3297,6 +3741,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1656,
+   "series_slug": "foleys-christmas-in-the-park",
+   "title": "Foley’s Christmas in the Park",
+   "start": "2026-12-04T18:00:00-06:00",
+   "end": "2026-12-04T20:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "heritage-park-foley",
+    "name": "Heritage Park (Foley)",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/foleys-christmas-in-the-park/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/813525495_1797032341444719_3874009090138361411_n.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1300,
    "series_slug": "island-fights-100",
    "title": "Island Fights 102",
@@ -3418,6 +3896,41 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1659,
+   "series_slug": "2026-christmas-trail",
+   "title": "2026 Christmas Trail",
+   "start": "2026-12-05T17:00:00-06:00",
+   "end": "2026-12-05T20:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "family"
+   ],
+   "venue": {
+    "slug": "graham-creek-nature-preserve",
+    "name": "Graham Creek Nature Preserve",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "$5",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/2026-christmas-trail/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/893114977_28910144355279030_1373363326258409957_n.jpg?fit=742%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -3546,6 +4059,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1621,
+   "series_slug": "pensacola-bay-center-after-game-skate",
+   "title": "Pensacola Bay Center After Game Skate",
+   "start": "2026-12-05T21:30:00-06:00",
+   "end": "2026-12-06T00:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "sports"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-after-game-skate-pensacola-florida-12-05-2026/event/1B006566970590B8",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-after-game-skate-pensacola-florida-12-05-2026/event/1B006566970590B8",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 665,
    "series_slug": "santa-drop-at-flora-bama",
    "title": "Santa Drop At Flora-Bama",
@@ -3577,6 +4122,37 @@
    "independent_source_count": 0
   },
   {
+   "id": 1622,
+   "series_slug": "pensacola-bay-center-after-game-skate",
+   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
+   "start": "2026-12-06T14:00:00-06:00",
+   "end": "2026-12-06T17:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-06-2026/event/1B006566A8A0B488",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-06-2026/event/1B006566A8A0B488",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 281,
    "series_slug": "keller-williams",
    "title": "Keller Williams",
@@ -3605,6 +4181,106 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1697,
+   "series_slug": "the-horse-soldiers-war-stories-told-firsthand",
+   "title": "The Horse Soldiers, War Stories Told Firsthand",
+   "start": "2026-12-08T17:00:00-06:00",
+   "end": "2026-12-08T21:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-event-center",
+    "name": "Orange Beach Event Center",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/the-horse-soldiers-war-stories-told-firsthand-44021",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1661,
+   "series_slug": "elf-academy",
+   "title": "Elf Academy",
+   "start": "2026-12-11T17:00:00-06:00",
+   "end": "2026-12-12T19:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/elf-academy/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/867640571_1144448601731488_5936938460902616147_n.jpg?fit=960%2C503&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1662,
+   "series_slug": "2026-loxley-christmas-parade",
+   "title": "2026 Loxley Christmas Parade",
+   "start": "2026-12-11T18:00:00-06:00",
+   "end": "2026-12-11T20:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "loxley-municipal-park",
+    "name": "Loxley Municipal Park",
+    "city": "Loxley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/2026-loxley-christmas-parade/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/844616911_1070199739401639_1765128455476020048_n.jpg?fit=960%2C640&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -3705,6 +4381,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1665,
+   "series_slug": "pictures-with-santa",
+   "title": "Pictures with Santa",
+   "start": "2026-12-12T14:00:00-06:00",
+   "end": "2026-12-12T16:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "loxley-municipal-park",
+    "name": "Loxley Municipal Park",
+    "city": "Loxley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/pictures-with-santa/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/843169595_1114295391138880_901766167486551862_n.jpg?fit=960%2C640&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1193,
    "series_slug": "pensacola-children-s-chorus-christmas-on-the-coast",
    "title": "Pensacola Children's Chorus: Christmas on the Coast",
@@ -3727,6 +4437,37 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-12-2026/event/1B006553E2635A22",
    "info_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-12-2026/event/1B006553E2635A22",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1623,
+   "series_slug": "thunderstruck",
+   "title": "Thunderstruck",
+   "start": "2026-12-12T20:00:00-06:00",
+   "end": "2026-12-12T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA7v-",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA7v-",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -3797,6 +4538,41 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1668,
+   "series_slug": "crafts-with-santa",
+   "title": "Crafts With Santa",
+   "start": "2026-12-18T16:00:00-06:00",
+   "end": "2026-12-23T19:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "food"
+   ],
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/crafts-with-santa/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/862786351_1432676635716342_3302388702335716437_n.jpg?fit=960%2C503&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -3926,6 +4702,69 @@
    "independent_source_count": 1
   },
   {
+   "id": 1624,
+   "series_slug": "i-love-r-b-party-ages-21",
+   "title": "I Love R&B Party - Ages 21+",
+   "start": "2026-12-19T21:00:00-06:00",
+   "end": "2026-12-20T00:00:00-06:00",
+   "all_day": false,
+   "category": "nightlife",
+   "categories": [
+    "nightlife"
+   ],
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7O79",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7O79",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1625,
+   "series_slug": "pensacola-bay-center-after-game-skate",
+   "title": "Pensacola Bay Center After Game Skate",
+   "start": "2026-12-19T21:30:00-06:00",
+   "end": "2026-12-20T00:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "sports"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-after-game-skate-pensacola-florida-12-19-2026/event/1B006566970D90BF",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-after-game-skate-pensacola-florida-12-19-2026/event/1B006566970D90BF",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 419,
    "series_slug": "ballet-pensacola-presents-the-nutcracker",
    "title": "Ballet Pensacola Presents The Nutcracker",
@@ -3947,6 +4786,99 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/ballet-pensacola-presents-the-nutcracker-pensacola-florida-12-20-2026/event/1B00653B1FB39033",
    "info_url": "https://www.ticketmaster.com/ballet-pensacola-presents-the-nutcracker-pensacola-florida-12-20-2026/event/1B00653B1FB39033",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1626,
+   "series_slug": "pensacola-bay-center-after-game-skate",
+   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
+   "start": "2026-12-20T14:00:00-06:00",
+   "end": "2026-12-20T17:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-20-2026/event/1B006566A8B4B4C8",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-20-2026/event/1B006566A8B4B4C8",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1627,
+   "series_slug": "pensacola-bay-center-after-game-skate",
+   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
+   "start": "2026-12-21T14:00:00-06:00",
+   "end": "2026-12-21T17:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-21-2026/event/1B006566A8C8B4F5",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-21-2026/event/1B006566A8C8B4F5",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1628,
+   "series_slug": "pensacola-bay-center-after-game-skate",
+   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
+   "start": "2026-12-22T14:00:00-06:00",
+   "end": "2026-12-22T17:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-22-2026/event/1B006566B66FD58E",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-22-2026/event/1B006566B66FD58E",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -4082,6 +5014,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1629,
+   "series_slug": "pensacola-bay-center-after-game-skate",
+   "title": "Pensacola Bay Center After Game Skate",
+   "start": "2026-12-23T21:30:00-06:00",
+   "end": "2026-12-24T00:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "sports"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-after-game-skate-pensacola-florida-12-23-2026/event/1B006566971290C9",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-after-game-skate-pensacola-florida-12-23-2026/event/1B006566971290C9",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 666,
    "series_slug": "annual-christmas-potluck",
    "title": "Annual Christmas Potluck",
@@ -4167,6 +5131,38 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-athens-rock-pensacola-florida-12-26-2026/event/1B00650D858A633F",
    "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-athens-rock-pensacola-florida-12-26-2026/event/1B00650D858A633F",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1630,
+   "series_slug": "pensacola-bay-center-after-game-skate",
+   "title": "Pensacola Bay Center After Game Skate",
+   "start": "2026-12-26T21:30:00-06:00",
+   "end": "2026-12-27T00:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "sports"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-after-game-skate-pensacola-florida-12-26-2026/event/1B006566971790EC",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-after-game-skate-pensacola-florida-12-26-2026/event/1B006566971790EC",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -4272,6 +5268,68 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
+  },
+  {
+   "id": 1631,
+   "series_slug": "pensacola-bay-center-after-game-skate",
+   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
+   "start": "2026-12-29T14:00:00-06:00",
+   "end": "2026-12-29T17:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-29-2026/event/1B006566B682D5B3",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-29-2026/event/1B006566B682D5B3",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1632,
+   "series_slug": "pensacola-bay-center-after-game-skate",
+   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
+   "start": "2026-12-30T14:00:00-06:00",
+   "end": "2026-12-30T17:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-30-2026/event/1B006566B694D5E4",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-30-2026/event/1B006566B694D5E4",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 1531,
@@ -4841,9 +5899,9 @@
    "start": "2027-01-14T19:00:00-06:00",
    "end": "2027-01-14T22:00:00-06:00",
    "all_day": false,
-   "category": "community",
+   "category": "sports",
    "categories": [
-    "community"
+    "sports"
    ],
    "venue": {
     "slug": "pensacola-bay-center",
@@ -5699,6 +6757,38 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/kansas-pensacola-florida-01-31-2027/event/1B00653022627863",
    "info_url": "https://www.ticketmaster.com/kansas-pensacola-florida-01-31-2027/event/1B00653022627863",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1633,
+   "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
+   "title": "Pensacola Ice Flyers vs. Huntsville Havoc",
+   "start": "2027-02-07T16:05:00-06:00",
+   "end": "2027-02-07T19:05:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-02-07-2027/event/1B00650D864664A8",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-02-07-2027/event/1B00650D864664A8",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
