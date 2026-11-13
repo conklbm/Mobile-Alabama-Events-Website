@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-11-13T20:29:05Z",
+ "generated": "2026-11-13T20:36:38Z",
  "events": [
   {
    "id": 663,
@@ -329,6 +329,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1711,
+   "series_slug": "festa-italiana",
+   "title": "Festa Italiana",
+   "start": "2026-11-13T11:00:00-06:00",
+   "end": "2026-11-13T18:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "fountain-park-pensacola",
+    "name": "Fountain Park",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-nov-13-15th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 260,
    "series_slug": "pensacola-ice-flyers-vs-macon-mayhem",
    "title": "Pensacola Ice Flyers vs. Macon Mayhem",
@@ -647,9 +678,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1712,
+   "series_slug": "festa-italiana",
+   "title": "Festa Italiana",
+   "start": "2026-11-14T11:00:00-06:00",
+   "end": "2026-11-14T18:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "fountain-park-pensacola",
+    "name": "Fountain Park",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-nov-13-15th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 261,
    "series_slug": "nephew-tommy-s-black-tie-house-party-comedy-show",
-   "title": "Nephew Tommy's Black Tie House Party & Comedy Show",
+   "title": "Nephew Tommy’s Black Tie House Party & Comedy Show",
    "start": "2026-11-14T19:00:00-06:00",
    "end": "2026-11-14T22:00:00-06:00",
    "all_day": false,

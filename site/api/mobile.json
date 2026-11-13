@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-13T20:29:05Z",
+ "generated": "2026-11-13T20:36:38Z",
  "events": [
   {
    "id": 620,
@@ -1473,6 +1473,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1709,
+   "series_slug": "arti-gras-mobile",
+   "title": "Arti Gras Mobile",
+   "start": "2026-11-14T10:00:00-06:00",
+   "end": "2026-11-14T16:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "detonti-square",
+    "name": "DeTonti Square",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-nov-13-15th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1002,
    "series_slug": "excelsior-band-preservation-the-jazz-studio",
    "title": "Excelsior Band Preservation: The Jazz Studio",
@@ -1638,14 +1669,13 @@
   {
    "id": 610,
    "series_slug": "south-alabama-football-vs-troy-hall-of-fame-usa-health-night",
-   "title": "South Alabama Football vs Troy - Hall of Fame / USA Health Night",
+   "title": "South Alabama Jaguars vs Troy",
    "start": "2026-11-14T18:00:00-06:00",
    "end": "2026-11-14T21:00:00-06:00",
    "all_day": false,
    "category": "sports",
    "categories": [
-    "sports",
-    "community"
+    "sports"
    ],
    "venue": {
     "slug": "hancock-whitney-stadium",
@@ -1670,7 +1700,7 @@
   {
    "id": 261,
    "series_slug": "nephew-tommy-s-black-tie-house-party-comedy-show",
-   "title": "Nephew Tommy's Black Tie House Party & Comedy Show",
+   "title": "Nephew Tommy’s Black Tie House Party & Comedy Show",
    "start": "2026-11-14T19:00:00-06:00",
    "end": "2026-11-14T22:00:00-06:00",
    "all_day": false,
@@ -2051,6 +2081,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1670,
+   "series_slug": "bam-for-a-fam-mahjong-tournament",
+   "title": "Bam for a Fam Mahjong Tournament",
+   "start": "2026-11-15T14:00:00-06:00",
+   "end": "2026-11-15T17:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "dots-and-dragons-mahjong",
+    "name": "Dots & Dragons Mahjong",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/bam-for-a-fam-mahjong-tournament-2026-11-15",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
