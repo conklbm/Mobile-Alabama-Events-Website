@@ -1721,6 +1721,11 @@
       "permanent": true
     },
     {
+      "source": "/events/yellowhammer-veterans-cup-classic(/)?",
+      "destination": "/venues/magnolia-grove-golf-course/",
+      "permanent": true
+    },
+    {
       "source": "/events/small-business-b-ai-sics-program(/)?",
       "destination": "/venues/mobile-chamber/",
       "permanent": true
@@ -1728,6 +1733,21 @@
     {
       "source": "/events/a-closer-look-bessie-morse-bellingraths-silver-collection-with-tom(/)?",
       "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
+      "source": "/events/2026-big-event-the-year-of-the-youth(/)?",
+      "destination": "/venues/crown-hall/",
+      "permanent": true
+    },
+    {
+      "source": "/events/harvest-fest-2026(/)?",
+      "destination": "/venues/shiloh-baptist-church-saraland/",
+      "permanent": true
+    },
+    {
+      "source": "/events/the-brook-the-bluff(/)?",
+      "destination": "/venues/soul-kitchen/",
       "permanent": true
     },
     {
