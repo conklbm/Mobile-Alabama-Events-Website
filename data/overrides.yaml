@@ -13,6 +13,7 @@ merge:
   - [843, 496]   # Battleship 12K: "Publix" is the current title sponsor, "Keesler Federal" an earlier/co-sponsor name for the same annual race
   - [1086, 835]  # Mobile Latin Fest: Oct 10 date was postponed to Oct 18 (Tropical Storm Isaias per Fox10); "RESCHEDULED" copy is the same event, same Mardi Gras Park
   - [1085, 1076] # Trae Crowder, Crescent Theater, Jan 8 2027: mobile-county's "Two Shows" (7pm+9pm) is the same booking as ticketmaster's occurrence, which already merged the early- and late-show ticket links itself
+  - [1085, 1704] # Trae Crowder, Crescent Theater, Jan 8 2027: mobile-arts-council's "Early Show" (7pm) is the early half of the same 7pm+9pm booking already kept as 1085 (confirmed via mobilecountyal.gov "trae-crowder-two-shows-2027-01-08" + Live Nation)
 #  - [1234, 5678]
 
 # Force an occurrence onto a series (by occurrence id -> series slug).
