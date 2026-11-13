@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-12T17:42:55Z",
+ "generated": "2026-11-12T18:00:26Z",
  "events": [
   {
    "id": 620,
@@ -230,9 +230,8 @@
    "start": "2026-11-12T10:00:00-06:00",
    "end": "2026-11-12T11:30:00-06:00",
    "all_day": false,
-   "category": "family",
+   "category": "community",
    "categories": [
-    "family",
     "community"
    ],
    "venue": {
@@ -484,38 +483,38 @@
    "independent_source_count": 1
   },
   {
-   "id": 462,
-   "series_slug": "women-powered-by-ai-canceled",
-   "title": "Women Powered by AI",
-   "start": "2026-11-12T17:30:00-06:00",
-   "end": "2026-11-12T19:30:00-06:00",
+   "id": 1637,
+   "series_slug": "town-of-elberta-christmas-parade",
+   "title": "Town of Elberta Christmas Parade",
+   "start": "2026-11-12T16:00:00-06:00",
+   "end": "2026-11-12T18:30:00-06:00",
    "all_day": false,
    "category": "community",
    "categories": [
     "community"
    ],
    "venue": {
-    "slug": "innovation-portal",
-    "name": "Innovation Portal",
-    "city": "Mobile",
+    "slug": "elberta-town-park",
+    "name": "Elberta Town Park",
+    "city": "Elberta",
     "regions": [
-     "mobile"
+     "coastal"
     ]
    },
-   "price": "",
+   "price": "Free",
    "ticket_url": "",
-   "info_url": "https://www.innovation-portal.com/event/women-powered-by-ai-2-2/",
+   "info_url": "https://themobmom.com/event/town-of-elberta-christmas-parade/",
    "source": {
-    "name": "Innovation Portal",
-    "tier": "A",
+    "name": "The Mob Mom",
+    "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://www.innovation-portal.com/wp-content/uploads/2026/10/Women-Powered-by-AI-Logo.png",
-    "credit": "Innovation Portal"
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/861364471_1604967028331640_1881728944896230568_n.jpg?fit=739%2C415&ssl=1",
+    "credit": "The Mob Mom"
    },
-   "curation_score": 0,
-   "independent_source_count": 0
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 608,
@@ -1114,13 +1113,13 @@
   {
    "id": 1121,
    "series_slug": "alabama-coastal-health-connections-alchc-x-asms-science-art-exhibition",
-   "title": "Alabama Coastal Health Connections (ALCHC) x ASMS science art exhibition",
+   "title": "Alabama Coastal Health Connections Outreach",
    "start": "2026-11-13T18:00:00-06:00",
    "end": "2026-11-13T21:00:00-06:00",
    "all_day": false,
-   "category": "family",
+   "category": "community",
    "categories": [
-    "family",
+    "community",
     "arts"
    ],
    "venue": {
@@ -1173,6 +1172,40 @@
    "image": {
     "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/IMG_1316-scaled.png",
     "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1638,
+   "series_slug": "lego-holiday-build-event-reservation-required",
+   "title": "LEGO Holiday Build Event (reservation required)",
+   "start": "2026-11-13T19:00:00-06:00",
+   "end": "2026-11-13T20:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "barnes-noble-mobile",
+    "name": "Barnes & Noble (Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/lego-holiday-build-event-reservation-required/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/lego-build-event.webp?fit=300%2C342&ssl=1",
+    "credit": "The Mob Mom"
    },
    "curation_score": 1,
    "independent_source_count": 1
@@ -1246,7 +1279,7 @@
   {
    "id": 999,
    "series_slug": "comedy-shorts-during-artwalk",
-   "title": "Crescent Theatre: ArtWalk Comedy Shorts, 3 Short Shows, One Low Price",
+   "title": "Comedy Shorts: 3 Short Shows, One Low Price",
    "start": "2026-11-13T19:30:00-06:00",
    "end": "2026-11-13T22:30:00-06:00",
    "all_day": false,
@@ -1344,40 +1377,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1329,
-   "series_slug": "double-feature-comedy-night-crescent-theater",
-   "title": "Double Feature Comedy Night",
-   "start": "2026-11-14T00:00:00-06:00",
-   "end": "2026-11-14T23:59:59-06:00",
-   "all_day": true,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Double-comedy_1AE48C44-FF94-3C3D-47C5850C443C5145_1ae7c36d-e9fa-55c5-1cd6028052aea7f3.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
-  },
-  {
    "id": 487,
    "series_slug": "fall-market-in-the-park",
    "title": "Fall Market in the Park",
@@ -1444,7 +1443,7 @@
   {
    "id": 1395,
    "series_slug": "sensory-day",
-   "title": "Sensory Day",
+   "title": "Sensory Day at the Exploreum",
    "start": "2026-11-14T09:00:00-06:00",
    "end": "2026-11-14T10:00:00-06:00",
    "all_day": false,
@@ -1470,7 +1469,42 @@
    },
    "image": null,
    "curation_score": 1,
-   "independent_source_count": 2
+   "independent_source_count": 1
+  },
+  {
+   "id": 1639,
+   "series_slug": "merry-bright-christmas-market",
+   "title": "Merry & Bright Christmas Market",
+   "start": "2026-11-14T09:00:00-06:00",
+   "end": "2026-11-14T15:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "downtown-silverhill",
+    "name": "Downtown Silverhill",
+    "city": "Silverhill",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/merry-bright-christmas-market/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/838782965_1760902814991486_1815369128648487597_n.jpg?fit=960%2C524&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 537,
@@ -1506,37 +1540,6 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
-  },
-  {
-   "id": 637,
-   "series_slug": "mess-makers-society",
-   "title": "Mess Makers Society",
-   "start": "2026-11-14T10:00:00-06:00",
-   "end": "2026-11-14T12:00:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family"
-   ],
-   "venue": {
-    "slug": "eastern-shore-art-center",
-    "name": "Eastern Shore Art Center",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F54132",
-   "source": {
-    "name": "Eastern Shore Art Center",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
   },
   {
    "id": 785,
@@ -1666,6 +1669,38 @@
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/living-history-festival.jpg?fit=960%2C541&ssl=1",
     "credit": "The Mob Mom"
    },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1672,
+   "series_slug": "foundational-family-history",
+   "title": "Foundational Family History",
+   "start": "2026-11-14T10:00:00-06:00",
+   "end": "2026-11-14T11:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "local-history-genealogy-library",
+    "name": "Local History & Genealogy Library",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-foundational-family-history-2026-11-14",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -1865,6 +1900,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1329,
+   "series_slug": "double-feature-comedy-night-crescent-theater",
+   "title": "Double Feature Comedy Night",
+   "start": "2026-11-14T19:00:00-06:00",
+   "end": "2026-11-14T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Double-comedy_1AE48C44-FF94-3C3D-47C5850C443C5145_1ae7c36d-e9fa-55c5-1cd6028052aea7f3.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
    "id": 1072,
    "series_slug": "taken-by-tides",
    "title": "TAKEN BY TIDES",
@@ -1933,9 +2002,9 @@
    "start": "2026-11-14T21:30:00-06:00",
    "end": "2026-11-15T00:30:00-06:00",
    "all_day": false,
-   "category": "nightlife",
+   "category": "arts",
    "categories": [
-    "nightlife"
+    "arts"
    ],
    "venue": {
     "slug": "crescent-theater",
@@ -2256,7 +2325,7 @@
     "credit": "Downtown Mobile Alliance"
    },
    "curation_score": 2,
-   "independent_source_count": 2
+   "independent_source_count": 3
   },
   {
    "id": 1173,
@@ -2551,41 +2620,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 540,
-   "series_slug": "driven-to-draw-tuesday-pm",
-   "title": "Driven to Draw Tuesday PM",
-   "start": "2026-11-17T10:00:00-06:00",
-   "end": "2026-11-17T12:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/driven-to-draw-tuesday-pm-2/2026-11-17/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/drawing-am.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 951,
    "series_slug": "elected-officials-luncheon-2026",
    "title": "Elected Officials Luncheon - 2026",
@@ -2784,6 +2818,37 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 1685,
+   "series_slug": "christian-comedy-revival-live-talk-show",
+   "title": "Christian Comedy Revival Live Talk Show",
+   "start": "2026-11-17T18:00:00-06:00",
+   "end": "2026-11-17T20:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "revive-church-mobile",
+    "name": "Revive Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/christian-comedy-revival-live-talk-show-11-17-2026-44020",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 1558,
@@ -3399,38 +3464,6 @@
    "independent_source_count": 2
   },
   {
-   "id": 674,
-   "series_slug": "alok",
-   "title": "Alok presented by Prism United",
-   "start": "2026-11-18T19:00:00-06:00",
-   "end": "2026-11-18T22:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$38.45-105.68",
-   "ticket_url": "https://www.ticketweb.com/event/alok-crescent-theater-tickets/14365334",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
-  },
-  {
    "id": 1004,
    "series_slug": "crescent-theater-crescent-comedy-chaos",
    "title": "Crescent Theater: Crescent Comedy Chaos",
@@ -3522,6 +3555,37 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 674,
+   "series_slug": "alok",
+   "title": "ALOK presented by Prism United (Late Show)",
+   "start": "2026-11-18T21:30:00-06:00",
+   "end": "2026-11-19T00:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$38.45-105.68",
+   "ticket_url": "https://www.ticketweb.com/event/alok-crescent-theater-tickets/14365334",
+   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 2
   },
   {
    "id": 953,
@@ -4025,7 +4089,7 @@
   {
    "id": 1644,
    "series_slug": "christmas-nights-in-lights-stroll",
-   "title": "Christmas Nights in Lights Drive Thru",
+   "title": "Christmas Nights in Lights Drive Thru Show",
    "start": "2026-11-20T00:00:00-06:00",
    "end": "2026-11-20T23:59:59-06:00",
    "all_day": true,
@@ -4089,40 +4153,6 @@
    },
    "curation_score": 1,
    "independent_source_count": 1
-  },
-  {
-   "id": 1681,
-   "series_slug": "strokin-jokes",
-   "title": "Strokin Jokes",
-   "start": "2026-11-20T00:00:00-06:00",
-   "end": "2026-11-20T23:59:59-06:00",
-   "all_day": true,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Strokin-Jokes_94714DD0-07A5-C849-292130D4E82D65F7_947219fe-b260-5f41-54a3f5f27846ad08.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
   },
   {
    "id": 1225,
@@ -4218,6 +4248,37 @@
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1687,
+   "series_slug": "ram-hotels-job-fair",
+   "title": "RAM Hotels Job Fair",
+   "start": "2026-11-20T11:00:00-06:00",
+   "end": "2026-11-20T18:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "prodisee-pantry",
+    "name": "Prodisee Pantry",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/ram-hotels-job-fair-44019",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -4480,6 +4541,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1681,
+   "series_slug": "strokin-jokes",
+   "title": "Strokin' Jokes",
+   "start": "2026-11-20T21:00:00-06:00",
+   "end": "2026-11-21T00:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Strokin-Jokes_94714DD0-07A5-C849-292130D4E82D65F7_947219fe-b260-5f41-54a3f5f27846ad08.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
    "id": 880,
    "series_slug": "annual-coastal-christmas-market",
    "title": "Annual Coastal Christmas Market",
@@ -4708,7 +4803,7 @@
   {
    "id": 954,
    "series_slug": "saturday-raku-workshop-at-the-kiln-studio",
-   "title": "Saturday Raku Workshop at The Kiln Studio",
+   "title": "Saturday Raku Workshop",
    "start": "2026-11-21T09:00:00-06:00",
    "end": "2026-11-21T17:00:00-06:00",
    "all_day": false,
@@ -4894,6 +4989,40 @@
    },
    "image": {
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/585315635_1121676563512623_3791497210812255271_n.jpg?fit=960%2C828&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1649,
+   "series_slug": "santa-at-the-library",
+   "title": "Santa at the Library",
+   "start": "2026-11-21T10:00:00-06:00",
+   "end": "2026-11-21T12:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "loxley-public-library",
+    "name": "Loxley Public Library",
+    "city": "Loxley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/santa-at-the-library/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/876881076_1618831553615574_3732311299300084505_n.jpg?fit=940%2C788&ssl=1",
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
@@ -5590,40 +5719,6 @@
    "image": {
     "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/drawing-am.jpg",
     "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 10,
-   "series_slug": "prototyping-lab-3d-modeling-workshop",
-   "title": "Prototyping Lab 3D Modeling Workshop",
-   "start": "2026-11-24T16:00:00-06:00",
-   "end": "2026-11-24T17:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "innovation-portal",
-    "name": "Innovation Portal",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.innovation-portal.com/event/prototyping-lab-3d-modeling-workshop-4/2026-11-24/",
-   "source": {
-    "name": "Innovation Portal",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-1-1.png",
-    "credit": "Innovation Portal"
    },
    "curation_score": 0,
    "independent_source_count": 1
@@ -7163,10 +7258,10 @@
    "start": "2026-12-02T17:30:00-06:00",
    "end": "2026-12-02T20:30:00-06:00",
    "all_day": false,
-   "category": "community",
+   "category": "arts",
    "categories": [
-    "community",
-    "arts"
+    "arts",
+    "community"
    ],
    "venue": {
     "slug": "crescent-theater",
@@ -7288,9 +7383,9 @@
   {
    "id": 1009,
    "series_slug": "crescent-theater-crescent-comedy-chaos",
-   "title": "Crescent Theater: Crescent Comedy Chaos",
-   "start": "2026-12-02T19:00:00-06:00",
-   "end": "2026-12-02T22:00:00-06:00",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-12-02T20:00:00-06:00",
+   "end": "2026-12-02T23:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -7527,14 +7622,14 @@
   {
    "id": 1616,
    "series_slug": "comedy-writer-s-workshop-showcase",
-   "title": "Comedy Writer's Workshop Showcase",
+   "title": "Comedy Writer's Workshop Showcase: From the Notebook to the Stage",
    "start": "2026-12-03T19:00:00-06:00",
    "end": "2026-12-03T22:00:00-06:00",
    "all_day": false,
-   "category": "community",
+   "category": "arts",
    "categories": [
-    "community",
-    "arts"
+    "arts",
+    "community"
    ],
    "venue": {
     "slug": "crescent-theater",
@@ -7719,6 +7814,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1654,
+   "series_slug": "come-and-behold-him-a-festival-of-nativities",
+   "title": "Come and Behold Him: A Festival of Nativities",
+   "start": "2026-12-04T10:00:00-06:00",
+   "end": "2026-12-06T15:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "st-pauls-episcopal-church-daphne",
+    "name": "St. Paul's Episcopal Church (Daphne)",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/come-and-behold-him-a-festival-of-nativities/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/871764604_1539918128169319_1983954333972264556_n.jpg?fit=754%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
    "id": 1010,
    "series_slug": "mobile-botanical-gardens-sketch-club",
    "title": "Mobile Botanical Gardens: Sketch Club",
@@ -7846,38 +7975,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 961,
-   "series_slug": "fairhope-first-friday-art-walk",
-   "title": "Fairhope First Friday Art Walk",
-   "start": "2026-12-04T18:00:00-06:00",
-   "end": "2026-12-04T20:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/fairhope-first-friday-art-walk-12-04-2026-1810",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1224,
    "series_slug": "a-christmas-story-in-the-park",
    "title": "'A Christmas Story' in the Park",
@@ -7902,6 +7999,38 @@
    "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-a-christmas-story-in-the-park-2026-12-04",
    "source": {
     "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1655,
+   "series_slug": "small-town-christmas-silverhill-christmas-parade",
+   "title": "Small Town Christmas – Silverhill Christmas Parade",
+   "start": "2026-12-04T18:00:00-06:00",
+   "end": "2026-12-04T20:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "downtown-silverhill",
+    "name": "Downtown Silverhill",
+    "city": "Silverhill",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/small-town-christmas-silverhill-christmas-parade/",
+   "source": {
+    "name": "The Mob Mom",
     "tier": "C",
     "redistributable": false
    },
@@ -8385,6 +8514,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1693,
+   "series_slug": "come-behold-him-a-festival-of-nativities",
+   "title": "Come & Behold Him- A Festival of Nativities",
+   "start": "2026-12-05T10:00:00-06:00",
+   "end": "2026-12-05T16:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "st-pauls-episcopal-church-daphne",
+    "name": "St. Paul's Episcopal Church (Daphne)",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/come-behold-him-a-festival-of-nativities-12-05-2026-44004",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1694,
    "series_slug": "christmas-tree-carving-at-the-kiln-studio",
    "title": "Christmas Tree Carving at The Kiln Studio",
@@ -8831,30 +8992,31 @@
    "independent_source_count": 0
   },
   {
-   "id": 1622,
-   "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
-   "start": "2026-12-06T14:00:00-06:00",
-   "end": "2026-12-06T17:00:00-06:00",
+   "id": 1696,
+   "series_slug": "come-behold-him-a-festival-of-nativities",
+   "title": "Come & Behold Him- A Festival of Nativities",
+   "start": "2026-12-06T09:00:00-06:00",
+   "end": "2026-12-06T15:00:00-06:00",
    "all_day": false,
-   "category": "family",
+   "category": "community",
    "categories": [
-    "family"
+    "community",
+    "arts"
    ],
    "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
+    "slug": "st-pauls-episcopal-church-daphne",
+    "name": "St. Paul's Episcopal Church (Daphne)",
+    "city": "Daphne",
     "regions": [
-     "coastal"
+     "mobile"
     ]
    },
    "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-06-2026/event/1B006566A8A0B488",
-   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-06-2026/event/1B006566A8A0B488",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/come-behold-him-a-festival-of-nativities-12-06-2026-44005",
    "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -8948,6 +9110,37 @@
    "source": {
     "name": "Alabama Contemporary Art Center",
     "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1622,
+   "series_slug": "pensacola-bay-center-after-game-skate",
+   "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
+   "start": "2026-12-06T18:30:00-06:00",
+   "end": "2026-12-06T21:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-06-2026/event/1B006566A8A0B488",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-06-2026/event/1B006566A8A0B488",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": null,
@@ -9218,6 +9411,38 @@
    "independent_source_count": 2
   },
   {
+   "id": 1177,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-12-09T17:30:00-06:00",
+   "end": "2026-12-09T20:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049603",
+   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 2
+  },
+  {
    "id": 562,
    "series_slug": "wednesday-art-club-ages-5-7",
    "title": "Wednesday Art Club (Ages 8-11)",
@@ -9286,71 +9511,6 @@
    },
    "curation_score": 2,
    "independent_source_count": 3
-  },
-  {
-   "id": 1177,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Chaos",
-   "start": "2026-12-09T20:00:00-06:00",
-   "end": "2026-12-09T23:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049603",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
-  },
-  {
-   "id": 818,
-   "series_slug": "brian-posehn-crescent-theater",
-   "title": "Brian Posehn",
-   "start": "2026-12-10T00:00:00-06:00",
-   "end": "2026-12-10T23:59:59-06:00",
-   "all_day": true,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Brian-Poeson_D3C77B3C-9581-EFF7-28C6E53CADEBA199_d3cdf5f5-cc50-35f6-490d2662b5721514.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
   },
   {
    "id": 563,
@@ -9453,40 +9613,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 463,
-   "series_slug": "women-powered-by-ai-canceled",
-   "title": "Women Powered by AI",
-   "start": "2026-12-10T17:30:00-06:00",
-   "end": "2026-12-10T19:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "innovation-portal",
-    "name": "Innovation Portal",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.innovation-portal.com/event/women-powered-by-ai-2/2026-12-10/",
-   "source": {
-    "name": "Innovation Portal",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.innovation-portal.com/wp-content/uploads/2026/10/Women-Powered-by-AI-Logo.png",
-    "credit": "Innovation Portal"
-   },
-   "curation_score": 0,
-   "independent_source_count": 0
-  },
-  {
    "id": 141,
    "series_slug": "beer-bbq-bingo",
    "title": "Beer, BBQ & Bingo",
@@ -9585,6 +9711,40 @@
    "independent_source_count": 2
   },
   {
+   "id": 818,
+   "series_slug": "brian-posehn-crescent-theater",
+   "title": "Brian Posehn",
+   "start": "2026-12-10T19:00:00-06:00",
+   "end": "2026-12-10T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Brian-Poeson_D3C77B3C-9581-EFF7-28C6E53CADEBA199_d3cdf5f5-cc50-35f6-490d2662b5721514.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
    "id": 1221,
    "series_slug": "7th-annual-port-city-volley-jolley-christmas-volleyball-tournament",
    "title": "7th Annual Port City Volley Jolley Christmas Volleyball Tournament",
@@ -9644,6 +9804,41 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1660,
+   "series_slug": "daphnes-movie-night-in-the-park-2026",
+   "title": "Daphne’s Movie Night in the Park 2026",
+   "start": "2026-12-11T16:00:00-06:00",
+   "end": "2026-12-11T20:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
+   "venue": {
+    "slug": "al-trione-sports-complex",
+    "name": "Al Trione Sports Complex",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/daphnes-movie-night-in-the-park-2026/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/867028836_1651780216579682_881206209101553335_n.jpg?fit=960%2C503&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -9815,6 +10010,40 @@
    "independent_source_count": 2
   },
   {
+   "id": 1011,
+   "series_slug": "comedy-shorts-during-artwalk",
+   "title": "Comedy Shorts: 3 Short Shows, One Low Price",
+   "start": "2026-12-11T19:00:00-06:00",
+   "end": "2026-12-11T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Comedy-Shorts_933112B7-D9B9-DC54-A3D62B5344C70993_93317a21-f19a-b9c6-e72af0c9be691709.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
    "id": 221,
    "series_slug": "comedy-shorts-3-short-shows-one-low-price",
    "title": "Comedy Shorts: 3 Short Shows, One Low Price",
@@ -9845,40 +10074,6 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
-  },
-  {
-   "id": 1011,
-   "series_slug": "comedy-shorts-during-artwalk",
-   "title": "Crescent Theatre: ArtWalk Comedy Shorts, 3 Short Shows, One Low Price",
-   "start": "2026-12-11T19:30:00-06:00",
-   "end": "2026-12-11T22:30:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Comedy-Shorts_933112B7-D9B9-DC54-A3D62B5344C70993_93317a21-f19a-b9c6-e72af0c9be691709.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
   },
   {
    "id": 1178,
@@ -10861,10 +11056,10 @@
    "start": "2026-12-16T17:30:00-06:00",
    "end": "2026-12-16T20:30:00-06:00",
    "all_day": false,
-   "category": "community",
+   "category": "arts",
    "categories": [
-    "community",
-    "arts"
+    "arts",
+    "community"
    ],
    "venue": {
     "slug": "crescent-theater",
@@ -11158,9 +11353,9 @@
    "start": "2026-12-18T19:00:00-06:00",
    "end": "2026-12-18T22:00:00-06:00",
    "all_day": false,
-   "category": "community",
+   "category": "arts",
    "categories": [
-    "community"
+    "arts"
    ],
    "venue": {
     "slug": "crescent-theater",
@@ -11391,9 +11586,9 @@
    "start": "2026-12-19T19:00:00-06:00",
    "end": "2026-12-19T22:00:00-06:00",
    "all_day": false,
-   "category": "community",
+   "category": "arts",
    "categories": [
-    "community"
+    "arts"
    ],
    "venue": {
     "slug": "crescent-theater",
@@ -11483,9 +11678,9 @@
   {
    "id": 1626,
    "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
-   "start": "2026-12-20T14:00:00-06:00",
-   "end": "2026-12-20T17:00:00-06:00",
+   "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
+   "start": "2026-12-20T18:30:00-06:00",
+   "end": "2026-12-20T21:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -11576,9 +11771,9 @@
   {
    "id": 1627,
    "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
-   "start": "2026-12-21T14:00:00-06:00",
-   "end": "2026-12-21T17:00:00-06:00",
+   "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
+   "start": "2026-12-21T18:30:00-06:00",
+   "end": "2026-12-21T21:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -11672,9 +11867,9 @@
   {
    "id": 1628,
    "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
-   "start": "2026-12-22T14:00:00-06:00",
-   "end": "2026-12-22T17:00:00-06:00",
+   "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
+   "start": "2026-12-22T18:30:00-06:00",
+   "end": "2026-12-22T21:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -11766,6 +11961,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1180,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-12-23T17:30:00-06:00",
+   "end": "2026-12-23T20:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049633",
+   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 2
+  },
+  {
    "id": 421,
    "series_slug": "jim-brickman-a-christmas-celebration",
    "title": "Jim Brickman: A Christmas Celebration",
@@ -11795,37 +12022,6 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
-  },
-  {
-   "id": 1180,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Chaos",
-   "start": "2026-12-23T20:00:00-06:00",
-   "end": "2026-12-23T23:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049633",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
   },
   {
    "id": 1669,
@@ -12191,37 +12387,6 @@
    "independent_source_count": 2
   },
   {
-   "id": 1631,
-   "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
-   "start": "2026-12-29T14:00:00-06:00",
-   "end": "2026-12-29T17:00:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-29-2026/event/1B006566B682D5B3",
-   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-29-2026/event/1B006566B682D5B3",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 392,
    "series_slug": "prototyping-lab-3d-modeling-workshop",
    "title": "Prototyping Lab 3D Modeling Workshop",
@@ -12256,11 +12421,11 @@
    "independent_source_count": 1
   },
   {
-   "id": 1632,
+   "id": 1631,
    "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center Holiday Skate 2:00-3:00pm",
-   "start": "2026-12-30T14:00:00-06:00",
-   "end": "2026-12-30T17:00:00-06:00",
+   "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
+   "start": "2026-12-29T18:30:00-06:00",
+   "end": "2026-12-29T21:30:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
@@ -12275,8 +12440,8 @@
     ]
    },
    "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-30-2026/event/1B006566B694D5E4",
-   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-30-2026/event/1B006566B694D5E4",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-29-2026/event/1B006566B682D5B3",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-29-2026/event/1B006566B682D5B3",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -12285,6 +12450,38 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1181,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Workshop",
+   "start": "2026-12-30T17:30:00-06:00",
+   "end": "2026-12-30T20:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049583",
+   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 2
   },
   {
    "id": 573,
@@ -12322,35 +12519,35 @@
    "independent_source_count": 1
   },
   {
-   "id": 1181,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Chaos",
-   "start": "2026-12-30T20:00:00-06:00",
-   "end": "2026-12-30T23:00:00-06:00",
+   "id": 1632,
+   "series_slug": "pensacola-bay-center-after-game-skate",
+   "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
+   "start": "2026-12-30T18:30:00-06:00",
+   "end": "2026-12-30T21:30:00-06:00",
    "all_day": false,
-   "category": "arts",
+   "category": "family",
    "categories": [
-    "arts"
+    "family"
    ],
    "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
     "regions": [
-     "mobile"
+     "coastal"
     ]
    },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049583",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-30-2026/event/1B006566B694D5E4",
+   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-holiday-skate-200300pm-pensacola-florida-12-30-2026/event/1B006566B694D5E4",
    "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
    "image": null,
    "curation_score": 0,
-   "independent_source_count": 2
+   "independent_source_count": 1
   },
   {
    "id": 883,
@@ -12637,38 +12834,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1532,
-   "series_slug": "fairhope-first-friday-art-walk",
-   "title": "Fairhope First Friday Art Walk",
-   "start": "2027-01-01T18:00:00-06:00",
-   "end": "2027-01-01T20:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/fairhope-first-friday-art-walk-01-01-2027-1811",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 617,
    "series_slug": "south-alabama-women-s-basketball-vs-southeastern-baptist-exh",
    "title": "South Alabama Women's Basketball vs App State - New Year, Same Jags",
@@ -12708,8 +12873,7 @@
    "all_day": false,
    "category": "arts",
    "categories": [
-    "arts",
-    "community"
+    "arts"
    ],
    "venue": {
     "slug": "crescent-theater",
@@ -14421,40 +14585,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1125,
-   "series_slug": "women-powered-by-ai",
-   "title": "Women Powered by AI",
-   "start": "2027-01-14T17:30:00-06:00",
-   "end": "2027-01-14T19:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "innovation-portal",
-    "name": "Innovation Portal",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.innovation-portal.com/event/women-powered-by-ai-2/2027-01-14/",
-   "source": {
-    "name": "Innovation Portal",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.innovation-portal.com/wp-content/uploads/2026/10/Women-Powered-by-AI-Logo.png",
-    "credit": "Innovation Portal"
-   },
-   "curation_score": 0,
-   "independent_source_count": 0
-  },
-  {
    "id": 1197,
    "series_slug": "harlem-globetrotters-rivalry-tour",
    "title": "Harlem Globetrotters MVP Court Pass (CHECK IN BY 6:30pm)",
@@ -14681,7 +14811,7 @@
   {
    "id": 1295,
    "series_slug": "sarper-guven",
-   "title": "Sarper Guven",
+   "title": "Sarper Guven - Late Show",
    "start": "2027-01-15T21:30:00-06:00",
    "end": "2027-01-16T00:30:00-06:00",
    "all_day": false,
@@ -15327,37 +15457,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 1297,
-   "series_slug": "r-b-only-live-mobile-al",
-   "title": "R&B ONLY LIVE - Mobile, AL",
-   "start": "2027-01-22T20:00:00-06:00",
-   "end": "2027-01-22T23:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "soul-kitchen",
-    "name": "Soul Kitchen Music Hall",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$64.84",
-   "ticket_url": "https://www.universe.com/events/r-b-only-live-mobile-al-tickets-QKD26H?ref=ticketmaster",
-   "info_url": "https://www.universe.com/events/r-b-only-live-mobile-al-tickets-QKD26H?ref=ticketmaster",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1298,
    "series_slug": "the-retrograde",
    "title": "THE RETROGRADE",
@@ -15379,6 +15478,37 @@
    "price": "$18.61",
    "ticket_url": "https://www.ticketweb.com/event/the-retrograde-the-merry-widow-tickets/14381784",
    "info_url": "https://www.ticketweb.com/event/the-retrograde-the-merry-widow-tickets/14381784",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1297,
+   "series_slug": "r-b-only-live-mobile-al",
+   "title": "R&B ONLY LIVE",
+   "start": "2027-01-22T21:00:00-06:00",
+   "end": "2027-01-23T00:00:00-06:00",
+   "all_day": false,
+   "category": "nightlife",
+   "categories": [
+    "nightlife"
+   ],
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$64.84",
+   "ticket_url": "https://www.universe.com/events/r-b-only-live-mobile-al-tickets-QKD26H?ref=ticketmaster",
+   "info_url": "https://www.universe.com/events/r-b-only-live-mobile-al-tickets-QKD26H?ref=ticketmaster",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
