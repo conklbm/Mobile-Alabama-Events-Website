@@ -2705,3 +2705,37 @@
   zip: "36576"
   regions: [coastal]
   notes: "Used for town-wide events (Christmas market, parade) organized by the Town of Silverhill; no single street address."
+
+# --- added from issue #24 review (2026-11-13), verified by web search ---
+
+- slug: fountain-park-pensacola
+  name: Fountain Park
+  aliases: ["Fountain Park"]
+  domains: []
+  address: "300 E Zaragoza St"
+  city: Pensacola
+  state: FL
+  zip: "32502"
+  regions: [coastal]
+  notes: "Small park just south of Seville Square in historic downtown Pensacola; hosts Festa Italiana and other outdoor festivals."
+
+- slug: detonti-square
+  name: DeTonti Square
+  aliases: ["DeTonti Square", "De Tonti Square"]
+  domains: []
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Historic downtown Mobile neighborhood (NRHP-listed), roughly bounded by Adams, St. Anthony, Claiborne, and Conception Streets; hosts Arti Gras, which benefits its community garden."
+
+- slug: dots-and-dragons-mahjong
+  name: Dots & Dragons Mahjong
+  aliases: ["Dots and Dragons Mahjong Parlor", "Dots & Dragons Mahjong"]
+  domains: []
+  address: "2724 Old Shell Rd, Ste G"
+  city: Mobile
+  state: AL
+  zip: "36607"
+  regions: [mobile]
+  notes: "4,000-square-foot mahjong parlor with 14 game tables; opened November 2026."
