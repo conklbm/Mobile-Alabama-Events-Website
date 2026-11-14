@@ -1751,6 +1751,41 @@
       "permanent": true
     },
     {
+      "source": "/events/adoptionrocks-ribbon-cutting(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/a-charmed-holiday-evening-gift-shop-christmas-open-house-fashion-show(/)?",
+      "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
+      "source": "/events/a-charmed-holiday-evening-at-bellingrath-gardens(/)?",
+      "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
+      "source": "/events/art-soup-2026(/)?",
+      "destination": "/venues/national-maritime-museum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/6th-annual-sweet-home-mobile-fundraiser(/)?",
+      "destination": "/venues/crown-hall/",
+      "permanent": true
+    },
+    {
+      "source": "/events/matthew-goodnough(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/young-professional-coffee-social-soul-caffeine(/)?",
+      "destination": "/venues/soul-caffeine-daphne/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
