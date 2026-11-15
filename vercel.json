@@ -1751,6 +1751,11 @@
       "permanent": true
     },
     {
+      "source": "/events/cultivate-growing-stem-educators-prek-k-session(/)?",
+      "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
       "source": "/events/adoptionrocks-ribbon-cutting(/)?",
       "destination": "/",
       "permanent": true
@@ -1781,8 +1786,73 @@
       "permanent": true
     },
     {
+      "source": "/events/eastern-shore-repertory-theatre-high-school-musical-jr(/)?",
+      "destination": "/venues/mobile-civic-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/graeson-mcgaha-crescent-theater(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/6th-annual-bch-golf-classic-benefiting-children-s-aid-society-of(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
       "source": "/events/young-professional-coffee-social-soul-caffeine(/)?",
       "destination": "/venues/soul-caffeine-daphne/",
+      "permanent": true
+    },
+    {
+      "source": "/events/ladies-night-on-main(/)?",
+      "destination": "/venues/citronelle-main-street/",
+      "permanent": true
+    },
+    {
+      "source": "/events/bayside-boys-book-signing-at-page-palette-benefits-the-haven(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/good-times-for-a-good-cause-ymca-bingo-night(/)?",
+      "destination": "/venues/moes-original-bbq-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fall-movies-in-the-park-grease(/)?",
+      "destination": "/venues/medal-of-honor-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/graeson-mcgaha(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/wraithbearer-union251-lessfaith-innerwounds(/)?",
+      "destination": "/venues/alabama-music-box/",
+      "permanent": true
+    },
+    {
+      "source": "/events/rehab(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/maggie-koerner(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/slow-degrade(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/hacc-block-party(/)?",
+      "destination": "/venues/historic-avenue-cultural-center/",
       "permanent": true
     },
     {
