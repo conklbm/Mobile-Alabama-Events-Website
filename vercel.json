@@ -1706,6 +1706,11 @@
       "permanent": true
     },
     {
+      "source": "/events/exclusive-ss-united-states-farewell-tour(/)?",
+      "destination": "/venues/perdido-queen-cruises/",
+      "permanent": true
+    },
+    {
       "source": "/events/nest-of-mobile-annual-luncheon(/)?",
       "destination": "/venues/battle-house-hotel/",
       "permanent": true
@@ -1791,6 +1796,16 @@
       "permanent": true
     },
     {
+      "source": "/events/experience-the-oyster(/)?",
+      "destination": "/venues/the-hangout/",
+      "permanent": true
+    },
+    {
+      "source": "/events/blue-angels-homecoming-air-show(/)?",
+      "destination": "/venues/naval-air-station-pensacola/",
+      "permanent": true
+    },
+    {
       "source": "/events/graeson-mcgaha-crescent-theater(/)?",
       "destination": "/venues/crescent-theater/",
       "permanent": true
@@ -1803,6 +1818,16 @@
     {
       "source": "/events/young-professional-coffee-social-soul-caffeine(/)?",
       "destination": "/venues/soul-caffeine-daphne/",
+      "permanent": true
+    },
+    {
+      "source": "/events/vintage-and-craft-fair(/)?",
+      "destination": "/venues/swift-coles-historic-home/",
+      "permanent": true
+    },
+    {
+      "source": "/events/8th-annual-christmas-on-the-bayou-shopping-spectacular(/)?",
+      "destination": "/venues/bayou-la-batre-community-center/",
       "permanent": true
     },
     {
@@ -1851,8 +1876,128 @@
       "permanent": true
     },
     {
+      "source": "/events/annual-gumbo-festival(/)?",
+      "destination": "/venues/coastal-orange-beach/",
+      "permanent": true
+    },
+    {
+      "source": "/events/the-final-play-a-night-for-mckemie-place(/)?",
+      "destination": "/venues/crown-hall/",
+      "permanent": true
+    },
+    {
+      "source": "/events/4th-annual-wkrg-gulf-coast-paddle-racket-battle(/)?",
+      "destination": "/venues/lott-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/church-street-cemetery-tour(/)?",
+      "destination": "/venues/church-street-graveyard/",
+      "permanent": true
+    },
+    {
+      "source": "/events/annual-holiday-reveal(/)?",
+      "destination": "/venues/muffinjaw-designs/",
+      "permanent": true
+    },
+    {
       "source": "/events/hacc-block-party(/)?",
       "destination": "/venues/historic-avenue-cultural-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/north-mobile-county-operation-clean-sweep(/)?",
+      "destination": "/venues/north-mobile-industrial-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fused-glass-workshop(/)?",
+      "destination": "/venues/mobile-museum-of-art/",
+      "permanent": true
+    },
+    {
+      "source": "/events/bookbinding(/)?",
+      "destination": "/venues/eastern-shore-art-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/brunch-fest-benefiting-lifelines-counseling-services(/)?",
+      "destination": "/venues/fort-conde/",
+      "permanent": true
+    },
+    {
+      "source": "/events/from-current-to-code-workshop(/)?",
+      "destination": "/venues/national-maritime-museum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gulf-coast-pet-adoption-festival(/)?",
+      "destination": "/venues/mobile-county-animal-shelter/",
+      "permanent": true
+    },
+    {
+      "source": "/events/brunch-fest-presented-by-renasant-bank(/)?",
+      "destination": "/venues/fort-conde/",
+      "permanent": true
+    },
+    {
+      "source": "/events/eastern-shore-children-s-clinic-open-house-celebrating-50-years(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fairhope-veterans-day-parade(/)?",
+      "destination": "/venues/mobile-civic-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gumbo-championship-and-fall-festival(/)?",
+      "destination": "/venues/halstead-amphitheater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/zero-down-100-love-pet-adoption-event(/)?",
+      "destination": "/venues/tameron-buick-gmc/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gulf-coast-mac-down(/)?",
+      "destination": "/venues/mardi-gras-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/oyster-ball-2026(/)?",
+      "destination": "/venues/braided-river-brewing/",
+      "permanent": true
+    },
+    {
+      "source": "/events/roper-romp-with-a-reason-2026(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/the-happy-sock-hop(/)?",
+      "destination": "/venues/saraland-municipal-complex/",
+      "permanent": true
+    },
+    {
+      "source": "/events/roper-after-dark-vip-party(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/port-city-r-b(/)?",
+      "destination": "/venues/cooper-riverside-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/back-roads-back-stories(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/crobot-x-dark-chapel(/)?",
+      "destination": "/venues/the-merry-widow/",
       "permanent": true
     },
     {
