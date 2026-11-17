@@ -1876,6 +1876,11 @@
       "permanent": true
     },
     {
+      "source": "/events/coastal-alabama-food-truck-craft-beer-festival(/)?",
+      "destination": "/venues/gulf-place/",
+      "permanent": true
+    },
+    {
       "source": "/events/annual-gumbo-festival(/)?",
       "destination": "/venues/coastal-orange-beach/",
       "permanent": true
@@ -1911,6 +1916,11 @@
       "permanent": true
     },
     {
+      "source": "/events/abba-shrine-christmas-extravaganza(/)?",
+      "destination": "/venues/abba-shrine/",
+      "permanent": true
+    },
+    {
       "source": "/events/fused-glass-workshop(/)?",
       "destination": "/venues/mobile-museum-of-art/",
       "permanent": true
@@ -1918,6 +1928,11 @@
     {
       "source": "/events/bookbinding(/)?",
       "destination": "/venues/eastern-shore-art-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/cranksgiving-2026(/)?",
+      "destination": "/venues/bienville-square/",
       "permanent": true
     },
     {
@@ -1996,7 +2011,62 @@
       "permanent": true
     },
     {
+      "source": "/events/beethoven-blue-jeans(/)?",
+      "destination": "/venues/saenger-theatre/",
+      "permanent": true
+    },
+    {
       "source": "/events/crobot-x-dark-chapel(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/sip-and-shop-at-caroline-s-closet(/)?",
+      "destination": "/venues/richards-dar-house/",
+      "permanent": true
+    },
+    {
+      "source": "/events/just-plein-fun(/)?",
+      "destination": "/venues/eastern-shore-art-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gulf-coast-record-show(/)?",
+      "destination": "/venues/via-health-fitness-enrichment-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/tailgate-bingo-bash(/)?",
+      "destination": "/venues/mobile-mystics-float-barn/",
+      "permanent": true
+    },
+    {
+      "source": "/events/wine-resin-class(/)?",
+      "destination": "/venues/the-frenchmen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/2nd-annual-fido-fest(/)?",
+      "destination": "/venues/orange-beach-city-hall/",
+      "permanent": true
+    },
+    {
+      "source": "/events/10th-annual-bourbon-by-the-bay(/)?",
+      "destination": "/venues/national-maritime-museum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/off-the-cuff-puppet-improv(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
+      "source": "/events/akchamel-fuckless-mamalon(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/drivin-n-cryin(/)?",
       "destination": "/venues/the-merry-widow/",
       "permanent": true
     },
