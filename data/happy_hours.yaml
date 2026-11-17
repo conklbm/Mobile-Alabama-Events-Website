@@ -146,10 +146,10 @@
   confidence: high
   source_kind: in-person
   confirmed_by: Brooks, photo of the bar menu (2026-10-19)
-- name: POST
+- name: POST on the Hill
   city: Mobile
-  neighborhood: Downtown
-  address: 571 Dauphin St
+  neighborhood: Spring Hill
+  address: 4513 Old Shell Rd, Suite 5E
   windows:
   - days: [mon, tue, wed, thu, fri]
     start: '16:00'
@@ -162,12 +162,12 @@
   - 'Taco Tuesday: half off classic and spicy Hornitos margaritas; $9 tuna tacos'
   - 'Wine & Whiskey Wednesday: 25% off bottled wine; $7 Maker''s Mark old fashioned'
   - 'Thirsty Thursday: $2 off signature and classic cocktails'
-  note: Craft cocktail and wine bar on Dauphin St. Happy hour runs weekdays only; closed Sunday.
-  url: https://www.outsiderspresents.com/post-crafted-cocktails-wine-bar
+  note: Craft cocktail and wine bar in a converted house on Old Shell Rd, the second POST location. Happy hour runs Monday through Friday.
+  url: https://www.outsiderspresents.com/post-on-the-hill
   checked: 2026-11-17
   confidence: high
   source_kind: in-person
-  confirmed_by: Brooks, photo of the table menu (2026-11-17)
+  confirmed_by: Brooks, in person at the bar, photo of the table menu (2026-11-17); days and times are his on-site info
 - name: Wintzell's Oyster House
   city: Mobile
   neighborhood: Downtown
