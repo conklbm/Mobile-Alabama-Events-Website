@@ -2071,6 +2071,11 @@
       "permanent": true
     },
     {
+      "source": "/events/ss-united-states-final-departure-cruise(/)?",
+      "destination": "/venues/perdido-queen-cruises/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
