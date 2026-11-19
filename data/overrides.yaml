@@ -14,6 +14,12 @@ merge:
   - [1086, 835]  # Mobile Latin Fest: Oct 10 date was postponed to Oct 18 (Tropical Storm Isaias per Fox10); "RESCHEDULED" copy is the same event, same Mardi Gras Park
   - [1085, 1076] # Trae Crowder, Crescent Theater, Jan 8 2027: mobile-county's "Two Shows" (7pm+9pm) is the same booking as ticketmaster's occurrence, which already merged the early- and late-show ticket links itself
   - [1085, 1704] # Trae Crowder, Crescent Theater, Jan 8 2027: mobile-arts-council's "Early Show" (7pm) is the early half of the same 7pm+9pm booking already kept as 1085 (confirmed via mobilecountyal.gov "trae-crowder-two-shows-2027-01-08" + Live Nation)
+  # 2026-11-19, issue #26:
+  - [611, 1838]  # South Alabama Women's Basketball vs Clayton State: USA's own "Banner Hanging" listing + visit-mobile's generic duplicate, same game
+  - [612, 1835]  # South Alabama Football vs App State: USA's own "Senior Day" listing + visit-mobile's generic duplicate, same game
+  - [615, 1847]  # South Alabama Women's Basketball vs Marshall: USA's own "Holiday Hoops" listing + visit-mobile's generic duplicate, same game
+  - [1756, 1846] # South Alabama Women's Basketball vs Louisiana Tech: USA's own "International Student Night" listing + visit-mobile's generic duplicate, same game
+  - [1768, 1783] # Tab Benoit with Duane Betts, Saenger Theatre, Feb 11 2027: ticketmaster's official tour-name listing + 92ZEW's full-lineup (incl. Palmetto Motel) duplicate, same show
 #  - [1234, 5678]
 
 # Force an occurrence onto a series (by occurrence id -> series slug).
@@ -36,6 +42,7 @@ never_merge:
   - [1270, 544]  # Mobile Museum of Art: "Creative Night For Two" (evening, 18+, themed classes) vs "Family Art" (afternoon, family) are different recurring program lines
   - [1284, 1283] # USA basketball: Men's vs Southern Miss and Women's vs Arkansas State are different teams and different opponents
   - [1559, 1558] # USA Wind Ensemble Fall Concert vs USA Symphony Band Fall Concert, both at Laidlaw: different ensembles with their own annual fall concert, confirmed via USA Music Dept history
+  - [1774, 1193] # Pensacola Children's Chorus, Dec 12: "Cocoa with Santa ticket add on" is a separate add-on ticket product, not a duplicate of the "Christmas on the Coast" program itself
 
 # Confirm cancellation (occurrence id) — removes it from the site.
 cancelled:

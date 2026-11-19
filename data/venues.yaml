@@ -560,7 +560,7 @@
 
 - slug: hancock-whitney-stadium
   name: Hancock Whitney Stadium
-  aliases: ["Hancock Whitney Stadium", "USA Stadium", "South Alabama Stadium", "68 Ventures Bowl"]
+  aliases: ["Hancock Whitney Stadium", "USA Stadium", "South Alabama Stadium", "68 Ventures Bowl", "Senior Bowl", "2027 Senior Bowl"]
   domains: []
   address: 6001 USA Dr S
   city: Mobile
@@ -671,7 +671,7 @@
 
 - slug: lott-park
   name: W.O. Lott Park
-  aliases: ["W. O. Lott Park", "W.O. Lott Park", "WO Lott Park", "Lott Park"]
+  aliases: ["W. O. Lott Park", "W.O. Lott Park", "WO Lott Park", "Lott Park", "2000 Main Street Daphne Alabama"]
   domains: []
   city: Daphne
   state: AL
@@ -1421,7 +1421,7 @@
 
 - slug: central-midtown
   name: Central Midtown
-  aliases: ["Central Midtown", "Midtown Mobile"]
+  aliases: ["Central Midtown", "Midtown Mobile", "Central Presbyterian Church", "1260 Dauphin Street, Mobile"]
   domains: []
   address: "1260 Dauphin St."
   city: Mobile
@@ -2240,7 +2240,7 @@
 
 - slug: st-marys-catholic-church-mobile
   name: St. Mary's Catholic Church
-  aliases: ["St. Mary's Parish", "St. Mary's Catholic Church"]
+  aliases: ["St. Mary's Parish", "St. Mary's Catholic Church", "St. Mary Parish, Mobile, Al", "St. Mary Parish"]
   domains: []
   address: "1453 Old Shell Rd"
   city: Mobile
@@ -2739,3 +2739,100 @@
   zip: "36607"
   regions: [mobile]
   notes: "4,000-square-foot mahjong parlor with 14 game tables; opened November 2026."
+
+# --- resolved from issue #26 (2026-11-19), verified by web search ---
+
+- slug: live-oak-landing
+  name: Live Oak Landing
+  aliases: ["Live Oak Landing", "Live Oak Landing, Stockton, AL"]
+  domains: []
+  address: "8700 Live Oak Rd"
+  city: Stockton
+  state: AL
+  zip: "36579"
+  regions: [mobile]
+  notes: "Baldwin County boat launch and park on Hwy 225 near the Mobile-Tensaw Delta; six ramps, no launch fee outside tournaments."
+
+- slug: baldwin-square
+  name: Baldwin Square
+  aliases: ["Baldwin Square"]
+  domains: []
+  address: "Old Highway 43"
+  city: Satsuma
+  state: AL
+  zip: "36572"
+  regions: [mobile]
+  notes: "Community green space in Satsuma used for the city's Christmas arts and crafts festival and the Reindeer Run 5K."
+
+- slug: southern-cross-home-care
+  name: Southern Cross Home Care
+  aliases: ["Southern Cross Home Care"]
+  domains: []
+  address: "6304 Piccadilly Square Dr, Ste 1"
+  city: Mobile
+  state: AL
+  zip: "36609"
+  regions: [mobile]
+
+- slug: saraland-event-center
+  name: Saraland Event Center
+  aliases: ["Saraland Event Center"]
+  domains: []
+  address: "727 Saraland Blvd S"
+  city: Saraland
+  state: AL
+  zip: "36571"
+  regions: [mobile]
+  notes: "Inside Saraland's municipal complex on Hwy 43; not the same as the separate Saraland Civic Center on Mae St."
+
+- slug: happy-flea-market
+  name: The Happy Flea Market
+  aliases: ["The Happy Flea Market", "Happy Flea Market"]
+  domains: []
+  address: "19515 US-43"
+  city: Mount Vernon
+  state: AL
+  zip: "36560"
+  regions: [mobile]
+  notes: "Indoor flea market in north Mobile County; not the same as the Mobile Flea Market on Schillinger Rd."
+
+- slug: christ-united-methodist-church
+  name: Christ United Methodist Church
+  aliases: ["Christ United Methodist Church"]
+  domains: []
+  address: "6101 Grelot Rd"
+  city: Mobile
+  state: AL
+  zip: "36609"
+  regions: [mobile]
+
+- slug: keller-williams-mobile
+  name: Keller Williams Mobile
+  aliases: ["Keller Williams Mobile"]
+  domains: ["locations.kw.com"]
+  address: "1210 Hillcrest Rd"
+  city: Mobile
+  state: AL
+  zip: "36695"
+  regions: [mobile]
+
+- slug: south-baldwin-health-education-center
+  name: South Baldwin Regional Medical Center - Health Education Center
+  aliases: ["Baldwin Health Education Room 1613 N McKenzie St, Foley, AL", "Baldwin Health Education Room"]
+  domains: []
+  address: "1613 N McKenzie St"
+  city: Foley
+  state: AL
+  zip: "36535"
+  regions: [coastal]
+  notes: "Education/meeting room on the South Baldwin Regional Medical Center campus."
+
+- slug: first-us-bank-daphne
+  name: First US Bank (Daphne)
+  aliases: ["28664 HWY 98, Daphne, Alabama 36526", "First US Bank Daphne"]
+  domains: []
+  address: "28664 US Hwy 98"
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
