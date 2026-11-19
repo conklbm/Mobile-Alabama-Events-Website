@@ -466,11 +466,6 @@
       "permanent": true
     },
     {
-      "source": "/events/first-fairhopes-fall-festival(/)?",
-      "destination": "/venues/downtown-fairhope/",
-      "permanent": true
-    },
-    {
       "source": "/events/preschool-paint-parties-with-poppy(/)?",
       "destination": "/venues/downtown-fairhope/",
       "permanent": true
@@ -666,11 +661,6 @@
       "permanent": true
     },
     {
-      "source": "/events/lucky-leaves-bingo-night(/)?",
-      "destination": "/venues/bellingrath-gardens/",
-      "permanent": true
-    },
-    {
       "source": "/events/fostering-hope-gala(/)?",
       "destination": "/venues/riverview-plaza/",
       "permanent": true
@@ -813,11 +803,6 @@
     {
       "source": "/events/angel-dash-2026(/)?",
       "destination": "/venues/university-of-south-alabama-sga-pavilion/",
-      "permanent": true
-    },
-    {
-      "source": "/events/qigong-classes(/)?",
-      "destination": "/venues/blakeley-state-park/",
       "permanent": true
     },
     {
@@ -2073,6 +2058,26 @@
     {
       "source": "/events/ss-united-states-final-departure-cruise(/)?",
       "destination": "/venues/perdido-queen-cruises/",
+      "permanent": true
+    },
+    {
+      "source": "/events/the-taste-of-the-ruff(/)?",
+      "destination": "/venues/ruff-wilson-youth-organization/",
+      "permanent": true
+    },
+    {
+      "source": "/events/business-after-hours-bryant-bank(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/usa-camerata-usa-symphony-orchestra(/)?",
+      "destination": "/venues/laidlaw-performing-arts-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/oyster-shell-christmas-ornament-class(/)?",
+      "destination": "/venues/bellingrath-gardens/",
       "permanent": true
     },
     {

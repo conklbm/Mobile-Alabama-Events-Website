@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-18T18:44:14Z",
+ "generated": "2026-11-19T18:24:29Z",
  "events": [
   {
    "id": 620,
@@ -62,234 +62,6 @@
    },
    "image": null,
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1678,
-   "series_slug": "speed-puzzling-night",
-   "title": "Speed Puzzling Night",
-   "start": "2026-11-17T00:00:00-06:00",
-   "end": "2026-11-17T23:59:59-06:00",
-   "all_day": true,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/speed-puzzling-night/24344/",
-   "source": {
-    "name": "Visit Mobile",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/FBC-Puzzling_9543A154-92A4-4644-B348EFCB7AF79528_95474a07-bc9c-8d7f-c6b7efefb8ad0e75.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 541,
-   "series_slug": "tuesday-pm-wheel-throwing-october-december",
-   "title": "Tuesday PM Wheel Throwing (October-December)",
-   "start": "2026-11-17T17:30:00-06:00",
-   "end": "2026-11-17T20:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/tuesday-pm-wheel-throwing-october-december/2026-11-17/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/pm-wheel.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1159,
-   "series_slug": "south-alabama-men-s-basketball-vs-old-dominion",
-   "title": "South Alabama Men's Basketball vs Spring Hill",
-   "start": "2026-11-17T18:00:00-06:00",
-   "end": "2026-11-17T20:00:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports"
-   ],
-   "venue": {
-    "slug": "usa-mitchell-center",
-    "name": "USA Mitchell Center",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11704&amp;sport_id=4",
-   "source": {
-    "name": "South Alabama Athletics",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
-  },
-  {
-   "id": 1685,
-   "series_slug": "christian-comedy-revival-live-talk-show",
-   "title": "Christian Comedy Revival Live Talk Show",
-   "start": "2026-11-17T18:00:00-06:00",
-   "end": "2026-11-17T20:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "revive-church-mobile",
-    "name": "Revive Church",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/christian-comedy-revival-live-talk-show-11-17-2026-44020",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1558,
-   "series_slug": "usa-symphony-band-fall-concert",
-   "title": "USA Symphony Band Fall Concert",
-   "start": "2026-11-17T18:30:00-06:00",
-   "end": "2026-11-17T21:30:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music"
-   ],
-   "venue": {
-    "slug": "laidlaw-performing-arts-center",
-    "name": "Laidlaw Performing Arts Center",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 131,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2026-11-17T19:00:00-06:00",
-   "end": "2026-11-17T22:00:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-11-17/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1559,
-   "series_slug": "usa-jazz-ensemble-fall-concert",
-   "title": "USA Wind Ensemble Fall Concert",
-   "start": "2026-11-17T19:30:00-06:00",
-   "end": "2026-11-17T22:30:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music"
-   ],
-   "venue": {
-    "slug": "laidlaw-performing-arts-center",
-    "name": "Laidlaw Performing Arts Center",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -358,285 +130,6 @@
     "credit": "Visit Mobile"
    },
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 341,
-   "series_slug": "12th-annual-state-of-the-economy",
-   "title": "12th Annual State of the Economy",
-   "start": "2026-11-18T07:30:00-06:00",
-   "end": "2026-11-18T10:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "arts"
-   ],
-   "venue": {
-    "name": "6 S. Joachim St. Mobile AL 36602-2708"
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://my.mobilechamber.com/boacalendar/Details/12th-annual-state-of-the-economy-1680864?sourceTypeId=Hub",
-   "source": {
-    "name": "Mobile Chamber",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 786,
-   "series_slug": "12th-annual-state-of-the-economy-saenger-theatre",
-   "title": "12th Annual State of the Economy",
-   "start": "2026-11-18T07:30:00-06:00",
-   "end": "2026-11-18T10:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "arts"
-   ],
-   "venue": {
-    "slug": "saenger-theatre",
-    "name": "Saenger Theatre",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/12th-annual-state-of-the-economy-2026-11-18",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1341,
-   "series_slug": "eggs-issues-business-fraud-latest-scams-what-does-everybody-need-to",
-   "title": "Eggs & Issues: Business Fraud & Latest Scams– What Does Everybody Need to Know?",
-   "start": "2026-11-18T07:30:00-06:00",
-   "end": "2026-11-18T09:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "resurrection-church-daphne",
-    "name": "Resurrection Church",
-    "city": "Daphne",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/eggs-issues-business-fraud-latest-scams-what-does-everybody-need-to-know-43739",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 589,
-   "series_slug": "31st-annual-magic-christmas-in-lights-preview-party",
-   "title": "Magic Christmas in Lights Workshop",
-   "start": "2026-11-18T09:00:00-06:00",
-   "end": "2026-11-18T12:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "bellingrath-gardens",
-    "name": "Bellingrath Gardens and Home",
-    "city": "Theodore",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-magic-christmas-in-lights-workshop-2026-11-18",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://bellingrath.org/wp-content/uploads/2026/08/FB-EVENT-COVERS-WEBSITE-IMAGES-BLOG-IMAGES-10.png",
-    "credit": "Bellingrath Gardens and Home"
-   },
-   "curation_score": 1,
-   "independent_source_count": 2
-  },
-  {
-   "id": 1268,
-   "series_slug": "gbeta-alumni-lunch",
-   "title": "gBETA Alumni Lunch",
-   "start": "2026-11-18T12:00:00-06:00",
-   "end": "2026-11-18T13:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "innovation-portal",
-    "name": "Innovation Portal",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.innovation-portal.com/event/gbeta-alumni-lunch/",
-   "source": {
-    "name": "Innovation Portal",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1516,
-   "series_slug": "fairhope-networking-at-noon-kingfisher",
-   "title": "Fairhope Networking at Noon - Kingfisher",
-   "start": "2026-11-18T12:00:00-06:00",
-   "end": "2026-11-18T13:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/fairhope-networking-at-noon-kingfisher-43990",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1517,
-   "series_slug": "daphne-networking-at-noon-press-and-co",
-   "title": "Daphne Networking at Noon - Press and Co.",
-   "start": "2026-11-18T12:00:00-06:00",
-   "end": "2026-11-18T13:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "press-and-co-daphne",
-    "name": "Press & Co.",
-    "city": "Daphne",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/daphne-networking-at-noon-press-and-co-43991",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1518,
-   "series_slug": "spanish-fort-networking-at-noon-the-bull",
-   "title": "Spanish Fort Networking at Noon - The Bull",
-   "start": "2026-11-18T12:00:00-06:00",
-   "end": "2026-11-18T13:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "the-bull-spanish-fort",
-    "name": "The Bull",
-    "city": "Spanish Fort",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/spanish-fort-networking-at-noon-the-bull-43993",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1519,
-   "series_slug": "tai-chi",
-   "title": "Tai Chi",
-   "start": "2026-11-18T14:30:00-06:00",
-   "end": "2026-11-18T15:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/tai-chi-11-18-2026-43981",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1034,6 +527,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1828,
+   "series_slug": "university-of-mobile-s-christmas-spectacular-4-performances",
+   "title": "University of Mobile's Christmas Spectacular (4 Performances)",
+   "start": "2026-11-19T00:00:00-06:00",
+   "end": "2026-11-22T23:59:59-06:00",
+   "all_day": true,
+   "category": "music",
+   "categories": [
+    "music",
+    "community"
+   ],
+   "venue": {
+    "slug": "cottage-hill-baptist-church",
+    "name": "Cottage Hill Baptist Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-university-of-mobiles-christmas-spectacular-2026-11-19",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1323,
    "series_slug": "hargrove-foundation-11th-annual-summit-gala",
    "title": "Hargrove Foundation 11th Annual Summit & Gala",
@@ -1098,6 +623,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1813,
+   "series_slug": "gulf-chats-discover-the-u-s-navy-s-revolutionary-roots",
+   "title": "Gulf Chats: Discover the U.S. Navy's Revolutionary Roots",
+   "start": "2026-11-19T12:00:00-06:00",
+   "end": "2026-11-19T13:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "national-maritime-museum",
+    "name": "National Maritime Museum of the Gulf of Mexico",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/gulf-chats-discover-the-us-navys-revolutionary-roots-2026-11-19",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1266,6 +822,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1785,
+   "series_slug": "lighting-of-the-trees-fairhope",
+   "title": "Lighting of the Trees – Fairhope",
+   "start": "2026-11-19T17:30:00-06:00",
+   "end": "2026-11-19T18:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/lighting-of-the-trees-fairhope/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/911713640_1143517614806026_300579445339705307_n.jpg?fit=960%2C720&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1686,
    "series_slug": "fairhope-s-annual-lighting-of-the-trees-2026",
    "title": "Fairhope's Annual Lighting of the Trees-2026",
@@ -1294,6 +884,38 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1826,
+   "series_slug": "sleepy-storytime",
+   "title": "Sleepy Storytime",
+   "start": "2026-11-19T18:30:00-06:00",
+   "end": "2026-11-19T19:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
+   "venue": {
+    "slug": "semmes-regional-library",
+    "name": "Semmes Regional Library",
+    "city": "Semmes",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/sleepy-storytime-2026-11-19",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1329,37 +951,6 @@
     "credit": "92ZEW"
    },
    "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 414,
-   "series_slug": "selwyn-birchwood",
-   "title": "Selwyn Birchwood",
-   "start": "2026-11-19T20:00:00-06:00",
-   "end": "2026-11-19T23:00:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music"
-   ],
-   "venue": {
-    "slug": "the-merry-widow",
-    "name": "The Merry Widow",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$18.61",
-   "ticket_url": "https://www.ticketweb.com/event/selwyn-birchwood-the-merry-widow-tickets/14349824",
-   "info_url": "https://www.ticketweb.com/event/selwyn-birchwood-the-merry-widow-tickets/14349824",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -1461,40 +1052,6 @@
    "image": {
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/IMG_9137-scaled.jpg?fit=2560%2C1920&ssl=1",
     "credit": "The Mob Mom"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1680,
-   "series_slug": "stand-up-comedy-at-fairhope-brewing-mobile",
-   "title": "Stand Up Comedy at Fairhope Brewing - Mobile",
-   "start": "2026-11-20T00:00:00-06:00",
-   "end": "2026-11-20T23:59:59-06:00",
-   "all_day": true,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/stand-up-comedy-at-fairhope-brewing-mobile/24343/",
-   "source": {
-    "name": "Visit Mobile",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/FBC-Comedy_952F43C3-FDE3-A537-BE90AA813CD99E76_953022f4-b328-17ed-0fcc15babe95c293.jpg",
-    "credit": "Visit Mobile"
    },
    "curation_score": 1,
    "independent_source_count": 1
@@ -1779,18 +1336,18 @@
    },
    "price": "$20.56-61.61",
    "ticket_url": "https://www.ticketweb.com/event/truett-beasley-comedy-hypnotist-crescent-theater-tickets/14344124",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/truett-beasley-comedy-hypnotist/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Truett-Beasley_1B44FBD7-94B9-1D26-20EC165C90B39555_1b491adb-02ca-0dfc-18f189e0a71f53ae.jpg",
-    "credit": "Visit Mobile"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/truett-nov20.png",
+    "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 3
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 268,
@@ -1822,6 +1379,40 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1829,
+   "series_slug": "stand-up-comedy-at-fairhope-brewing-mobile-fairhope-brewing-mobile",
+   "title": "Stand Up Comedy at Fairhope Brewing – Mobile",
+   "start": "2026-11-20T20:00:00-06:00",
+   "end": "2026-11-20T21:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/stand-up-comedy-at-fairhope-brewing-mobile/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/862484056_122240545346295228_5314763935364382930_n.avif.jpeg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 360,
@@ -1857,7 +1448,7 @@
   {
    "id": 1401,
    "series_slug": "strokin-jokes",
-   "title": "Srokin' Jokes: Comedy With A Live Soundtrack!",
+   "title": "Strokin' Jokes: Comedy With A Live Soundtrack!",
    "start": "2026-11-20T21:00:00-06:00",
    "end": "2026-11-21T00:00:00-06:00",
    "all_day": false,
@@ -1875,15 +1466,18 @@
    },
    "price": "$14.41-39.01",
    "ticket_url": "https://www.ticketweb.com/event/strokin-jokes-crescent-theater-tickets/14412354",
-   "info_url": "https://www.ticketweb.com/event/srokin-jokes-comedy-with-a-crescent-theater-tickets/14412354",
+   "info_url": "https://www.downtownmobile.org/event/strokin-jokes/",
    "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/strokin-nov20.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 1681,
@@ -1981,38 +1575,72 @@
    "independent_source_count": 1
   },
   {
-   "id": 1676,
-   "series_slug": "how-do-you-like-them-apples",
-   "title": "How Do You Like Them Apples!",
+   "id": 1843,
+   "series_slug": "fall-color-in-the-delta-cruise",
+   "title": "Fall Color in the Delta Cruise",
    "start": "2026-11-21T00:00:00-06:00",
    "end": "2026-11-21T23:59:59-06:00",
    "all_day": true,
-   "category": "music",
+   "category": "community",
    "categories": [
-    "music"
+    "community"
    ],
    "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
+    "slug": "blakeley-state-park",
+    "name": "Historic Blakeley State Park",
+    "city": "Spanish Fort",
     "regions": [
      "mobile"
     ]
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/how-do-you-like-them-apples!/24346/",
+   "info_url": "https://www.mobile.org/event/fall-color-in-the-delta-cruise/24452/",
    "source": {
     "name": "Visit Mobile",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/FBC-Apples_9563F89C-E88C-6F46-5B20BE176DBAF594_956816e6-0643-1a73-5849ce09d4e782ea.jpg",
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/fall_573988FA-9C88-A894-9DABC8B270AE812D_573bd9dc-a086-b234-3621b3ac40338576.jpg",
     "credit": "Visit Mobile"
    },
    "curation_score": 1,
    "independent_source_count": 1
+  },
+  {
+   "id": 1852,
+   "series_slug": "search-and-rescue-instruction-program-for-kids-blakeley-state-park",
+   "title": "Search and Rescue Instruction Program for Kids",
+   "start": "2026-11-21T00:00:00-06:00",
+   "end": "2026-11-21T23:59:59-06:00",
+   "all_day": true,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "blakeley-state-park",
+    "name": "Historic Blakeley State Park",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/search-and-rescue-instruction-program-for-kids/24450/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Blakeley-Search-Rescue_5869E72C-AA98-2134-85D5BCFE03E2FFAE_586b9f21-f563-1feb-6906848328bf4dfc.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 1471,
@@ -2167,6 +1795,69 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://business.eschamber.com/events/details/saturday-raku-workshop-at-the-kiln-studio-43556",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1819,
+   "series_slug": "abba-shriners-gun-show",
+   "title": "Abba Shriners Gun Show",
+   "start": "2026-11-21T09:00:00-06:00",
+   "end": "2026-11-22T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "abba-shrine",
+    "name": "Abba Shrine Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-abba-shriners-gun-show-2026-11-21",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1857,
+   "series_slug": "qigong-classes",
+   "title": "Qigong Classes",
+   "start": "2026-11-21T09:00:00-06:00",
+   "end": "2026-11-21T10:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "blakeley-state-park",
+    "name": "Historic Blakeley State Park",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/qigong-classes-11-21-2026-44275",
    "source": {
     "name": "Eastern Shore Chamber of Commerce",
     "tier": "C",
@@ -2374,6 +2065,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1825,
+   "series_slug": "saturday-anime-hangout",
+   "title": "Saturday Anime Hangout",
+   "start": "2026-11-21T10:00:00-06:00",
+   "end": "2026-11-21T12:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "semmes-regional-library",
+    "name": "Semmes Regional Library",
+    "city": "Semmes",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/saturday-anime-hangout-2026-11-21",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1211,
    "series_slug": "semmes-christmas-market-and-tree-lighting",
    "title": "Semmes Christmas Market and Tree Lighting",
@@ -2393,7 +2116,7 @@
      "mobile"
     ]
    },
-   "price": "",
+   "price": "Free",
    "ticket_url": "",
    "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-semmes-christmas-market-tree-lighting-2026-11-21",
    "source": {
@@ -2401,9 +2124,46 @@
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/829968756_1882848873121733_6450958868208649415_n.jpg?fit=761%2C648&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
+   "id": 1830,
+   "series_slug": "how-do-you-like-them-apples-fairhope-brewing-mobile",
+   "title": "How Do You Like Them Apples!",
+   "start": "2026-11-21T12:00:00-06:00",
+   "end": "2026-11-21T17:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/how-do-you-like-them-apples/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/867685938_122246999156044093_1027773848454064162_n.jpg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 1650,
@@ -2624,18 +2384,18 @@
    },
    "price": "$20.56-72.91",
    "ticket_url": "https://www.ticketweb.com/event/cackles-tassels-comedy-meets-crescent-theater-tickets/14375954",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/cackles-tassels/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Cackles_1A803E24-A902-75D0-4C3F01548624B96B_1a81daa3-0090-26d8-19a427f48691e378.jpg",
-    "credit": "Visit Mobile"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/cackles-nov21.png",
+    "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 3
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 134,
@@ -2933,9 +2693,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/TS_NCAA_Men_s_Basketball_14C890BE-E2BB-CEEE-9669384C8F3B9E8B_14ccb00d-aff1-79b2-656b42bb99bd2d20.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 611,
@@ -2989,15 +2752,18 @@
    },
    "price": "$20.56-50.31",
    "ticket_url": "https://www.ticketweb.com/event/bartenders-in-bars-doing-comedy-crescent-theater-tickets/14436964",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/bartenders-in-bars-doing-comedy/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/bartenders-in-bars-nov23.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 546,
@@ -3165,9 +2931,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Mitchell-Ctr-empty_2AA596E9-AE0C-4A37-1F1CD7D38061A2CC_2aa5f569-b5fb-28cc-cbb175b697107991.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1481,
@@ -3290,18 +3059,18 @@
    },
    "price": "$2.06",
    "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049653",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-workshop-2/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Chaos_932A16EC-D6E7-2159-23623DD01A705FE6_932a9390-c8a1-21c0-fe926f0be1b6aef5.jpg",
-    "credit": "Visit Mobile"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/workshop-nov11-1.png",
+    "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 3
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 1291,
@@ -3387,18 +3156,18 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/thanksgiving-at-le-moyne%e2%80%99s-chophouse/24298/",
+   "info_url": "https://www.downtownmobile.org/event/thanksgiving-at-le-moynes-chophouse/",
    "source": {
-    "name": "Visit Mobile",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Le-Moyne-Thanksgiving_2B2CFE4E-91A0-1FD6-CF3EE456E006EFB6_2b2da5f9-e496-022e-a5ac19e67c91c049.jpg",
-    "credit": "Visit Mobile"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/LMC-Thanksgiving-CalendarListings-11.26.jpg",
+    "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 854,
@@ -3536,6 +3305,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1854,
+   "series_slug": "delta-discovery-tour-from-the-awf-delta-and-bay-conservation-center",
+   "title": "Sunset Cruise from the AWF Delta and Bay Conservation Center at Five Rivers",
+   "start": "2026-11-27T00:00:00-06:00",
+   "end": "2026-11-27T23:59:59-06:00",
+   "all_day": true,
+   "category": "food",
+   "categories": [
+    "food"
+   ],
+   "venue": {
+    "slug": "five-rivers-delta-center",
+    "name": "Five Rivers Delta Resource Center",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/sunset-cruise-from-the-awf-delta-and-bay-conservation-center-at-five-rivers/24453/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/sunset_574622E1-F0C3-1F02-99D8FC82CD1584BE_57493351-9088-e745-8486c02b87ac0072.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
    "id": 612,
    "series_slug": "south-alabama-football-vs-app-state-senior-day",
    "title": "South Alabama Football vs App State - Senior Day",
@@ -3628,6 +3431,69 @@
     "url": "https://www.innovation-portal.com/wp-content/uploads/2024/03/IP_Meetup-2-28-25-copy-scaled.png",
     "credit": "Innovation Portal"
    },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1763,
+   "series_slug": "only-locals-comedy-showcase-black-friday-edition",
+   "title": "Only Locals Comedy Showcase: Black Friday Edition",
+   "start": "2026-11-27T20:00:00-06:00",
+   "end": "2026-11-27T23:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$8.76",
+   "ticket_url": "https://www.ticketweb.com/event/only-locals-comedy-showcase-black-crescent-theater-tickets/14455104",
+   "info_url": "https://www.ticketweb.com/event/only-locals-comedy-showcase-black-crescent-theater-tickets/14455104",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1764,
+   "series_slug": "tko-reunion-w-dj-charles-iii-corey-biggs",
+   "title": "TKO REUNION W/ DJ CHARLES III + COREY BIGGS",
+   "start": "2026-11-27T20:00:00-06:00",
+   "end": "2026-11-27T23:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "music"
+   ],
+   "venue": {
+    "slug": "alabama-music-box",
+    "name": "Alabama Music Box",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$8.31-13.46",
+   "ticket_url": "https://www.ticketweb.com/event/tko-reunion-w-dj-charles-alabama-music-box-tickets/14448704",
+   "info_url": "https://www.ticketweb.com/event/tko-reunion-w-dj-charles-alabama-music-box-tickets/14448704",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -3726,6 +3592,74 @@
    "independent_source_count": 1
   },
   {
+   "id": 1840,
+   "series_slug": "delta-discovery-tour-from-the-awf-delta-and-bay-conservation-center",
+   "title": "Delta Discovery Tour from the AWF Delta and Bay Conservation Center at Five Rivers",
+   "start": "2026-11-28T00:00:00-06:00",
+   "end": "2026-11-28T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "five-rivers-delta-center",
+    "name": "Five Rivers Delta Resource Center",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/delta-discovery-tour-from-the-awf-delta-and-bay-conservation-center-at-five-rivers/24455/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Delta-Explorer_5760E180-09AC-8600-3F93770E42C7979A_576390ed-9988-ac55-3cfc5e96817f99a1.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
+   "id": 1849,
+   "series_slug": "mobile-harbor-cruise-featuring-the-uss-enterprise",
+   "title": "Mobile Harbor Cruise featuring the USS Enterprise",
+   "start": "2026-11-28T00:00:00-06:00",
+   "end": "2026-11-28T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "blakeley-state-park",
+    "name": "Historic Blakeley State Park",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/mobile-harbor-cruise-featuring-the-uss-enterprise/24454/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/enterprise_57573F62-B696-717F-8380DF3028D40C5B_575938d4-ff4d-e01a-3d7f02d562bc8ba8.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1466,
    "series_slug": "the-blowout-bar-small-business-saturday",
    "title": "The Blowout Bar Small Business Saturday",
@@ -3757,6 +3691,37 @@
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1860,
+   "series_slug": "mobile-harbor-cruise-featuring-the-uss-enterprise-mobile-convention-center",
+   "title": "Mobile Harbor Cruise featuring the USS Enterprise",
+   "start": "2026-11-28T10:00:00-06:00",
+   "end": "2026-11-28T11:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-convention-center",
+    "name": "Mobile Convention Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/mobile-harbor-cruise-featuring-the-uss-enterprise-44280",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -4037,14 +4002,51 @@
    },
    "price": "$14.41-39.01",
    "ticket_url": "https://www.ticketweb.com/event/queens-kill-comedians-like-kill-crescent-theater-tickets/14437304",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/queens-kill-comedians/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/queens-kill-comedians-nov28.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 4
+  },
+  {
+   "id": 1841,
+   "series_slug": "delta-discovery-tour-from-the-awf-delta-and-bay-conservation-center",
+   "title": "Delta Discovery Tour from the AWF Delta and Bay Conservation Center at Five Rivers",
+   "start": "2026-11-29T00:00:00-06:00",
+   "end": "2026-11-29T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "five-rivers-delta-center",
+    "name": "Five Rivers Delta Resource Center",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/delta-discovery-tour-from-the-awf-delta-and-bay-conservation-center-at-five-rivers/24456/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Delta-Explorer_5769D593-0ACA-7266-3C776BD27D79BFCD_576c0c06-d9ee-056a-9cb53eaad272ff94.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
    "independent_source_count": 2
   },
   {
@@ -4101,6 +4103,37 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/battle-at-the-bay-florida-state-pensacola-florida-11-29-2026/event/1B006516F622F04F",
    "info_url": "https://www.ticketmaster.com/battle-at-the-bay-florida-state-pensacola-florida-11-29-2026/event/1B006516F622F04F",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1765,
+   "series_slug": "gulf-coast-comedy-showcase",
+   "title": "Gulf Coast Comedy Showcase",
+   "start": "2026-11-29T18:00:00-06:00",
+   "end": "2026-11-29T21:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$20.56",
+   "ticket_url": "https://www.ticketweb.com/event/gulf-coast-comedy-showcase-crescent-theater-tickets/14455134",
+   "info_url": "https://www.ticketweb.com/event/gulf-coast-comedy-showcase-crescent-theater-tickets/14455134",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -4290,7 +4323,7 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.downtownmobile.org",
+   "info_url": "https://www.downtownmobile.org/event/4th-annual-cocoa-crawl/",
    "source": {
     "name": "Downtown Mobile Alliance",
     "tier": "C",
@@ -4335,6 +4368,37 @@
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1806,
+   "series_slug": "2026-ahsaa-girls-flag-football-state-championships-4-games",
+   "title": "2026 Ahsaa Girls' Flag Football State Championships (4 Games)",
+   "start": "2026-12-01T10:00:00-06:00",
+   "end": "2026-12-01T13:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "hancock-whitney-stadium",
+    "name": "Hancock Whitney Stadium",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/2026-ahsaa-boys-football-state-championships-2026-12-02-cloned",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -4535,6 +4599,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1807,
+   "series_slug": "2026-ahsaa-girls-flag-football-state-championships-4-games",
+   "title": "2026 Ahsaa Boys' Football State Championships (8 Games)",
+   "start": "2026-12-02T00:00:00-06:00",
+   "end": "2026-12-05T23:59:59-06:00",
+   "all_day": true,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "hancock-whitney-stadium",
+    "name": "Hancock Whitney Stadium",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/2026-ahsaa-boys-football-state-championships-2026-12-02",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 407,
    "series_slug": "young-professionals-of-mobile-october-2026-lunch-and-learn",
    "title": "Young Professionals of Mobile December 2026 Lunch and Learn",
@@ -4594,6 +4689,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1822,
+   "series_slug": "december-delights-homemade-holidays",
+   "title": "December Delights: Homemade Holidays",
+   "start": "2026-12-02T16:00:00-06:00",
+   "end": "2026-12-02T17:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "ben-may-main-library",
+    "name": "Ben May Main Library",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-december-delights-homemade-holidays-2026-12-02",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -4746,15 +4872,49 @@
    },
    "price": "$8.76",
    "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-chaos-crescent-theater-tickets/15049543",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-chaos-2/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/chaos-dec2.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
+   "independent_source_count": 3
+  },
+  {
+   "id": 1827,
+   "series_slug": "a-christmas-carol-multiple-performances",
+   "title": "'A Christmas Carol' (Multiple Performances)",
+   "start": "2026-12-03T00:00:00-06:00",
+   "end": "2026-12-11T23:59:59-06:00",
+   "all_day": true,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "playhouse-in-the-park",
+    "name": "Playhouse in the Park",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-a-christmas-carol-musical-2026-12-03",
+   "source": {
+    "name": "Mobile County community calendar",
     "tier": "C",
     "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 556,
@@ -4858,6 +5018,38 @@
     "credit": "The Mob Mom"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1861,
+   "series_slug": "salt-sip-sprout-christmas",
+   "title": "SALT Sip & Sprout Christmas",
+   "start": "2026-12-03T17:30:00-06:00",
+   "end": "2026-12-03T19:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "food"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/salt-sip-sprout-christmas-44022",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -4986,15 +5178,18 @@
    },
    "price": "$14.41-20.56",
    "ticket_url": "https://www.ticketweb.com/event/comedy-writers-workshop-showcase-crescent-theater-tickets/14437524",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/comedy-writers-workshop-showcase/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/comedy-writers-workshop-dec3.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 139,
@@ -5384,6 +5579,73 @@
    "independent_source_count": 1
   },
   {
+   "id": 1788,
+   "series_slug": "december-movie-nights-at-moes-bbq-in-daphne",
+   "title": "December Movie Nights at Moe’s BBQ in Daphne",
+   "start": "2026-12-04T18:00:00-06:00",
+   "end": "2026-12-04T21:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "arts"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-daphne",
+    "name": "Moe's Original BBQ (Daphne)",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/december-movie-nights-at-moes-bbq-in-daphne/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/907716076_1989144325832921_8581817591266455396_n.jpg?fit=960%2C541&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1862,
+   "series_slug": "movie-night-at-moe-s-original-bbq-in-daphne",
+   "title": "DECEMBER MOVIE NIGHTS AT MOE'S BBQ IN DAPHNE!",
+   "start": "2026-12-04T18:00:00-06:00",
+   "end": "2026-12-04T20:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "arts"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/december-movie-nights-at-moe-s-bbq-in-daphne-44267",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1300,
    "series_slug": "island-fights-100",
    "title": "Island Fights 102",
@@ -5497,15 +5759,18 @@
    },
    "price": "$8.76-72.91",
    "ticket_url": "https://www.ticketweb.com/event/for-the-love-of-crescent-crescent-theater-tickets/14434164",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/for-the-love-of-crescent-feat-luke-null/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/luke-null-dec4.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 214,
@@ -5566,6 +5831,74 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1842,
+   "series_slug": "excursion-to-the-bottle-creek-indian-mound-complex",
+   "title": "Excursion to the Bottle Creek Indian Mound Complex",
+   "start": "2026-12-05T00:00:00-06:00",
+   "end": "2026-12-05T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "blakeley-state-park",
+    "name": "Historic Blakeley State Park",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/excursion-to-the-bottle-creek-indian-mound-complex/24458/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Blakeley-Bottle-Creek_584537BA-040D-0757-D7D47194A1926F13_5848efeb-d708-662b-e3a20478f837fc09.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1848,
+   "series_slug": "mifflin-lake-cruise",
+   "title": "Mifflin Lake Cruise",
+   "start": "2026-12-05T00:00:00-06:00",
+   "end": "2026-12-05T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "blakeley-state-park",
+    "name": "Historic Blakeley State Park",
+    "city": "Spanish Fort",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/mifflin-lake-cruise/24457/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/mifflin_5774F86C-D6AA-E5F8-14A9C2F227574608_57771be2-c500-650c-7d4206514a5ffdb0.jpg",
+    "credit": "Visit Mobile"
+   },
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -6046,9 +6379,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Mitchell-Ctr-empty_2AC38BF8-0A4C-A861-51267104323DA1B3_2ac3e1e8-e73a-ff7e-741c03ddfe245206.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1223,
@@ -6198,15 +6534,18 @@
    },
    "price": "$8.76-72.91",
    "ticket_url": "https://www.ticketweb.com/event/for-the-love-of-crescent-crescent-theater-tickets/14434394",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/for-the-love-of-crescent-feat-luke-null-2/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/luke-null-dec5.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 1619,
@@ -6369,6 +6708,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1865,
+   "series_slug": "movie-night-at-moe-s-original-bbq-in-daphne",
+   "title": "SANTA BRUNCH AT MOE'S ORIGINAL BBQ IN DAPHNE",
+   "start": "2026-12-06T12:00:00-06:00",
+   "end": "2026-12-06T15:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/santa-brunch-at-moe-s-original-bbq-44023",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 690,
    "series_slug": "christmas-concert-heaven-and-nature-sing",
    "title": "Christmas Concert – “Heaven and Nature Sing”",
@@ -6460,6 +6831,41 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1808,
+   "series_slug": "tubachristmas-concert",
+   "title": "Tubachristmas Concert",
+   "start": "2026-12-06T16:00:00-06:00",
+   "end": "2026-12-06T19:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "community"
+   ],
+   "venue": {
+    "slug": "first-baptist-church-mobile",
+    "name": "First Baptist Church of Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/tubachristmas-concert/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/2026-Flyer-1.jpg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 3,
+   "independent_source_count": 3
   },
   {
    "id": 1622,
@@ -6721,6 +7127,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1821,
+   "series_slug": "december-delights-coco-canvas",
+   "title": "December Delights: Coco & Canvas",
+   "start": "2026-12-09T16:00:00-06:00",
+   "end": "2026-12-09T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "ben-may-main-library",
+    "name": "Ben May Main Library",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-december-delights-coco-canvas-2026-12-09",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1271,
    "series_slug": "government-plaza-celebration-4-opening-reception",
    "title": "Government Plaza: Celebration 4 Opening Reception",
@@ -6749,7 +7186,7 @@
     "redistributable": false
    },
    "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/10/celeb44.jpg",
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/10/4cele.jpg",
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 1,
@@ -6777,15 +7214,18 @@
    },
    "price": "$2.06",
    "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049603",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-chaos-3/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/chaos-dec9.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
+   "independent_source_count": 3
   },
   {
    "id": 562,
@@ -7076,18 +7516,86 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/brian-posehn/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Brian-Poeson_D3C77B3C-9581-EFF7-28C6E53CADEBA199_d3cdf5f5-cc50-35f6-490d2662b5721514.jpg",
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/brian-posehn-dec10.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
+  },
+  {
+   "id": 1836,
+   "series_slug": "bragg-mitchell-mansion-christmas-open-house",
+   "title": "Bragg-Mitchell Mansion Christmas Open House",
+   "start": "2026-12-11T00:00:00-06:00",
+   "end": "2026-12-11T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "bragg-mitchell-mansion",
+    "name": "Bragg-Mitchell Mansion",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/bragg-mitchell-mansion-christmas-open-house/24435/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Bragg-Mitchell-evening_FBAAF13F-95EA-F8A8-4E2933E4A986F1EB_fbab7fff-07c4-f1b1-6ae4cd46164f9383.jpg",
     "credit": "Visit Mobile"
    },
    "curation_score": 1,
-   "independent_source_count": 2
+   "independent_source_count": 1
+  },
+  {
+   "id": 1839,
+   "series_slug": "december-artwalk-with-ml-bullock-laura-denton",
+   "title": "December ArtWalk with ML Bullock & Laura Denton",
+   "start": "2026-12-11T00:00:00-06:00",
+   "end": "2026-12-11T23:59:59-06:00",
+   "all_day": true,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "the-haunted-book-shop",
+    "name": "The Haunted Book Shop",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/december-artwalk-with-ml-bullock-%26-laura-denton/24445/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/DoorforVisitMobile_01643502-93E0-2F83-5161B4B9F9FA8062_01659d98-be00-fe5c-7f37ac8ecb43f93d.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1221,
@@ -7217,8 +7725,8 @@
     "url": "https://92zew.net/wp-content/uploads/2026/06/artwalk-logo-512-x-442-px.jpg",
     "credit": "92ZEW"
    },
-   "curation_score": 1,
-   "independent_source_count": 3
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 1272,
@@ -7321,6 +7829,73 @@
    "independent_source_count": 1
   },
   {
+   "id": 1796,
+   "series_slug": "december-movie-nights-at-moes-bbq-in-daphne",
+   "title": "December Movie Nights at Moe’s in Daphne",
+   "start": "2026-12-11T18:00:00-06:00",
+   "end": "2026-12-11T21:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-daphne",
+    "name": "Moe's Original BBQ (Daphne)",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/december-movie-nights-at-moes-in-daphne/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/907716076_1989144325832921_8581817591266455396_n.jpg?fit=960%2C541&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1868,
+   "series_slug": "movie-night-at-moe-s-original-bbq-in-daphne",
+   "title": "DECEMBER MOVIE NIGHTS AT MOE'S BBQ IN DAPHNE!",
+   "start": "2026-12-11T18:00:00-06:00",
+   "end": "2026-12-11T20:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "arts"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/december-movie-nights-at-moe-s-bbq-in-daphne-12-11-2026-44268",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 143,
    "series_slug": "jeff-dunham-inappropriate-contact",
    "title": "Jeff Dunham Inappropriate Contact",
@@ -7375,18 +7950,18 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/comedy-shorts-3-short-shows-one-low-price/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Comedy-Shorts_933112B7-D9B9-DC54-A3D62B5344C70993_93317a21-f19a-b9c6-e72af0c9be691709.jpg",
-    "credit": "Visit Mobile"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/comedy-shorts-dec11-cover.jpg",
+    "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 2
+   "curation_score": 2,
+   "independent_source_count": 3
   },
   {
    "id": 221,
@@ -7441,15 +8016,15 @@
    },
    "price": "$26.93-60.87",
    "ticket_url": "https://www.ticketweb.com/event/17th-annual-charlie-brown-jazz-soul-kitchen-tickets/14385334",
-   "info_url": "https://www.ticketweb.com/event/17th-annual-charlie-brown-jazz-soul-kitchen-tickets/14385334",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-17th-annual-charlie-brown-jazz-christmas-concert-2026-12-11",
    "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
+    "name": "Mobile County community calendar",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 1192,
@@ -7507,6 +8082,72 @@
    "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/the-annual-christmas-lighted-boat-parade/",
    "source": {
     "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1845,
+   "series_slug": "jaws-fest-presents-a-jazzy-christmas-central-midtown-central-presby",
+   "title": "JAWS Fest Presents: A Jazzy Christmas",
+   "start": "2026-12-12T00:00:00-06:00",
+   "end": "2026-12-12T23:59:59-06:00",
+   "all_day": true,
+   "category": "family",
+   "categories": [
+    "family",
+    "music"
+   ],
+   "venue": {
+    "slug": "central-midtown",
+    "name": "Central Midtown",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/jaws-fest-presents%3a-a-jazzy-christmas/24402/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/JAWS-holiday_295A6CC4-B818-0C3F-B64CA917B726A5C6_295bc5b0-b1ce-d5c0-3f805983477573b1.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1814,
+   "series_slug": "casc-mobile-gun-show",
+   "title": "Casc Mobile Gun Show",
+   "start": "2026-12-12T08:00:00-06:00",
+   "end": "2026-12-13T16:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-grounds",
+    "name": "The Grounds",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-casc-mobile-gun-show-2026-12-12",
+   "source": {
+    "name": "Mobile County community calendar",
     "tier": "C",
     "redistributable": false
    },
@@ -7574,9 +8215,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/901047512_1583526710472339_7914331024253624496_n.jpg?fit=960%2C503&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 564,
@@ -7971,6 +8615,73 @@
    "independent_source_count": 1
   },
   {
+   "id": 1799,
+   "series_slug": "first-fairhopes-fall-festival",
+   "title": "Fairhope Film Festival 2026",
+   "start": "2026-12-12T18:00:00-06:00",
+   "end": "2026-12-15T22:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/fairhope-film-festival-2026/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/829730939_1627971635784974_2505671107439685862_n.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1871,
+   "series_slug": "killer-beaz-operation-holly-jolly-christmas-in-fowl-river-theodore",
+   "title": "Killer Beaz \"Operation: Holly Jolly Christmas\" in Fowl River, Theodore",
+   "start": "2026-12-12T18:30:00-06:00",
+   "end": "2026-12-12T20:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "dauphin-island",
+    "name": "Dauphin Island",
+    "city": "Dauphin Island",
+    "regions": [
+     "mobile",
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/killer-beaz-operation-holly-jolly-christmas-in-fowl-river-theodore-44270",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 361,
    "series_slug": "double-feature-comedy-night-crescent-theater",
    "title": "Double Feature Comedy Night",
@@ -7991,18 +8702,18 @@
    },
    "price": "$20.56-50.31",
    "ticket_url": "https://www.ticketweb.com/event/double-feature-comedy-night-crescent-theater-tickets/14339104",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/double-feature-comedy-night/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Comedy-Shorts_9335C495-003C-985C-C169A4933D6F0609_9336fc22-9c6e-e799-0dd55c573769b902.jpg",
-    "credit": "Visit Mobile"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/double-feature-dec12-cover.jpg",
+    "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 3
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 1102,
@@ -8076,7 +8787,7 @@
   {
    "id": 362,
    "series_slug": "bingo-loco",
-   "title": "🎄 Bingo Loco: Christmas Special 🎅✨",
+   "title": "Bingo Loco: Christmas Special",
    "start": "2026-12-12T20:00:00-06:00",
    "end": "2026-12-12T23:00:00-06:00",
    "all_day": false,
@@ -8095,7 +8806,38 @@
    },
    "price": "$45.91",
    "ticket_url": "https://www.ticketweb.com/event/bingo-loco-soul-kitchen-tickets/14328864",
-   "info_url": "https://www.ticketweb.com/event/-bingo-loco-christmas-special-soul-kitchen-tickets/14328864",
+   "info_url": "https://www.ticketweb.com/event/bingo-loco-christmas-special-soul-kitchen-tickets/14328864",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1766,
+   "series_slug": "nighttime-with-carson-taylor-crescent-theater",
+   "title": "Nighttime with Carson Taylor",
+   "start": "2026-12-12T21:00:00-06:00",
+   "end": "2026-12-13T00:00:00-06:00",
+   "all_day": false,
+   "category": "nightlife",
+   "categories": [
+    "nightlife"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$20.56",
+   "ticket_url": "https://www.ticketweb.com/event/nighttime-with-carson-taylor-crescent-theater-tickets/14455024",
+   "info_url": "https://www.ticketweb.com/event/nighttime-with-carson-taylor-crescent-theater-tickets/14455024",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -8135,6 +8877,41 @@
    "image": {
     "url": "https://www.downtownmobile.org/wp-content/uploads/2026/10/ADM-BreakfastWithSanta-CalendarListings-09.26.jpg",
     "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 3,
+   "independent_source_count": 3
+  },
+  {
+   "id": 1800,
+   "series_slug": "pictures-with-santa-at-moes-bbq-downtown-mobile",
+   "title": "Pictures With Santa at Moe’s BBQ – Downtown Mobile",
+   "start": "2026-12-13T12:00:00-06:00",
+   "end": "2026-12-13T15:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/pictures-with-santa-at-moes-bbq-downtown-mobile/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/910884520_1561258319367325_6515939576848957924_n.jpg?fit=960%2C679&ssl=1",
+    "credit": "The Mob Mom"
    },
    "curation_score": 2,
    "independent_source_count": 2
@@ -8234,40 +9011,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1679,
-   "series_slug": "speed-puzzling-night",
-   "title": "Speed Puzzling Night",
-   "start": "2026-12-15T00:00:00-06:00",
-   "end": "2026-12-15T23:59:59-06:00",
-   "all_day": true,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/speed-puzzling-night/24345/",
-   "source": {
-    "name": "Visit Mobile",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/FBC-Puzzling_954D2B37-090E-DEB3-6A740C17D2599A8B_954e7123-90f2-fc0b-7b82aaf2fc7f42a0.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 344,
    "series_slug": "executive-roundtable-october-20-2026",
    "title": "Executive Roundtable - December 15, 2026",
@@ -8333,39 +9076,38 @@
    "independent_source_count": 1
   },
   {
-   "id": 302,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
+   "id": 1831,
+   "series_slug": "speed-puzzling-night-fairhope-brewing-mobile",
+   "title": "Speed Puzzling Night",
    "start": "2026-12-15T19:00:00-06:00",
-   "end": "2026-12-15T22:00:00-06:00",
+   "end": "2026-12-15T21:00:00-06:00",
    "all_day": false,
-   "category": "music",
+   "category": "community",
    "categories": [
-    "music",
-    "food"
+    "community"
    ],
    "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
     "regions": [
      "mobile"
     ]
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-12-15/",
+   "info_url": "https://www.downtownmobile.org/event/speed-puzzling-night/2026-12-15/",
    "source": {
-    "name": "92ZEW",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/685217658_122230748552044093_3792524229561795322_n.jpg",
+    "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 1038,
@@ -8388,15 +9130,15 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://my.mobilechamber.com/boacalendar/Details/2026-winter-chamber-open-house-1956024?sourceTypeId=Hub",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-2026-winter-chamber-open-house-2026-12-16",
    "source": {
-    "name": "Mobile Chamber",
-    "tier": "A",
+    "name": "Mobile County community calendar",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 1598,
@@ -8548,15 +9290,18 @@
    },
    "price": "$8.76",
    "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-chaos-crescent-theater-tickets/15049553",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-chaos-4/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/chaos-dec16.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
+   "independent_source_count": 3
   },
   {
    "id": 971,
@@ -8696,41 +9441,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 371,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2026-12-17T19:00:00-06:00",
-   "end": "2026-12-17T22:00:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2026-12-17/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 1018,
    "series_slug": "mobile-botanical-gardens-sketch-club",
    "title": "Mobile Botanical Gardens: Sketch Club",
@@ -8762,37 +9472,70 @@
    "independent_source_count": 1
   },
   {
-   "id": 372,
-   "series_slug": "2nd-annual-jacob-hall-memorial-jam",
-   "title": "2nd Annual Jacob Hall Memorial Jam",
+   "id": 1804,
+   "series_slug": "december-movie-nights-at-moes-bbq-in-daphne",
+   "title": "December Movie Nights at Moe’s in Daphne",
    "start": "2026-12-18T18:00:00-06:00",
    "end": "2026-12-18T21:00:00-06:00",
    "all_day": false,
-   "category": "music",
+   "category": "arts",
    "categories": [
-    "music"
+    "arts",
+    "family"
    ],
    "venue": {
-    "slug": "downtown-fairhope",
-    "name": "Downtown Fairhope",
-    "city": "Fairhope",
+    "slug": "moes-original-bbq-daphne",
+    "name": "Moe's Original BBQ (Daphne)",
+    "city": "Daphne",
     "regions": [
      "mobile"
     ]
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/2nd-annual-jacob-hall-memorial-jam/",
+   "info_url": "https://themobmom.com/event/december-movie-nights-at-moes-in-daphne-2/",
    "source": {
-    "name": "92ZEW",
+    "name": "The Mob Mom",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/06/jacob-hall-jam-2-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/907716076_1989144325832921_8581817591266455396_n.jpg?fit=960%2C541&ssl=1",
+    "credit": "The Mob Mom"
    },
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1872,
+   "series_slug": "movie-night-at-moe-s-original-bbq-in-daphne",
+   "title": "DECEMBER MOVIE NIGHTS AT MOE'S BBQ IN DAPHNE!",
+   "start": "2026-12-18T18:00:00-06:00",
+   "end": "2026-12-18T20:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "arts"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/december-movie-nights-at-moe-s-bbq-in-daphne-12-18-2026-44269",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -8816,18 +9559,18 @@
    },
    "price": "$38.45-94.38",
    "ticket_url": "https://www.ticketweb.com/event/darren-knight-aka-southern-mama-crescent-theater-tickets/15046093",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/darren-knight/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Darren-Knight_935CA8A4-FCC8-D545-5E7223F7A861EDA8_935d36cc-d4e6-76cf-5fb89281d50a19e6.jpg",
-    "credit": "Visit Mobile"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/darren-knight-dec18-cover.jpg",
+    "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 3
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 369,
@@ -9024,9 +9767,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/TS_NCAA_Men_s_Basketball_150D99C1-C6BA-5942-F564EDD569CCB562_151437a7-fa30-9c3f-10951536f58d2439.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 364,
@@ -9049,18 +9795,18 @@
    },
    "price": "$38.45-94.38",
    "ticket_url": "https://www.ticketweb.com/event/darren-knight-aka-southern-mama-crescent-theater-tickets/15046103",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/darren-knight-2/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Darren-Knight_93616A68-A523-6A85-E149896002B109F8_93628810-e4d2-11e0-2fcbbbb65239cd7b.jpg",
-    "credit": "Visit Mobile"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/darren-knight-dec19-cover.jpg",
+    "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 3
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 365,
@@ -9218,6 +9964,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1873,
+   "series_slug": "mah-jong-monday-moe-s-bbq-in-daphne",
+   "title": "MAH JONG MONDAY @ MOE'S BBQ IN DAPHNE",
+   "start": "2026-12-21T17:00:00-06:00",
+   "end": "2026-12-21T20:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "family"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/mah-jong-monday-moe-s-bbq-in-daphne-12-21-2026-44146",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1627,
    "series_slug": "pensacola-bay-center-after-game-skate",
    "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
@@ -9345,41 +10123,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 373,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2026-12-22T19:00:00-06:00",
-   "end": "2026-12-22T22:00:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-12-22/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 645,
    "series_slug": "holiday-extravaganza",
    "title": "Holiday Extravaganza",
@@ -9466,15 +10209,18 @@
    },
    "price": "$2.06",
    "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049633",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-chaos-5/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/chaos-dec23.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
+   "independent_source_count": 3
   },
   {
    "id": 421,
@@ -9576,41 +10322,6 @@
    },
    "curation_score": 2,
    "independent_source_count": 2
-  },
-  {
-   "id": 426,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2026-12-24T19:00:00-06:00",
-   "end": "2026-12-24T22:00:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2026-12-24/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
   },
   {
    "id": 1491,
@@ -9867,9 +10578,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Mitchell-Ctr-crowd_2AD29B15-E0DF-6816-F8B09EF5282A640F_2ad307b3-957a-91c1-9af3633739694a23.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 425,
@@ -9971,41 +10685,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 427,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2026-12-29T19:00:00-06:00",
-   "end": "2026-12-29T22:00:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-12-29/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 1181,
    "series_slug": "crescent-comedy-workshop-crescent-theater",
    "title": "Crescent Comedy Workshop",
@@ -10027,15 +10706,18 @@
    },
    "price": "$2.06",
    "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049583",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-chaos-6/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 2
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/chaos-dec30.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
+   "independent_source_count": 3
   },
   {
    "id": 573,
@@ -10166,6 +10848,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1850,
+   "series_slug": "new-year-s-gala-dinner-cruise",
+   "title": "New Year's Gala Dinner Cruise ⭐",
+   "start": "2026-12-31T00:00:00-06:00",
+   "end": "2026-12-31T23:59:59-06:00",
+   "all_day": true,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "perdido-queen-cruises",
+    "name": "Perdido Queen Dinner Cruises",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/new-years-gala-dinner-cruise-%e2%ad%90/24447/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Perdido-NYE_315372A1-AFB8-3FA4-182CE60F2ADC07EB_31573891-ef5c-1419-9da46efd88b28e4f.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 668,
    "series_slug": "flora-bama-s-new-year-s-eve-bash",
    "title": "Flora-Bama's New Year's Eve Bash",
@@ -10261,41 +10978,6 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
-  },
-  {
-   "id": 679,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2026-12-31T19:00:00-06:00",
-   "end": "2026-12-31T22:00:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2026-12-31/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
   },
   {
    "id": 1701,
@@ -10420,6 +11102,40 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1742,
+   "series_slug": "new-years-day",
+   "title": "New Years Day",
+   "start": "2027-01-01T08:00:00-06:00",
+   "end": "2027-01-01T23:59:59-06:00",
+   "all_day": true,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/closed-for-new-years-day-5/2027-01-01/",
+   "source": {
+    "name": "Mobile Museum of Art",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2025/12/MMOA-Green-Press.png",
+    "credit": "Mobile Museum of Art"
+   },
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -10734,6 +11450,41 @@
    "independent_source_count": 0
   },
   {
+   "id": 1743,
+   "series_slug": "tuesday-pm-wheel-throwing-october-december",
+   "title": "Adult Wheel Throwing",
+   "start": "2027-01-05T17:30:00-06:00",
+   "end": "2027-01-05T20:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/adult-wheel-throwing/2027-01-05/",
+   "source": {
+    "name": "Mobile Museum of Art",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/pottery.new_.jpg",
+    "credit": "Mobile Museum of Art"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
    "id": 653,
    "series_slug": "digital-photography",
    "title": "Digital Photography",
@@ -10764,41 +11515,6 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
-  },
-  {
-   "id": 680,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2027-01-05T19:00:00-06:00",
-   "end": "2027-01-05T22:00:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-01-05/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
   },
   {
    "id": 654,
@@ -11397,25 +12113,28 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Mitchell-Ctr-empty_2ADAB6AC-E9D7-8221-6ACB1B4977CF6C22_2adb4858-9bb5-3936-6768ce06525305fa.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
-   "id": 1081,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2027-01-07T19:00:00-06:00",
-   "end": "2027-01-07T22:00:00-06:00",
-   "all_day": false,
+   "id": 1820,
+   "series_slug": "roman-street-3-performances",
+   "title": "Roman Street (3 Performances)",
+   "start": "2027-01-08T00:00:00-06:00",
+   "end": "2027-01-10T23:59:59-06:00",
+   "all_day": true,
    "category": "music",
    "categories": [
     "music",
-    "food"
+    "community"
    ],
    "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "slug": "the-peoples-room-of-mobile",
+    "name": "The People's Room of Mobile",
     "city": "Mobile",
     "regions": [
      "mobile"
@@ -11423,16 +12142,13 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2027-01-07/",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/roman-street-3-performances-2027-01-08",
    "source": {
-    "name": "92ZEW",
+    "name": "Mobile County community calendar",
     "tier": "C",
     "redistributable": false
    },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
+   "image": null,
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -11652,9 +12368,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/TS_NCAA_Men_s_Basketball_1537C27D-E5D6-DB77-64FC5D4EDD4D1C67_153bde47-a533-afe8-8d0efe7e90612ea6.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1044,
@@ -11688,6 +12407,38 @@
     "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/figure-drawwing.jpg",
     "credit": "Mobile Museum of Art"
    },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1741,
+   "series_slug": "lighting-of-the-tree",
+   "title": "Lighting of the Mardi Gras Tree",
+   "start": "2027-01-09T17:30:00-06:00",
+   "end": "2027-01-09T19:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "music"
+   ],
+   "venue": {
+    "slug": "mardi-gras-park",
+    "name": "Mardi Gras Park",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.cityofmobile.gov/events/lighting-of-the-mardi-gras-tree-2027",
+   "source": {
+    "name": "City of Mobile",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -11921,20 +12672,20 @@
    "independent_source_count": 1
   },
   {
-   "id": 1082,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2027-01-12T19:00:00-06:00",
-   "end": "2027-01-12T22:00:00-06:00",
+   "id": 1744,
+   "series_slug": "tuesday-pm-wheel-throwing-october-december",
+   "title": "Adult Wheel Throwing",
+   "start": "2027-01-12T17:30:00-06:00",
+   "end": "2027-01-12T20:00:00-06:00",
    "all_day": false,
-   "category": "music",
+   "category": "community",
    "categories": [
-    "music",
-    "food"
+    "community",
+    "arts"
    ],
    "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
     "city": "Mobile",
     "regions": [
      "mobile"
@@ -11942,17 +12693,17 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-01-12/",
+   "info_url": "https://www.mobilemuseumofart.com/event/adult-wheel-throwing/2027-01-12/",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Mobile Museum of Art",
+    "tier": "A",
     "redistributable": false
    },
    "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/pottery.new_.jpg",
+    "credit": "Mobile Museum of Art"
    },
-   "curation_score": 1,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -11980,6 +12731,37 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1874,
+   "series_slug": "eggs-n-issues-state-of-the-cities-jan-2027",
+   "title": "Eggs N' Issues: State of the Cities - Jan. 2027",
+   "start": "2027-01-13T07:30:00-06:00",
+   "end": "2027-01-13T09:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "resurrection-church-daphne",
+    "name": "Resurrection Church",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/eggs-n-issues-state-of-the-cities-jan-2027-44272",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -12133,15 +12915,15 @@
    },
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/the-sixties-show-mobile-alabama-01-13-2027/event/1B006531B92CEE1E",
-   "info_url": "https://www.ticketmaster.com/the-sixties-show-mobile-alabama-01-13-2027/event/1B006531B92CEE1E",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-the-sixties-show-2027-01-13",
    "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
+    "name": "Mobile County community calendar",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 1195,
@@ -12307,41 +13089,6 @@
    },
    "image": null,
    "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1204,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2027-01-14T19:00:00-06:00",
-   "end": "2027-01-14T22:00:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2027-01-14/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -12558,18 +13305,18 @@
    },
    "price": "$39.01-106.81",
    "ticket_url": "https://www.ticketweb.com/event/sarper-guven-crescent-theater-tickets/14404814",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "info_url": "https://www.downtownmobile.org/event/sarper-guven-early-show/",
    "source": {
-    "name": "Mobile Arts Council community calendar",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Sarper_93863E39-F9D0-96A3-17C840808B14C424_9389bdca-f541-5c3a-a224435cc5d4e26b.jpg",
-    "credit": "Visit Mobile"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/sarper-guven-early-cover.jpg",
+    "credit": "Downtown Mobile Alliance"
    },
-   "curation_score": 1,
-   "independent_source_count": 3
+   "curation_score": 2,
+   "independent_source_count": 4
   },
   {
    "id": 1168,
@@ -12661,9 +13408,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Mitchell-Ctr-crowd_2AEA4796-F376-0E0B-47B65B918FB029DF_2aeabec8-a985-b840-8e3d7f8b522b58aa.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1154,
@@ -12763,8 +13513,8 @@
     "url": "https://mobilesymphony.org/wp-content/uploads/2026/04/Concert_Page_Banner_4-scaled.png",
     "credit": "Mobile Symphony Orchestra"
    },
-   "curation_score": 2,
-   "independent_source_count": 4
+   "curation_score": 3,
+   "independent_source_count": 5
   },
   {
    "id": 1202,
@@ -12794,6 +13544,40 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1745,
+   "series_slug": "dr-martin-luther-king-jr-day",
+   "title": "Dr. Martin Luther King Jr. Day",
+   "start": "2027-01-18T00:00:00-06:00",
+   "end": "2027-01-18T23:59:59-06:00",
+   "all_day": true,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/dr-martin-luther-king-jr-day/",
+   "source": {
+    "name": "Mobile Museum of Art",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/11/MMA-Main-Logo-Grass-Green-PMS-6179.png",
+    "credit": "Mobile Museum of Art"
+   },
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -12850,6 +13634,38 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://business.eschamber.com/events/details/sallie-s-ashes-01-18-2027-40672",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1875,
+   "series_slug": "mah-jong-monday-moe-s-bbq-in-daphne",
+   "title": "MAH JONG MONDAY @ MOE'S BBQ IN DAPHNE",
+   "start": "2027-01-18T17:00:00-06:00",
+   "end": "2027-01-18T20:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "family"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/mah-jong-monday-moe-s-bbq-in-daphne-01-18-2027-44147",
    "source": {
     "name": "Eastern Shore Chamber of Commerce",
     "tier": "C",
@@ -12926,20 +13742,20 @@
    "independent_source_count": 1
   },
   {
-   "id": 1205,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2027-01-19T19:00:00-06:00",
-   "end": "2027-01-19T22:00:00-06:00",
+   "id": 1746,
+   "series_slug": "tuesday-pm-wheel-throwing-october-december",
+   "title": "Adult Wheel Throwing",
+   "start": "2027-01-19T17:30:00-06:00",
+   "end": "2027-01-19T20:00:00-06:00",
    "all_day": false,
-   "category": "music",
+   "category": "community",
    "categories": [
-    "music",
-    "food"
+    "community",
+    "arts"
    ],
    "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
     "city": "Mobile",
     "regions": [
      "mobile"
@@ -12947,15 +13763,49 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-01-19/",
+   "info_url": "https://www.mobilemuseumofart.com/event/adult-wheel-throwing/2027-01-19/",
    "source": {
-    "name": "92ZEW",
+    "name": "Mobile Museum of Art",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/pottery.new_.jpg",
+    "credit": "Mobile Museum of Art"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1832,
+   "series_slug": "speed-puzzling-night-fairhope-brewing-mobile",
+   "title": "Speed Puzzling Night",
+   "start": "2027-01-19T19:00:00-06:00",
+   "end": "2027-01-19T21:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/speed-puzzling-night/2027-01-19/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
    "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/685217658_122230748552044093_3792524229561795322_n.jpg",
+    "credit": "Downtown Mobile Alliance"
    },
    "curation_score": 1,
    "independent_source_count": 1
@@ -13127,6 +13977,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1747,
+   "series_slug": "creative-night-for-two-abstract-creations",
+   "title": "Creative Night for Two: Abstract Creations",
+   "start": "2027-01-21T17:30:00-06:00",
+   "end": "2027-01-21T20:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/creative-night-for-two-abstract-creations/",
+   "source": {
+    "name": "Mobile Museum of Art",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2025/02/Fabric-Abstract-Collage-MT.jpg",
+    "credit": "Mobile Museum of Art"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
    "id": 1609,
    "series_slug": "back-to-basics",
    "title": "Back to Basics SESSION 1",
@@ -13179,50 +14063,15 @@
    },
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/liverpool-legends-mobile-alabama-01-21-2027/event/1B006545CB1E4348",
-   "info_url": "https://www.ticketmaster.com/liverpool-legends-mobile-alabama-01-21-2027/event/1B006545CB1E4348",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-liverpool-legends-the-complete-beatles-experience-2027-01-21",
    "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1304,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2027-01-21T19:00:00-06:00",
-   "end": "2027-01-21T22:00:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2027-01-21/",
-   "source": {
-    "name": "92ZEW",
+    "name": "Mobile County community calendar",
     "tier": "C",
     "redistributable": false
    },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
+   "image": null,
    "curation_score": 1,
-   "independent_source_count": 1
+   "independent_source_count": 2
   },
   {
    "id": 1287,
@@ -13411,6 +14260,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1824,
+   "series_slug": "teen-girls-self-esteem-forum",
+   "title": "Teen Girls Self-Esteem Forum",
+   "start": "2027-01-23T11:00:00-06:00",
+   "end": "2027-01-23T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "ben-may-main-library",
+    "name": "Ben May Main Library",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/teen-girls-self-esteem-forum-2027-01-23",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1283,
    "series_slug": "south-alabama-women-s-basketball-vs-southeastern-baptist-exh",
    "title": "South Alabama Women's Basketball vs Arkansas State - Alumni Day",
@@ -13468,9 +14349,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Mitchell-Ctr-empty_2AFB34DF-0203-2ADF-8CF52A579A555602_2afbb8da-d7f3-f9ef-294e991a4f2b2630.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1299,
@@ -13604,20 +14488,20 @@
    "independent_source_count": 1
   },
   {
-   "id": 1305,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2027-01-26T19:00:00-06:00",
-   "end": "2027-01-26T22:00:00-06:00",
+   "id": 1748,
+   "series_slug": "tuesday-pm-wheel-throwing-october-december",
+   "title": "Adult Wheel Throwing",
+   "start": "2027-01-26T17:30:00-06:00",
+   "end": "2027-01-26T20:00:00-06:00",
    "all_day": false,
-   "category": "music",
+   "category": "community",
    "categories": [
-    "music",
-    "food"
+    "community",
+    "arts"
    ],
    "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
     "city": "Mobile",
     "regions": [
      "mobile"
@@ -13625,17 +14509,17 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-01-26/",
+   "info_url": "https://www.mobilemuseumofart.com/event/adult-wheel-throwing/2027-01-26/",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Mobile Museum of Art",
+    "tier": "A",
     "redistributable": false
    },
    "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/pottery.new_.jpg",
+    "credit": "Mobile Museum of Art"
    },
-   "curation_score": 1,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -13735,41 +14619,6 @@
    },
    "image": null,
    "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1414,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2027-01-28T19:00:00-06:00",
-   "end": "2027-01-28T22:00:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2027-01-28/",
-   "source": {
-    "name": "92ZEW",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -13927,6 +14776,41 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1853,
+   "series_slug": "stem-wonderland",
+   "title": "STEM Wonderland",
+   "start": "2027-01-30T00:00:00-06:00",
+   "end": "2027-01-30T23:59:59-06:00",
+   "all_day": true,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "gulf-coast-exploreum",
+    "name": "Gulf Coast Exploreum Science Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/stem-wonderland/24255/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Exploreum-STEM-Wonder_B51DF1AE-BD03-BF7D-360DB57371D18DDF_b51fe00c-e2b6-8958-594065d5ed99ecfb.jpg",
+    "credit": "Visit Mobile"
+   },
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -14186,20 +15070,20 @@
    "independent_source_count": 1
   },
   {
-   "id": 1415,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2027-02-02T19:00:00-06:00",
-   "end": "2027-02-02T22:00:00-06:00",
+   "id": 1749,
+   "series_slug": "tuesday-pm-wheel-throwing-october-december",
+   "title": "Adult Wheel Throwing",
+   "start": "2027-02-02T17:30:00-06:00",
+   "end": "2027-02-02T20:00:00-06:00",
    "all_day": false,
-   "category": "music",
+   "category": "community",
    "categories": [
-    "music",
-    "food"
+    "community",
+    "arts"
    ],
    "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
     "city": "Mobile",
     "regions": [
      "mobile"
@@ -14207,17 +15091,17 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-02-02/",
+   "info_url": "https://www.mobilemuseumofart.com/event/adult-wheel-throwing/2027-02-02/",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Mobile Museum of Art",
+    "tier": "A",
     "redistributable": false
    },
    "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/pottery.new_.jpg",
+    "credit": "Mobile Museum of Art"
    },
-   "curation_score": 1,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -14278,9 +15162,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/TS_NCAA_Men_s_Basketball_155F2946-D8DD-EBCA-D3CD26047CA7BB0A_15632a67-e1b0-95a8-5bd586c64eeae209.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1600,
@@ -14386,38 +15273,34 @@
    "independent_source_count": 1
   },
   {
-   "id": 1635,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2027-02-04T19:00:00-06:00",
-   "end": "2027-02-04T22:00:00-06:00",
+   "id": 1767,
+   "series_slug": "the-bends",
+   "title": "THE BENDS",
+   "start": "2027-02-05T20:30:00-06:00",
+   "end": "2027-02-05T23:30:00-06:00",
    "all_day": false,
-   "category": "music",
+   "category": "community",
    "categories": [
-    "music",
-    "food"
+    "community"
    ],
    "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
     "city": "Mobile",
     "regions": [
      "mobile"
     ]
    },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2027-02-04/",
+   "price": "$0",
+   "ticket_url": "https://www.ticketweb.com/event/the-bends-soul-kitchen-tickets/14450494",
+   "info_url": "https://www.ticketweb.com/event/the-bends-soul-kitchen-tickets/14450494",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Ticketmaster",
+    "tier": "B",
     "redistributable": false
    },
-   "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
-   },
-   "curation_score": 1,
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -14611,20 +15494,20 @@
    "independent_source_count": 1
   },
   {
-   "id": 1636,
-   "series_slug": "beer-bbq-bingo",
-   "title": "Beer, BBQ & Bingo",
-   "start": "2027-02-09T19:00:00-06:00",
-   "end": "2027-02-09T22:00:00-06:00",
-   "all_day": false,
-   "category": "music",
+   "id": 1750,
+   "series_slug": "mardi-gras-holiday",
+   "title": "Mardi Gras Holiday",
+   "start": "2027-02-08T00:00:00-06:00",
+   "end": "2027-02-08T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
    "categories": [
-    "music",
-    "food"
+    "community",
+    "arts"
    ],
    "venue": {
-    "slug": "moes-original-bbq-mobile",
-    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
     "city": "Mobile",
     "regions": [
      "mobile"
@@ -14632,17 +15515,52 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-02-09/",
+   "info_url": "https://www.mobilemuseumofart.com/event/mardi-gras-holiday/",
    "source": {
-    "name": "92ZEW",
-    "tier": "C",
+    "name": "Mobile Museum of Art",
+    "tier": "A",
     "redistributable": false
    },
    "image": {
-    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
-    "credit": "92ZEW"
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2025/11/mardi-gras-1.jpg",
+    "credit": "Mobile Museum of Art"
    },
-   "curation_score": 1,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1751,
+   "series_slug": "tuesday-pm-wheel-throwing-october-december",
+   "title": "Adult Wheel Throwing",
+   "start": "2027-02-09T17:30:00-06:00",
+   "end": "2027-02-09T20:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/adult-wheel-throwing/2027-02-09/",
+   "source": {
+    "name": "Mobile Museum of Art",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/pottery.new_.jpg",
+    "credit": "Mobile Museum of Art"
+   },
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -14677,6 +15595,691 @@
     "credit": "Innovation Portal"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1777,
+   "series_slug": "larry-the-cable-guy-an-evening-with-larry-the-cable-guy",
+   "title": "Larry the Cable Guy: An Evening with Larry the Cable Guy",
+   "start": "2027-02-10T19:00:00-06:00",
+   "end": "2027-02-10T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/larry-the-cable-guy-an-evening-pensacola-florida-02-10-2027/event/1B00654F0BA421CC",
+   "info_url": "https://www.ticketmaster.com/larry-the-cable-guy-an-evening-pensacola-florida-02-10-2027/event/1B00654F0BA421CC",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1752,
+   "series_slug": "toddler-time",
+   "title": "Toddler Time",
+   "start": "2027-02-11T10:00:00-06:00",
+   "end": "2027-02-11T10:45:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/toddler-time/2027-02-11/",
+   "source": {
+    "name": "Mobile Museum of Art",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2022/08/toddlerrr.jpg",
+    "credit": "Mobile Museum of Art"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1721,
+   "series_slug": "prototyping-lab-open-house-night",
+   "title": "Prototyping Lab Open House Night!",
+   "start": "2027-02-11T16:00:00-06:00",
+   "end": "2027-02-11T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "innovation-portal",
+    "name": "Innovation Portal",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.innovation-portal.com/event/prototyping-lab-open-house-night/2027-02-11/",
+   "source": {
+    "name": "Innovation Portal",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-2.png",
+    "credit": "Innovation Portal"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1755,
+   "series_slug": "lucky-leaves-bingo-night",
+   "title": "Lucky Leaves Bingo Night",
+   "start": "2027-02-11T18:00:00-06:00",
+   "end": "2027-02-11T20:30:00-06:00",
+   "all_day": false,
+   "category": "nightlife",
+   "categories": [
+    "nightlife",
+    "food"
+   ],
+   "venue": {
+    "slug": "bellingrath-gardens",
+    "name": "Bellingrath Gardens and Home",
+    "city": "Theodore",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://bellingrath.org/event/lucky-leaves-bingo-night-5/",
+   "source": {
+    "name": "Bellingrath Gardens and Home",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://bellingrath.org/wp-content/uploads/2026/05/FB-EVENT-COVERS-WEBSITE-IMAGES-BLOG-IMAGES-3.png",
+    "credit": "Bellingrath Gardens and Home"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1756,
+   "series_slug": "south-alabama-women-s-basketball-vs-louisiana-tech-international",
+   "title": "South Alabama Women's Basketball vs Louisiana Tech - International Student Night",
+   "start": "2027-02-11T18:30:00-06:00",
+   "end": "2027-02-11T20:30:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11652&amp;sport_id=18",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1778,
+   "series_slug": "tobymac-with-jeremy-camp-seph-schlueter-katy-nichole-hits-deep-tour",
+   "title": "TOBYMAC with Jeremy Camp, Seph Schlueter, Katy Nichole: Hits Deep Tour",
+   "start": "2027-02-11T19:00:00-06:00",
+   "end": "2027-02-11T22:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/tobymac-with-jeremy-camp-seph-schlueter-pensacola-florida-02-11-2027/event/1B006515C0806638",
+   "info_url": "https://www.ticketmaster.com/tobymac-with-jeremy-camp-seph-schlueter-pensacola-florida-02-11-2027/event/1B006515C0806638",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1768,
+   "series_slug": "tab-benoit-with-duane-betts-the-southern-gentlemen-tour",
+   "title": "Tab Benoit with Duane Betts: The Southern Gentlemen Tour",
+   "start": "2027-02-11T20:00:00-06:00",
+   "end": "2027-02-11T23:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "family"
+   ],
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/tab-benoit-with-duane-betts-the-mobile-alabama-02-11-2027/event/1B0065548E4E8AE9",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/tab-benoit-with-duane-betts-and-palmetto-hotel-2027-02-11",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
+   "id": 1844,
+   "series_slug": "gulf-coast-rv-show",
+   "title": "Gulf Coast RV Show",
+   "start": "2027-02-12T00:00:00-06:00",
+   "end": "2027-02-14T00:00:00-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-convention-center",
+    "name": "Mobile Convention Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/gulf-coast-rv-show/23979/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Gulf-Coast-RV-Show_F50FC694-C03A-B994-7E0D3EEC865640DD_f5144691-e739-335e-c1991d93f5513a32.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1769,
+   "series_slug": "8-ball-mjg-bun-b-ft-the-renaissance-orchestra",
+   "title": "8 Ball & MJG, Bun B ft. The Renaissance Orchestra",
+   "start": "2027-02-12T20:00:00-06:00",
+   "end": "2027-02-12T23:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "family"
+   ],
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/8-ball-mjg-bun-b-ft-mobile-alabama-02-12-2027/event/1B006528DB91EDB7",
+   "info_url": "https://www.ticketmaster.com/8-ball-mjg-bun-b-ft-mobile-alabama-02-12-2027/event/1B006528DB91EDB7",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Bun_B_t_3C4D50DB-9F6A-6685-EA61E1F729064065_3c5184ec-959e-9fa4-14cbff2b85a8c68a.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
+   "id": 1855,
+   "series_slug": "sea-turtle-half-marathon-and-sweetheart-5k",
+   "title": "Sea Turtle Half Marathon and Sweetheart 5k",
+   "start": "2027-02-13T00:00:00-06:00",
+   "end": "2027-02-13T23:59:59-06:00",
+   "all_day": true,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "the-hangout",
+    "name": "The Hangout",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/sea-turtle-half-marathon-and-sweetheart-5k/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1856,
+   "series_slug": "flora-bama-super-chili-bowl-cookoff",
+   "title": "Flora-Bama Super Chili Bowl Cookoff",
+   "start": "2027-02-13T00:00:00-06:00",
+   "end": "2027-02-13T23:59:59-06:00",
+   "all_day": true,
+   "category": "food",
+   "categories": [
+    "food"
+   ],
+   "venue": {
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/flora-bama-super-chili-bowl-cookoff/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1753,
+   "series_slug": "the-breakfast-club-women-of-abstract-expressionism",
+   "title": "The Breakfast Club: Women in Art",
+   "start": "2027-02-13T10:00:00-06:00",
+   "end": "2027-02-13T11:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/the-breakfast-club-women-of-abstract-expressionism-2027-02-13",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/09/TBCWIA-Graphic-4-web1.png",
+    "credit": "Mobile Museum of Art"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
+   "id": 1759,
+   "series_slug": "mess-makers-society",
+   "title": "Mess Makers Society",
+   "start": "2027-02-13T10:00:00-06:00",
+   "end": "2027-02-13T12:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "eastern-shore-art-center",
+    "name": "Eastern Shore Art Center",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F54132",
+   "source": {
+    "name": "Eastern Shore Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1760,
+   "series_slug": "preschool-paint-party-with-poppy",
+   "title": "Preschool Paint Party with Poppy!",
+   "start": "2027-02-13T10:00:00-06:00",
+   "end": "2027-02-13T12:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "eastern-shore-art-center",
+    "name": "Eastern Shore Art Center",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F61699",
+   "source": {
+    "name": "Eastern Shore Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1761,
+   "series_slug": "sculpting-creatures-land-and-sea",
+   "title": "Sculpting Creatures: Land and Sea",
+   "start": "2027-02-13T10:00:00-06:00",
+   "end": "2027-02-14T16:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "eastern-shore-art-center",
+    "name": "Eastern Shore Art Center",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F60532",
+   "source": {
+    "name": "Eastern Shore Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1757,
+   "series_slug": "south-alabama-women-s-basketball-vs-troy-beat-troy-play4kay",
+   "title": "South Alabama Women's Basketball vs Troy - Beat Troy/Play4Kay",
+   "start": "2027-02-13T14:00:00-06:00",
+   "end": "2027-02-13T16:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "usa-mitchell-center",
+    "name": "USA Mitchell Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11653&amp;sport_id=18",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1754,
+   "series_slug": "painting-the-figure-part-1",
+   "title": "Painting the Figure (Part 2)",
+   "start": "2027-02-13T16:00:00-06:00",
+   "end": "2027-02-13T18:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "mobile-museum-of-art",
+    "name": "Mobile Museum of Art",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilemuseumofart.com/event/painting-the-figure-part-2/2027-02-13/",
+   "source": {
+    "name": "Mobile Museum of Art",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/08/figure-drawwing.jpg",
+    "credit": "Mobile Museum of Art"
+   },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1762,
+   "series_slug": "paint-and-sip-12-and-up",
+   "title": "Paint and Sip",
+   "start": "2027-02-13T18:00:00-06:00",
+   "end": "2027-02-13T19:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://esartcenter.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F53252",
+   "source": {
+    "name": "Eastern Shore Art Center",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1770,
+   "series_slug": "the-black-jacket-symphony-presents-michael-jackson-s-thriller",
+   "title": "The Black Jacket Symphony Presents Michael Jackson's 'Thriller'",
+   "start": "2027-02-13T19:30:00-06:00",
+   "end": "2027-02-13T22:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "family"
+   ],
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/the-black-jacket-symphony-presents-michael-mobile-alabama-02-13-2027/event/1B00650AB97E9E02",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/black-jacket-symphony-thriller-2027-02-13",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Black-Jacket-Symphony_B7D73FBE-EC1B-916C-C79320961B3FFC2B_b7d9acea-b272-1346-f550bb6dd62f8fd7.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
+  },
+  {
+   "id": 1758,
+   "series_slug": "south-alabama-men-s-golf-vs-south-alabama",
+   "title": "South Alabama Men's Golf vs South Alabama",
+   "start": "2027-02-15T00:00:00-06:00",
+   "end": "2027-02-15T23:59:59-06:00",
+   "all_day": true,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "stanky-field",
+    "name": "Stanky Field",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://usajaguars.com/calendar.aspx?game_id=11601&amp;sport_id=6",
+   "source": {
+    "name": "South Alabama Athletics",
+    "tier": "A",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
+   "id": 1833,
+   "series_slug": "speed-puzzling-night-fairhope-brewing-mobile",
+   "title": "Speed Puzzling Night",
+   "start": "2027-02-16T19:00:00-06:00",
+   "end": "2027-02-16T21:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/speed-puzzling-night/2027-02-16/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/685217658_122230748552044093_3792524229561795322_n.jpg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   }
  ]

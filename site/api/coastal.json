@@ -1,164 +1,7 @@
 {
  "region": "coastal",
- "generated": "2026-11-18T18:44:14Z",
+ "generated": "2026-11-19T18:24:29Z",
  "events": [
-  {
-   "id": 1380,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-11-17T17:00:00-06:00",
-   "end": "2026-11-17T18:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9167",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1384,
-   "series_slug": "city-council-meeting-orange-beach-city-hall",
-   "title": "City Council Meeting",
-   "start": "2026-11-17T17:00:00-06:00",
-   "end": "2026-11-17T19:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=681",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1385,
-   "series_slug": "cardio-dance",
-   "title": "Cardio Dance",
-   "start": "2026-11-18T08:00:00-06:00",
-   "end": "2026-11-18T09:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10929",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1386,
-   "series_slug": "total-body-fit",
-   "title": "Total Body Fit",
-   "start": "2026-11-18T11:00:00-06:00",
-   "end": "2026-11-18T12:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11183",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1387,
-   "series_slug": "zoning-board-of-adjustment",
-   "title": "Zoning Board of Adjustment",
-   "start": "2026-11-18T16:00:00-06:00",
-   "end": "2026-11-18T17:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=2060",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
   {
    "id": 1388,
    "series_slug": "krav-maga-self-defense",
@@ -1274,37 +1117,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1576,
-   "series_slug": "city-council-meeting",
-   "title": "City Council Meeting",
-   "start": "2026-11-23T16:00:00-06:00",
-   "end": "2026-11-23T17:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "gulf-shores-city-hall",
-    "name": "Gulf Shores City Hall",
-    "city": "Gulf Shores",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.gulfshoresal.gov/Calendar.aspx?EID=16369",
-   "source": {
-    "name": "City of Gulf Shores",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1583,
    "series_slug": "indoor-cycling",
    "title": "Indoor Cycling",
@@ -1653,6 +1465,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1722,
+   "series_slug": "city-offices-closed-at-noon-for-thanksgiving",
+   "title": "City offices closed at noon for Thanksgiving",
+   "start": "2026-11-25T12:00:00-06:00",
+   "end": "2026-11-25T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11275",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1591,
    "series_slug": "krav-maga-self-defense",
    "title": "Krav Maga (Self-Defense)",
@@ -1843,6 +1686,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1723,
+   "series_slug": "city-offices-closed-at-noon-for-thanksgiving",
+   "title": "City offices closed for Thanksgiving",
+   "start": "2026-11-26T08:00:00-06:00",
+   "end": "2026-11-26T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11273",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 664,
    "series_slug": "flora-bama-s-thanksgiving-potluck",
    "title": "Flora-Bama's Thanksgiving Potluck",
@@ -1939,6 +1813,69 @@
    "independent_source_count": 1
   },
   {
+   "id": 1724,
+   "series_slug": "cardio-dance",
+   "title": "Cardio Dance",
+   "start": "2026-11-27T08:00:00-06:00",
+   "end": "2026-11-27T09:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10934",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1725,
+   "series_slug": "city-offices-closed-at-noon-for-thanksgiving",
+   "title": "City offices closed for Thanksgiving",
+   "start": "2026-11-27T08:00:00-06:00",
+   "end": "2026-11-27T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11274",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1464,
    "series_slug": "pine-needle-ornament",
    "title": "Pine Needle Ornaments",
@@ -1998,6 +1935,37 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1726,
+   "series_slug": "total-body-fit",
+   "title": "Total Body Fit",
+   "start": "2026-11-27T11:00:00-06:00",
+   "end": "2026-11-27T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11190",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2061,6 +2029,68 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1859,
+   "series_slug": "breakfast-with-billy-claus",
+   "title": "Breakfast with Billy Claus",
+   "start": "2026-11-28T08:00:00-06:00",
+   "end": "2026-11-28T10:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "lulus-gulf-shores",
+    "name": "LuLu's Gulf Shores",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/breakfast-with-billy-claus-44286",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1727,
+   "series_slug": "namaste-by-the-bay-free-community-yoga",
+   "title": "Namaste by the Bay - Free Community Yoga",
+   "start": "2026-11-28T09:00:00-06:00",
+   "end": "2026-11-28T10:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11265",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2221,6 +2251,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1728,
+   "series_slug": "cardio-dance",
+   "title": "Cardio Dance",
+   "start": "2026-11-30T08:00:00-06:00",
+   "end": "2026-11-30T09:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10935",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1468,
    "series_slug": "eagles-and-ecosystems-nature-walk",
    "title": "Eagles and Ecosystems Nature Walk",
@@ -2253,6 +2315,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1729,
+   "series_slug": "total-body-fit",
+   "title": "Total Body Fit",
+   "start": "2026-11-30T11:00:00-06:00",
+   "end": "2026-11-30T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11191",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1469,
    "series_slug": "guided-tram-tour",
    "title": "Guided Tram Tour",
@@ -2281,6 +2374,38 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1730,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-11-30T17:00:00-06:00",
+   "end": "2026-11-30T18:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9599",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2346,6 +2471,133 @@
    "independent_source_count": 1
   },
   {
+   "id": 1731,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-12-01T07:20:00-06:00",
+   "end": "2026-12-01T08:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9171",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1732,
+   "series_slug": "cardio-dance",
+   "title": "Cardio Dance",
+   "start": "2026-12-01T08:00:00-06:00",
+   "end": "2026-12-01T09:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10936",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1733,
+   "series_slug": "gentle-yoga-flow",
+   "title": "Gentle Yoga Flow",
+   "start": "2026-12-01T10:00:00-06:00",
+   "end": "2026-12-01T11:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9648",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1734,
+   "series_slug": "total-body-fit",
+   "title": "Total Body Fit",
+   "start": "2026-12-01T11:00:00-06:00",
+   "end": "2026-12-01T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11192",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 300,
    "series_slug": "dolly-parton-s-smoky-mountain-christmas",
    "title": "Dolly Parton's Smoky Mountain Christmas",
@@ -2371,6 +2623,226 @@
     "name": "Ticketmaster",
     "tier": "B",
     "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1735,
+   "series_slug": "cardio-dance",
+   "title": "Cardio Dance",
+   "start": "2026-12-02T08:00:00-06:00",
+   "end": "2026-12-02T09:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10937",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1736,
+   "series_slug": "total-body-fit",
+   "title": "Total Body Fit",
+   "start": "2026-12-02T11:00:00-06:00",
+   "end": "2026-12-02T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11193",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1737,
+   "series_slug": "krav-maga-self-defense",
+   "title": "Krav Maga (Self-Defense)",
+   "start": "2026-12-02T17:00:00-06:00",
+   "end": "2026-12-02T18:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10794",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1771,
+   "series_slug": "samantha-fish-w-cedric-burnside",
+   "title": "Samantha Fish w/ Cedric Burnside",
+   "start": "2026-12-02T19:00:00-06:00",
+   "end": "2026-12-02T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA8kp",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA8kp",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1738,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-12-03T07:20:00-06:00",
+   "end": "2026-12-03T08:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9172",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1739,
+   "series_slug": "cardio-dance",
+   "title": "Cardio Dance",
+   "start": "2026-12-03T08:00:00-06:00",
+   "end": "2026-12-03T09:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10857",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1740,
+   "series_slug": "total-body-fit",
+   "title": "Total Body Fit",
+   "start": "2026-12-03T11:00:00-06:00",
+   "end": "2026-12-03T12:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11194",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
    },
    "image": null,
    "curation_score": 0,
@@ -2410,6 +2882,41 @@
    },
    "curation_score": 1,
    "independent_source_count": 1
+  },
+  {
+   "id": 1787,
+   "series_slug": "semmes-old-fashioned-christmas",
+   "title": "Semmes Old Fashioned Christmas",
+   "start": "2026-12-04T17:00:00-06:00",
+   "end": "2026-12-04T20:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "heritage-park-foley",
+    "name": "Heritage Park (Foley)",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-2026-12-04",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/858346099_3414458772095584_8002215367675810810_n.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 1655,
@@ -2530,6 +3037,37 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/christmas-with-chris-tomlin-pensacola-florida-12-04-2026/event/1B00651AA485C1C1",
    "info_url": "https://www.ticketmaster.com/christmas-with-chris-tomlin-pensacola-florida-12-04-2026/event/1B00651AA485C1C1",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1772,
+   "series_slug": "honey-island-swamp-band",
+   "title": "Honey Island Swamp Band",
+   "start": "2026-12-04T20:00:00-06:00",
+   "end": "2026-12-04T23:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA8k9",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA8k9",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -2908,15 +3446,18 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/the-horse-soldiers-war-stories-told-firsthand-44021",
+   "info_url": "https://www.downtownmobile.org/event/the-horse-soldiers-war-stories-told-firsthand/",
    "source": {
-    "name": "Eastern Shore Chamber of Commerce",
+    "name": "Downtown Mobile Alliance",
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/cPJx12kaQESZBACetIpr5Q.large_.jpg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 1661,
@@ -3021,6 +3562,38 @@
    "independent_source_count": 2
   },
   {
+   "id": 1869,
+   "series_slug": "roman-street-christmas-show",
+   "title": "ROMAN STREET: CHRISTMAS SHOW",
+   "start": "2026-12-11T19:00:00-06:00",
+   "end": "2026-12-11T21:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/roman-street-christmas-show-44287",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1192,
    "series_slug": "pensacola-children-s-chorus-christmas-on-the-coast",
    "title": "Pensacola Children's Chorus: Christmas on the Coast",
@@ -3043,6 +3616,37 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-11-2026/event/1B006553E25C5A16",
    "info_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-11-2026/event/1B006553E25C5A16",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1773,
+   "series_slug": "jai-wolf",
+   "title": "Jai Wolf",
+   "start": "2026-12-11T20:00:00-06:00",
+   "end": "2026-12-11T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA8kb",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA8kb",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -3143,6 +3747,38 @@
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1871,
+   "series_slug": "killer-beaz-operation-holly-jolly-christmas-in-fowl-river-theodore",
+   "title": "Killer Beaz \"Operation: Holly Jolly Christmas\" in Fowl River, Theodore",
+   "start": "2026-12-12T18:30:00-06:00",
+   "end": "2026-12-12T20:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "dauphin-island",
+    "name": "Dauphin Island",
+    "city": "Dauphin Island",
+    "regions": [
+     "mobile",
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/killer-beaz-operation-holly-jolly-christmas-in-fowl-river-theodore-44270",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
@@ -4161,6 +4797,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1775,
+   "series_slug": "it-s-a-2000-s-nye-party-18-event",
+   "title": "It's A 2000's NYE Party (18+ Event)",
+   "start": "2026-12-31T22:00:00-06:00",
+   "end": "2027-01-01T01:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "nightlife"
+   ],
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA8k_",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA8k_",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 884,
    "series_slug": "flora-bama-polar-bear-dip",
    "title": "Flora-Bama Polar Bear Dip",
@@ -4847,6 +5515,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1876,
+   "series_slug": "eddie-9v-with-special-guest-nether-hour",
+   "title": "Eddie 9V with Special Guest Nether Hour",
+   "start": "2027-01-22T19:00:00-06:00",
+   "end": "2027-01-22T21:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
+   "venue": {
+    "slug": "owa-parks-resort",
+    "name": "OWA Parks & Resort",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/eddie-9v-with-special-guest-nether-hour-44284",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1301,
    "series_slug": "pensacola-opera-tosca-puccini",
    "title": "Pensacola Opera- Tosca Puccini",
@@ -5470,6 +6170,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1776,
+   "series_slug": "bumpin-uglies-w-shwayze",
+   "title": "Bumpin Uglies w/ Shwayze",
+   "start": "2027-01-31T19:30:00-06:00",
+   "end": "2027-01-31T22:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "vinyl-music-hall",
+    "name": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA8FZ",
+   "info_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA8FZ",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1633,
    "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
    "title": "Pensacola Ice Flyers vs. Huntsville Havoc",
@@ -5492,6 +6223,227 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-02-07-2027/event/1B00650D864664A8",
    "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-02-07-2027/event/1B00650D864664A8",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1777,
+   "series_slug": "larry-the-cable-guy-an-evening-with-larry-the-cable-guy",
+   "title": "Larry the Cable Guy: An Evening with Larry the Cable Guy",
+   "start": "2027-02-10T19:00:00-06:00",
+   "end": "2027-02-10T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/larry-the-cable-guy-an-evening-pensacola-florida-02-10-2027/event/1B00654F0BA421CC",
+   "info_url": "https://www.ticketmaster.com/larry-the-cable-guy-an-evening-pensacola-florida-02-10-2027/event/1B00654F0BA421CC",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1778,
+   "series_slug": "tobymac-with-jeremy-camp-seph-schlueter-katy-nichole-hits-deep-tour",
+   "title": "TOBYMAC with Jeremy Camp, Seph Schlueter, Katy Nichole: Hits Deep Tour",
+   "start": "2027-02-11T19:00:00-06:00",
+   "end": "2027-02-11T22:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/tobymac-with-jeremy-camp-seph-schlueter-pensacola-florida-02-11-2027/event/1B006515C0806638",
+   "info_url": "https://www.ticketmaster.com/tobymac-with-jeremy-camp-seph-schlueter-pensacola-florida-02-11-2027/event/1B006515C0806638",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1779,
+   "series_slug": "pensacola-ice-flyers-vs-roanoke-rail-yard-dawgs",
+   "title": "Pensacola Ice Flyers vs. Roanoke Rail Yard Dawgs",
+   "start": "2027-02-12T19:05:00-06:00",
+   "end": "2027-02-12T22:05:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-roanoke-rail-pensacola-florida-02-12-2027/event/1B00650D864B64B5",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-roanoke-rail-pensacola-florida-02-12-2027/event/1B00650D864B64B5",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1855,
+   "series_slug": "sea-turtle-half-marathon-and-sweetheart-5k",
+   "title": "Sea Turtle Half Marathon and Sweetheart 5k",
+   "start": "2027-02-13T00:00:00-06:00",
+   "end": "2027-02-13T23:59:59-06:00",
+   "all_day": true,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "the-hangout",
+    "name": "The Hangout",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/sea-turtle-half-marathon-and-sweetheart-5k/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1856,
+   "series_slug": "flora-bama-super-chili-bowl-cookoff",
+   "title": "Flora-Bama Super Chili Bowl Cookoff",
+   "start": "2027-02-13T00:00:00-06:00",
+   "end": "2027-02-13T23:59:59-06:00",
+   "all_day": true,
+   "category": "food",
+   "categories": [
+    "food"
+   ],
+   "venue": {
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/flora-bama-super-chili-bowl-cookoff/",
+   "source": {
+    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1780,
+   "series_slug": "pensacola-ice-flyers-vs-roanoke-rail-yard-dawgs",
+   "title": "Pensacola Ice Flyers vs. Roanoke Rail Yard Dawgs",
+   "start": "2027-02-13T19:05:00-06:00",
+   "end": "2027-02-13T22:05:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports",
+    "active"
+   ],
+   "venue": {
+    "slug": "pensacola-bay-center",
+    "name": "Pensacola Bay Center",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-roanoke-rail-pensacola-florida-02-13-2027/event/1B00650D865064BF",
+   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-roanoke-rail-pensacola-florida-02-13-2027/event/1B00650D865064BF",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1781,
+   "series_slug": "pensacola-symphony-orchestra-opening-night",
+   "title": "Pensacola Symphony Orchestra: The Movie Music of John Williams & More",
+   "start": "2027-02-13T19:30:00-06:00",
+   "end": "2027-02-13T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "music"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-the-movie-music-pensacola-florida-02-13-2027/event/1B00649912E8E59C",
+   "info_url": "https://www.ticketmaster.com/pensacola-symphony-orchestra-the-movie-music-pensacola-florida-02-13-2027/event/1B00649912E8E59C",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
