@@ -2836,3 +2836,14 @@
   state: AL
   zip: "36526"
   regions: [mobile]
+
+- slug: semmes-honor-park
+  name: Semmes Honor Park
+  aliases: ["4100 Wulff Rd East – Semmes", "Semmes Honor Park"]
+  domains: []
+  address: "4100 Wulff Rd"
+  city: Semmes
+  state: AL
+  zip: "36575"
+  regions: [mobile]
+  notes: "City of Semmes park; a 2024 mobilecountyal.gov listing for the Christmas Market & Tree Lighting gives this exact address, matching the city's current Semmes Christmas Parade listing."
