@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-19T18:33:27Z",
+ "generated": "2026-11-19T18:40:20Z",
  "events": [
   {
    "id": 620,
@@ -2142,7 +2142,7 @@
    ],
    "venue": {
     "slug": "semmes-honor-park",
-    "name": "Honor Park",
+    "name": "Semmes Honor Park",
     "city": "Semmes",
     "regions": [
      "mobile"
@@ -8632,6 +8632,40 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1797,
+   "series_slug": "semmes-christmas-parade-4100-wulff-rd-east-semmes",
+   "title": "Semmes Christmas Parade",
+   "start": "2026-12-12T10:00:00-06:00",
+   "end": "2026-12-12T11:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "semmes-honor-park",
+    "name": "Semmes Honor Park",
+    "city": "Semmes",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/semmes-christmas-parade/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/839739552_1643908474077931_4699893556644121856_n.jpg?fit=940%2C788&ssl=1",
+    "credit": "The Mob Mom"
+   },
    "curation_score": 1,
    "independent_source_count": 1
   },
