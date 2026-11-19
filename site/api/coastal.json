@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-11-19T18:24:29Z",
+ "generated": "2026-11-19T18:33:27Z",
  "events": [
   {
    "id": 1388,
@@ -2063,37 +2063,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1727,
-   "series_slug": "namaste-by-the-bay-free-community-yoga",
-   "title": "Namaste by the Bay - Free Community Yoga",
-   "start": "2026-11-28T09:00:00-06:00",
-   "end": "2026-11-28T10:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11265",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1467,
    "series_slug": "small-business-saturday",
    "title": "Small Business Saturday",
@@ -2122,6 +2091,38 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1727,
+   "series_slug": "namaste-by-the-bay-free-community-yoga",
+   "title": "Yoga",
+   "start": "2026-11-28T10:00:00-06:00",
+   "end": "2026-11-28T11:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11265",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2471,38 +2472,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1731,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-12-01T07:20:00-06:00",
-   "end": "2026-12-01T08:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9171",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1732,
    "series_slug": "cardio-dance",
    "title": "Cardio Dance",
@@ -2588,6 +2557,38 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11192",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1731,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-12-01T17:00:00-06:00",
+   "end": "2026-12-01T18:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9171",
    "source": {
     "name": "City of Orange Beach",
     "tier": "A",
@@ -2886,13 +2887,12 @@
   {
    "id": 1787,
    "series_slug": "semmes-old-fashioned-christmas",
-   "title": "Semmes Old Fashioned Christmas",
+   "title": "Old-Fashioned Christmas",
    "start": "2026-12-04T17:00:00-06:00",
    "end": "2026-12-04T20:00:00-06:00",
    "all_day": false,
-   "category": "family",
+   "category": "community",
    "categories": [
-    "family",
     "community"
    ],
    "venue": {
@@ -3460,6 +3460,38 @@
    "independent_source_count": 2
   },
   {
+   "id": 1866,
+   "series_slug": "youth-mental-health-first-aid-training",
+   "title": "Youth Mental Health First Aid Training",
+   "start": "2026-12-09T08:30:00-06:00",
+   "end": "2026-12-09T16:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "south-baldwin-health-education-center",
+    "name": "South Baldwin Regional Medical Center - Health Education Center",
+    "city": "Foley",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/youth-mental-health-first-aid-training-12-09-2026-44289",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1661,
    "series_slug": "elf-academy",
    "title": "Elf Academy",
@@ -3744,6 +3776,38 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-12-2026/event/1B006553E2635A22",
    "info_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-12-2026/event/1B006553E2635A22",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1774,
+   "series_slug": "pensacola-children-s-chorus-cocoa-with-santa-ticket-add-on-1-2-pm",
+   "title": "Pensacola Children's Chorus: Cocoa with Santa ticket add on ( 1-2 pm)",
+   "start": "2026-12-12T14:30:00-06:00",
+   "end": "2026-12-12T17:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-cocoa-with-santa-pensacola-florida-12-12-2026/event/1B006572AFA617C9",
+   "info_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-cocoa-with-santa-pensacola-florida-12-12-2026/event/1B006572AFA617C9",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",

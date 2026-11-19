@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-19T18:24:29Z",
+ "generated": "2026-11-19T18:33:27Z",
  "events": [
   {
    "id": 620,
@@ -887,6 +887,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1823,
+   "series_slug": "dementia-education-class",
+   "title": "Dementia Education Class",
+   "start": "2026-11-19T18:00:00-06:00",
+   "end": "2026-11-19T20:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "southern-cross-home-care",
+    "name": "Southern Cross Home Care",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/dementia-education-class-2026-11-19",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1826,
    "series_slug": "sleepy-storytime",
    "title": "Sleepy Storytime",
@@ -1320,7 +1352,7 @@
    "series_slug": "truett-beasley-comedy-hypnotist",
    "title": "Truett Beasley: Comedy Hypnotist",
    "start": "2026-11-20T19:00:00-06:00",
-   "end": "2026-11-20T22:00:00-06:00",
+   "end": "2026-11-20T21:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -1448,9 +1480,9 @@
   {
    "id": 1401,
    "series_slug": "strokin-jokes",
-   "title": "Strokin' Jokes: Comedy With A Live Soundtrack!",
+   "title": "Strokin Jokes",
    "start": "2026-11-20T21:00:00-06:00",
-   "end": "2026-11-21T00:00:00-06:00",
+   "end": "2026-11-20T22:30:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -2166,6 +2198,37 @@
    "independent_source_count": 2
   },
   {
+   "id": 1858,
+   "series_slug": "fall-color-in-the-delta-cruise-live-oak-landing-stockton-al",
+   "title": "Fall Color in the Delta Cruise",
+   "start": "2026-11-21T13:00:00-06:00",
+   "end": "2026-11-21T15:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "live-oak-landing",
+    "name": "Live Oak Landing",
+    "city": "Stockton",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/fall-color-in-the-delta-cruise-11-21-2026-44276",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1650,
    "series_slug": "christmas-tree-lighting",
    "title": "Christmas Tree Lighting",
@@ -2366,9 +2429,9 @@
   {
    "id": 1073,
    "series_slug": "cackles-tassels-comedy-meets-burlesque",
-   "title": "Cackles & Tassels: Comedy Meets Burlesque",
+   "title": "Cackles & Tassels",
    "start": "2026-11-21T19:00:00-06:00",
-   "end": "2026-11-21T22:00:00-06:00",
+   "end": "2026-11-21T21:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -2727,16 +2790,19 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Clayton_State_Lakers_Womens_Basketball_t_14D657FE-9F07-8583-9956AC549DDD343A_14da3bd8-c9f4-69ae-2f21c91ed6de9315.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1614,
    "series_slug": "bartenders-in-bars-doing-comedy",
    "title": "Bartenders in Bars doing Comedy",
    "start": "2026-11-23T19:00:00-06:00",
-   "end": "2026-11-23T22:00:00-06:00",
+   "end": "2026-11-23T21:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -3004,46 +3070,11 @@
    "independent_source_count": 1
   },
   {
-   "id": 550,
-   "series_slug": "wednesday-art-club-ages-5-7",
-   "title": "Wednesday Art Club (Ages 8-11)",
-   "start": "2026-11-25T18:00:00-06:00",
-   "end": "2026-11-25T19:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/wednesday-art-club-for-ages-5-7/2026-11-25/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/06/kids1.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1175,
    "series_slug": "crescent-comedy-workshop-crescent-theater",
    "title": "Crescent Comedy Chaos",
    "start": "2026-11-25T20:00:00-06:00",
-   "end": "2026-11-25T23:00:00-06:00",
+   "end": "2026-11-25T22:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -3135,41 +3166,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1499,
-   "series_slug": "thanksgiving-at-le-moynes-chophouse",
-   "title": "Thanksgiving at Le Moyne’s Chophouse",
-   "start": "2026-11-26T00:00:00-06:00",
-   "end": "2026-11-26T23:59:59-06:00",
-   "all_day": true,
-   "category": "family",
-   "categories": [
-    "family",
-    "food"
-   ],
-   "venue": {
-    "slug": "the-admiral-hotel",
-    "name": "The Admiral Hotel",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.downtownmobile.org/event/thanksgiving-at-le-moynes-chophouse/",
-   "source": {
-    "name": "Downtown Mobile Alliance",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/LMC-Thanksgiving-CalendarListings-11.26.jpg",
-    "credit": "Downtown Mobile Alliance"
-   },
-   "curation_score": 2,
-   "independent_source_count": 2
-  },
-  {
    "id": 854,
    "series_slug": "turkey-trot-for-hope",
    "title": "17th Annual Turkey Trot for Hope",
@@ -3234,6 +3230,40 @@
    "image": null,
    "curation_score": 1,
    "independent_source_count": 1
+  },
+  {
+   "id": 1499,
+   "series_slug": "thanksgiving-at-le-moynes-chophouse",
+   "title": "Thanksgiving at Le Moyne’s Chophouse",
+   "start": "2026-11-26T12:00:00-06:00",
+   "end": "2026-11-26T20:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-admiral-hotel",
+    "name": "The Admiral Hotel",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/thanksgiving-at-le-moynes-chophouse/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/LMC-Thanksgiving-CalendarListings-11.26.jpg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 136,
@@ -3365,9 +3395,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Hancock-Whitney-fireworks_2AB82C89-9834-B7C1-0112011CE9FC4F70_2ab96dac-ac8a-f204-d2e839c5464dfd3a.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1007,
@@ -3984,9 +4017,9 @@
   {
    "id": 1615,
    "series_slug": "queens-kill-comedians-like-kill-tony-but-sassy",
-   "title": "Queens Kill Comedians: Like Kill Tony, but Sassy!",
+   "title": "Queens Kill Comedians",
    "start": "2026-11-28T20:00:00-06:00",
-   "end": "2026-11-28T23:00:00-06:00",
+   "end": "2026-11-28T22:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -4113,6 +4146,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1811,
+   "series_slug": "mobile-chamber-music-presents-trio-bolero-spanish-themed-art-show",
+   "title": "Mobile Chamber Music Presents Trio Bolero & Spanish-Themed Art Show",
+   "start": "2026-11-29T15:00:00-06:00",
+   "end": "2026-11-29T18:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "central-midtown",
+    "name": "Central Midtown",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/mobile-chamber-music-presents-trio-bolero-2026-11-29",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1765,
    "series_slug": "gulf-coast-comedy-showcase",
    "title": "Gulf Coast Comedy Showcase",
@@ -4134,37 +4199,6 @@
    "price": "$20.56",
    "ticket_url": "https://www.ticketweb.com/event/gulf-coast-comedy-showcase-crescent-theater-tickets/14455134",
    "info_url": "https://www.ticketweb.com/event/gulf-coast-comedy-showcase-crescent-theater-tickets/14455134",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1293,
-   "series_slug": "laredo",
-   "title": "LAREDO",
-   "start": "2026-11-29T19:00:00-06:00",
-   "end": "2026-11-29T22:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "the-merry-widow",
-    "name": "The Merry Widow",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$15.52",
-   "ticket_url": "https://www.ticketweb.com/event/laredo-the-merry-widow-tickets/14408214",
-   "info_url": "https://www.ticketweb.com/event/laredo-the-merry-widow-tickets/14408214",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -4465,6 +4499,37 @@
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1817,
+   "series_slug": "43rd-annual-christmas-banquet",
+   "title": "43rd Annual Christmas Banquet",
+   "start": "2026-12-01T18:00:00-06:00",
+   "end": "2026-12-01T20:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "saraland-event-center",
+    "name": "Saraland Event Center",
+    "city": "Saraland",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-43rd-annual-christmas-banquet-2026-12-01",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -4817,46 +4882,11 @@
    "independent_source_count": 1
   },
   {
-   "id": 555,
-   "series_slug": "wednesday-art-club-ages-5-7",
-   "title": "Wednesday Art Club (Ages 8-11)",
-   "start": "2026-12-02T18:00:00-06:00",
-   "end": "2026-12-02T19:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "arts"
-   ],
-   "venue": {
-    "slug": "mobile-museum-of-art",
-    "name": "Mobile Museum of Art",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilemuseumofart.com/event/wednesday-art-club-for-ages-5-7/2026-12-02/",
-   "source": {
-    "name": "Mobile Museum of Art",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.mobilemuseumofart.com/wp-content/uploads/2026/06/kids1.jpg",
-    "credit": "Mobile Museum of Art"
-   },
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1009,
    "series_slug": "crescent-theater-crescent-comedy-chaos",
    "title": "Crescent Comedy Chaos",
    "start": "2026-12-02T20:00:00-06:00",
-   "end": "2026-12-02T23:00:00-06:00",
+   "end": "2026-12-02T22:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -5159,14 +5189,14 @@
   {
    "id": 1616,
    "series_slug": "comedy-writer-s-workshop-showcase",
-   "title": "Comedy Writer's Workshop Showcase: From the Notebook to the Stage",
+   "title": "Comedy Writer’s Workshop Showcase",
    "start": "2026-12-03T19:00:00-06:00",
-   "end": "2026-12-03T22:00:00-06:00",
+   "end": "2026-12-03T21:00:00-06:00",
    "all_day": false,
-   "category": "arts",
+   "category": "community",
    "categories": [
-    "arts",
-    "community"
+    "community",
+    "arts"
    ],
    "venue": {
     "slug": "crescent-theater",
@@ -5741,9 +5771,9 @@
   {
    "id": 1617,
    "series_slug": "for-the-love-of-crescent-supporter-appreciation-weekend-feat-luke",
-   "title": "For The Love of Crescent Supporter Appreciation Weekend feat. Luke Null (SNL)",
+   "title": "For The Love of Crescent feat. Luke Null",
    "start": "2026-12-04T19:00:00-06:00",
-   "end": "2026-12-04T22:00:00-06:00",
+   "end": "2026-12-04T21:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -6094,6 +6124,68 @@
    "independent_source_count": 1
   },
   {
+   "id": 1816,
+   "series_slug": "christmas-in-satsuma",
+   "title": "Christmas in Satsuma",
+   "start": "2026-12-05T09:00:00-06:00",
+   "end": "2026-12-05T11:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "baldwin-square",
+    "name": "Baldwin Square",
+    "city": "Satsuma",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-christmas-arts-crafts-in-satsuma-2026-12-05",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1863,
+   "series_slug": "excursion-to-the-bottle-creek-indian-mound-complex-live-oak-landing-stockton-al",
+   "title": "Excursion to the Bottle Creek Indian Mound Complex",
+   "start": "2026-12-05T09:00:00-06:00",
+   "end": "2026-12-05T12:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "live-oak-landing",
+    "name": "Live Oak Landing",
+    "city": "Stockton",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/excursion-to-the-bottle-creek-indian-mound-complex-12-05-2026-44282",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 641,
    "series_slug": "workshop-yuletide-embers-woodburning",
    "title": "Workshop: Yuletide Embers - Woodburning",
@@ -6255,6 +6347,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1790,
+   "series_slug": "photos-with-santa-keller-williams-mobile",
+   "title": "Photos With Santa!",
+   "start": "2026-12-05T10:00:00-06:00",
+   "end": "2026-12-05T12:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "keller-williams-mobile",
+    "name": "Keller Williams Mobile",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/photos-with-santa-2/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/844977184_1538214188327819_8896613995678615633_n.jpg?fit=768%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1695,
    "series_slug": "santa-saturdays-2026",
    "title": "Santa Saturdays - 2026",
@@ -6284,6 +6410,40 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1658,
+   "series_slug": "daphnes-christmas-parade-2026",
+   "title": "Daphne’s Christmas Parade 2026",
+   "start": "2026-12-05T11:00:00-06:00",
+   "end": "2026-12-05T17:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "lott-park",
+    "name": "W.O. Lott Park",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/daphnes-christmas-parade-2026/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/814629654_1513074880866833_3723937778269805038_n.jpg?fit=960%2C503&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -6343,6 +6503,37 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://business.eschamber.com/events/details/december-graduation-and-open-house-at-the-v-38103",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1864,
+   "series_slug": "mifflin-lake-cruise-live-oak-landing-stockton-al",
+   "title": "Mifflin Lake Cruise",
+   "start": "2026-12-05T13:00:00-06:00",
+   "end": "2026-12-05T15:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "live-oak-landing",
+    "name": "Live Oak Landing",
+    "city": "Stockton",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/mifflin-lake-cruise-12-05-2026-44281",
    "source": {
     "name": "Eastern Shore Chamber of Commerce",
     "tier": "C",
@@ -6414,9 +6605,12 @@
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/894691280_2194141894820940_2898138614844417132_n.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 643,
@@ -6483,6 +6677,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 1809,
+   "series_slug": "rwc-wrestling-live-at-the-happy-flea-market",
+   "title": "Rwc Wrestling Live at the Happy Flea Market",
+   "start": "2026-12-05T18:00:00-06:00",
+   "end": "2026-12-05T21:00:00-06:00",
+   "all_day": false,
+   "category": "sports",
+   "categories": [
+    "sports",
+    "community"
+   ],
+   "venue": {
+    "slug": "happy-flea-market",
+    "name": "The Happy Flea Market",
+    "city": "Mount Vernon",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/rwc-wrestling-live-at-the-happy-flea-market-2026-12-05",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1250,
    "series_slug": "foster-by-clare-keegan",
    "title": "FOSTER by Clare Keegan",
@@ -6516,9 +6742,9 @@
   {
    "id": 1618,
    "series_slug": "for-the-love-of-crescent-supporter-appreciation-weekend-feat-luke",
-   "title": "For The Love of Crescent Supporter Appreciation Weekend feat. Luke Null (SNL)",
+   "title": "For The Love of Crescent feat. Luke Null",
    "start": "2026-12-05T19:00:00-06:00",
-   "end": "2026-12-05T22:00:00-06:00",
+   "end": "2026-12-05T21:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -6833,16 +7059,49 @@
    "independent_source_count": 1
   },
   {
+   "id": 1793,
+   "series_slug": "christ-united-live-nativity-drive-thru",
+   "title": "Christ United Live Nativity Drive Thru",
+   "start": "2026-12-06T16:00:00-06:00",
+   "end": "2026-12-06T18:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "christ-united-methodist-church",
+    "name": "Christ United Methodist Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/christ-united-live-nativity-drive-thru/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/854940234_1787934008991372_8256103747945692248_n.jpg?fit=960%2C503&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1808,
    "series_slug": "tubachristmas-concert",
-   "title": "Tubachristmas Concert",
+   "title": "TUBACHRISTMAS Concert",
    "start": "2026-12-06T16:00:00-06:00",
-   "end": "2026-12-06T19:00:00-06:00",
+   "end": "2026-12-06T17:00:00-06:00",
    "all_day": false,
    "category": "music",
    "categories": [
-    "music",
-    "community"
+    "music"
    ],
    "venue": {
     "slug": "first-baptist-church-mobile",
@@ -7193,41 +7452,6 @@
    "independent_source_count": 2
   },
   {
-   "id": 1177,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-12-09T17:30:00-06:00",
-   "end": "2026-12-09T20:30:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049603",
-   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-chaos-3/",
-   "source": {
-    "name": "Downtown Mobile Alliance",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/chaos-dec9.png",
-    "credit": "Downtown Mobile Alliance"
-   },
-   "curation_score": 1,
-   "independent_source_count": 3
-  },
-  {
    "id": 562,
    "series_slug": "wednesday-art-club-ages-5-7",
    "title": "Wednesday Art Club (Ages 8-11)",
@@ -7295,6 +7519,40 @@
     "credit": "Visit Mobile"
    },
    "curation_score": 2,
+   "independent_source_count": 3
+  },
+  {
+   "id": 1177,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-12-09T20:00:00-06:00",
+   "end": "2026-12-09T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049603",
+   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-chaos-3/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/chaos-dec9.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
    "independent_source_count": 3
   },
   {
@@ -7394,6 +7652,37 @@
     "url": "https://www.innovation-portal.com/wp-content/uploads/2025/09/Beginner-3D-Modeling-Workshop-2.png",
     "credit": "Innovation Portal"
    },
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1867,
+   "series_slug": "first-us-bank-holiday-wine-and-cheese-event",
+   "title": "First US Bank Holiday Wine and Cheese Event",
+   "start": "2026-12-10T16:00:00-06:00",
+   "end": "2026-12-10T19:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food"
+   ],
+   "venue": {
+    "slug": "first-us-bank-daphne",
+    "name": "First US Bank (Daphne)",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/first-us-bank-holiday-wine-and-cheese-event-44285",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 0,
    "independent_source_count": 1
   },
@@ -7500,7 +7789,7 @@
    "series_slug": "brian-posehn-crescent-theater",
    "title": "Brian Posehn",
    "start": "2026-12-10T19:00:00-06:00",
-   "end": "2026-12-10T22:00:00-06:00",
+   "end": "2026-12-10T21:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -7930,40 +8219,6 @@
    "independent_source_count": 2
   },
   {
-   "id": 1011,
-   "series_slug": "comedy-shorts-during-artwalk",
-   "title": "Comedy Shorts: 3 Short Shows, One Low Price",
-   "start": "2026-12-11T19:00:00-06:00",
-   "end": "2026-12-11T22:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.downtownmobile.org/event/comedy-shorts-3-short-shows-one-low-price/",
-   "source": {
-    "name": "Downtown Mobile Alliance",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/comedy-shorts-dec11-cover.jpg",
-    "credit": "Downtown Mobile Alliance"
-   },
-   "curation_score": 2,
-   "independent_source_count": 3
-  },
-  {
    "id": 221,
    "series_slug": "comedy-shorts-3-short-shows-one-low-price",
    "title": "Comedy Shorts: 3 Short Shows, One Low Price",
@@ -7996,11 +8251,46 @@
    "independent_source_count": 1
   },
   {
+   "id": 1011,
+   "series_slug": "comedy-shorts-during-artwalk",
+   "title": "Comedy Shorts: 3 Short Shows, One Low Price",
+   "start": "2026-12-11T19:30:00-06:00",
+   "end": "2026-12-11T21:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts",
+    "family"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.downtownmobile.org/event/comedy-shorts-3-short-shows-one-low-price/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/comedy-shorts-dec11-cover.jpg",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
+  },
+  {
    "id": 1178,
    "series_slug": "17th-annual-charlie-brown-jazz-christmas-concert",
    "title": "17th Annual Charlie Brown Jazz Christmas Concert",
    "start": "2026-12-11T19:30:00-06:00",
-   "end": "2026-12-11T22:30:00-06:00",
+   "end": "2026-12-11T21:30:00-06:00",
    "all_day": false,
    "category": "music",
    "categories": [
@@ -8090,41 +8380,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1845,
-   "series_slug": "jaws-fest-presents-a-jazzy-christmas-central-midtown-central-presby",
-   "title": "JAWS Fest Presents: A Jazzy Christmas",
-   "start": "2026-12-12T00:00:00-06:00",
-   "end": "2026-12-12T23:59:59-06:00",
-   "all_day": true,
-   "category": "family",
-   "categories": [
-    "family",
-    "music"
-   ],
-   "venue": {
-    "slug": "central-midtown",
-    "name": "Central Midtown",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/jaws-fest-presents%3a-a-jazzy-christmas/24402/",
-   "source": {
-    "name": "Visit Mobile",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/JAWS-holiday_295A6CC4-B818-0C3F-B64CA917B726A5C6_295bc5b0-b1ce-d5c0-3f805983477573b1.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 1814,
    "series_slug": "casc-mobile-gun-show",
    "title": "Casc Mobile Gun Show",
@@ -8146,6 +8401,37 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-casc-mobile-gun-show-2026-12-12",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1815,
+   "series_slug": "reindeer-run-5k-and-fun-run",
+   "title": "Reindeer Run 5K and Fun Run",
+   "start": "2026-12-12T08:00:00-06:00",
+   "end": "2026-12-12T13:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active"
+   ],
+   "venue": {
+    "slug": "baldwin-square",
+    "name": "Baldwin Square",
+    "city": "Satsuma",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-reindeer-run-5k-and-fun-run-2026-12-12",
    "source": {
     "name": "Mobile County community calendar",
     "tier": "C",
@@ -8444,6 +8730,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1810,
+   "series_slug": "jaws-fest-presents-a-jazzy-christmas",
+   "title": "Jaws Fest Presents: A Jazzy Christmas",
+   "start": "2026-12-12T12:00:00-06:00",
+   "end": "2026-12-12T15:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "music"
+   ],
+   "venue": {
+    "slug": "central-midtown",
+    "name": "Central Midtown",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/jaws-fest-presents-a-jazzy-christmas-2026-12-12",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/JAWS-holiday_295A6CC4-B818-0C3F-B64CA917B726A5C6_295bc5b0-b1ce-d5c0-3f805983477573b1.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
    "id": 1664,
    "series_slug": "christmas-at-colonial-fort-conde",
    "title": "Christmas at Colonial Fort Conde",
@@ -8535,6 +8856,38 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-12-2026/event/1B006553E2635A22",
    "info_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-christmas-on-the-pensacola-florida-12-12-2026/event/1B006553E2635A22",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1774,
+   "series_slug": "pensacola-children-s-chorus-cocoa-with-santa-ticket-add-on-1-2-pm",
+   "title": "Pensacola Children's Chorus: Cocoa with Santa ticket add on ( 1-2 pm)",
+   "start": "2026-12-12T14:30:00-06:00",
+   "end": "2026-12-12T17:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "arts"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-cocoa-with-santa-pensacola-florida-12-12-2026/event/1B006572AFA617C9",
+   "info_url": "https://www.ticketmaster.com/pensacola-childrens-chorus-cocoa-with-santa-pensacola-florida-12-12-2026/event/1B006572AFA617C9",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -8686,7 +9039,7 @@
    "series_slug": "double-feature-comedy-night-crescent-theater",
    "title": "Double Feature Comedy Night",
    "start": "2026-12-12T19:00:00-06:00",
-   "end": "2026-12-12T22:00:00-06:00",
+   "end": "2026-12-12T21:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -9112,7 +9465,7 @@
   {
    "id": 1038,
    "series_slug": "2026-winter-chamber-open-house",
-   "title": "2026 Winter Chamber Open House",
+   "title": "Mobile Chamber Open House",
    "start": "2026-12-16T08:00:00-06:00",
    "end": "2026-12-16T09:30:00-06:00",
    "all_day": false,
@@ -9138,7 +9491,7 @@
    },
    "image": null,
    "curation_score": 1,
-   "independent_source_count": 2
+   "independent_source_count": 1
   },
   {
    "id": 1598,
@@ -9272,8 +9625,8 @@
   {
    "id": 1016,
    "series_slug": "crescent-theater-crescent-comedy-chaos",
-   "title": "Crescent Theater: Crescent Comedy Chaos",
-   "start": "2026-12-16T19:00:00-06:00",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-12-16T20:00:00-06:00",
    "end": "2026-12-16T22:00:00-06:00",
    "all_day": false,
    "category": "arts",
@@ -9541,9 +9894,9 @@
   {
    "id": 363,
    "series_slug": "darren-knight-aka-southern-mama",
-   "title": "Darren Knight aka Southern Mama",
+   "title": "Darren Knight",
    "start": "2026-12-18T19:00:00-06:00",
-   "end": "2026-12-18T22:00:00-06:00",
+   "end": "2026-12-18T21:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -9701,9 +10054,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/TS_NCAA_Women_s_Basketball_43E5AC03-B7AF-64BC-B745E05007D48FA0_43e8e167-c807-7345-3a55c9dfd72dd713.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 570,
@@ -9777,9 +10133,9 @@
   {
    "id": 364,
    "series_slug": "darren-knight-aka-southern-mama",
-   "title": "Darren Knight aka Southern Mama",
+   "title": "Darren Knight",
    "start": "2026-12-19T19:00:00-06:00",
-   "end": "2026-12-19T22:00:00-06:00",
+   "end": "2026-12-19T21:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -10188,41 +10544,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1180,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-12-23T17:30:00-06:00",
-   "end": "2026-12-23T20:30:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049633",
-   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-chaos-5/",
-   "source": {
-    "name": "Downtown Mobile Alliance",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/chaos-dec23.png",
-    "credit": "Downtown Mobile Alliance"
-   },
-   "curation_score": 1,
-   "independent_source_count": 3
-  },
-  {
    "id": 421,
    "series_slug": "jim-brickman-a-christmas-celebration",
    "title": "Jim Brickman: A Christmas Celebration",
@@ -10252,6 +10573,40 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1180,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-12-23T20:00:00-06:00",
+   "end": "2026-12-23T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049633",
+   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-chaos-5/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/chaos-dec23.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
+   "independent_source_count": 3
   },
   {
    "id": 1669,
@@ -10685,41 +11040,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1181,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Workshop",
-   "start": "2026-12-30T17:30:00-06:00",
-   "end": "2026-12-30T20:30:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049583",
-   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-chaos-6/",
-   "source": {
-    "name": "Downtown Mobile Alliance",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/chaos-dec30.png",
-    "credit": "Downtown Mobile Alliance"
-   },
-   "curation_score": 1,
-   "independent_source_count": 3
-  },
-  {
    "id": 573,
    "series_slug": "wednesday-art-club-ages-5-7",
    "title": "Wednesday Art Club (Ages 8-11)",
@@ -10784,6 +11104,40 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1181,
+   "series_slug": "crescent-comedy-workshop-crescent-theater",
+   "title": "Crescent Comedy Chaos",
+   "start": "2026-12-30T20:00:00-06:00",
+   "end": "2026-12-30T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "crescent-theater",
+    "name": "Crescent Theater",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$2.06",
+   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049583",
+   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-chaos-6/",
+   "source": {
+    "name": "Downtown Mobile Alliance",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/chaos-dec30.png",
+    "credit": "Downtown Mobile Alliance"
+   },
+   "curation_score": 1,
+   "independent_source_count": 3
   },
   {
    "id": 883,
@@ -12896,13 +13250,13 @@
   {
    "id": 1183,
    "series_slug": "the-sixties-show",
-   "title": "The Sixties Show",
+   "title": "'The Sixties Show'",
    "start": "2027-01-13T19:30:00-06:00",
-   "end": "2027-01-13T22:30:00-06:00",
+   "end": "2027-01-13T21:30:00-06:00",
    "all_day": false,
-   "category": "family",
+   "category": "music",
    "categories": [
-    "family",
+    "music",
     "arts"
    ],
    "venue": {
@@ -13287,13 +13641,14 @@
   {
    "id": 1295,
    "series_slug": "sarper-guven",
-   "title": "Sarper Guven - Late Show",
+   "title": "Sarper Guven (Late Show)",
    "start": "2027-01-15T21:30:00-06:00",
-   "end": "2027-01-16T00:30:00-06:00",
+   "end": "2027-01-15T23:30:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
-    "arts"
+    "arts",
+    "nightlife"
    ],
    "venue": {
     "slug": "crescent-theater",
@@ -14044,14 +14399,14 @@
   {
    "id": 1296,
    "series_slug": "liverpool-legends",
-   "title": "Liverpool Legends",
+   "title": "Liverpool Legends: The Complete Beatles Experience",
    "start": "2027-01-21T19:00:00-06:00",
-   "end": "2027-01-21T22:00:00-06:00",
+   "end": "2027-01-21T21:00:00-06:00",
    "all_day": false,
-   "category": "family",
+   "category": "music",
    "categories": [
-    "family",
-    "arts"
+    "music",
+    "community"
    ],
    "venue": {
     "slug": "saenger-theatre",
@@ -14776,6 +15131,40 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1834,
+   "series_slug": "panini-senior-bowl-ticket-launch-rip-event",
+   "title": "2027 Senior Bowl",
+   "start": "2027-01-30T00:00:00-06:00",
+   "end": "2027-01-30T23:59:59-06:00",
+   "all_day": true,
+   "category": "sports",
+   "categories": [
+    "sports"
+   ],
+   "venue": {
+    "slug": "hancock-whitney-stadium",
+    "name": "Hancock Whitney Stadium",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/2027-senior-bowl/24429/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/_DSF1362-medium_F139AB98-C464-72C8-F6BC9C45FD8FC809_f148e784-a85e-7e4b-ca4a100cfe0c3c6b.jpg",
+    "credit": "Visit Mobile"
+   },
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -15759,9 +16148,12 @@
     "tier": "A",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 0
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/TS_NCAA_Women_s_Basketball_156C61E4-EC17-575D-16976D9FD8202EC1_15705fe2-f860-5e8d-61b73ec332d5c8b6.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1778,
@@ -15798,14 +16190,14 @@
   {
    "id": 1768,
    "series_slug": "tab-benoit-with-duane-betts-the-southern-gentlemen-tour",
-   "title": "Tab Benoit with Duane Betts: The Southern Gentlemen Tour",
+   "title": "Southern Gentlemen Tour: Tab Benoit with Duane Betts and Palmetto Hotel",
    "start": "2027-02-11T20:00:00-06:00",
    "end": "2027-02-11T23:00:00-06:00",
    "all_day": false,
    "category": "music",
    "categories": [
     "music",
-    "family"
+    "arts"
    ],
    "venue": {
     "slug": "saenger-theatre",
@@ -15823,9 +16215,12 @@
     "tier": "C",
     "redistributable": false
    },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 2
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/10/0211-NewOrleans-TabBenoit-300x600-1.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 3,
+   "independent_source_count": 4
   },
   {
    "id": 1844,
@@ -15961,7 +16356,7 @@
   {
    "id": 1753,
    "series_slug": "the-breakfast-club-women-of-abstract-expressionism",
-   "title": "The Breakfast Club: Women in Art",
+   "title": "The Breakfast Club: Women of Abstract Expressionism",
    "start": "2027-02-13T10:00:00-06:00",
    "end": "2027-02-13T11:30:00-06:00",
    "all_day": false,
@@ -16185,14 +16580,14 @@
   {
    "id": 1770,
    "series_slug": "the-black-jacket-symphony-presents-michael-jackson-s-thriller",
-   "title": "The Black Jacket Symphony Presents Michael Jackson's 'Thriller'",
+   "title": "Black Jacket Symphony 'Thriller'",
    "start": "2027-02-13T19:30:00-06:00",
    "end": "2027-02-13T22:30:00-06:00",
    "all_day": false,
    "category": "music",
    "categories": [
     "music",
-    "family"
+    "arts"
    ],
    "venue": {
     "slug": "saenger-theatre",
