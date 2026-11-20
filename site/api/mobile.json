@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-20T21:05:07Z",
+ "generated": "2026-11-20T21:12:46Z",
  "events": [
   {
    "id": 620,
@@ -822,7 +822,7 @@
   {
    "id": 1646,
    "series_slug": "christmas-in-the-park",
-   "title": "Christmas in the Park",
+   "title": "Loxley Christmas in the Park & Tree Lighting",
    "start": "2026-11-20T18:00:00-06:00",
    "end": "2026-11-20T20:00:00-06:00",
    "all_day": false,
@@ -953,13 +953,14 @@
   {
    "id": 268,
    "series_slug": "derek-hough-dance-for-the-holidays",
-   "title": "Derek Hough: Dance For The Holidays",
+   "title": "Derek Hough: Dance for the Holidays",
    "start": "2026-11-20T20:00:00-06:00",
    "end": "2026-11-20T23:00:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
-    "arts"
+    "arts",
+    "family"
    ],
    "venue": {
     "slug": "pensacola-saenger",
@@ -1171,6 +1172,40 @@
    "image": {
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/international-festival.jpg?fit=960%2C960&ssl=1",
     "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1682,
+   "series_slug": "the-turkey-s-done-mystery-dinner",
+   "title": "The Turkey's Done Mystery Dinner",
+   "start": "2026-11-21T00:00:00-06:00",
+   "end": "2026-11-21T23:59:59-06:00",
+   "all_day": true,
+   "category": "food",
+   "categories": [
+    "food"
+   ],
+   "venue": {
+    "slug": "riverview-plaza",
+    "name": "Riverview Plaza",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/the-turkeys-done-mystery-dinner/24349/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/MOB-Mystery-Thanksgiving_94EA2AAD-E0B6-93F1-7A868BF6077B4A2C_94ebd19c-0dad-8a86-ec3144728410d838.jpg",
+    "credit": "Visit Mobile"
    },
    "curation_score": 1,
    "independent_source_count": 1
@@ -1406,6 +1441,35 @@
    "independent_source_count": 1
   },
   {
+   "id": 1647,
+   "series_slug": "home-depot-christmas-car-ornament",
+   "title": "Home Depot- Christmas Car Ornament",
+   "start": "2026-11-21T09:00:00-06:00",
+   "end": "2026-11-21T10:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "name": "Home Depot (Locations Vary)"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/home-depot-christmas-car-ornament/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://themobmom.com/wp-content/uploads/2026/11/11_2026_Kids_Workshop_Nov_Car_Ornament_L.avif",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1819,
    "series_slug": "abba-shriners-gun-show",
    "title": "Abba Shriners Gun Show",
@@ -1466,6 +1530,39 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1886,
+   "series_slug": "dauphin",
+   "title": "Dauphin",
+   "start": "2026-11-21T09:00:00-06:00",
+   "end": "2026-11-21T16:00:00-06:00",
+   "all_day": false,
+   "category": "food",
+   "categories": [
+    "food",
+    "community"
+   ],
+   "venue": {
+    "slug": "cadillac-square-park",
+    "name": "Cadillac Square Park",
+    "city": "Dauphin Island",
+    "regions": [
+     "mobile",
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.facebook.com/events/1852639299082674?active_tab=about",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -1800,13 +1897,14 @@
   {
    "id": 1650,
    "series_slug": "christmas-tree-lighting",
-   "title": "Christmas Tree Lighting",
+   "title": "OWA Tree Lighting",
    "start": "2026-11-21T14:00:00-06:00",
    "end": "2026-11-21T20:00:00-06:00",
    "all_day": false,
    "category": "family",
    "categories": [
-    "family"
+    "family",
+    "music"
    ],
    "venue": {
     "slug": "owa-parks-resort",
@@ -5817,6 +5915,36 @@
    "independent_source_count": 1
   },
   {
+   "id": 1657,
+   "series_slug": "home-depot-kids-workshop-holiday-train",
+   "title": "Home Depot Kids Workshop- Holiday Train",
+   "start": "2026-12-05T09:00:00-06:00",
+   "end": "2026-12-05T10:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "name": "Home Depot (Locations Vary)"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/home-depot-kids-workshop-holiday-train/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://themobmom.com/wp-content/uploads/2026/11/10_2026_Kids_Workshop_Dec_Holiday_Train_L-LoRes.avif",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1816,
    "series_slug": "christmas-in-satsuma",
    "title": "Christmas in Satsuma",
@@ -8073,6 +8201,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1837,
+   "series_slug": "central-midtown-holiday-market-and-open-house",
+   "title": "Central Midtown Holiday Market and Open House",
+   "start": "2026-12-12T00:00:00-06:00",
+   "end": "2026-12-12T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "central-midtown",
+    "name": "Central Midtown",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilearts.org/community-calendar-2",
+   "source": {
+    "name": "Mobile Arts Council community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Central_Midtown-600-x-422-px-_F5F7DB42-9E8B-A656-9D11F7AFAB9C3A68_f5fd9042-f5c9-2931-11b4903b90cb5c03.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
    "id": 1814,
    "series_slug": "casc-mobile-gun-show",
    "title": "Casc Mobile Gun Show",
@@ -8267,37 +8429,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 1015,
-   "series_slug": "central-midtown-second-saturday-market",
-   "title": "Central Midtown: Second Saturday Market",
-   "start": "2026-12-12T10:00:00-06:00",
-   "end": "2026-12-12T13:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "central-midtown",
-    "name": "Central Midtown",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilearts.org/community-calendar-2",
-   "source": {
-    "name": "Mobile Arts Council community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1210,
    "series_slug": "semmes-christmas-parade",
    "title": "Semmes Christmas Parade",
@@ -8325,6 +8456,36 @@
     "redistributable": false
    },
    "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1663,
+   "series_slug": "holiday-trolley-car",
+   "title": "Holiday Trolley Car",
+   "start": "2026-12-12T10:00:00-06:00",
+   "end": "2026-12-12T13:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "name": "Lowes Home Improvement (Locations Vary)"
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/holiday-trolley-car/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/holiday-trolley-car.jpeg?fit=2003%2C1292&ssl=1",
+    "credit": "The Mob Mom"
+   },
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -8657,6 +8818,41 @@
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1798,
+   "series_slug": "christmas-magic-in-semmes",
+   "title": "Christmas Magic in Semmes",
+   "start": "2026-12-12T17:00:00-06:00",
+   "end": "2026-12-12T21:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "active"
+   ],
+   "venue": {
+    "slug": "semmes-municipal-park",
+    "name": "Semmes Municipal Park",
+    "city": "Semmes",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/christmas-magic-in-semmes/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/890939868_122103665625534282_431236144463696451_n.jpg?fit=899%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -12579,37 +12775,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 1085,
-   "series_slug": "trae-crowder-two-shows",
-   "title": "Trae Crowder (Two Shows)",
-   "start": "2027-01-08T19:00:00-06:00",
-   "end": "2027-01-08T23:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/trae-crowder-two-shows-2027-01-08",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 2,
-   "independent_source_count": 4
-  },
-  {
    "id": 412,
    "series_slug": "rhett-miller-of-old-97-s",
    "title": "RHETT MILLER OF OLD 97'S",
@@ -15774,6 +15939,36 @@
    },
    "image": {
     "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1634,
+   "series_slug": "lyle-lovett-hayes-carll",
+   "title": "Lyle Lovett + Hayes Carll",
+   "start": "2027-02-02T19:00:00-06:00",
+   "end": "2027-02-02T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
+   "venue": {
+    "name": ""
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/lyle-lovett-hayes-carll/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/11/0202-Pensacola-LyleLovett-300x250-1.jpg",
     "credit": "92ZEW"
    },
    "curation_score": 1,
