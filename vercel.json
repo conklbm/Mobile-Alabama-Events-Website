@@ -2116,6 +2116,11 @@
       "permanent": true
     },
     {
+      "source": "/events/naturenauts-academy-secrets-beneath-the-surface(/)?",
+      "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
