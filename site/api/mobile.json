@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-20T18:25:55Z",
+ "generated": "2026-11-20T21:05:07Z",
  "events": [
   {
    "id": 620,
@@ -788,9 +788,9 @@
    "independent_source_count": 1
   },
   {
-   "id": 1392,
-   "series_slug": "lighting-of-the-tree",
-   "title": "Lighting of the Tree",
+   "id": 1877,
+   "series_slug": "mobile-lighting-of-the-tree",
+   "title": "Mobile Lighting of the Tree",
    "start": "2026-11-20T17:30:00-06:00",
    "end": "2026-11-20T20:00:00-06:00",
    "all_day": false,
@@ -809,15 +809,15 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.cityofmobile.gov/events/lighting-of-the-tree-2026",
+   "info_url": "https://www.cityofmobile.gov/events/events/lighting-of-the-tree-2026",
    "source": {
-    "name": "City of Mobile",
-    "tier": "A",
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 1646,
@@ -841,9 +841,9 @@
    },
    "price": "Free",
    "ticket_url": "",
-   "info_url": "https://themobmom.com/event/christmas-in-the-park/",
+   "info_url": "https://www.facebook.com/events/2575601742887700",
    "source": {
-    "name": "The Mob Mom",
+    "name": "92ZEW Weekend Rundown",
     "tier": "C",
     "redistributable": false
    },
@@ -851,8 +851,8 @@
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/838940501_1131784416173491_954488944436069601_n.jpg?fit=960%2C640&ssl=1",
     "credit": "The Mob Mom"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 415,
@@ -889,6 +889,68 @@
    "independent_source_count": 4
   },
   {
+   "id": 1881,
+   "series_slug": "university-of-mobile-s-christmas-spectacular-4-performances",
+   "title": "University of Mobile Christmas Spectacular",
+   "start": "2026-11-20T19:00:00-06:00",
+   "end": "2026-11-20T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "cottage-hill-baptist-church",
+    "name": "Cottage Hill Baptist Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://umobile.ludus.com/show_page.php?show_id=200540870&mc_cid=67a933b62d&mc_eid=51b1b127cd",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1878,
+   "series_slug": "noises-off",
+   "title": "Noises Off!",
+   "start": "2026-11-20T19:30:00-06:00",
+   "end": "2026-11-20T22:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "chickasaw-civic-theatre",
+    "name": "Chickasaw Civic Theatre",
+    "city": "Chickasaw",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://cctshows.com/season/noises-off/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 268,
    "series_slug": "derek-hough-dance-for-the-holidays",
    "title": "Derek Hough: Dance For The Holidays",
@@ -909,15 +971,15 @@
    },
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/derek-hough-dance-for-the-holidays-pensacola-florida-11-20-2026/event/1B0064F0E2DB3882",
-   "info_url": "https://www.ticketmaster.com/derek-hough-dance-for-the-holidays-pensacola-florida-11-20-2026/event/1B0064F0E2DB3882",
+   "info_url": "https://www.pensacolasaenger.com/event/derek-hough-dance-for-the-holidays/",
    "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
     "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 1829,
@@ -1501,8 +1563,8 @@
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/group-photo_7D8CAE0A-ED4F-4685-9713980EE8A7E11E_1b9b4b15-5f14-440a-9e23ca9eda53f97f.jpg",
     "credit": "Visit Mobile"
    },
-   "curation_score": 2,
-   "independent_source_count": 2
+   "curation_score": 3,
+   "independent_source_count": 3
   },
   {
    "id": 1166,
@@ -1756,9 +1818,9 @@
    },
    "price": "Free",
    "ticket_url": "",
-   "info_url": "https://themobmom.com/event/christmas-tree-lighting/",
+   "info_url": "https://visitowa.com/christmas-at-owa-events/",
    "source": {
-    "name": "The Mob Mom",
+    "name": "92ZEW Weekend Rundown",
     "tier": "C",
     "redistributable": false
    },
@@ -1766,6 +1828,37 @@
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/865728187_1432602912390381_5024883338149653251_n.jpg?fit=960%2C503&ssl=1",
     "credit": "The Mob Mom"
    },
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
+   "id": 1882,
+   "series_slug": "university-of-mobile-s-christmas-spectacular-4-performances",
+   "title": "University of Mobile Christmas Spectacular",
+   "start": "2026-11-21T14:00:00-06:00",
+   "end": "2026-11-21T17:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "cottage-hill-baptist-church",
+    "name": "Cottage Hill Baptist Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://umobile.ludus.com/show_page.php?show_id=200540870&mc_cid=67a933b62d&mc_eid=51b1b127cd",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -1872,11 +1965,11 @@
    "independent_source_count": 2
   },
   {
-   "id": 1688,
-   "series_slug": "fairhope-movie-in-the-street",
-   "title": "Fairhope Movie in the Street",
+   "id": 1884,
+   "series_slug": "fairhope-movie-in-the-street-the-grinch",
+   "title": "Fairhope Movie in the Street : The Grinch",
    "start": "2026-11-21T18:30:00-06:00",
-   "end": "2026-11-21T20:30:00-06:00",
+   "end": "2026-11-21T21:30:00-06:00",
    "all_day": false,
    "category": "arts",
    "categories": [
@@ -1892,15 +1985,15 @@
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/fairhope-movie-in-the-street-43995",
+   "info_url": "https://www.facebook.com/photo/?fbid=1557151856453922&set=a.226725829496538",
    "source": {
-    "name": "Eastern Shore Chamber of Commerce",
+    "name": "92ZEW Weekend Rundown",
     "tier": "C",
     "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 270,
@@ -1966,6 +2059,37 @@
    },
    "curation_score": 2,
    "independent_source_count": 4
+  },
+  {
+   "id": 1879,
+   "series_slug": "noises-off",
+   "title": "Noises Off!",
+   "start": "2026-11-21T19:30:00-06:00",
+   "end": "2026-11-21T22:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "chickasaw-civic-theatre",
+    "name": "Chickasaw Civic Theatre",
+    "city": "Chickasaw",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://cctshows.com/season/noises-off/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 134,
@@ -2267,6 +2391,68 @@
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/TS_NCAA_Men_s_Basketball_14C890BE-E2BB-CEEE-9669384C8F3B9E8B_14ccb00d-aff1-79b2-656b42bb99bd2d20.jpg",
     "credit": "Visit Mobile"
    },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1880,
+   "series_slug": "noises-off",
+   "title": "Noises Off!",
+   "start": "2026-11-22T14:30:00-06:00",
+   "end": "2026-11-22T17:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "chickasaw-civic-theatre",
+    "name": "Chickasaw Civic Theatre",
+    "city": "Chickasaw",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://cctshows.com/season/noises-off/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1883,
+   "series_slug": "university-of-mobile-s-christmas-spectacular-4-performances",
+   "title": "University of Mobile Christmas Spectacular",
+   "start": "2026-11-22T16:00:00-06:00",
+   "end": "2026-11-22T19:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "cottage-hill-baptist-church",
+    "name": "Cottage Hill Baptist Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://umobile.ludus.com/show_page.php?show_id=200540870&mc_cid=67a933b62d&mc_eid=51b1b127cd",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -8970,6 +9156,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 302,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-15T19:00:00-06:00",
+   "end": "2026-12-15T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-12-15/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1831,
    "series_slug": "speed-puzzling-night-fairhope-brewing-mobile",
    "title": "Speed Puzzling Night",
@@ -9335,6 +9556,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 371,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-17T19:00:00-06:00",
+   "end": "2026-12-17T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2026-12-17/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1018,
    "series_slug": "mobile-botanical-gardens-sketch-club",
    "title": "Mobile Botanical Gardens: Sketch Club",
@@ -9363,6 +9619,40 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 372,
+   "series_slug": "2nd-annual-jacob-hall-memorial-jam",
+   "title": "2nd Annual Jacob Hall Memorial Jam",
+   "start": "2026-12-18T18:00:00-06:00",
+   "end": "2026-12-18T21:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music"
+   ],
+   "venue": {
+    "slug": "downtown-fairhope",
+    "name": "Downtown Fairhope",
+    "city": "Fairhope",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/2nd-annual-jacob-hall-memorial-jam/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/06/jacob-hall-jam-2-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -10020,6 +10310,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 373,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-22T19:00:00-06:00",
+   "end": "2026-12-22T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-12-22/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 645,
    "series_slug": "holiday-extravaganza",
    "title": "Holiday Extravaganza",
@@ -10218,6 +10543,41 @@
    },
    "curation_score": 2,
    "independent_source_count": 2
+  },
+  {
+   "id": 426,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-24T19:00:00-06:00",
+   "end": "2026-12-24T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2026-12-24/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1491,
@@ -10581,6 +10941,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 427,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-29T19:00:00-06:00",
+   "end": "2026-12-29T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2026-12-29/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 573,
    "series_slug": "wednesday-art-club-ages-5-7",
    "title": "Wednesday Art Club (Ages 8-11)",
@@ -10873,6 +11268,41 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 679,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2026-12-31T19:00:00-06:00",
+   "end": "2026-12-31T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2026-12-31/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1701,
@@ -11410,6 +11840,41 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 680,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-01-05T19:00:00-06:00",
+   "end": "2027-01-05T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-01-05/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 654,
@@ -12016,6 +12481,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1081,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-01-07T19:00:00-06:00",
+   "end": "2027-01-07T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2027-01-07/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1820,
    "series_slug": "roman-street-3-performances",
    "title": "Roman Street (3 Performances)",
@@ -12602,6 +13102,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1082,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-01-12T19:00:00-06:00",
+   "end": "2027-01-12T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-01-12/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1080,
    "series_slug": "the-wiz",
    "title": "The Wiz",
@@ -12984,6 +13519,41 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1204,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-01-14T19:00:00-06:00",
+   "end": "2027-01-14T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2027-01-14/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -13673,6 +14243,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1205,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-01-19T19:00:00-06:00",
+   "end": "2027-01-19T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-01-19/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1832,
    "series_slug": "speed-puzzling-night-fairhope-brewing-mobile",
    "title": "Speed Puzzling Night",
@@ -13968,6 +14573,41 @@
    "image": null,
    "curation_score": 1,
    "independent_source_count": 2
+  },
+  {
+   "id": 1304,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-01-21T19:00:00-06:00",
+   "end": "2027-01-21T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2027-01-21/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1287,
@@ -14419,6 +15059,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1305,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-01-26T19:00:00-06:00",
+   "end": "2027-01-26T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-01-26/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1486,
    "series_slug": "community-connections-veterans-resource-pop-up",
    "title": "Community Connections: Veterans Resource Pop-Up",
@@ -14515,6 +15190,41 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1414,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-01-28T19:00:00-06:00",
+   "end": "2027-01-28T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2027-01-28/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -15035,6 +15745,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1415,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-02-02T19:00:00-06:00",
+   "end": "2027-02-02T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-02-02/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1403,
    "series_slug": "liam-st-john",
    "title": "LIAM ST. JOHN",
@@ -15200,6 +15945,41 @@
     "credit": "Mobile Museum of Art"
    },
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1635,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-02-04T19:00:00-06:00",
+   "end": "2027-02-04T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2027-02-04/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -15494,6 +16274,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1636,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-02-09T19:00:00-06:00",
+   "end": "2027-02-09T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-02-09/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1575,
    "series_slug": "enrg-entrepreneurial-network-resource-group",
    "title": "ENRG (Entrepreneurial Network Resource Group)",
@@ -15726,6 +16541,41 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1782,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-02-11T19:00:00-06:00",
+   "end": "2027-02-11T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-3/2027-02-11/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -16183,6 +17033,41 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 1784,
+   "series_slug": "beer-bbq-bingo",
+   "title": "Beer, BBQ & Bingo",
+   "start": "2027-02-16T19:00:00-06:00",
+   "end": "2027-02-16T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "food"
+   ],
+   "venue": {
+    "slug": "moes-original-bbq-mobile",
+    "name": "Moe's Original BBQ (Downtown Mobile)",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/calendar/beer-bbq-bingo-2-2/2027-02-16/",
+   "source": {
+    "name": "92ZEW",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://92zew.net/wp-content/uploads/2026/04/BBB-feat-346-x-245-px.jpg",
+    "credit": "92ZEW"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1833,
