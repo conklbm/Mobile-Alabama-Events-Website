@@ -2076,8 +2076,43 @@
       "permanent": true
     },
     {
+      "source": "/events/annual-veterans-day-parade(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
       "source": "/events/oyster-shell-christmas-ornament-class(/)?",
       "destination": "/venues/bellingrath-gardens/",
+      "permanent": true
+    },
+    {
+      "source": "/events/veterans-day-celebration-and-parade-of-flags(/)?",
+      "destination": "/venues/uss-alabama-battleship-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/storylight-ribbon-cutting(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/songwriters-concert-honoring-veterans(/)?",
+      "destination": "/venues/orange-beach-city-hall/",
+      "permanent": true
+    },
+    {
+      "source": "/events/veterans-day-concert(/)?",
+      "destination": "/venues/uss-alabama-battleship-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/peter-pan-goes-wrong(/)?",
+      "destination": "/venues/monte-l-moorer-theatre/",
+      "permanent": true
+    },
+    {
+      "source": "/events/nick-rochefort-alex-schultz-live-standup-show(/)?",
+      "destination": "/venues/downtown-mobile/",
       "permanent": true
     },
     {
