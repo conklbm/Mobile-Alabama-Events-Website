@@ -1551,7 +1551,7 @@
 
 - slug: riverview-plaza
   name: Riverview Plaza
-  aliases: ["Riverview Plaza"]
+  aliases: ["Riverview Plaza", "Mobile Mystery Dinners"]
   domains: []
   address: "64 S. Water St."
   city: Mobile
@@ -2847,3 +2847,25 @@
   zip: "36575"
   regions: [mobile]
   notes: "City of Semmes park; a 2024 mobilecountyal.gov listing for the Christmas Market & Tree Lighting gives this exact address, matching the city's current Semmes Christmas Parade listing."
+
+- slug: cadillac-square-park
+  name: Cadillac Square Park
+  aliases: ["Cadillac Square Park", "Cadillac Square"]
+  domains: []
+  address: "661 Bienville Blvd"
+  city: Dauphin Island
+  state: AL
+  zip: "36528"
+  regions: [mobile, coastal]
+  notes: "Historic live-oak site on Dauphin Island with picnic tables and restrooms; used for community and family events."
+
+- slug: semmes-municipal-park
+  name: Semmes Municipal Park
+  aliases: ["Semmes Municipal Park", "Semmes Municipal Park And Splash Pad", "8108 Morris Hill Road"]
+  domains: ["cityofsemmesal.gov"]
+  address: "8108 Morris Hill Rd"
+  city: Semmes
+  state: AL
+  zip: "36575"
+  regions: [mobile]
+  notes: "City park with a seasonal (Apr-Oct) splash pad; confirmed via the City of Semmes's own site."

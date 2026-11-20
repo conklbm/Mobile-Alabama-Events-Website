@@ -20,6 +20,8 @@ merge:
   - [615, 1847]  # South Alabama Women's Basketball vs Marshall: USA's own "Holiday Hoops" listing + visit-mobile's generic duplicate, same game
   - [1756, 1846] # South Alabama Women's Basketball vs Louisiana Tech: USA's own "International Student Night" listing + visit-mobile's generic duplicate, same game
   - [1768, 1783] # Tab Benoit with Duane Betts, Saenger Theatre, Feb 11 2027: ticketmaster's official tour-name listing + 92ZEW's full-lineup (incl. Palmetto Motel) duplicate, same show
+  # 2026-11-20, issue #28:
+  - [1837, 1015] # Central Midtown's Second Saturday Market, Dec 12 2026: visit-mobile's themed "Holiday Market and Open House" naming + the generic recurring-series duplicate, same monthly market at 1260 Dauphin St (county calendar confirms the Dec 2025 edition ran as "Holiday Open House and Market" on that month's second Saturday too)
 #  - [1234, 5678]
 
 # Force an occurrence onto a series (by occurrence id -> series slug).
@@ -93,3 +95,8 @@ force_publish:
   - 1451  # 43rd Mobile International Festival, Nov 21: venue_name_raw blank at source (themobmom); confirmed via mobilecountyal.gov and alabama.travel listings to be at The Grounds (already in venues.yaml), same blank-raw issue
   - 1534  # The Moonlight Chasse' Ballroom Dance Society, Jan 5 2027: same blank-raw-field issue as #932/#965; confirmed real recurring event at Hot Wheels Skating Rink, Daphne
   - 1509  # Eastern Shore Children's Clinic Open House celebrating 50 years, Nov 7: venue_name_raw blank at source (eastern-shore-chamber); the clinic's Spanish Fort office only opened ~2021, so a 50th-anniversary event is almost certainly the original Fairhope office (now in venues.yaml), same blank-raw issue
+  # 2026-11-20, issue #28:
+  - 1647  # Home Depot- Christmas Car Ornament, Nov 21 (themobmom): national Home Depot Kids Workshop runs at all area stores same day, no single venue (same reasoning as #682 Lowe's Kid Workshops)
+  - 1657  # Home Depot Kids Workshop- Holiday Train, Dec 5 (themobmom): same multi-store Home Depot Kids Workshop issue as #1647
+  - 1663  # Lowe's Holiday Trolley Car Kids Workshop, Dec 12 (themobmom): same multi-store national-program issue as #682
+  - 1634  # Lyle Lovett + Hayes Carll, Feb 2 2027: venue_name_raw blank at source (92zew); date/lineup match a confirmed Pensacola Saenger Theatre show (eventworld.com listing, Feb 2 2027, 7pm), already in venues.yaml; same blank-raw issue as the other force_publish entries above
