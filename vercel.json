@@ -2121,6 +2121,46 @@
       "permanent": true
     },
     {
+      "source": "/events/partners-in-healing(/)?",
+      "destination": "/venues/crown-hall/",
+      "permanent": true
+    },
+    {
+      "source": "/events/christmas-in-the-country-ladies-night(/)?",
+      "destination": "/venues/gd-farms-wilmer/",
+      "permanent": true
+    },
+    {
+      "source": "/events/usa-hosts-guest-speaker-porochista-khakpour(/)?",
+      "destination": "/venues/university-of-south-alabama-student-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/annual-reserve-art-show-11-12-26(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/town-of-elberta-christmas-parade(/)?",
+      "destination": "/venues/elberta-town-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/tab-benoit-soul-of-the-swamp-tour(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/coastal-classic-loyola-marymount-university-vs-south-alabama(/)?",
+      "destination": "/venues/pensacola-bay-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/cory-branan(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
