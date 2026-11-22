@@ -2161,6 +2161,76 @@
       "permanent": true
     },
     {
+      "source": "/events/alabama-coastal-health-connections-x-asms-science-art-exhibition(/)?",
+      "destination": "/venues/the-frenchmen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/pottery-wheel-throwing-intro-classes(/)?",
+      "destination": "/venues/the-frenchmen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/artwalk-food-drive-wine-tasting(/)?",
+      "destination": "/venues/ac-satellite/",
+      "permanent": true
+    },
+    {
+      "source": "/events/pottery-wheel-throwing-wheel-intro-classes(/)?",
+      "destination": "/venues/love-and-adventure-studios/",
+      "permanent": true
+    },
+    {
+      "source": "/events/artwalk-picture-book-month(/)?",
+      "destination": "/venues/downtown-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/november-art-walk-with-jocelyn-cullity-and-micah-smith(/)?",
+      "destination": "/venues/the-haunted-book-shop/",
+      "permanent": true
+    },
+    {
+      "source": "/events/alabama-coastal-health-connections-alchc-x-asms-science-art-exhibition(/)?",
+      "destination": "/venues/love-and-adventure-studios/",
+      "permanent": true
+    },
+    {
+      "source": "/events/a-collection-by-ashley-terrell(/)?",
+      "destination": "/venues/sophiella-gallery/",
+      "permanent": true
+    },
+    {
+      "source": "/events/lego-holiday-build-event-reservation-required(/)?",
+      "destination": "/venues/barnes-noble-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/sahada-buckley-guest-artist-violin-recital(/)?",
+      "destination": "/venues/laidlaw-performing-arts-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/hannah-mcfarland-soul-kitchen(/)?",
+      "destination": "/venues/soul-kitchen/",
+      "permanent": true
+    },
+    {
+      "source": "/events/jailbreak-5k(/)?",
+      "destination": "/venues/mardi-gras-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/sensory-day(/)?",
+      "destination": "/venues/gulf-coast-exploreum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/foundational-family-history(/)?",
+      "destination": "/venues/local-history-genealogy-library/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
