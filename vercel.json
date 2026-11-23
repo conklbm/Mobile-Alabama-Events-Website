@@ -2181,6 +2181,11 @@
       "permanent": true
     },
     {
+      "source": "/events/merry-midtown-market(/)?",
+      "destination": "/venues/st-pius-x-catholic-church/",
+      "permanent": true
+    },
+    {
       "source": "/events/artwalk-picture-book-month(/)?",
       "destination": "/venues/downtown-mobile/",
       "permanent": true
@@ -2216,6 +2221,11 @@
       "permanent": true
     },
     {
+      "source": "/events/cozy-or-bust-gulf-coast-underground(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
       "source": "/events/jailbreak-5k(/)?",
       "destination": "/venues/mardi-gras-park/",
       "permanent": true
@@ -2226,8 +2236,83 @@
       "permanent": true
     },
     {
+      "source": "/events/merry-bright-christmas-market(/)?",
+      "destination": "/venues/downtown-silverhill/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-bay-walk-to-end-alzheimers(/)?",
+      "destination": "/venues/owa-parks-resort/",
+      "permanent": true
+    },
+    {
+      "source": "/events/arti-gras-mobile-2026(/)?",
+      "destination": "/venues/flambeaux-hall/",
+      "permanent": true
+    },
+    {
+      "source": "/events/member-preview(/)?",
+      "destination": "/venues/gulf-coast-exploreum/",
+      "permanent": true
+    },
+    {
+      "source": "/events/living-history-festival(/)?",
+      "destination": "/venues/fort-conde/",
+      "permanent": true
+    },
+    {
       "source": "/events/foundational-family-history(/)?",
       "destination": "/venues/local-history-genealogy-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/arti-gras-mobile(/)?",
+      "destination": "/venues/detonti-square/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-county-parks-fall-festival-mobile-county-animal-shelter(/)?",
+      "destination": "/venues/mobile-county-animal-shelter/",
+      "permanent": true
+    },
+    {
+      "source": "/events/mobile-county-parks-fall-festival-bayfront-park-and-escatawpa-ho(/)?",
+      "destination": "/venues/escatawpa-hollow-park-campground/",
+      "permanent": true
+    },
+    {
+      "source": "/events/south-alabama-football-vs-troy-hall-of-fame-usa-health-night(/)?",
+      "destination": "/venues/hancock-whitney-stadium/",
+      "permanent": true
+    },
+    {
+      "source": "/events/nephew-tommy-s-black-tie-house-party-comedy-show(/)?",
+      "destination": "/venues/pensacola-saenger/",
+      "permanent": true
+    },
+    {
+      "source": "/events/taken-by-tides(/)?",
+      "destination": "/venues/the-merry-widow/",
+      "permanent": true
+    },
+    {
+      "source": "/events/keep-mobile-beautiful-annual-america-recycles-day(/)?",
+      "destination": "/venues/american-legion-post-250/",
+      "permanent": true
+    },
+    {
+      "source": "/events/publix-battleship-12k(/)?",
+      "destination": "/venues/uss-alabama-battleship-park/",
+      "permanent": true
+    },
+    {
+      "source": "/events/battleship-12k(/)?",
+      "destination": "/venues/spanish-fort-town-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/historical-lecture-series-the-pelican-girls(/)?",
+      "destination": "/venues/cox-deasy-cottage-at-historic-oakleigh/",
       "permanent": true
     },
     {
