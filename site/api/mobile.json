@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-23T21:57:16Z",
+ "generated": "2026-11-24T20:33:15Z",
  "events": [
   {
    "id": 620,
@@ -34,38 +34,6 @@
    "independent_source_count": 0
   },
   {
-   "id": 1828,
-   "series_slug": "university-of-mobile-s-christmas-spectacular-4-performances",
-   "title": "University of Mobile's Christmas Spectacular (4 Performances)",
-   "start": "2026-11-19T00:00:00-06:00",
-   "end": "2026-11-22T23:59:59-06:00",
-   "all_day": true,
-   "category": "music",
-   "categories": [
-    "music",
-    "community"
-   ],
-   "venue": {
-    "slug": "cottage-hill-baptist-church",
-    "name": "Cottage Hill Baptist Church",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-university-of-mobiles-christmas-spectacular-2026-11-19",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
    "id": 1645,
    "series_slug": "santa-at-eastern-shore-centre",
    "title": "Santa at Eastern Shore Centre",
@@ -96,103 +64,6 @@
     "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/888416447_1747744214021032_6451279919303711534_n.jpg?fit=960%2C540&ssl=1",
     "credit": "The Mob Mom"
    },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 880,
-   "series_slug": "annual-coastal-christmas-market",
-   "title": "Annual Coastal Christmas Market",
-   "start": "2026-11-21T00:00:00-06:00",
-   "end": "2026-11-22T23:59:59-06:00",
-   "all_day": true,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-event-center",
-    "name": "Orange Beach Event Center",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.gulfshores.com/events-calendar/annual-events-and-festivals/annual-coastal-christmas-market/",
-   "source": {
-    "name": "Gulf Shores & Orange Beach Tourism (festivals)",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1494,
-   "series_slug": "gabriels-third-annual-friendsgiving",
-   "title": "Gabriel’s Third Annual Friendsgiving",
-   "start": "2026-11-22T00:00:00-06:00",
-   "end": "2026-11-22T23:59:59-06:00",
-   "all_day": true,
-   "category": "music",
-   "categories": [
-    "music",
-    "food"
-   ],
-   "venue": {
-    "slug": "downtown-mobile",
-    "name": "Downtown Mobile",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobile.org/event/gabriel%e2%80%99s-third-annual-friendsgiving/24338/",
-   "source": {
-    "name": "Visit Mobile",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Friendsgiving_5DCAF5FB-9930-9BF9-938B4680E3C949F3_5dd8b1d1-bc19-cf02-4659f2a2f509068a.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1883,
-   "series_slug": "university-of-mobile-s-christmas-spectacular-4-performances",
-   "title": "University of Mobile Christmas Spectacular",
-   "start": "2026-11-22T16:00:00-06:00",
-   "end": "2026-11-22T19:00:00-06:00",
-   "all_day": false,
-   "category": "music",
-   "categories": [
-    "music"
-   ],
-   "venue": {
-    "slug": "cottage-hill-baptist-church",
-    "name": "Cottage Hill Baptist Church",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://umobile.ludus.com/show_page.php?show_id=200540870&mc_cid=67a933b62d&mc_eid=51b1b127cd",
-   "source": {
-    "name": "92ZEW Weekend Rundown",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
    "curation_score": 1,
    "independent_source_count": 1
   },

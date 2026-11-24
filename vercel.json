@@ -1741,6 +1741,11 @@
       "permanent": true
     },
     {
+      "source": "/events/frank-brown-songwriters-festival(/)?",
+      "destination": "/venues/flora-bama/",
+      "permanent": true
+    },
+    {
       "source": "/events/cultivate-growing-stem-educators-prek-k-session(/)?",
       "destination": "/venues/bellingrath-gardens/",
       "permanent": true
@@ -2171,6 +2176,11 @@
       "permanent": true
     },
     {
+      "source": "/events/42nd-annual-christmas-jubilee(/)?",
+      "destination": "/venues/mobile-convention-center/",
+      "permanent": true
+    },
+    {
       "source": "/events/artwalk-food-drive-wine-tasting(/)?",
       "destination": "/venues/ac-satellite/",
       "permanent": true
@@ -2311,8 +2321,38 @@
       "permanent": true
     },
     {
+      "source": "/events/mystic-dollys-of-folly-boot-scootin-bingo(/)?",
+      "destination": "/venues/crown-hall/",
+      "permanent": true
+    },
+    {
       "source": "/events/historical-lecture-series-the-pelican-girls(/)?",
       "destination": "/venues/cox-deasy-cottage-at-historic-oakleigh/",
+      "permanent": true
+    },
+    {
+      "source": "/events/flute-friends(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/bam-for-a-fam-mahjong-tournament(/)?",
+      "destination": "/venues/dots-and-dragons-mahjong/",
+      "permanent": true
+    },
+    {
+      "source": "/events/keep-the-music-playing-annual-gala-benefiting-the-jazz-studio(/)?",
+      "destination": "/venues/spring-hill-college/",
+      "permanent": true
+    },
+    {
+      "source": "/events/staying-safe-in-public-places-for-high-school-girls-and-their-moms(/)?",
+      "destination": "/venues/great-day-latte/",
+      "permanent": true
+    },
+    {
+      "source": "/events/spanish-wine-and-cheese-tasting-at-the-conde-charlotte-museum(/)?",
+      "destination": "/venues/conde-charlotte-museum-house/",
       "permanent": true
     },
     {
