@@ -2346,6 +2346,11 @@
       "permanent": true
     },
     {
+      "source": "/events/usa-brass-ensembles-fall-concert(/)?",
+      "destination": "/venues/laidlaw-performing-arts-center/",
+      "permanent": true
+    },
+    {
       "source": "/events/staying-safe-in-public-places-for-high-school-girls-and-their-moms(/)?",
       "destination": "/venues/great-day-latte/",
       "permanent": true
@@ -2353,6 +2358,16 @@
     {
       "source": "/events/spanish-wine-and-cheese-tasting-at-the-conde-charlotte-museum(/)?",
       "destination": "/venues/conde-charlotte-museum-house/",
+      "permanent": true
+    },
+    {
+      "source": "/events/holiday-cheer-with-grace(/)?",
+      "destination": "/venues/grace-on-dauphin/",
+      "permanent": true
+    },
+    {
+      "source": "/events/elected-officials-luncheon-2026(/)?",
+      "destination": "/venues/downtown-fairhope/",
       "permanent": true
     },
     {
