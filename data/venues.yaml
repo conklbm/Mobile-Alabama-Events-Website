@@ -1511,7 +1511,7 @@
 
 - slug: spanish-plaza-park
   name: Spanish Plaza Park
-  aliases: ["Spanish Plaza Park"]
+  aliases: ["Spanish Plaza Park", "Spanish Plaza"]
   domains: []
   address: "401 Government St."
   city: Mobile
@@ -2633,7 +2633,7 @@
 
 - slug: barnes-noble-mobile
   name: "Barnes & Noble (Mobile)"
-  aliases: ["Barnes & Noble Mobile"]
+  aliases: ["Barnes & Noble Mobile", "Barnes & Noble"]
   domains: ["barnesandnoble.com"]
   address: "3930 Airport Blvd"
   city: Mobile
@@ -2869,3 +2869,125 @@
   zip: "36575"
   regions: [mobile]
   notes: "City park with a seasonal (Apr-Oct) splash pad; confirmed via the City of Semmes's own site."
+
+# --- resolved from issue #29 (2026-11-26), verified by web research ---
+
+- slug: gulf-shores-public-library
+  name: Gulf Shores Public Library
+  aliases: ["Gulf Shores Public Library", "Thomas B. Norton Public Library"]
+  domains: ["gulfshoresal.gov"]
+  address: "221 W 19th Ave"
+  city: Gulf Shores
+  state: AL
+  zip: "36542"
+  regions: [coastal]
+  notes: "City library, officially named Thomas B. Norton Public Library; open Mon-Fri 10am-6pm."
+
+- slug: tillmans-corner-community-center
+  name: Tillman's Corner Community Center
+  aliases: ["Tillman's Corner Community Center"]
+  domains: []
+  address: "5055 Carol Plantation Rd"
+  city: Mobile
+  state: AL
+  zip: "36619"
+  regions: [mobile]
+  notes: "Not to be confused with the separate Tillman's Corner Senior Citizen Center on Nevius Rd."
+
+- slug: eastern-shore-lanes
+  name: Eastern Shore Lanes
+  aliases: ["Eastern Shore Lanes"]
+  domains: ["eslanes.com"]
+  address: "10460 Eastern Shore Blvd"
+  city: Spanish Fort
+  state: AL
+  zip: "36527"
+  regions: [mobile]
+  notes: "Family entertainment center: Brunswick bowling, arcade, laser tag, and the Alley 25 restaurant."
+
+- slug: mobile-government-plaza
+  name: Mobile Government Plaza
+  aliases: ["Mobile Government Plaza", "Government Plaza"]
+  domains: []
+  address: "205 Government St"
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "City/county administration and courts tower downtown, with a large glass-enclosed atrium used for public events like tree lightings."
+
+- slug: historic-oakleigh-house-museum
+  name: The Historic Oakleigh House Museum
+  aliases: ["The Historic Oakleigh House Museum", "Oakleigh House Museum", "Historic Oakleigh"]
+  domains: ["historicmobile.org"]
+  address: "350 Oakleigh Place"
+  city: Mobile
+  state: AL
+  zip: "36604"
+  regions: [mobile]
+  notes: "The main 1833 house museum on the Oakleigh Historic Complex, run by the Historic Mobile Preservation Society; distinct from the Cox-Deasy Cottage on the same grounds."
+
+- slug: california-dreaming-spanish-fort
+  name: California Dreaming (Spanish Fort)
+  aliases: ["California Dreaming Spanish Fort", "California Dreaming"]
+  domains: []
+  address: "30500 State Hwy 181"
+  city: Spanish Fort
+  state: AL
+  zip: "36527"
+  regions: [mobile]
+  notes: "Restaurant in the Eastern Shore Centre; hosts seasonal kids' events like Breakfast with Santa."
+
+- slug: daphne-middle-school
+  name: Daphne Middle School
+  aliases: ["Daphne Middle School"]
+  domains: []
+  address: "1 Jody Davis Cir"
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+
+- slug: wc-griggs-elementary-school
+  name: W.C. Griggs Elementary School
+  aliases: ["W.C. Griggs Elementary School"]
+  domains: []
+  address: "6001 Three Notch Rd"
+  city: Mobile
+  state: AL
+  zip: "36619"
+  regions: [mobile]
+  notes: "In the Tillman's Corner area of Mobile."
+
+- slug: garrett-park-robertsdale
+  name: Garrett Park (Robertsdale)
+  aliases: ["Garrett Park Robertsdale", "Garrett Park"]
+  domains: []
+  address: "18080 Pennsylvania St"
+  city: Robertsdale
+  state: AL
+  zip: "36567"
+  regions: [coastal]
+  notes: "45-acre city park at Pennsylvania and Palmer Streets."
+
+- slug: honeybee-park-robertsdale
+  name: Honeybee Park (Robertsdale)
+  aliases: ["Honeybee Park – Robertsdale", "Honeybee Park", "Honey Bee Park"]
+  domains: []
+  address: "22780 State Hwy 59 N"
+  city: Robertsdale
+  state: AL
+  zip: "36567"
+  regions: [coastal]
+  notes: "City park renovated and rededicated with a pavilion; named for the city's Honey Bee Festival."
+
+- slug: bishop-state-community-college
+  name: Bishop State Community College
+  aliases: ["Bishop State Community College"]
+  domains: ["bishop.edu"]
+  address: "351 N Broad St"
+  city: Mobile
+  state: AL
+  zip: "36603"
+  regions: [mobile]
+  notes: "Downtown Campus; the college also runs Carver and Southwest campuses in Mobile."

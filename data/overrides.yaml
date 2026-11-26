@@ -22,6 +22,8 @@ merge:
   - [1768, 1783] # Tab Benoit with Duane Betts, Saenger Theatre, Feb 11 2027: ticketmaster's official tour-name listing + 92ZEW's full-lineup (incl. Palmetto Motel) duplicate, same show
   # 2026-11-20, issue #28:
   - [1837, 1015] # Central Midtown's Second Saturday Market, Dec 12 2026: visit-mobile's themed "Holiday Market and Open House" naming + the generic recurring-series duplicate, same monthly market at 1260 Dauphin St (county calendar confirms the Dec 2025 edition ran as "Holiday Open House and Market" on that month's second Saturday too)
+  # 2026-11-26, issue #29:
+  - [1085, 1995]  # Trae Crowder, Crescent Theater, Jan 8 2027: mobile-county's "Two Shows" (7pm+9pm) is the same booking as downtown-mobile-alliance's "Early Show" (7pm) duplicate, same pattern as the prior weeks' merges for this recurring booking
 #  - [1234, 5678]
 
 # Force an occurrence onto a series (by occurrence id -> series slug).
@@ -45,6 +47,8 @@ never_merge:
   - [1284, 1283] # USA basketball: Men's vs Southern Miss and Women's vs Arkansas State are different teams and different opponents
   - [1559, 1558] # USA Wind Ensemble Fall Concert vs USA Symphony Band Fall Concert, both at Laidlaw: different ensembles with their own annual fall concert, confirmed via USA Music Dept history
   - [1774, 1193] # Pensacola Children's Chorus, Dec 12: "Cocoa with Santa ticket add on" is a separate add-on ticket product, not a duplicate of the "Christmas on the Coast" program itself
+  # 2026-11-26, issue #29:
+  - [2009, 2008]  # USA basketball: Men's vs Louisiana Monroe and Women's vs Louisiana Lafayette are different teams and different opponents
 
 # Confirm cancellation (occurrence id) — removes it from the site.
 cancelled:
@@ -79,6 +83,8 @@ not_cancelled:
   - 856   # USA Faculty Trumpet and Horn Recital: same case as #819 - visit-mobile still lists it fresh while mobile-arts-council missed it twice
   - 794   # Historical Lecture Series: A Taste of Mobile, Dec 13: still listed on the organizer's own site (historicmobile.org/event-details-registration/lecture-series-a-taste-of-mobile), Chris Andrews/Bienville Bites Food Tour, Cox-Deasy Cottage (checked 2026-10-23)
   - 795   # Historical Lecture Series: The Pelican Girls, Nov 15: still listed on historicmobile.org/event-details-registration/lecture-series-the-pelican-girls and mobilecountyal.gov's community events calendar, same date/venue (checked 2026-11-05)
+  # 2026-11-26, issue #29:
+  - 1085  # Trae Crowder (Two Shows), Crescent Theater, Jan 8 2027: still listed with active ticket pricing ($44.10-$162.18) on mobilecountyal.gov's "trae-crowder-two-shows-2027-01-08" listing (checked 2026-11-26)
 
 # Publish a held item as-is (occurrence id). Use when the venue is genuinely
 # unknown but the event is real — better to add an alias in venues.yaml.
