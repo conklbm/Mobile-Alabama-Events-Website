@@ -1,6 +1,6 @@
 {
  "region": "coastal",
- "generated": "2026-11-26T19:08:41Z",
+ "generated": "2026-11-26T19:16:04Z",
  "events": [
   {
    "id": 1591,
@@ -283,6 +283,40 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1950,
+   "series_slug": "community-christmas",
+   "title": "Community Christmas",
+   "start": "2026-11-26T17:30:00-06:00",
+   "end": "2026-11-26T18:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "gulf-shores-public-library",
+    "name": "Gulf Shores Public Library",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshoresal.gov/christmas",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/Document-scaled.png?fit=2560%2C2560&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -579,7 +613,8 @@
    "all_day": false,
    "category": "family",
    "categories": [
-    "family"
+    "family",
+    "food"
    ],
    "venue": {
     "slug": "lulus-gulf-shores",
@@ -722,37 +757,6 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-11-28-2026/event/1B00650D85736317",
    "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-11-28-2026/event/1B00650D85736317",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 368,
-   "series_slug": "motown-christmas",
-   "title": "Motown Christmas",
-   "start": "2026-11-28T19:30:00-06:00",
-   "end": "2026-11-28T22:30:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "pensacola-saenger",
-    "name": "Saenger Theatre (Pensacola)",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/motown-christmas-pensacola-florida-11-28-2026/event/1B006535E1AB81DE",
-   "info_url": "https://www.ticketmaster.com/motown-christmas-pensacola-florida-11-28-2026/event/1B006535E1AB81DE",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -1558,6 +1562,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1960,
+   "series_slug": "ornament-making-with-mrs-claus-story-time",
+   "title": "Ornament Making With Mrs. Claus & Story Time",
+   "start": "2026-12-03T10:30:00-06:00",
+   "end": "2026-12-03T11:30:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family"
+   ],
+   "venue": {
+    "slug": "gulf-shores-public-library",
+    "name": "Gulf Shores Public Library",
+    "city": "Gulf Shores",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://www.gulfshoresal.gov/christmas",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1740,
    "series_slug": "total-body-fit",
    "title": "Total Body Fit",
@@ -1982,37 +2017,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1240,
-   "series_slug": "flora-bama-s-annual-santa-drop",
-   "title": "Flora-Bama's Annual Santa Drop",
-   "start": "2026-12-05T00:00:00-06:00",
-   "end": "2026-12-05T23:59:59-06:00",
-   "all_day": true,
-   "category": "family",
-   "categories": [
-    "family"
-   ],
-   "venue": {
-    "slug": "flora-bama",
-    "name": "Flora-Bama",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.florabama.com/santa-drop",
-   "source": {
-    "name": "The Mob Mom",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 2,
-   "independent_source_count": 2
-  },
-  {
    "id": 1526,
    "series_slug": "homeownership-education-class",
    "title": "Homeownership Education Class",
@@ -2169,34 +2173,69 @@
    "independent_source_count": 1
   },
   {
-   "id": 1900,
-   "series_slug": "visions-of-christmas",
-   "title": "Visions of Christmas",
-   "start": "2026-12-05T14:00:00-06:00",
-   "end": "2026-12-05T16:00:00-06:00",
+   "id": 1240,
+   "series_slug": "flora-bama-s-annual-santa-drop",
+   "title": "Flora-Bama Annual Santa Drop",
+   "start": "2026-12-05T11:00:00-06:00",
+   "end": "2026-12-05T14:00:00-06:00",
    "all_day": false,
-   "category": "community",
+   "category": "family",
    "categories": [
-    "community"
+    "family"
    ],
    "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
+    "slug": "flora-bama",
+    "name": "Flora-Bama",
+    "city": "Pensacola",
     "regions": [
      "coastal"
     ]
    },
    "price": "",
    "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11165",
+   "info_url": "https://www.florabama.com/santa-drop",
    "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
    },
    "image": null,
-   "curation_score": 0,
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
+   "id": 1972,
+   "series_slug": "christmas-rescue-roundup",
+   "title": "Christmas Rescue Roundup",
+   "start": "2026-12-05T14:00:00-06:00",
+   "end": "2026-12-05T16:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "music"
+   ],
+   "venue": {
+    "slug": "garrett-park-robertsdale",
+    "name": "Garrett Park (Robertsdale)",
+    "city": "Robertsdale",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "Free",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/christmas-rescue-roundup/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/911567858_122146087857045043_363870276596720712_n.jpg?fit=751%2C960&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -2267,6 +2306,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1974,
+   "series_slug": "robertsdale-christmas-parade",
+   "title": "Robertsdale Christmas Parade",
+   "start": "2026-12-05T18:30:00-06:00",
+   "end": "2026-12-05T20:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "honeybee-park-robertsdale",
+    "name": "Honeybee Park (Robertsdale)",
+    "city": "Robertsdale",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/robertsdale-christmas-parade/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/858788050_1584005130429974_1950639021568761274_n.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1975,
    "series_slug": "fiddle-in-the-band-an-alabama-christmas",
    "title": "Fiddle in the Band – An Alabama Christmas",
@@ -2296,6 +2369,37 @@
    },
    "image": null,
    "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1900,
+   "series_slug": "visions-of-christmas",
+   "title": "Visions of Christmas",
+   "start": "2026-12-05T19:00:00-06:00",
+   "end": "2026-12-05T21:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11165",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
    "independent_source_count": 1
   },
   {
@@ -2519,37 +2623,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1902,
-   "series_slug": "visions-of-christmas",
-   "title": "Visions of Christmas",
-   "start": "2026-12-06T14:00:00-06:00",
-   "end": "2026-12-06T16:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11168",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 1622,
    "series_slug": "pensacola-bay-center-after-game-skate",
    "title": "Pensacola Bay Center Holiday Skate 6:30-7:30pm",
@@ -2606,6 +2679,37 @@
     "name": "Ticketmaster",
     "tier": "B",
     "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1902,
+   "series_slug": "visions-of-christmas",
+   "title": "Visions of Christmas",
+   "start": "2026-12-06T19:00:00-06:00",
+   "end": "2026-12-06T21:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11168",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
    },
    "image": null,
    "curation_score": 0,
@@ -2728,38 +2832,6 @@
    "price": "",
    "ticket_url": "",
    "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9359",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1907,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-12-08T07:20:00-06:00",
-   "end": "2026-12-08T08:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9173",
    "source": {
     "name": "City of Orange Beach",
     "tier": "A",
@@ -2929,6 +3001,38 @@
    },
    "curation_score": 1,
    "independent_source_count": 2
+  },
+  {
+   "id": 1907,
+   "series_slug": "indoor-cycling",
+   "title": "Indoor Cycling",
+   "start": "2026-12-08T17:00:00-06:00",
+   "end": "2026-12-08T18:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "orange-beach-city-hall",
+    "name": "Orange Beach City Hall",
+    "city": "Orange Beach",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9173",
+   "source": {
+    "name": "City of Orange Beach",
+    "tier": "A",
+    "redistributable": true
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
   },
   {
    "id": 1912,
