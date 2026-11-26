@@ -501,11 +501,6 @@
       "permanent": true
     },
     {
-      "source": "/events/rodney-carrington(/)?",
-      "destination": "/venues/pensacola-saenger/",
-      "permanent": true
-    },
-    {
       "source": "/events/spectacular(/)?",
       "destination": "/venues/saenger-theatre/",
       "permanent": true
@@ -903,11 +898,6 @@
     {
       "source": "/events/sunday-brunch-cruise(/)?",
       "destination": "/venues/five-rivers-delta-center/",
-      "permanent": true
-    },
-    {
-      "source": "/events/trance-painting-transformation-through-art(/)?",
-      "destination": "/venues/the-frenchmen/",
       "permanent": true
     },
     {
@@ -2046,11 +2036,6 @@
       "permanent": true
     },
     {
-      "source": "/events/off-the-cuff-puppet-improv(/)?",
-      "destination": "/venues/crescent-theater/",
-      "permanent": true
-    },
-    {
       "source": "/events/akchamel-fuckless-mamalon(/)?",
       "destination": "/",
       "permanent": true
@@ -2366,8 +2351,68 @@
       "permanent": true
     },
     {
+      "source": "/events/speed-puzzling-night(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
       "source": "/events/elected-officials-luncheon-2026(/)?",
       "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/junior-artists(/)?",
+      "destination": "/venues/daphne-public-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/bridging-generations-through-art-free-youth-program(/)?",
+      "destination": "/venues/dotch-community-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/christian-comedy-revival-live-talk-show(/)?",
+      "destination": "/venues/revive-church-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/events/usa-symphony-band-fall-concert(/)?",
+      "destination": "/venues/laidlaw-performing-arts-center/",
+      "permanent": true
+    },
+    {
+      "source": "/events/12th-annual-state-of-the-economy(/)?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/events/12th-annual-state-of-the-economy-saenger-theatre(/)?",
+      "destination": "/venues/saenger-theatre/",
+      "permanent": true
+    },
+    {
+      "source": "/events/eggs-issues-business-fraud-latest-scams-what-does-everybody-need-to(/)?",
+      "destination": "/venues/resurrection-church-daphne/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gbeta-alumni-lunch(/)?",
+      "destination": "/venues/innovation-portal/",
+      "permanent": true
+    },
+    {
+      "source": "/events/fairhope-networking-at-noon-kingfisher(/)?",
+      "destination": "/venues/downtown-fairhope/",
+      "permanent": true
+    },
+    {
+      "source": "/events/daphne-networking-at-noon-press-and-co(/)?",
+      "destination": "/venues/press-and-co-daphne/",
+      "permanent": true
+    },
+    {
+      "source": "/events/spanish-fort-networking-at-noon-the-bull(/)?",
+      "destination": "/venues/the-bull-spanish-fort/",
       "permanent": true
     },
     {
