@@ -1191,7 +1191,7 @@
 
 - slug: steele-creek-lodge
   name: Steele Creek Lodge
-  aliases: ["Steele Creek Lodge"]
+  aliases: ["Steele Creek Lodge", "Steele Creek Satsuma"]
   domains: []
   address: "368 Juniper Ave."
   city: Satsuma
@@ -2991,3 +2991,48 @@
   zip: "36603"
   regions: [mobile]
   notes: "Downtown Campus; the college also runs Carver and Southwest campuses in Mobile."
+
+# --- added from issue #30 review (2026-11-27), verified by web search ---
+
+- slug: electric-piano-parlor
+  name: Electric Piano Parlor
+  aliases: ["Electric Piano Parlor"]
+  domains: []
+  address: "310 Dauphin St"
+  city: Mobile
+  state: AL
+  zip: "36602"
+  regions: [mobile]
+  notes: "Dueling-piano bar on Dauphin St downtown; hosts dueling-pianos shows booked through 92ZEW's weekend rundown."
+
+- slug: summers-reverie-vintage-antiques
+  name: Summer's Reverie Vintage & Antiques
+  aliases: ["Summer's Reverie Vintage & Antiques", "Summers Reverie Vintage & Antiques", "Summer's Reverie"]
+  domains: []
+  address: "6710A Old Shell Rd"
+  city: Mobile
+  state: AL
+  zip: "36608"
+  regions: [mobile]
+  notes: "Locally owned vintage and antiques shop on Old Shell Rd."
+
+- slug: university-of-south-alabama
+  name: University of South Alabama
+  aliases: ["University of South Alabama"]
+  domains: ["southalabama.edu"]
+  address: "307 University Blvd N"
+  city: Mobile
+  state: AL
+  zip: "36688"
+  regions: [mobile]
+  notes: "Main campus address; events that don't name a specific building (Mitchell Center, Student Center, etc.) land here."
+
+- slug: main-street-daphne
+  name: Main Street Daphne
+  aliases: ["Main Street Daphne", "Main Street, Daphne"]
+  domains: []
+  city: Daphne
+  state: AL
+  zip: "36526"
+  regions: [mobile]
+  notes: "Olde Towne Daphne's Main Street; the city's Christmas parade and other street events route along it."

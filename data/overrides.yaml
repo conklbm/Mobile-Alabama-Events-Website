@@ -107,6 +107,9 @@ not_cancelled:
   - 784   # Historical Lecture Series: Clotilda Survivors, Living Legacy, Cox-Deasy Cottage, Dec 13: on both mobilecountyal.gov and historicmobile.org
   - 1473  # Project Homeless Connect 2027, The Grounds, Jan 29 2027: named in a Nov 19 2026 Fox10 article on the event
   - 1087  # Walters Controls Mobile Marathon, Mardi Gras Park, Jan 10 2027: on mobilecountyal.gov + mobilesportsauthority.com + RunSignUp (branded "2027" in current listings)
+  # 2026-11-27, issue #30:
+  - 1218  # Gilded Age Christmas Tours of Richards-Dar House, Dec 4: organizer's own Zeffy ticketing page ("A Gilded Age Christmas: The Golden Gala & Christmas Tours", Dec 3-6) still selling tickets; corroborated by mobile.org's December happenings blog post
+  - 1770  # Black Jacket Symphony 'Thriller', Saenger Theatre, Feb 13 2027: still listed 7:30pm on concerts50.com ticket aggregator
 
 # Publish a held item as-is (occurrence id). Use when the venue is genuinely
 # unknown but the event is real — better to add an alias in venues.yaml.
