@@ -72,6 +72,8 @@ cancelled:
   - 989   # Moonlight on Dauphin Paint & Sip: gone from the Arts Council calendar
   - 988   # "Administrator": a junk title, since deleted from the Arts Council calendar
   - 475   # Mobile Chamber board meeting: members only, not a public event
+  # 2026-11-27, issue #29 (live queue re-check):
+  - 1293  # LAREDO, The Merry Widow, Nov 29: venue's full Nov/Dec calendar is well-indexed across ticket aggregators with no gap for this date/act; appears pulled
 
 # Clear a cancellation flag (occurrence id) — it's still happening.
 not_cancelled:
@@ -85,6 +87,26 @@ not_cancelled:
   - 795   # Historical Lecture Series: The Pelican Girls, Nov 15: still listed on historicmobile.org/event-details-registration/lecture-series-the-pelican-girls and mobilecountyal.gov's community events calendar, same date/venue (checked 2026-11-05)
   # 2026-11-26, issue #29:
   - 1085  # Trae Crowder (Two Shows), Crescent Theater, Jan 8 2027: still listed with active ticket pricing ($44.10-$162.18) on mobilecountyal.gov's "trae-crowder-two-shows-2027-01-08" listing (checked 2026-11-26)
+  # 2026-11-27, issue #29 (live queue re-check); all via ticket aggregators/press/county listings since
+  # mobilecountyal.gov, themobmom.com, mobilesaenger.com, pensacolasaenger.com, business.eschamber.com and
+  # my.mobilechamber.com could not be reached directly from this session (see routine-notes.md):
+  - 215   # Get the Led Out, Saenger Theatre Mobile, Dec 5: still listed 7:30pm across multiple ticket resale sites
+  - 217   # Jodeci 35th Anniversary Tour, Saenger Theatre Mobile, Dec 6: still listed 7:30pm, TickPick/Live Nation/Stereoboard agree
+  - 218   # A Celtic Christmas by a Taste of Ireland, Saenger Theatre Mobile, Dec 9: still listed 7:30pm, gametime.co/eventticketscenter agree
+  - 220   # Bill Gaither and the Gaither Vocal Band, Cottage Hill Baptist Church, Dec 10: still listed there (StubHub/happeningnext/vividseats/concerts50)
+  - 368   # Motown Christmas, Saenger Theatre Pensacola, Nov 28: still listed 7pm on HelloTickets (marked Sold Out, i.e. happening)
+  - 779   # 'Cinderella', Saenger Theatre Mobile, Jan 6 2027: still listed 7pm on mobilecountyal.gov's own community events calendar
+  - 1077  # Eddie B 'If These Classroom Walls Could Talk' Tour, Saenger Theatre Mobile, Jan 9 2027: still listed 8pm on mobilecountyal.gov
+  - 780   # Biggest Little Holiday Party, Mobile Convention Center, Dec 4: still listed 5-9pm on mobilecountyal.gov
+  - 799   # Wheels and Reels Drive-In Movies, Mobile Flea Market, Dec 4: still listed 6-10pm on the City of Mobile's own events page
+  - 214   # Hunter Flynn: Back to My Roots Tour, Soul Kitchen Music Hall, Dec 4: tour press release + independent ticket aggregator agree
+  - 773   # South Mobile County Operation Clean Sweep, Irvington, Dec 5: on Mobile County's own fall-schedule press release
+  - 743   # A Walk to Remember in December, Semmes, Dec 5: active RunSignUp registration + Nov 16 Fox10 article
+  - 767   # Winter Craft Fair, Providence Presbyterian Church, Dec 5: on Mobile County's community events listing + TheCraftMap
+  - 1223  # Lighting Up Midtown Festival, St. Mary's Catholic Church, Dec 5: on St. Mary's own Zeffy ticketing page
+  - 784   # Historical Lecture Series: Clotilda Survivors, Living Legacy, Cox-Deasy Cottage, Dec 13: on both mobilecountyal.gov and historicmobile.org
+  - 1473  # Project Homeless Connect 2027, The Grounds, Jan 29 2027: named in a Nov 19 2026 Fox10 article on the event
+  - 1087  # Walters Controls Mobile Marathon, Mardi Gras Park, Jan 10 2027: on mobilecountyal.gov + mobilesportsauthority.com + RunSignUp (branded "2027" in current listings)
 
 # Publish a held item as-is (occurrence id). Use when the venue is genuinely
 # unknown but the event is real — better to add an alias in venues.yaml.
