@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-26T19:27:46Z",
+ "generated": "2026-11-27T15:19:16Z",
  "events": [
   {
    "id": 620,
@@ -68,71 +68,6 @@
    "independent_source_count": 1
   },
   {
-   "id": 1175,
-   "series_slug": "crescent-comedy-workshop-crescent-theater",
-   "title": "Crescent Comedy Chaos",
-   "start": "2026-11-25T20:00:00-06:00",
-   "end": "2026-11-25T22:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts"
-   ],
-   "venue": {
-    "slug": "crescent-theater",
-    "name": "Crescent Theater",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$2.06",
-   "ticket_url": "https://www.ticketweb.com/event/crescent-comedy-workshop-crescent-theater-tickets/15049653",
-   "info_url": "https://www.downtownmobile.org/event/crescent-comedy-workshop-2/",
-   "source": {
-    "name": "Downtown Mobile Alliance",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://www.downtownmobile.org/wp-content/uploads/2026/11/workshop-nov11-1.png",
-    "credit": "Downtown Mobile Alliance"
-   },
-   "curation_score": 2,
-   "independent_source_count": 4
-  },
-  {
-   "id": 1291,
-   "series_slug": "north-by-north-w-dirty-fridays-disco-lemonade",
-   "title": "North by North w/ Dirty Fridays & Disco Lemonade",
-   "start": "2026-11-25T20:00:00-06:00",
-   "end": "2026-11-25T23:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "the-merry-widow",
-    "name": "The Merry Widow",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "$13.46",
-   "ticket_url": "https://www.ticketweb.com/event/north-by-north-w-dirty-the-merry-widow-tickets/14405984",
-   "info_url": "https://www.ticketweb.com/event/north-by-north-w-dirty-the-merry-widow-tickets/14405984",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
    "id": 957,
    "series_slug": "lin-wise-memories-show",
    "title": "Lin Wise Memories Show",
@@ -161,72 +96,6 @@
    },
    "image": null,
    "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 854,
-   "series_slug": "turkey-trot-for-hope",
-   "title": "17th Annual Turkey Trot for Hope",
-   "start": "2026-11-26T08:00:00-06:00",
-   "end": "2026-11-26T11:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community",
-    "family"
-   ],
-   "venue": {
-    "slug": "mardi-gras-park",
-    "name": "Mardi Gras Park",
-    "city": "Mobile",
-    "regions": [
-     "mobile"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.mobilecountyal.gov/community_events/events/17th-annual-turkey-trot-for-hope-2026-11-26",
-   "source": {
-    "name": "Mobile County community calendar",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": {
-    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Turkey-Trot_7E2517A2-B23C-EDBC-2EC47B10576123A2_7e2db8da-fcbe-fcb5-10b3b13a7ef16e46.jpg",
-    "credit": "Visit Mobile"
-   },
-   "curation_score": 2,
-   "independent_source_count": 2
-  },
-  {
-   "id": 664,
-   "series_slug": "flora-bama-s-thanksgiving-potluck",
-   "title": "Flora-Bama's Thanksgiving Potluck",
-   "start": "2026-11-26T10:00:00-06:00",
-   "end": "2026-11-26T16:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "flora-bama",
-    "name": "Flora-Bama",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://tockify.com/fbevents/detail/98/1795708800000",
-   "source": {
-    "name": "Flora-Bama (annual events)",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -943,6 +812,37 @@
    "price": "$18.61",
    "ticket_url": "https://www.ticketweb.com/event/hunchofest-presented-by-nmbg-jay-alabama-music-box-tickets/14372824",
    "info_url": "https://www.ticketweb.com/event/hunchofest-presented-by-nmbg-jay-alabama-music-box-tickets/14372824",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 368,
+   "series_slug": "motown-christmas",
+   "title": "Motown Christmas",
+   "start": "2026-11-28T19:30:00-06:00",
+   "end": "2026-11-28T22:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/motown-christmas-pensacola-florida-11-28-2026/event/1B006535E1AB81DE",
+   "info_url": "https://www.ticketmaster.com/motown-christmas-pensacola-florida-11-28-2026/event/1B006535E1AB81DE",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",
@@ -2695,6 +2595,38 @@
    "independent_source_count": 1
   },
   {
+   "id": 780,
+   "series_slug": "biggest-little-holiday-party",
+   "title": "Biggest Little Holiday Party",
+   "start": "2026-12-04T17:00:00-06:00",
+   "end": "2026-12-04T21:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "nightlife"
+   ],
+   "venue": {
+    "slug": "mobile-convention-center",
+    "name": "Mobile Convention Center",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/biggest-little-holiday-party-2026-12-04",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 490,
    "series_slug": "wheels-reels-drive-in-movies",
    "title": "Wheels & Reels Drive-In Movies",
@@ -2724,6 +2656,38 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 799,
+   "series_slug": "wheels-and-reels-drive-in-movies",
+   "title": "Wheels and Reels Drive-In Movies",
+   "start": "2026-12-04T18:00:00-06:00",
+   "end": "2026-12-04T22:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "community"
+   ],
+   "venue": {
+    "slug": "mobile-flea-market",
+    "name": "Mobile Flea Market",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/wheels-and-reels-drive-in-movies-2026-12-04",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -2985,6 +2949,37 @@
    "independent_source_count": 4
   },
   {
+   "id": 214,
+   "series_slug": "hunter-flynn-back-to-my-roots-tour",
+   "title": "Hunter Flynn: Back to My Roots Tour",
+   "start": "2026-12-04T20:00:00-06:00",
+   "end": "2026-12-04T23:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "soul-kitchen",
+    "name": "Soul Kitchen Music Hall",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$0",
+   "ticket_url": "https://www.ticketweb.com/event/hunter-flynn-back-to-my-soul-kitchen-tickets/15017933",
+   "info_url": "https://www.ticketweb.com/event/hunter-flynn-back-to-my-soul-kitchen-tickets/15017933",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 1842,
    "series_slug": "excursion-to-the-bottle-creek-indian-mound-complex",
    "title": "Excursion to the Bottle Creek Indian Mound Complex",
@@ -3191,6 +3186,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 773,
+   "series_slug": "south-mobile-county-operation-clean-sweep",
+   "title": "South Mobile County Operation Clean Sweep",
+   "start": "2026-12-05T07:00:00-06:00",
+   "end": "2026-12-05T13:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "irvington-landfill",
+    "name": "Irvington Landfill (Mobile County)",
+    "city": "Irvington",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/mobile-countys-operation-clean-sweep-irvington-2026-08-04",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 0
+  },
+  {
    "id": 497,
    "series_slug": "october-living-history-drill",
    "title": "December Living History Drill",
@@ -3319,6 +3345,70 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 743,
+   "series_slug": "a-walk-to-remember-in-december",
+   "title": "A Walk to Remember in December",
+   "start": "2026-12-05T09:00:00-06:00",
+   "end": "2026-12-05T11:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "active"
+   ],
+   "venue": {
+    "slug": "semmes-walking-trail",
+    "name": "Semmes Walking Trail",
+    "city": "Semmes",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-a-walk-to-remember-in-december-2026-12-05",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 767,
+   "series_slug": "winter-craft-fair",
+   "title": "Winter Craft Fair",
+   "start": "2026-12-05T09:00:00-06:00",
+   "end": "2026-12-05T15:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "providence-presbyterian-church",
+    "name": "Providence Presbyterian Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/winter-craft-fair-2026-12-05",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 1657,
@@ -3970,6 +4060,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1223,
+   "series_slug": "lighting-up-midtown-festival",
+   "title": "Lighting Up Midtown Festival",
+   "start": "2026-12-05T14:00:00-06:00",
+   "end": "2026-12-05T21:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "st-marys-catholic-church-mobile",
+    "name": "St. Mary's Catholic Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-lighting-up-midtown-2026-12-05",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/894691280_2194141894820940_2898138614844417132_n.jpg?fit=960%2C540&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
+  },
+  {
    "id": 1972,
    "series_slug": "christmas-rescue-roundup",
    "title": "Christmas Rescue Roundup",
@@ -4293,6 +4418,41 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 215,
+   "series_slug": "get-the-led-out",
+   "title": "Get the Led Out: A Celebration of the 'Mighty Zep'",
+   "start": "2026-12-05T19:30:00-06:00",
+   "end": "2026-12-05T22:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/get-the-led-out-mobile-alabama-12-05-2026/event/1B00650C896150C2",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/get-the-led-out-a-celebration-of-the-mighty-zep-2026-12-05",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Get-the-Led-Out_DAC1CB7E-E1B4-5D62-123E85493CF00ABF_de169820-ca16-d6a3-e285f7fd77b74d7a.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
   },
   {
    "id": 279,
@@ -4714,6 +4874,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 217,
+   "series_slug": "jodeci-35th-anniversary-tour-of-forever-my-lady",
+   "title": "Jodeci 35th Anniversary Tour of 'Forever My Lady'",
+   "start": "2026-12-06T19:30:00-06:00",
+   "end": "2026-12-06T22:30:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/jodeci-35th-anniversary-tour-of-forever-mobile-alabama-12-06-2026/event/1B0064F793068C4E",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/jodeci-35th-anniversary-tour-of-forever-my-lady-2026-12-06",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Jodeci_26D84114-F1DD-53BB-A79FD03691781B3F_26dbc75f-d8db-e642-f4b5208b8f2a39aa.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
+  },
+  {
    "id": 965,
    "series_slug": "the-moonlight-chasse-ballroom-dance-society-dabcf9",
    "title": "The Moonlight Chasse' Ballroom Dance Society",
@@ -5040,6 +5234,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 218,
+   "series_slug": "a-celtic-christmas",
+   "title": "A Celtic Christmas by a Taste of Ireland",
+   "start": "2026-12-09T19:30:00-06:00",
+   "end": "2026-12-09T22:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "arts"
+   ],
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/a-celtic-christmas-mobile-alabama-12-09-2026/event/1B0064DDCC56C560",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/a-celtic-christmas-by-a-taste-of-ireland-2026-12-09",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Celtic-Christmas_580B1201-D4C0-F155-6EB66A94A127386B_581440e6-f59e-09ce-15f09c4cb74dd84f.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
+  },
+  {
    "id": 1177,
    "series_slug": "crescent-comedy-workshop-crescent-theater",
    "title": "Crescent Comedy Chaos",
@@ -5269,6 +5498,38 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 220,
+   "series_slug": "gaither-homecoming-christmas-bill-gaither-the-gaither-vocal-band",
+   "title": "Bill Gaither and the Gaither Vocal Band",
+   "start": "2026-12-10T19:00:00-06:00",
+   "end": "2026-12-10T22:00:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "community"
+   ],
+   "venue": {
+    "slug": "cottage-hill-baptist-church",
+    "name": "Cottage Hill Baptist Church",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "$41.79-45.91",
+   "ticket_url": "https://www.ticketweb.com/event/gaither-homecoming-christmas-bill-gaither-cottage-hill-baptist-church-tickets/14264764",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/bill-gaither-and-the-gaither-vocal-band-2026-12-10",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 2
   },
   {
    "id": 818,
@@ -6995,6 +7256,37 @@
    },
    "curation_score": 2,
    "independent_source_count": 2
+  },
+  {
+   "id": 784,
+   "series_slug": "historical-lecture-series-clotilda-survivors-living-legacy",
+   "title": "Historical Lecture Series: Clotilda Survivors, Living Legacy",
+   "start": "2026-12-13T14:00:00-06:00",
+   "end": "2026-12-13T15:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "cox-deasy-cottage-at-historic-oakleigh",
+    "name": "Cox-Deasy Cottage at Historic Oakleigh",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/historical-lecture-series-clotilda-survivors-living-legacy-2026-12-13",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 794,
@@ -10334,6 +10626,40 @@
    "independent_source_count": 0
   },
   {
+   "id": 779,
+   "series_slug": "cinderella",
+   "title": "'Cinderella'",
+   "start": "2027-01-06T19:00:00-06:00",
+   "end": "2027-01-06T22:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/cinderella-by-the-united-european-ballet-mobile-alabama-01-06-2027/event/1B0064B2BC2FC0C3",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/cinderella-2027-01-06",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Cinderella-ballet_830A1250-EDCB-BC0B-F6DBB5D44B604D9C_8313a106-d0bf-f34b-a0b9a1fb537760a4.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
+  },
+  {
    "id": 1020,
    "series_slug": "crescent-theater-crescent-comedy-chaos",
    "title": "Crescent Theater: Crescent Comedy Chaos",
@@ -11012,6 +11338,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 1077,
+   "series_slug": "eddie-b-if-these-classroom-walls-could-talk",
+   "title": "Eddie B 'If These Classroom Walls Could Talk' Tour",
+   "start": "2027-01-09T20:00:00-06:00",
+   "end": "2027-01-09T23:00:00-06:00",
+   "all_day": false,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/eddie-b-if-these-classroom-walls-mobile-alabama-01-09-2027/event/1B0064798E64B2C0",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/eddie-b-if-these-classroom-walls-could-talk-tour-2027-01-09",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 2
+  },
+  {
    "id": 1294,
    "series_slug": "house-party",
    "title": "House Party",
@@ -11042,6 +11399,41 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 1
+  },
+  {
+   "id": 1087,
+   "series_slug": "2027-walters-controls-mobile-marathon",
+   "title": "Walters Controls Mobile Marathon 2026",
+   "start": "2027-01-10T08:00:00-06:00",
+   "end": "2027-01-10T10:00:00-06:00",
+   "all_day": false,
+   "category": "active",
+   "categories": [
+    "active",
+    "community"
+   ],
+   "venue": {
+    "slug": "mardi-gras-park",
+    "name": "Mardi Gras Park",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/2027-walters-controls-mobile-marathon-2027-01-10",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/genericImage-websiteLogo-229845-1714748702.2798-0.bMnp0E_1B128955-EC45-30F1-2D13623B230043FE_1b32fb55-fc7b-35f6-af7f7765712bfdf9.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 2
   },
   {
    "id": 1404,
@@ -13133,6 +13525,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1473,
+   "series_slug": "project-homeless-connect-2027",
+   "title": "Project Homeless Connect 2027",
+   "start": "2027-01-29T08:00:00-06:00",
+   "end": "2027-01-29T14:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "the-grounds",
+    "name": "The Grounds",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/project-homeless-connect-2027-2027-01-29",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {

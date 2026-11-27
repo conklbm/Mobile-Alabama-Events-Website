@@ -1,290 +1,7 @@
 {
  "region": "coastal",
- "generated": "2026-11-26T19:27:46Z",
+ "generated": "2026-11-27T15:19:16Z",
  "events": [
-  {
-   "id": 1591,
-   "series_slug": "krav-maga-self-defense",
-   "title": "Krav Maga (Self-Defense)",
-   "start": "2026-11-25T17:00:00-06:00",
-   "end": "2026-11-25T18:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10793",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1522,
-   "series_slug": "comedy-magic-impressions-brandon-styles-variety-show",
-   "title": "Brandon Styles MAGIC SHOW",
-   "start": "2026-11-25T19:00:00-06:00",
-   "end": "2026-11-25T20:00:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family"
-   ],
-   "venue": {
-    "slug": "brandon-styles-theater",
-    "name": "Brandon Styles Theater",
-    "city": "Foley",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://business.eschamber.com/events/details/brandon-styles-magic-show-03-13-2026-39517",
-   "source": {
-    "name": "Eastern Shore Chamber of Commerce",
-    "tier": "C",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 273,
-   "series_slug": "pensacola-ice-flyers-vs-huntsville-havoc",
-   "title": "Pensacola Ice Flyers vs. Huntsville Havoc",
-   "start": "2026-11-25T19:05:00-06:00",
-   "end": "2026-11-25T22:05:00-06:00",
-   "all_day": false,
-   "category": "sports",
-   "categories": [
-    "sports",
-    "active"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-11-25-2026/event/1B00650D856E630C",
-   "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-huntsville-havoc-pensacola-florida-11-25-2026/event/1B00650D856E630C",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1190,
-   "series_slug": "pensacola-bay-center-after-game-skate",
-   "title": "Pensacola Bay Center After Game Skate",
-   "start": "2026-11-25T21:30:00-06:00",
-   "end": "2026-11-26T00:30:00-06:00",
-   "all_day": false,
-   "category": "family",
-   "categories": [
-    "family",
-    "sports"
-   ],
-   "venue": {
-    "slug": "pensacola-bay-center",
-    "name": "Pensacola Bay Center",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "https://www.ticketmaster.com/pensacola-bay-center-after-game-skate-pensacola-florida-11-25-2026/event/1B00654ECF69899F",
-   "info_url": "https://www.ticketmaster.com/pensacola-bay-center-after-game-skate-pensacola-florida-11-25-2026/event/1B00654ECF69899F",
-   "source": {
-    "name": "Ticketmaster",
-    "tier": "B",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1592,
-   "series_slug": "indoor-cycling",
-   "title": "Indoor Cycling",
-   "start": "2026-11-26T07:20:00-06:00",
-   "end": "2026-11-26T08:00:00-06:00",
-   "all_day": false,
-   "category": "active",
-   "categories": [
-    "active",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=9170",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1593,
-   "series_slug": "cardio-dance",
-   "title": "Cardio Dance",
-   "start": "2026-11-26T08:00:00-06:00",
-   "end": "2026-11-26T09:00:00-06:00",
-   "all_day": false,
-   "category": "arts",
-   "categories": [
-    "arts",
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=10856",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1723,
-   "series_slug": "city-offices-closed-at-noon-for-thanksgiving",
-   "title": "City offices closed for Thanksgiving",
-   "start": "2026-11-26T08:00:00-06:00",
-   "end": "2026-11-26T17:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11273",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
-  {
-   "id": 664,
-   "series_slug": "flora-bama-s-thanksgiving-potluck",
-   "title": "Flora-Bama's Thanksgiving Potluck",
-   "start": "2026-11-26T10:00:00-06:00",
-   "end": "2026-11-26T16:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "flora-bama",
-    "name": "Flora-Bama",
-    "city": "Pensacola",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://tockify.com/fbevents/detail/98/1795708800000",
-   "source": {
-    "name": "Flora-Bama (annual events)",
-    "tier": "A",
-    "redistributable": false
-   },
-   "image": null,
-   "curation_score": 1,
-   "independent_source_count": 1
-  },
-  {
-   "id": 1594,
-   "series_slug": "total-body-fit",
-   "title": "Total Body Fit",
-   "start": "2026-11-26T11:00:00-06:00",
-   "end": "2026-11-26T12:00:00-06:00",
-   "all_day": false,
-   "category": "community",
-   "categories": [
-    "community"
-   ],
-   "venue": {
-    "slug": "orange-beach-city-hall",
-    "name": "Orange Beach City Hall",
-    "city": "Orange Beach",
-    "regions": [
-     "coastal"
-    ]
-   },
-   "price": "",
-   "ticket_url": "",
-   "info_url": "https://www.orangebeachal.gov/Calendar.aspx?EID=11189",
-   "source": {
-    "name": "City of Orange Beach",
-    "tier": "A",
-    "redistributable": true
-   },
-   "image": null,
-   "curation_score": 0,
-   "independent_source_count": 1
-  },
   {
    "id": 1950,
    "series_slug": "community-christmas",
@@ -757,6 +474,37 @@
    "price": "",
    "ticket_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-11-28-2026/event/1B00650D85736317",
    "info_url": "https://www.ticketmaster.com/pensacola-ice-flyers-vs-birmingham-bulls-pensacola-florida-11-28-2026/event/1B00650D85736317",
+   "source": {
+    "name": "Ticketmaster",
+    "tier": "B",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 368,
+   "series_slug": "motown-christmas",
+   "title": "Motown Christmas",
+   "start": "2026-11-28T19:30:00-06:00",
+   "end": "2026-11-28T22:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "pensacola-saenger",
+    "name": "Saenger Theatre (Pensacola)",
+    "city": "Pensacola",
+    "regions": [
+     "coastal"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/motown-christmas-pensacola-florida-11-28-2026/event/1B006535E1AB81DE",
+   "info_url": "https://www.ticketmaster.com/motown-christmas-pensacola-florida-11-28-2026/event/1B006535E1AB81DE",
    "source": {
     "name": "Ticketmaster",
     "tier": "B",

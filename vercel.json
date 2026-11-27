@@ -2381,6 +2381,11 @@
       "permanent": true
     },
     {
+      "source": "/events/alok(/)?",
+      "destination": "/venues/crescent-theater/",
+      "permanent": true
+    },
+    {
       "source": "/events/12th-annual-state-of-the-economy(/)?",
       "destination": "/",
       "permanent": true
@@ -2413,6 +2418,26 @@
     {
       "source": "/events/spanish-fort-networking-at-noon-the-bull(/)?",
       "destination": "/venues/the-bull-spanish-fort/",
+      "permanent": true
+    },
+    {
+      "source": "/events/2026-innovation-portal-fall-showcase(/)?",
+      "destination": "/venues/innovation-portal/",
+      "permanent": true
+    },
+    {
+      "source": "/events/scale-sale-listening-party(/)?",
+      "destination": "/venues/ben-may-main-library/",
+      "permanent": true
+    },
+    {
+      "source": "/events/aaron-lewis-acoustic-origins-tour(/)?",
+      "destination": "/venues/saenger-theatre/",
+      "permanent": true
+    },
+    {
+      "source": "/events/whose-live-anyway(/)?",
+      "destination": "/venues/pensacola-saenger/",
       "permanent": true
     },
     {
