@@ -2441,6 +2441,16 @@
       "permanent": true
     },
     {
+      "source": "/events/artsocial-holiday-art-swap(/)?",
+      "destination": "/venues/the-admiral-hotel/",
+      "permanent": true
+    },
+    {
+      "source": "/events/gulf-chats-discover-the-u-s-navy-s-revolutionary-roots(/)?",
+      "destination": "/venues/national-maritime-museum/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
