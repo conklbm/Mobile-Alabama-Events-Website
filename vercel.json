@@ -2451,6 +2451,11 @@
       "permanent": true
     },
     {
+      "source": "/events/capital-ready-financing-your-business-without-giving-up-ownership(/)?",
+      "destination": "/venues/innovation-portal/",
+      "permanent": true
+    },
+    {
       "source": "/contact(/)?",
       "destination": "/about/",
       "permanent": true
