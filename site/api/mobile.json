@@ -1,6 +1,6 @@
 {
  "region": "mobile",
- "generated": "2026-11-27T21:57:42Z",
+ "generated": "2026-11-27T22:04:49Z",
  "events": [
   {
    "id": 620,
@@ -238,7 +238,7 @@
   {
    "id": 612,
    "series_slug": "south-alabama-football-vs-app-state-senior-day",
-   "title": "South Alabama Football vs App State - Senior Day",
+   "title": "South Alabama Jaguars vs App State",
    "start": "2026-11-27T14:00:00-06:00",
    "end": "2026-11-27T17:00:00-06:00",
    "all_day": false,
@@ -395,6 +395,37 @@
    },
    "image": null,
    "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
+   "id": 2024,
+   "series_slug": "dueling-pianos",
+   "title": "Dueling Pianos",
+   "start": "2026-11-27T20:30:00-06:00",
+   "end": "2026-11-27T23:30:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "electric-piano-parlor",
+    "name": "Electric Piano Parlor",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://92zew.net/weekend-rundown-november-27-30th/",
+   "source": {
+    "name": "92ZEW Weekend Rundown",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
    "independent_source_count": 1
   },
   {
@@ -698,8 +729,7 @@
    "all_day": false,
    "category": "community",
    "categories": [
-    "community",
-    "family"
+    "community"
    ],
    "venue": {
     "slug": "mardi-gras-park",
@@ -1992,6 +2022,40 @@
    "independent_source_count": 1
   },
   {
+   "id": 1998,
+   "series_slug": "annual-christmas-sip-n-shop",
+   "title": "Annual Christmas Sip n' Shop",
+   "start": "2026-12-03T00:00:00-06:00",
+   "end": "2026-12-03T23:59:59-06:00",
+   "all_day": true,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "summers-reverie-vintage-antiques",
+    "name": "Summer's Reverie Vintage & Antiques",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobile.org/event/annual-christmas-sip-n-shop/24484/",
+   "source": {
+    "name": "Visit Mobile",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/IMG_6170-2-_65CDD5EA-F9E9-79E4-7F0E57A899B7C096_65f1bce8-cf44-2665-cef6a0c754095de2.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 556,
    "series_slug": "mmoa-monthly-volunteer-meeting",
    "title": "MMoA Monthly Volunteer Meeting",
@@ -2426,6 +2490,37 @@
     "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/CoM-Drive-In-Best-Christmas_414A7242-C0F8-933A-77A54ECFA89B0046_414becd8-ace9-0cae-7fd16bc2292998b5.jpg",
     "credit": "Visit Mobile"
    },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
+   "id": 1218,
+   "series_slug": "gilded-age-christmas-tours-of-richards-dar-house",
+   "title": "Gilded Age Christmas Tours of Richards-Dar House",
+   "start": "2026-12-04T00:00:00-06:00",
+   "end": "2026-12-06T23:59:59-06:00",
+   "all_day": true,
+   "category": "arts",
+   "categories": [
+    "arts"
+   ],
+   "venue": {
+    "slug": "richards-dar-house",
+    "name": "Richards-DAR House Museum",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/gilded-age-christmas-tours-2026-12-04",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
    "curation_score": 1,
    "independent_source_count": 1
   },
@@ -3441,6 +3536,41 @@
    "independent_source_count": 1
   },
   {
+   "id": 1789,
+   "series_slug": "pancakes-pjs-with-santapaws-and-miss-pawla",
+   "title": "Pancakes & PJ’s with SantaPaws and Miss Pawla",
+   "start": "2026-12-05T09:00:00-06:00",
+   "end": "2026-12-05T11:00:00-06:00",
+   "all_day": false,
+   "category": "family",
+   "categories": [
+    "family",
+    "food"
+   ],
+   "venue": {
+    "slug": "university-of-south-alabama",
+    "name": "University of South Alabama",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://themobmom.com/event/pancakes-pjs-with-santapaws-and-miss-pawla/",
+   "source": {
+    "name": "The Mob Mom",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://i0.wp.com/themobmom.com/wp-content/uploads/2026/11/904358716_1478646684179812_8280102129341493467_n.jpg?fit=960%2C503&ssl=1",
+    "credit": "The Mob Mom"
+   },
+   "curation_score": 1,
+   "independent_source_count": 1
+  },
+  {
    "id": 1816,
    "series_slug": "christmas-in-satsuma",
    "title": "Christmas in Satsuma",
@@ -3929,6 +4059,37 @@
    "independent_source_count": 1
   },
   {
+   "id": 2015,
+   "series_slug": "city-of-daphne-christmas-parade-2026",
+   "title": "City of Daphne Christmas Parade - 2026",
+   "start": "2026-12-05T11:00:00-06:00",
+   "end": "2026-12-05T13:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community"
+   ],
+   "venue": {
+    "slug": "main-street-daphne",
+    "name": "Main Street Daphne",
+    "city": "Daphne",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://business.eschamber.com/events/details/city-of-daphne-christmas-parade-2026-44306",
+   "source": {
+    "name": "Eastern Shore Chamber of Commerce",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 0,
+   "independent_source_count": 1
+  },
+  {
    "id": 559,
    "series_slug": "holiday-market-open-house",
    "title": "Mobile Museum of Art's Holiday Market & Open House",
@@ -4224,6 +4385,38 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 1988,
+   "series_slug": "satsuma-christmas-boat-parade",
+   "title": "Satsuma Christmas Boat Parade",
+   "start": "2026-12-05T17:00:00-06:00",
+   "end": "2026-12-05T21:00:00-06:00",
+   "all_day": false,
+   "category": "community",
+   "categories": [
+    "community",
+    "family"
+   ],
+   "venue": {
+    "slug": "steele-creek-lodge",
+    "name": "Steele Creek Lodge",
+    "city": "Satsuma",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/draft-satsuma-christmas-boat-parade-2026-12-05",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": null,
+   "curation_score": 1,
+   "independent_source_count": 1
   },
   {
    "id": 594,
@@ -15792,6 +15985,41 @@
    "image": null,
    "curation_score": 0,
    "independent_source_count": 0
+  },
+  {
+   "id": 1770,
+   "series_slug": "the-black-jacket-symphony-presents-michael-jackson-s-thriller",
+   "title": "Black Jacket Symphony 'Thriller'",
+   "start": "2027-02-13T19:30:00-06:00",
+   "end": "2027-02-13T22:30:00-06:00",
+   "all_day": false,
+   "category": "music",
+   "categories": [
+    "music",
+    "arts"
+   ],
+   "venue": {
+    "slug": "saenger-theatre",
+    "name": "Saenger Theatre",
+    "city": "Mobile",
+    "regions": [
+     "mobile"
+    ]
+   },
+   "price": "",
+   "ticket_url": "https://www.ticketmaster.com/the-black-jacket-symphony-presents-michael-mobile-alabama-02-13-2027/event/1B00650AB97E9E02",
+   "info_url": "https://www.mobilecountyal.gov/community_events/events/black-jacket-symphony-thriller-2027-02-13",
+   "source": {
+    "name": "Mobile County community calendar",
+    "tier": "C",
+    "redistributable": false
+   },
+   "image": {
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/mobilebay/Black-Jacket-Symphony_B7D73FBE-EC1B-916C-C79320961B3FFC2B_b7d9acea-b272-1346-f550bb6dd62f8fd7.jpg",
+    "credit": "Visit Mobile"
+   },
+   "curation_score": 2,
+   "independent_source_count": 3
   },
   {
    "id": 1758,
